@@ -1,0 +1,309 @@
+// BEGIN TAG Decaying Mass
+// ---
+// Creatures
+1x Hogaak, Arisen Necropolis
+1x Grist, the Hunger Tide
+1x Caustic Caterpillar
+1x Golgari Grave-Troll
+1x Glowspore Shaman
+1x Golgari Thug
+1x Fiend Artisan
+1x Rotting Regisaur
+// Non-Creatures
+1x Bone Shards
+1x Grisly Salvage
+1x Grapple with the Past
+1x Buried Alive
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+3x Forest
+3x Swamp
+// 1x Lotleth Troll
+// 1x Grim Flayer
+// 1x Stinkweed Imp
+// 1x Deathrite Shaman
+// END TAG Decaying Mass
+
+// BEGIN TAG Plundering Pirates
+// ---
+// Creatures
+1x Ragavan, Nimble Pilferer
+1x Breeches, Brazen Plunderer
+1x Robber of the Rich
+1x Grenzo, Havoc Raiser
+1x Captivating Crew
+1x Coercive Recruiter
+1x Dire Fleet Daredevil
+// Non-Creatures
+1x Hijack
+1x Stolen Strategy
+1x Price of Loyalty
+1x Chef's Kiss
+1x Zealous Conscripts
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Mountain
+// END TAG Plundering Pirates
+
+// BEGIN TAG Murderous Marauders
+// ---
+// Creatures
+1x Captain Ripley Vance
+1x Port Razer
+1x Fanatical Firebrand
+1x Headstrong Brute
+1x Swaggering Corsair
+1x Kari Zev, Skyship Raider
+1x Daring Buccaneer
+1x Storm Fleet Arsonist
+// Non-Creatures
+1x Vance's Blasting Cannons
+1x Firecannon Blast
+1x Buccaneer's Bravado
+1x Repeating Barrage
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Mountain
+// END TAG Murderous Marauders
+
+// BEGIN TAG Treasure Pirates
+// ---
+// Creatures
+1x Captain Lannery Storm
+1x Dargo, the Shipwrecker
+1x Brazen Freebooter
+1x Fathom Fleet Swordjack
+1x Impulsive Pilferer
+1x Storm Fleet Swashbuckler
+1x Boarding Party
+1x Angrath's Marauders
+// Non-Creatures
+1x Trove of Temptation
+1x Pirate's Pillage
+1x Improvised Weaponry
+1x Makeshift Munitions
+1x Rolling Thunder
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+5x Mountain
+// END TAG Treasure Pirates
+
+// BEGIN TAG The Great Distortion
+// ---
+// Creatures
+1x Kozilek, the Great Distortion
+1x Kozilek's Channeler
+1x Kozilek's Pathfinder
+1x Oblivion Sower
+1x Kozilek's Translator
+1x Kozilek's Shrieker
+1x Warden of Geometries
+// Non-Creatures
+1x Everflowing Chalice
+1x Basalt Monolith
+1x Forsaken Monument
+1x All is Dust
+1x Scour from Existence
+// Lands
+1x Shrine of the Forsaken Gods
+1x Eldrazi Temple
+1x Eye of Ugin
+1x Ancient Tomb
+4x Swamp
+// END TAG The Great Distortion
+
+// BEGIN TAG The Promised End
+// ---
+// Creatures
+1x Emrakul, the Promised End
+1x Hand of Emrakul
+1x Broodwarden
+1x Nest Invader
+1x Eternal Scourge
+1x Oblivion Sower
+1x Ulvenwald Captive
+// Non-Creatures
+1x Cryptolith Fragment
+1x Awakening Zone
+1x Skittering Invasion
+1x All is Dust
+1x Scour from Existence
+// Lands
+1x Shrine of the Forsaken Gods
+1x Eldrazi Temple
+1x Eye of Ugin
+1x Ancient Tomb
+4x Forest
+// END TAG The Promised End
+
+// BEGIN TAG The Ceaseless Hunger
+// ---
+// Creatures
+1x Ulamog, the Ceaseless Hunger
+1x Blight Herder
+1x Scion Summoner
+1x Brood Monitor
+1x Eyeless Watcher
+1x Ulamog's Crusher
+1x Vile Redeemer
+1x Blisterpod
+// Non-Creatures
+1x From Beyond
+1x Call the Scions
+1x All is Dust
+1x Scour from Existence
+// Lands
+1x Shrine of the Forsaken Gods
+1x Eldrazi Temple
+4x Forest
+2x Spawning Bed
+// END TAG The Ceaseless Hunger
+
+
+// BEGIN TAG Rats
+// ---
+// Creatures
+1x Piper of the Swarm
+1x Pack Rat
+1x Rat Colony
+1x Marrow-Gnawer
+1x Chittering Witch
+1x Swarm of Rats
+1x Typhoid Rats
+1x Drainpipe Vermin
+// Non-Creatures
+1x Feed the Swarm
+1x Bone Shards
+1x Plague of Vermin
+1x Bad Moon
+// Lands
+1x Swarmyard
+1x Terramorphic Expanse
+1x Evolving Wilds
+5x Swamp
+// END TAG Rats
+
+
+// BEGIN TAG Self-Mill
+// ---
+// Creatures
+1x Laboratory Maniac
+1x Mirror-Mad Phantasm
+1x Skaab Ruinator
+1x Deranged Assistant
+1x Geralf's Mindcrusher
+1x Laboratory Brute
+1x Stitcher Geralf
+1x Headless Skaab
+1x Curious Homunculus
+// Non-Creatures
+1x Circular Logic
+1x Increasing Confusion
+1x Calculated Dismissal
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Island
+// END TAG Self-Mill
+
+// BEGIN TAG Mill
+// ---
+// Creatures
+1x Bruvac the Grandiloquent
+1x Mindshrieker
+1x Sphinx Mindbreaker
+1x Manic Scribe
+1x Riddlekeeper
+1x Shriekgeist
+// Non-Creatures
+1x Dream Twist
+1x Increasing Confusion
+1x Mind Sculpt
+1x Jace, Memory Adept
+1x Thought Collapse
+1x Countermand
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Island
+// END TAG Mill
+
+
+// BEGIN TAG Siren Sailors
+// ---
+// Creatures
+1x Dreamcaller Siren
+1x Siren Lookout
+1x Siren Reaver
+1x Siren Stormtamer
+1x Siren of the Fanged Coast
+1x Threnody Singer
+1x Hypnotic Siren
+1x Alluring Siren
+// Non-Creatures
+1x Essence Scatter
+1x Aether Gale
+1x Siren's Ruse
+1x Sea Legs
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Island
+// END TAG Siren Sailors
+
+
+// BEGIN TAG God of the Sea
+// ---
+// Creatures
+1x Thassa, God of the Sea
+1x Thassa's Oracle
+1x Thassa's Emissary
+1x Nezahal, Primal Tide
+1x Gyruda, Doom of Depths
+1x Sea-Dasher Octopus
+1x Hullbreacher
+1x Reef Worm
+// Non-Creatures
+1x Scourge of Fleets
+1x Crush of Tentacles
+1x Thassa's Rebuff
+1x Bident of Thassa
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Island
+// END TAG God of the Sea
+
+
+// BEGIN TAG Spirits
+// ---
+// Creatures
+1x Battleground Geist
+1x Departed Deckhand
+1x Dungeon Geists
+1x Ghost of Ramirez DePietro
+1x Nebelgast Herald
+1x Niblis of the Breath
+1x Shriekgeist
+1x Shacklegeist
+1x Spectral Sailor
+// Non-Creatures
+1x Field of Reality
+1x Essence Flux
+1x Geist Snatch
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Island
+// END TAG Spirits
+
+// NAME
+// ---
+// Creatures
+// Non-Creatures
+// Lands
+// Maybeboard

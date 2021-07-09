@@ -1,0 +1,338 @@
+2x Abundant Harvest
+2x Academic Dispute
+2x Academic Probation
+2x Access Tunnel
+2x Accomplished Alchemist
+2x Adventurous Impulse
+2x Aether Helix
+2x Ageless Guardian
+2x Agonizing Remorse
+1x Approach of the Second Sun
+2x Arcane Subtraction
+2x Archmage Emeritus
+2x Archway Commons
+2x Ardent Dustspeaker
+2x Arrogant Poet
+2x Augmenter Pugilist // Echoing Equation
+2x Baleful Mastery
+2x Basic Conjuration
+2x Bayou Groff
+2x Beaming Defiance
+1x Beledros Witherbloom
+2x Biblioplex Assistant
+2x Big Play
+2x Biomathematician
+2x Blade Historian
+1x Blex, Vexing Pest // Search for Blex
+2x Blood Age General
+2x Blood Researcher
+1x Blot Out the Sky
+1x Blue Sun's Zenith
+1x Body of Research
+2x Bookwurm
+2x Brackish Trudge
+2x Brainstorm
+2x Burrog Befuddler
+2x Bury in Books
+2x Callous Bloodmage
+2x Campus Guide
+1x Channel
+1x Chaos Warp
+2x Charge Through
+2x Claim the Firstborn
+2x Clever Lumimancer
+2x Closing Statement
+1x Codie, Vociferous Codex
+2x Cogwork Archivist
+2x Combat Professor
+2x Compulsive Research
+2x Confront the Past
+2x Conspiracy Theorist
+2x Containment Breach
+2x Counterspell
+1x Crackle with Power
+2x Cram Session
+2x Creative Outburst
+2x Crushing Disappointment
+1x Crux of Fate
+2x Culling Ritual
+2x Culmination of Studies
+2x Cultivate
+2x Curate
+2x Daemogoth Titan
+2x Daemogoth Woe-Eater
+2x Dark Ritual
+1x Day of Judgment
+2x Deadly Brew
+2x Decisive Denial
+2x Defend the Campus
+2x Defiant Strike
+1x Demonic Tutor
+2x Despark
+2x Detention Vortex
+2x Devastating Mastery
+2x Devouring Tendrils
+1x Dina, Soul Steeper
+2x Divide by Zero
+2x Divine Gambit
+2x Doom Blade
+2x Double Major
+2x Draconic Intervention
+2x Dragon's Approach
+2x Dragonsguard Elite
+2x Dramatic Finale
+2x Dream Strix
+2x Dueling Coach
+2x Duress
+2x Eager First-Year
+1x Ecological Appreciation
+2x Efreet Flamepainter
+2x Electrolyze
+2x Elemental Expressionist
+2x Elemental Masterpiece
+2x Elemental Summoning
+2x Eliminate
+2x Elite Spellbinder
+2x Emergent Sequence
+2x Enthusiastic Study
+2x Environmental Sciences
+2x Ephemerate
+2x Essence Infusion
+2x Eureka Moment
+2x Excavated Wall
+2x Exhilarating Elocution
+2x Expanded Anatomy
+2x Expel
+2x Explosive Welcome
+2x Exponential Growth
+2x Expressive Iteration
+1x Extus, Oriq Overlord // Awaken the Blood Avatar
+2x Eyetwitch
+2x Faithless Looting
+2x Fervent Mastery
+2x Field Trip
+2x First Day of Class
+2x Flamescroll Celebrant // Revel in Silence
+2x Flunk
+2x Fortifying Draught
+2x Fractal Summoning
+2x Fracture
+2x Frost Trickster
+2x Frostboil Snarl
+2x Fuming Effigy
+2x Furycalm Snarl
+1x Galazeth Prismari
+2x Gift of Estates
+2x Gnarled Professor
+2x Go Blank
+2x Gods Willing
+2x Golden Ratio
+2x Grapeshot
+2x Grinning Ignus
+2x Growth Spiral
+2x Guiding Voice
+2x Hall Monitor
+2x Hall of Oracles
+2x Harmonize
+1x Harness Infinity
+2x Heated Debate
+1x Hofri Ghostforge
+2x Honor Troll
+2x Humiliate
+2x Hunt for Specimens
+2x Igneous Inspiration
+2x Illuminate History
+2x Illustrious Historian
+1x Increasing Vengeance
+2x Infuriate
+2x Infuse with Vitality
+2x Ingenious Mastery
+2x Inkling Summoning
+2x Inquisition of Kozilek
+2x Introduction to Annihilation
+2x Introduction to Prophecy
+1x Jadzi, Oracle of Arcavios // Journey to the Oracle
+2x Karok Wrangler
+1x Kasmina, Enigma Sage
+2x Kelpie Guide
+1x Kianne, Dean of Substance // Imbraham, Dean of Theory
+1x Killian, Ink Duelist
+2x Krosan Grip
+2x Lash of Malice
+2x Leech Fanatic
+2x Leonin Lightscribe
+2x Letter of Acceptance
+2x Leyline Invocation
+2x Lightning Bolt
+2x Lightning Helix
+2x Lorehold Apprentice
+2x Lorehold Campus
+2x Lorehold Command
+2x Lorehold Excavation
+2x Lorehold Pledgemage
+2x Maelstrom Muse
+2x Mage Duel
+2x Mage Hunter
+2x Mage Hunters' Onslaught
+1x Magma Opus
+2x Make Your Mark
+2x Mana Tithe
+2x Manifestation Sage
+1x Mascot Exhibition
+2x Mascot Interception
+2x Master Symmetrist
+1x Mavinda, Students' Advocate
+2x Memory Lapse
+2x Mentor's Guidance
+2x Mercurial Transformation
+1x Mila, Crafty Companion // Lukka, Wayward Bonder
+1x Mind's Desire
+1x Mizzix's Mastery
+2x Moldering Karok
+2x Mortality Spear
+2x Multiple Choice
+1x Natural Order
+2x Necroblossom Snarl
+2x Necrotic Fumes
+2x Needlethorn Drake
+2x Negate
+2x Novice Dissector
+2x Oggyar Battle-Seer
+2x Opt
+2x Oriq Loremage
+2x Overgrown Arch
+2x Owlin Shieldmage
+2x Pest Summoning
+2x Pestilent Cauldron // Restorative Burst
+2x Pigment Storm
+2x Pilgrim of the Ages
+2x Pillardrop Rescuer
+2x Pillardrop Warden
+1x Plargg, Dean of Chaos // Augusta, Dean of Order
+2x Plumb the Forbidden
+2x Poet's Quill
+2x Pop Quiz
+2x Practical Research
+1x Primal Command
+2x Prismari Apprentice
+2x Prismari Campus
+2x Prismari Command
+2x Prismari Pledgemage
+1x Professor Onyx
+2x Professor of Symbology
+2x Professor of Zoomancy
+2x Professor's Warning
+2x Promising Duskmage
+2x Putrefy
+2x Quandrix Apprentice
+2x Quandrix Campus
+2x Quandrix Command
+2x Quandrix Cultivator
+2x Quandrix Pledgemage
+1x Quintorius, Field Historian
+2x Radiant Scrollwielder
+2x Reckless Amplimancer
+2x Reconstruct History
+2x Reduce to Memory
+2x Reflective Golem
+2x Regrowth
+2x Reject
+2x Relic Sloth
+2x Resculpt
+2x Retriever Phoenix
+2x Returned Pastcaller
+2x Revitalize
+2x Rip Apart
+2x Rise of Extus
+1x Rootha, Mercurial Artist
+1x Rowan, Scholar of Sparks // Will, Scholar of Frost
+2x Rushed Rebirth
+2x Scurrid Colony
+2x Secret Rendezvous
+2x Sedgemoor Witch
+2x Selfless Glyphweaver // Deadly Vanity
+2x Semester's End
+2x Serpentine Curve
+2x Shadewing Laureate
+1x Shadrix Silverquill
+1x Shaile, Dean of Radiance // Embrose, Dean of Shadow
+2x Shineshadow Snarl
+2x Shock
+2x Show of Confidence
+2x Sign in Blood
+2x Silverquill Apprentice
+2x Silverquill Campus
+2x Silverquill Command
+2x Silverquill Pledgemage
+2x Silverquill Silencer
+2x Snakeskin Veil
+2x Snow Day
+2x Solve the Equation
+2x Soothsayer Adept
+2x Sparring Regimen
+2x Spectacle Mage
+2x Specter of the Fens
+2x Spell Satchel
+2x Spined Karok
+2x Spirit Summoning
+2x Spiteful Squad
+2x Springmane Cervin
+2x Square Up
+2x Star Pupil
+2x Start from Scratch
+2x Stone Rain
+2x Stonebinder's Familiar
+2x Stonebound Mentor
+2x Stonerise Spirit
+2x Storm-Kiln Artist
+2x Strategic Planning
+2x Strict Proctor
+2x Strixhaven Stadium
+2x Study Break
+2x Sudden Breakthrough
+2x Swords to Plowshares
+2x Symmetry Sage
+1x Tainted Pact
+1x Tanazir Quandrix
+2x Tangletrap
+2x Teach by Example
+2x Teachings of the Archaics
+2x Team Pennant
+1x Teferi's Protection
+2x Tempted by the Oriq
+2x Tend the Pests
+2x Tendrils of Agony
+2x Tenured Inkcaster
+2x Test of Talents
+2x Tezzeret's Gambit
+2x The Biblioplex
+2x Thrill of Possibility
+2x Thrilling Discovery
+2x Thunderous Orator
+1x Time Warp
+2x Tome Shredder
+2x Torrent Sculptor // Flamethrower Sonata
+2x Twinscroll Shaman
+2x Umbral Juke
+2x Unwilling Ingredient
+2x Urza's Rage
+1x Uvilda, Dean of Perfection // Nassari, Dean of Expression
+1x Valentin, Dean of the Vein // Lisette, Dean of the Root
+2x Vanishing Verse
+1x Velomachus Lorehold
+2x Venerable Warsinger
+2x Verdant Mastery
+2x Village Rites
+2x Vineglimmer Snarl
+2x Vortex Runner
+2x Wandering Archaic // Explore the Vastlands
+2x Waterfall Aerialist
+2x Weather the Storm
+2x Whirlwind Denial
+2x Witherbloom Apprentice
+2x Witherbloom Campus
+2x Witherbloom Command
+2x Witherbloom Pledgemage
+2x Wormhole Serpent
+2x Zephyr Boots
+1x Zimone, Quandrix Prodigy
