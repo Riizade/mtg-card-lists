@@ -303,9 +303,83 @@
 6x Island
 // END TAG Spirits
 
-// NAME
+
+// BEGIN TAG Elves
+// ---
+// Creatures
+1x Allosaurus Shepherd
+1x Llanowar Elves
+1x Canopy Tactician
+1x Elvish Archdruid
+1x Ezuri, Renegade Leader
+1x Fyndhorn Elves
+1x Imperious Perfect
+1x Priest of Titania
+1x Rhys, the Redeemed
+1x Wildborn Preserver
+1x Joraga Warcaller
+// Non-Creatures
+1x Collected Company
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+1x Wirewood Lodge
+5x Forest
+// Maybeboard
+// END TAG Elves
+
+// BEGIN TAG Druids
+// ---
+// Creatures
+1x Paradise Druid
+1x Incubation Druid
+1x Bloom Tender
+1x Gilt-Leaf Archdruid
+1x Kamahl, Heart of Krosa
+1x Noble Hierarch
+1x Skyshroud Elf
+1x Reckless Amplimancer
+1x Arbor Elf
+1x Earthshaker Giant
+1x Karametra's Acolyte
+// Non-Creatures
+1x Freyalise, Llanowar's Fury
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+1x Wirewood Lodge
+5x Forest
+// Maybeboard
+// END TAG Druids
+
+// BEGIN TAG Squirrels
+// ---
+// Creatures
+1x Chatterfang, Squirrel General
+1x Scurrid Colony
+1x Squirrel Mob
+1x Squirrel Sovereign
+1x Toski, Bearer of Secrets
+1x Deep Forest Hermit
+1x Deranged Hermit
+// Non-Creatures
+1x Chitterspitter
+1x Squirrel Nest
+1x Verdant Command
+1x Chatter of the Squirrel
+1x Chatterstorm
+// Lands
+1x Evolving Wilds
+1x Terramorphic Expanse
+6x Forest
+// Maybeboard
+// END TAG Squirrels
+
+// Template
+// BEGIN TAG Name
 // ---
 // Creatures
 // Non-Creatures
 // Lands
 // Maybeboard
+// END TAG Name
