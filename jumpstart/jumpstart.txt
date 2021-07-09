@@ -1,3 +1,5 @@
+// CubeCobra list: https://cubecobra.com/cube/list/nnit
+
 // BEGIN TAG Decaying Mass
 // ---
 // Creatures
