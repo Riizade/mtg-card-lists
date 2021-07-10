@@ -704,6 +704,52 @@
 // Maybeboard
 // END TAG Artifacts
 
+// BEGIN TAG Equipment
+// ---
+// Creatures
+1x Puresteel Paladin
+1x Halvar, God of Battle
+1x Armored Skyhunter
+1x Stoneforge Mystic
+1x Brass Squire
+// Non-Creatures
+1x Sigarda's Aid
+1x Colossus Hammer
+1x Sword of Feast and Famine
+1x Sword of Fire and Ice
+1x Whispersilk Cloak
+1x Swiftfoot Boots
+1x Batterskull
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Plains
+// Maybeboard
+// END TAG Equipment
+
+// BEGIN TAG Vehicles
+// ---
+// Creatures
+1x Gearshift Ace
+1x Giant Ox
+1x Restoration Specialist
+1x Salvage Scout
+1x Aethershield Artificer
+1x Audacious Infiltrator
+// Non-Creatures
+1x Smuggler's Copter
+1x Conqueror's Galleon
+1x Skysovereign, Consul Flagship
+1x Cultivator's Caravan
+1x Peacewalker Colossus
+1x Fell Flagship
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Plains
+// Maybeboard
+// END TAG Vehicles
+
 // Template
 // BEGIN TAG Name
 // ---
