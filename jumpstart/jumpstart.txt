@@ -518,7 +518,7 @@
 // BEGIN TAG Reanimator
 // ---
 // Creatures
-1x Sheoldred, the Whispering One
+1x Sheoldred, Whispering One
 1x Dauthi Voidwalker
 1x Kokusho, the Evening Star
 1x It That Betrays
