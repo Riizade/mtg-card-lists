@@ -4,23 +4,22 @@
 // ---
 // Creatures
 1x Hogaak, Arisen Necropolis
-1x Grist, the Hunger Tide
-1x Caustic Caterpillar
-1x Golgari Grave-Troll
-1x Glowspore Shaman
 1x Golgari Thug
 1x Fiend Artisan
 1x Rotting Regisaur
+1x Stinkweed Imp
+1x Deathrite Shaman
+1x Stitcher's Supplier
+1x Nighthowler
 // Non-Creatures
 1x Bone Shards
-1x Grisly Salvage
-1x Grapple with the Past
 1x Buried Alive
+1x Necrotic Wound
+1x Living Death
 // Lands
 1x Terramorphic Expanse
 1x Evolving Wilds
-3x Forest
-3x Swamp
+6x Swamp
 // 1x Lotleth Troll
 // 1x Grim Flayer
 // 1x Stinkweed Imp
@@ -519,12 +518,23 @@
 // BEGIN TAG Reanimator
 // ---
 // Creatures
+1x Sheoldred, the Whispering One
+1x Dauthi Voidwalker
+1x Kokusho, the Evening Star
+1x It That Betrays
+1x Fleshbag Marauder
 // Non-Creatures
 1x Entomb
 1x Buried Alive
 1x Reanimate
 1x Animate Dead
+1x Victimize
+1x Attrition
+1x Living Death
 // Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Swamp
 // Maybeboard
 // END TAG Reanimator
 
@@ -667,6 +677,32 @@
 5x Forest
 // Maybeboard
 // END TAG Landfall
+
+
+// BEGIN TAG Artifacts
+// ---
+// Creatures
+1x Myr Battlesphere
+1x Wurmcoil Engine
+1x Foundry Inspector
+1x Myr Retriever
+1x Hangarback Walker
+1x Metalwork Colossus
+1x Steel Overseer
+// Non-Creatures
+1x Karn, Scion of Urza
+1x Mox Opal
+1x Blinkmoth Urn
+1x Manifold Key
+1x Sculpting Steel
+// Lands
+1x Mishra's Workshop
+1x Urza's Factory
+1x Spire of Industry
+1x Treasure Vault
+4x Darksteel Citadel
+// Maybeboard
+// END TAG Artifacts
 
 // Template
 // BEGIN TAG Name
