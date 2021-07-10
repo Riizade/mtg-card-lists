@@ -532,15 +532,47 @@
 // ---
 // Creatures
 1x Viscera Seer
+1x Carrier Thrall
+1x Callous Bloodmage
 1x Blood Artist
 1x Bloodghast
 1x Pawn of Ulamog
+1x Bloodline Keeper
 1x Butcher of Malakir
 // Non-Creatures
 1x Vampiric Tutor
+1x Go for the Throat
+1x Victim of Night
+1x Blade of the Bloodchief
 // Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Swamp
 // Maybeboard
 // END TAG Vampire Sacrifice
+
+// BEGIN TAG Vampire Lifegain
+// ---
+// Creatures
+1x Vito, Thorn of the Dusk Rose
+1x Nighthawk Scavenger
+1x Vampire Nighthawk
+1x Vampire of the Dire Moon
+1x Oathsworn Vampire
+1x Bloodthirsty Aerialist
+1x Vampire Cutthroat
+1x Bloodbond Vampire
+// Non-Creatures
+1x Go for the Throat
+1x Tribute to Hunger
+1x Feast of Blood
+1x Blood Tribute
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Swamp
+// Maybeboard
+// END TAG Vampire Lifegain
 
 // BEGIN TAG The Dark Realms
 // ---
