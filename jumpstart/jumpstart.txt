@@ -528,22 +528,27 @@
 // Maybeboard
 // END TAG Reanimator
 
-// BEGIN TAG Vampires
+// BEGIN TAG Vampire Sacrifice
 // ---
 // Creatures
+1x Viscera Seer
+1x Blood Artist
+1x Bloodghast
+1x Pawn of Ulamog
+1x Butcher of Malakir
 // Non-Creatures
 1x Vampiric Tutor
 // Lands
 // Maybeboard
-// END TAG Vampires
+// END TAG Vampire Sacrifice
 
 // BEGIN TAG The Dark Realms
 // ---
 // Creatures
 1x Dark Confidant
-1x Deathrite Shaman
-1x Nightmare
+1x Knight of the Ebon Legion
 1x Nirkana Revenant
+1x Reassembling Skeleton
 1x Crypt Ghast
 // Non-Creatures
 1x Cabal Coffers
