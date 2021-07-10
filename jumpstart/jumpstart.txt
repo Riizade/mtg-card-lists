@@ -587,7 +587,7 @@
 1x Defile
 1x Torment of Hailfire
 1x Liliana of the Dark Realms
-1x Dark Salvation
+1x Army of the Damned
 1x Mind Twist
 1x Dread Summons
 // Lands
@@ -597,6 +597,76 @@
 5x Swamp
 // Maybeboard
 // END TAG The Dark Realms
+
+// BEGIN TAG Red Devils Win
+// ---
+// Creatures
+1x Sin Prodder
+1x Hellrider
+1x Bedlam Reveler
+1x Vexing Devil
+1x Rakdos Cackler
+1x Wildfire Devils
+1x Bedlam Reveler
+1x Zurzoth, Chaos Rider
+// Non-Creatures
+1x Tibalt, the Fiend-Blooded
+1x Faithless Looting
+1x Thrill of Possibility
+1x Pillar of Flame
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Mountain
+// Maybeboard
+// END TAG Red Devils Win
+
+// BEGIN TAG Graverisen
+// ---
+// Creatures
+1x Apprentice Necromancer
+1x Blood Scrivener
+1x Gravecrawler
+1x Butcher Ghoul
+1x Carnophage
+1x Carrion Feeder
+1x Cryptbreaker
+1x Diregraf Ghoul
+// Non-Creatures
+1x Cemetery Recruitment
+1x Feast or Famine
+1x Graf Harvest
+1x Never // Return
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Swamp
+// Maybeboard
+// END TAG Graverisen
+
+// BEGIN TAG Landfall
+// ---
+// Creatures
+1x Avenger of Zendikar
+1x Beanstalk Giant
+1x Oracle of Mul Daya
+1x Greenseeker
+1x Rampaging Baloths
+1x Dryad of the Ilysian Grove
+// Non-Creatures
+1x Cultivate
+1x Nissa, Who Shakes the World
+1x Rampant Growth
+1x Collective Voyage
+1x Scapeshift
+1x Zendikar's Roil
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+1x Kazandu Mammoth
+5x Forest
+// Maybeboard
+// END TAG Landfall
 
 // Template
 // BEGIN TAG Name
