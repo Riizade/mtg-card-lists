@@ -540,7 +540,7 @@
 1x Bloodline Keeper
 1x Butcher of Malakir
 // Non-Creatures
-1x Vampiric Tutor
+1x Call the Bloodline
 1x Go for the Throat
 1x Victim of Night
 1x Blade of the Bloodchief
