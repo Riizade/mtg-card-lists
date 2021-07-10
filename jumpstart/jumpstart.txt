@@ -346,8 +346,7 @@
 // Lands
 1x Terramorphic Expanse
 1x Evolving Wilds
-1x Wirewood Lodge
-5x Forest
+6x Forest
 // Maybeboard
 // END TAG Druids
 
