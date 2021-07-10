@@ -427,16 +427,16 @@
 1x Chandra's Incinerator
 1x Vexing Devil
 1x Monastery Swiftspear
-1x Eidolon of the Great Revel
 1x Arclight Phoenix
 1x Backdraft Hellkite
 // Non-Creatures
 1x Lightning Bolt
 1x Rift Bolt
-1x Searing Spear
+1x Lightning Strike
 1x Lava Spike
 1x Chain Lightning
 1x Skullcrack
+1x Sulfuric Vortex
 // Lands
 1x Terramorphic Expanse
 1x Evolving Wilds
