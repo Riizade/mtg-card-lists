@@ -440,9 +440,126 @@
 1x Chain Lightning
 1x Skullcrack
 // Lands
-8x Mountain
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Mountain
 // Maybeboard
 // END TAG Burn
+
+// BEGIN TAG Dreadhorde General
+// ---
+// Creatures
+1x Cryptbreaker
+1x Liliana's Devotee
+1x Liliana's Elite
+1x Liliana's Reaver
+1x Lord of the Accursed
+1x Josu Vess, Lich Knight
+1x Death Baron
+1x Diregraf Colossus
+1x Lord of the Undead
+// Non-Creatures
+1x Liliana, Dreadhorde General
+1x Liliana's Mastery
+1x Endless Ranks of the Dead
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Swamp
+// Maybeboard
+// END TAG Dreadhorde General
+
+// BEGIN TAG Discard
+// ---
+// Creatures
+1x Liliana's Specter
+1x Liliana's Steward
+1x Tinybones, Trinket Thief
+1x Rankle, Master of Pranks
+1x Tergrid, God of Fright
+1x Fell Specter
+// Non-Creatures
+1x Liliana Vess
+1x Liliana's Caress
+1x Raiders' Wake
+1x Duress
+1x Dark Deal
+1x Waste Not
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Swamp
+// Maybeboard
+// END TAG Discard
+
+// BEGIN TAG Demons
+// ---
+// Creatures
+1x Treacherous Pit-Dweller
+1x Scourge of the Skyclaves
+1x Dream Devourer
+1x Ammit Eternal
+1x Herald of Torment
+1x Taborax, Hope's Demise
+1x Desecration Demon
+1x Vilis, Broker of Blood
+1x Ob Nixilis, the Fallen
+// Non-Creatures
+1x Liliana's Contract
+1x Dark Ritual
+1x Songs of the Damned
+// Lands
+1x Westvale Abbey
+1x Terramorphic Expanse
+1x Evolving Wilds
+5x Swamp
+// Maybeboard
+// END TAG Demons
+
+// BEGIN TAG Reanimator
+// ---
+// Creatures
+// Non-Creatures
+1x Entomb
+1x Buried Alive
+1x Reanimate
+1x Animate Dead
+// Lands
+// Maybeboard
+// END TAG Reanimator
+
+// BEGIN TAG Vampires
+// ---
+// Creatures
+// Non-Creatures
+1x Vampiric Tutor
+// Lands
+// Maybeboard
+// END TAG Vampires
+
+// BEGIN TAG The Dark Realms
+// ---
+// Creatures
+1x Dark Confidant
+1x Deathrite Shaman
+1x Nightmare
+1x Nirkana Revenant
+1x Crypt Ghast
+// Non-Creatures
+1x Cabal Coffers
+1x Defile
+1x Torment of Hailfire
+1x Liliana of the Dark Realms
+1x Dark Salvation
+1x Mind Twist
+1x Dread Summons
+// Lands
+1x Cabal Stronghold
+1x Terramorphic Expanse
+1x Evolving Wilds
+5x Swamp
+// Maybeboard
+// END TAG The Dark Realms
 
 // Template
 // BEGIN TAG Name
