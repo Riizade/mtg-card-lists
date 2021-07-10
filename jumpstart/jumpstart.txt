@@ -315,7 +315,7 @@
 1x Fyndhorn Elves
 1x Imperious Perfect
 1x Priest of Titania
-1x Rhys, the Redeemed
+1x Rhys the Redeemed
 1x Wildborn Preserver
 1x Joraga Warcaller
 // Non-Creatures
@@ -374,6 +374,75 @@
 6x Forest
 // Maybeboard
 // END TAG Squirrels
+
+// BEGIN TAG Wizards
+// ---
+// Creatures
+1x Talrand, Sky Summoner
+1x Exclusion Mage
+1x Barrin, Tolarian Archmage
+1x Delver of Secrets
+1x Snapcaster Mage
+1x Echo Mage
+1x Naru Meha, Master Wizard
+// Non-Creatures
+1x Talrand's Invocation
+1x Wizard Class
+1x Wizard's Retort
+1x Unsubstantiate
+1x Control Magic
+// Lands
+1x Riptide Laboratory
+1x Terramorphic Expanse
+1x Evolving Wilds
+5x Island
+// Maybeboard
+// END TAG Wizards
+
+
+// BEGIN TAG Flashback
+// ---
+// Creatures
+1x Murktide Regent
+1x River Kelpie
+1x Thing in the Ice
+1x Deekah, Fractal Theorist
+1x Karfell Harbinger
+1x Niblis of Frost
+1x Sea Gate Stormcaller
+// Non-Creatures
+1x Secrets of the Dead
+1x Think Twice
+1x Quiet Speculation
+1x Runic Repetition
+1x Silent Departure
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Island
+// Maybeboard
+// END TAG Flashback
+
+// BEGIN TAG Burn
+// ---
+// Creatures
+1x Chandra's Incinerator
+1x Vexing Devil
+1x Monastery Swiftspear
+1x Eidolon of the Great Revel
+1x Arclight Phoenix
+1x Backdraft Hellkite
+// Non-Creatures
+1x Lightning Bolt
+1x Rift Bolt
+1x Searing Spear
+1x Lava Spike
+1x Chain Lightning
+1x Skullcrack
+// Lands
+8x Mountain
+// Maybeboard
+// END TAG Burn
 
 // Template
 // BEGIN TAG Name
