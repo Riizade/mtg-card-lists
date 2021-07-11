@@ -893,6 +893,76 @@
 // Maybeboard
 // END TAG Oozes
 
+// BEGIN TAG Lifegain
+// ---
+// Creatures
+1x Heliod, Sun-Crowned
+1x Evra, Halcyon Witness
+1x Daxos, Blessed by the Sun
+1x Soul Warden
+1x Archangel of Thune
+1x Speaker of the Heavens
+1x Serra Ascendant
+1x Angel of Vitality
+// Non-Creatures
+1x Heliod's Intervention
+1x Dawn of Hope
+1x Swords to Plowshares
+1x Ajani, Strength of the Pride
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Plains
+// Maybeboard
+// END TAG Lifegain
+
+// BEGIN TAG Angels
+// ---
+// Creatures
+1x Lyra Dawnbringer
+1x Avacyn, Angel of Hope
+1x Youthful Valkyrie
+1x Angel of Finality
+1x Adarkar Valkyrie
+1x Resplendent Angel
+1x Righteous Valkyrie
+1x Resplendent Marshal
+1x Restoration Angel
+// Non-Creatures
+1x Emeria's Call
+1x Afterlife
+1x Angelic Ascension
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Plains
+// Maybeboard
+// END TAG Angels
+
+
+// BEGIN TAG Hatebears
+// ---
+// Creatures
+1x Thalia, Guardian of Thraben
+1x Archon of Emeria
+1x Vryn Wingmare
+1x Spirit of the Labyrinth
+1x Hushbringer
+1x Imposing Skysovereign
+1x Angel of Jubilation
+1x Grand Abolisher
+1x Linvala, Keeper of Silence
+// Non-Creatures
+1x Smothering Tithe
+1x Mana Tithe
+1x Austere Command
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Plains
+// Maybeboard
+// END TAG Hatebears
+
 // Template
 // BEGIN TAG Name
 // ---
