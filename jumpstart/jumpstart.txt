@@ -1015,7 +1015,7 @@
 // BEGIN TAG Cats
 // ---
 // Creatures
-1x Khemba, Kha Regent
+1x Kemba, Kha Regent
 1x Brimaz, King of Oreskos
 1x King of the Pride
 1x Regal Caracal
