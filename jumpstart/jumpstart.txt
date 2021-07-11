@@ -797,6 +797,102 @@
 // Maybeboard
 // END TAG Dragons
 
+
+// BEGIN TAG Hydras
+// ---
+// Creatures
+1x Gargos, Vicious Watcher
+1x Wren's Run Hydra
+1x Hungering Hydra
+1x Voracious Hydra
+1x Managorger Hydra
+1x Hooded Hydra
+1x Hydra Broodmaster
+1x Crash of Rhino Beetles
+1x Polukranos, World Eater
+// Non-Creatures
+1x Primal Might
+1x Smell Fear
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+1x Gaea's Cradle
+6x Forest
+// Maybeboard
+// END TAG Hydras
+
+
+// BEGIN TAG Stompy
+// ---
+// Creatures
+1x Sakura-Tribe Elder
+1x Birds of Paradise
+1x Selvala, Heart of the Wilds
+1x Goreclaw, Terror of Qal Sisma
+1x Impervious Greatwurm
+1x Ghalta, Primal Hunger
+1x Kogla, the Titan Ape
+1x Craterhoof Behemoth
+// Non-Creatures
+1x Garruk, Primal Hunter
+1x The Great Henge
+1x Beast Within
+1x Natural Order
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Forest
+// Maybeboard
+// END TAG Stompy
+
+// BEGIN TAG Verdant Graves
+// ---
+// Creatures
+1x Sylvan Safekeeper
+1x Yedora, Grave Gardener
+1x Multani, Yavimaya's Avatar
+1x Springbloom Druid
+1x Ramunap Excavator
+1x Eternal Witness
+1x Ancient Greenwarden
+1x Undergrowth Champion
+// Non-Creatures
+1x Harrow
+1x Roiling Regrowth
+1x Sylvan Awakening
+1x Cultivate
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+1x Blighted Woodland
+1x Myriad Landscape
+4x Forest
+// Maybeboard
+// END TAG Verdant Graves
+
+// BEGIN TAG Oozes
+// ---
+// Creatures
+1x Aeve, Progenitor Ooze
+1x Inexorable Blob
+1x Corrosive Ooze
+1x Acidic Slime
+1x Scavenging Ooze
+1x Predator Ooze
+1x Biogenic Ooze
+1x Mitotic Slime
+1x Ravenous Slime
+// Non-Creatures
+1x Gelatinous Genesis
+1x Slime Molding
+1x Devouring Tendrils
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Forest
+// Maybeboard
+// END TAG Oozes
+
 // Template
 // BEGIN TAG Name
 // ---
