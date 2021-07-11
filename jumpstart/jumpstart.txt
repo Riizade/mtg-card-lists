@@ -376,7 +376,7 @@
 // BEGIN TAG Wizards
 // ---
 // Creatures
-1x Talrand, Sky Summoner
+1x Azami, Lady of Scrolls
 1x Exclusion Mage
 1x Barrin, Tolarian Archmage
 1x Delver of Secrets
@@ -1175,6 +1175,52 @@
 5x Forest
 // Maybeboard
 // END TAG Infect
+
+// BEGIN TAG Archaeology
+// ---
+// Creatures
+1x Emry, Lurker of the Loch
+1x Urza, Lord High Artificer
+1x Sai, Master Thopterist
+1x Memnarch
+1x Etherium Sculptor
+1x Master Transmuter
+1x Spellskite
+1x Grand Architect
+// Non-Creatures
+1x Nevinyrral's Disk
+1x Mirrorworks
+1x Sculpting Steel
+1x Lithoform Engine
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Island
+// Maybeboard
+// END TAG Archaeology
+
+// BEGIN TAG Cantrips
+// ---
+// Creatures
+1x Orvar, the All-Form
+1x Octavia, Living Thesis
+1x Wavebreak Hippocamp
+1x Talrand, Sky Summoner
+// Non-Creatures
+1x Mystical Tutor
+1x Thought Scour
+1x Think Twice
+1x Brainstorm
+1x Ponder
+1x Preordain
+1x Into the Roil
+1x Counterspell
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Island
+// Maybeboard
+// END TAG Cantrips
 
 // Template
 // BEGIN TAG Name
