@@ -963,6 +963,125 @@
 // Maybeboard
 // END TAG Hatebears
 
+
+// BEGIN TAG Auras
+// ---
+// Creatures
+1x Danitha Capashen, Paragon
+1x Eidolon of Countless Battles
+1x Kor Spiritdancer
+1x Hero of Iroas
+1x Transcendent Envoy
+1x Archon of Sun's Grace
+// Non-Creatures
+1x Ethereal Armor
+1x All That Glitters
+1x Sage's Reverie
+1x Spirit Mantle
+1x Angelic Gift
+1x Reprobation
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Plains
+// Maybeboard
+// END TAG Auras
+
+
+// BEGIN TAG Enchantments
+// ---
+// Creatures
+1x Archetype of Courage
+1x Starfield Mystic
+1x Heliod, God of the Sun
+1x Auramancer
+1x Alseid of Life's Bounty
+1x Harvestguard Alseids
+// Non-Creatures
+1x Sphere of Safety
+1x Oblivion Ring
+1x Dawn of Hope
+1x Banishing Light
+1x Spear of Heliod
+1x Luminarch Ascension
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Plains
+// Maybeboard
+// END TAG Enchantments
+
+
+// BEGIN TAG Cats
+// ---
+// Creatures
+1x Khemba, Kha Regent
+1x Brimaz, King of Oreskos
+1x King of the Pride
+1x Regal Caracal
+1x Leonin Warleader
+1x Cubwarden
+1x Basri's Acolyte
+1x Balan, Wandering Knight
+// Non-Creatures
+1x White Sun's Zenith
+1x Felidar Retreat
+1x Ajani, Caller of the Pride
+1x Winds of Abandon
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Plains
+// Maybeboard
+// END TAG Cats
+
+
+// BEGIN TAG White Planeswalkers
+// ---
+// Creatures
+1x Djeru, With Eyes Open
+1x Baird, Steward of Argive
+1x Archon of Absolution
+// Non-Creatures
+1x Gideon of the Trials
+1x Elspeth, Sun's Nemesis
+1x Basri Ket
+1x Ajani, Adversary of Tyrants
+1x Teyo, the Shieldmage
+1x Serra the Benevolent
+1x Nahiri, the Lithomancer
+1x Cleansing Nova
+1x Terminus
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Plains
+// Maybeboard
+// END TAG White Planeswalkers
+
+// BEGIN TAG Torch of Defiance
+// ---
+// Creatures
+1x Chandra's Spitfire
+1x Chandra's Embercat
+1x Chandra's Magmutt
+1x Chandra's Incinerator
+1x Obsidian Fireheart
+1x Ball Lightning
+1x Runaway Steam-Kin
+// Non-Creatures
+1x Chandra, Torch of Defiance
+1x Chandra, Awakened Inferno
+1x Chandra, Novice Pyromancer
+1x Chandra's Regulator
+1x Chandra's Triumph
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Plains
+// Maybeboard
+// END TAG Torch of Defiance
+
 // Template
 // BEGIN TAG Name
 // ---
