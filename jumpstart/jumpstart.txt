@@ -1221,6 +1221,52 @@
 // Maybeboard
 // END TAG Cantrips
 
+// BEGIN TAG Scrap Engineers
+// ---
+// Creatures
+1x Bosh, Iron Golem
+1x Kurkesh, Onakke Ancient
+1x Feldon of the Third Path
+1x Goblin Wielder
+1x Combustible Gearhulk
+1x Steel Hellkite
+1x Kuldotha Forgemaster
+1x Scuttling Doom Engine
+// Non-Creatures
+1x Daretti, Scrap Savant
+1x Wayfarer's Bauble
+1x Codex Shredder
+1x Pyrite Spellbomb
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Mountain
+// Maybeboard
+// END TAG Scrap Engineers
+
+// BEGIN TAG Spellslinger
+// ---
+// Creatures
+1x Syr Carah, the Bold
+1x Chandra, Fire of Kaladesh
+1x Guttersnipe
+1x Young Pyromancer
+1x Charmbreaker Devils
+// Non-Creatures
+1x Pyromancer's Goggles
+1x Mizzix's Mastery
+1x Shock
+1x Faithless Looting
+1x Searing Spear
+1x Reverberate
+1x Thrill of Possibility
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Mountain
+// Maybeboard
+// END TAG Spellslinger
+
 // Template
 // BEGIN TAG Name
 // ---
