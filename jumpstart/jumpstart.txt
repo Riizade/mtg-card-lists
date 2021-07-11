@@ -1267,6 +1267,29 @@
 // Maybeboard
 // END TAG Spellslinger
 
+// BEGIN TAG Extra Combat
+// ---
+// Creatures
+1x Combat Celebrant
+1x Moraug, Fury of Akoum
+1x Hellkite Charger
+1x Inferno Titan
+1x Ilharg, the Raze-Boar
+1x Legion Warboss
+1x Fervent Champion
+1x Conspiracy Theorist
+1x Borderland Marauder
+// Non-Creatures
+1x World at War
+1x Breath of Fury
+1x Seize the Day
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Mountain
+// Maybeboard
+// END TAG Extra Combat
+
 // Template
 // BEGIN TAG Name
 // ---
