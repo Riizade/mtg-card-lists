@@ -1059,7 +1059,7 @@
 // Maybeboard
 // END TAG White Planeswalkers
 
-// BEGIN TAG Torch of Defiance
+// BEGIN TAG Chandra
 // ---
 // Creatures
 1x Chandra's Spitfire
@@ -1080,7 +1080,101 @@
 1x Evolving Wilds
 6x Plains
 // Maybeboard
-// END TAG Torch of Defiance
+// END TAG Chandra
+
+
+// BEGIN TAG Jace
+// ---
+// Creatures
+1x Jace's Archivist
+1x Jace's Phantasm
+1x Jace's Mindseeker
+1x Spark Double
+1x Mulldrifter
+// Non-Creatures
+1x Jace, the Mind Sculptor
+1x Psychic Corrosion
+1x Jace Beleren
+1x Folio of Fancies
+1x Didn't Say Please
+1x Memory Erosion
+1x Jace, Memory Adept
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Island
+// Maybeboard
+// END TAG Jace
+
+// BEGIN TAG W Spirits
+// ---
+// Creatures
+1x Yosei, the Morning Star
+1x Topplegeist
+1x Remorseful Cleric
+1x Anafenza, Kin-Tree Spirit
+1x Wall of Reverence
+1x Forbidding Spirit
+1x Eternal Dragon
+// Non-Creatures
+1x Spirit Bonds
+1x Field of Souls
+1x Spectral Procession
+1x Midnight Haunting
+1x Afterlife
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Plains
+// Maybeboard
+// END TAG W Spirits
+
+// BEGIN TAG G Elementals
+// ---
+// Creatures
+1x Nyxbloom Ancient
+1x Fertilid
+1x Tangled Florahedron
+1x Vigor
+1x Titania, Protector of Argoth
+1x Ashaya, Soul of the Wild
+1x Leafkin Druid
+1x Endurance
+// Non-Creatures
+1x Sylvan Awakening
+1x Awakening of Vitu-Ghazi
+1x Beast Within
+1x Kamahl's Will
+// Lands
+1x Terramorphic Expanse
+1x Evolving Wilds
+6x Forest
+// Maybeboard
+// END TAG G Elementals
+
+// BEGIN TAG Infect
+// ---
+// Creatures
+1x Fynn, the Fangbearer
+1x Ambush Viper
+1x Blight Mamba
+1x Questing Beast
+1x Viridian Corrupter
+1x Glistener Elf
+1x Phyrexian Swarmlord
+1x Rot Wolf
+// Non-Creatures
+1x Vines of Vastwood
+1x Mutagenic Growth
+1x Triumph of the Hordes
+1x Invigorate
+// Lands
+1x Rogue's Passage
+1x Terramorphic Expanse
+1x Evolving Wilds
+5x Forest
+// Maybeboard
+// END TAG Infect
 
 // Template
 // BEGIN TAG Name
