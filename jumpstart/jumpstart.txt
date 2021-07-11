@@ -70,28 +70,27 @@
 6x Mountain
 // END TAG Murderous Marauders
 
-// BEGIN TAG Treasure Pirates
+// BEGIN TAG Treasure
 // ---
 // Creatures
 1x Captain Lannery Storm
-1x Dargo, the Shipwrecker
-1x Brazen Freebooter
-1x Fathom Fleet Swordjack
+1x Magda, Brazen Outlaw
+1x Gadrak, the Crown-Scourge
 1x Impulsive Pilferer
-1x Storm Fleet Swashbuckler
-1x Boarding Party
-1x Angrath's Marauders
+1x Storm-Kiln Artist
+1x Goldspan Dragon
+1x Rapacious Dragon
+1x Xorn
 // Non-Creatures
-1x Trove of Temptation
 1x Pirate's Pillage
 1x Improvised Weaponry
-1x Makeshift Munitions
-1x Rolling Thunder
+1x Unexpected Windfall
+1x Price of Loyalty
 // Lands
 1x Terramorphic Expanse
 1x Evolving Wilds
-5x Mountain
-// END TAG Treasure Pirates
+6x Mountain
+// END TAG Treasure
 
 // BEGIN TAG The Great Distortion
 // ---
