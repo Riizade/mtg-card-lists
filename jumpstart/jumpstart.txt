@@ -788,7 +788,7 @@
 1x Dragon Tempest
 1x Crucible of Fire
 1x Scorching Dragonfire
-1x Draconic Roar
+1x Dragon's Fire
 // Lands
 1x Haven of the Spirit Dragon
 1x Terramorphic Expanse
