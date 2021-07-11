@@ -757,7 +757,6 @@
 1x Goblin Warchief
 1x Pashalik Mons
 1x Goblin Chieftain
-1x Siege-Gang Commander
 1x Conspicuous Snoop
 1x Goblin Ringleader
 1x Goblin Piledriver
@@ -765,6 +764,7 @@
 // Non-Creatures
 1x Quest for the Goblin Lord
 1x Krenko's Command
+1x Massive Raid
 // Lands
 1x Terramorphic Expanse
 1x Evolving Wilds
