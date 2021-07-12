@@ -48,28 +48,6 @@
 6x Mountain
 // END TAG Plundering Pirates
 
-// BEGIN TAG Murderous Marauders
-// ---
-// Creatures
-1x Captain Ripley Vance
-1x Port Razer
-1x Fanatical Firebrand
-1x Headstrong Brute
-1x Swaggering Corsair
-1x Kari Zev, Skyship Raider
-1x Daring Buccaneer
-1x Storm Fleet Arsonist
-// Non-Creatures
-1x Vance's Blasting Cannons
-1x Firecannon Blast
-1x Buccaneer's Bravado
-1x Repeating Barrage
-// Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
-6x Mountain
-// END TAG Murderous Marauders
-
 // BEGIN TAG Treasure
 // ---
 // Creatures
@@ -1273,7 +1251,7 @@
 1x Combat Celebrant
 1x Moraug, Fury of Akoum
 1x Hellkite Charger
-1x Inferno Titan
+1x Port Razer
 1x Ilharg, the Raze-Boar
 1x Legion Warboss
 1x Fervent Champion
