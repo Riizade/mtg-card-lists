@@ -1003,7 +1003,7 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG White Walk the Planes
+// END TAG Walk the Planes
 
 // BEGIN TAG Chandra's Rage
 // ---
