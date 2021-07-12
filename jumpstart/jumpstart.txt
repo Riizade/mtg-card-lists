@@ -1268,6 +1268,62 @@
 // Maybeboard
 // END TAG Extra Combat
 
+// BEGIN TAG Prismatic Dragons
+// ---
+// Creatures
+1x Morophon, the Boundless
+1x Tiamat
+1x O-Kagachi, Vengeful Kami
+1x The Ur-Dragon
+1x Niv-Mizzet Reborn
+1x Scion of the Ur-Dragon
+1x Birds of Paradise
+1x Paradise Druid
+// Non-Creatures
+1x Chromatic Lantern
+1x Chrome Mox
+1x Coalition Relic
+1x Springleaf Drum
+// Lands
+1x Mana Confluence
+1x City of Brass
+1x Cavern of Souls
+1x Plains
+1x Island
+1x Swamp
+1x Mountain
+1x Forest
+// Maybeboard
+// END TAG Prismatic Dragons
+
+// BEGIN TAG Rainbow Mana
+// ---
+// Creatures
+1x Garth One-Eye
+1x Jodah, Archmage Eternal
+1x Esika, God of the Tree
+1x Sisay, Weatherlight Captain
+1x Jegantha, the Wellspring
+1x Progenitus
+1x Ramos, Dragon Engine
+1x Maelstrom Archangel
+// Non-Creatures
+1x Chromatic Lantern
+1x Chrome Mox
+1x Coalition Relic
+1x Chromatic Orrery
+// Lands
+1x Mana Confluence
+1x City of Brass
+1x Cascading Cataracts
+1x Plains
+1x Island
+1x Swamp
+1x Mountain
+1x Forest
+// Maybeboard
+// END TAG Rainbow Mana
+
 // Template
 // BEGIN TAG Name
 // ---
