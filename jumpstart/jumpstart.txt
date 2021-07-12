@@ -43,8 +43,7 @@
 1x Chef's Kiss
 1x Zealous Conscripts
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Bluff
 6x Mountain
 // END TAG Plundering Pirates
 
@@ -65,8 +64,7 @@
 1x Unexpected Windfall
 1x Price of Loyalty
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Bluff
 6x Mountain
 // END TAG Treasure
 
@@ -160,8 +158,7 @@
 1x Bad Moon
 // Lands
 1x Swarmyard
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Moor
 5x Swamp
 // END TAG Rats
 
@@ -183,8 +180,7 @@
 1x Calculated Dismissal
 1x Jace, Wielder of Mysteries
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Isle
 6x Island
 // END TAG Self-Mill
 
@@ -205,8 +201,7 @@
 1x Thought Collapse
 1x Countermand
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Isle
 6x Island
 // END TAG Mill
 
@@ -228,8 +223,7 @@
 1x Siren's Ruse
 1x Sea Legs
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Isle
 6x Island
 // END TAG Siren Sailors
 
@@ -251,8 +245,7 @@
 1x Thassa's Rebuff
 1x Bident of Thassa
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Isle
 6x Island
 // END TAG God of the Sea
 
@@ -274,8 +267,7 @@
 1x Essence Flux
 1x Geist Snatch
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Isle
 6x Island
 // END TAG Spirits
 
@@ -297,8 +289,7 @@
 // Non-Creatures
 1x Collected Company
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Grove
 1x Wirewood Lodge
 5x Forest
 // Maybeboard
@@ -321,9 +312,12 @@
 // Non-Creatures
 1x Freyalise, Llanowar's Fury
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
-6x Forest
+1x Overgrown Tomb
+1x Breeding Pool
+1x Stomping Ground
+1x Temple Garden
+1x Windswept Heath
+3x Forest
 // Maybeboard
 // END TAG Druids
 
@@ -344,8 +338,7 @@
 1x Chatter of the Squirrel
 1x Chatterstorm
 // Lands
-1x Evolving Wilds
-1x Terramorphic Expanse
+2x Thriving Grove
 6x Forest
 // Maybeboard
 // END TAG Squirrels
@@ -368,8 +361,7 @@
 1x Control Magic
 // Lands
 1x Riptide Laboratory
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Isle
 5x Island
 // Maybeboard
 // END TAG Wizards
@@ -392,8 +384,7 @@
 1x Runic Repetition
 1x Silent Departure
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Isle
 6x Island
 // Maybeboard
 // END TAG Flashback
@@ -415,8 +406,7 @@
 1x Skullcrack
 1x Sulfuric Vortex
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Bluff
 6x Mountain
 // Maybeboard
 // END TAG Burn
@@ -438,8 +428,7 @@
 1x Liliana's Mastery
 1x Endless Ranks of the Dead
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Moor
 6x Swamp
 // Maybeboard
 // END TAG Dreadhorde General
@@ -461,8 +450,7 @@
 1x Dark Deal
 1x Waste Not
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Moor
 6x Swamp
 // Maybeboard
 // END TAG Discard
@@ -485,8 +473,7 @@
 1x Songs of the Damned
 // Lands
 1x Westvale Abbey
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Moor
 5x Swamp
 // Maybeboard
 // END TAG Demons
@@ -508,8 +495,7 @@
 1x Attrition
 1x Living Death
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Moor
 6x Swamp
 // Maybeboard
 // END TAG Reanimator
@@ -531,8 +517,7 @@
 1x Victim of Night
 1x Blade of the Bloodchief
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Moor
 6x Swamp
 // Maybeboard
 // END TAG Vampire Sacrifice
@@ -554,8 +539,7 @@
 1x Feast of Blood
 1x Blood Tribute
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Moor
 6x Swamp
 // Maybeboard
 // END TAG Vampire Lifegain
@@ -569,7 +553,6 @@
 1x Reassembling Skeleton
 1x Crypt Ghast
 // Non-Creatures
-1x Cabal Coffers
 1x Defile
 1x Torment of Hailfire
 1x Liliana of the Dark Realms
@@ -577,10 +560,13 @@
 1x Mind Twist
 1x Dread Summons
 // Lands
+1x Cabal Coffers
 1x Cabal Stronghold
-1x Terramorphic Expanse
-1x Evolving Wilds
-5x Swamp
+1x Watery Grave
+1x Overgrown Tomb
+1x Godless Shrine
+1x Blood Crypt
+3x Swamp
 // Maybeboard
 // END TAG The Dark Realms
 
@@ -601,8 +587,7 @@
 1x Thrill of Possibility
 1x Pillar of Flame
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Bluff
 6x Mountain
 // Maybeboard
 // END TAG Red Devils Win
@@ -624,8 +609,7 @@
 1x Graf Harvest
 1x Never // Return
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Moor
 6x Swamp
 // Maybeboard
 // END TAG Graverisen
@@ -697,8 +681,7 @@
 1x Swiftfoot Boots
 1x Batterskull
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Heath
 6x Plains
 // Maybeboard
 // END TAG Equipment
@@ -720,8 +703,7 @@
 1x Peacewalker Colossus
 1x Fell Flagship
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Heath
 6x Plains
 // Maybeboard
 // END TAG Vehicles
@@ -743,8 +725,7 @@
 1x Krenko's Command
 1x Massive Raid
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Bluff
 6x Mountain
 // Maybeboard
 // END TAG Goblins
@@ -768,8 +749,7 @@
 1x Dragon's Fire
 // Lands
 1x Haven of the Spirit Dragon
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Bluff
 5x Mountain
 // Maybeboard
 // END TAG Dragons
@@ -791,8 +771,7 @@
 1x Primal Might
 1x Smell Fear
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Grove
 1x Gaea's Cradle
 6x Forest
 // Maybeboard
@@ -816,13 +795,12 @@
 1x Beast Within
 1x Natural Order
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Grove
 6x Forest
 // Maybeboard
 // END TAG Stompy
 
-// BEGIN TAG Verdant Graves
+// BEGIN TAG Verdant Soil
 // ---
 // Creatures
 1x Sylvan Safekeeper
@@ -845,7 +823,7 @@
 1x Myriad Landscape
 4x Forest
 // Maybeboard
-// END TAG Verdant Graves
+// END TAG Verdant Soil
 
 // BEGIN TAG Oozes
 // ---
@@ -864,8 +842,7 @@
 1x Slime Molding
 1x Devouring Tendrils
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Grove
 6x Forest
 // Maybeboard
 // END TAG Oozes
@@ -887,8 +864,7 @@
 1x Swords to Plowshares
 1x Ajani, Strength of the Pride
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Heath
 6x Plains
 // Maybeboard
 // END TAG Lifegain
@@ -910,8 +886,7 @@
 1x Afterlife
 1x Angelic Ascension
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Heath
 6x Plains
 // Maybeboard
 // END TAG Angels
@@ -934,8 +909,7 @@
 1x Mana Tithe
 1x Austere Command
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Heath
 6x Plains
 // Maybeboard
 // END TAG Hatebears
@@ -958,8 +932,7 @@
 1x Angelic Gift
 1x Reprobation
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Heath
 6x Plains
 // Maybeboard
 // END TAG Auras
@@ -982,8 +955,7 @@
 1x Spear of Heliod
 1x Luminarch Ascension
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Heath
 6x Plains
 // Maybeboard
 // END TAG Enchantments
@@ -1006,8 +978,7 @@
 1x Ajani, Caller of the Pride
 1x Winds of Abandon
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Heath
 6x Plains
 // Maybeboard
 // END TAG Cats
@@ -1030,8 +1001,7 @@
 1x Cleansing Nova
 1x Terminus
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Heath
 6x Plains
 // Maybeboard
 // END TAG White Planeswalkers
@@ -1053,8 +1023,7 @@
 1x Chandra's Regulator
 1x Chandra's Triumph
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Bluff
 6x Plains
 // Maybeboard
 // END TAG Chandra
@@ -1077,8 +1046,7 @@
 1x Memory Erosion
 1x Jace, Memory Adept
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Isle
 6x Island
 // Maybeboard
 // END TAG Jace
@@ -1100,8 +1068,7 @@
 1x Midnight Haunting
 1x Afterlife
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Heath
 6x Plains
 // Maybeboard
 // END TAG W Spirits
@@ -1147,8 +1114,7 @@
 1x Invigorate
 // Lands
 1x Rogue's Passage
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Grove
 5x Forest
 // Maybeboard
 // END TAG Infect
@@ -1170,8 +1136,7 @@
 1x Sculpting Steel
 1x Lithoform Engine
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Isle
 6x Island
 // Maybeboard
 // END TAG Archaeology
@@ -1193,8 +1158,7 @@
 1x Into the Roil
 1x Counterspell
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Isle
 6x Island
 // Maybeboard
 // END TAG Cantrips
@@ -1216,8 +1180,7 @@
 1x Codex Shredder
 1x Pyrite Spellbomb
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Bluff
 6x Mountain
 // Maybeboard
 // END TAG Scrap Engineers
@@ -1239,8 +1202,7 @@
 1x Reverberate
 1x Thrill of Possibility
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Bluff
 6x Mountain
 // Maybeboard
 // END TAG Spellslinger
@@ -1262,8 +1224,7 @@
 1x Breath of Fury
 1x Seize the Day
 // Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
+2x Thriving Bluff
 6x Mountain
 // Maybeboard
 // END TAG Extra Combat
@@ -1288,11 +1249,11 @@
 1x Mana Confluence
 1x City of Brass
 1x Cavern of Souls
-1x Plains
-1x Island
-1x Swamp
-1x Mountain
-1x Forest
+1x Zagoth Triome
+1x Ketria Triome
+1x Savai Triome
+1x Indatha Triome
+1x Raugrin Triome
 // Maybeboard
 // END TAG Prismatic Dragons
 
@@ -1316,11 +1277,11 @@
 1x Mana Confluence
 1x City of Brass
 1x Cascading Cataracts
-1x Plains
-1x Island
-1x Swamp
-1x Mountain
-1x Forest
+1x Zagoth Triome
+1x Ketria Triome
+1x Savai Triome
+1x Indatha Triome
+1x Raugrin Triome
 // Maybeboard
 // END TAG Rainbow Mana
 
