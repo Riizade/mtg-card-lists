@@ -26,7 +26,7 @@
 // 1x Deathrite Shaman
 // END TAG Decaying Mass
 
-// BEGIN TAG Plundering Pirates
+// BEGIN TAG Ransacking Pirates
 // ---
 // Creatures
 1x Ragavan, Nimble Pilferer
@@ -45,9 +45,9 @@
 // Lands
 2x Thriving Bluff
 6x Mountain
-// END TAG Plundering Pirates
+// END TAG Ransacking Pirates
 
-// BEGIN TAG Treasure
+// BEGIN TAG Treasure Hunters
 // ---
 // Creatures
 1x Captain Lannery Storm
@@ -66,7 +66,7 @@
 // Lands
 2x Thriving Bluff
 6x Mountain
-// END TAG Treasure
+// END TAG Treasure Hunters
 
 // BEGIN TAG The Great Distortion
 // ---
@@ -140,7 +140,7 @@
 // END TAG The Ceaseless Hunger
 
 
-// BEGIN TAG Rats
+// BEGIN TAG Rat Swarm
 // ---
 // Creatures
 1x Piper of the Swarm
@@ -160,10 +160,10 @@
 1x Swarmyard
 2x Thriving Moor
 5x Swamp
-// END TAG Rats
+// END TAG Rat Swarm
 
 
-// BEGIN TAG Self-Mill
+// BEGIN TAG Mad Scientist
 // ---
 // Creatures
 1x Laboratory Maniac
@@ -182,9 +182,9 @@
 // Lands
 2x Thriving Isle
 6x Island
-// END TAG Self-Mill
+// END TAG Mad Scientist
 
-// BEGIN TAG Mill
+// BEGIN TAG Memory Erasure
 // ---
 // Creatures
 1x Bruvac the Grandiloquent
@@ -203,10 +203,10 @@
 // Lands
 2x Thriving Isle
 6x Island
-// END TAG Mill
+// END TAG Memory Erasure
 
 
-// BEGIN TAG Siren Sailors
+// BEGIN TAG Siren's Melody
 // ---
 // Creatures
 1x Dreamcaller Siren
@@ -225,7 +225,7 @@
 // Lands
 2x Thriving Isle
 6x Island
-// END TAG Siren Sailors
+// END TAG Siren's Melody
 
 
 // BEGIN TAG God of the Sea
@@ -250,7 +250,7 @@
 // END TAG God of the Sea
 
 
-// BEGIN TAG Spirits
+// BEGIN TAG Chilling Geists
 // ---
 // Creatures
 1x Battleground Geist
@@ -269,10 +269,10 @@
 // Lands
 2x Thriving Isle
 6x Island
-// END TAG Spirits
+// END TAG Chilling Geists
 
 
-// BEGIN TAG Elves
+// BEGIN TAG Elvish Clan
 // ---
 // Creatures
 1x Allosaurus Shepherd
@@ -293,9 +293,9 @@
 1x Wirewood Lodge
 5x Forest
 // Maybeboard
-// END TAG Elves
+// END TAG Elvish Clan
 
-// BEGIN TAG Druids
+// BEGIN TAG Druidic Circle
 // ---
 // Creatures
 1x Paradise Druid
@@ -319,9 +319,9 @@
 1x Windswept Heath
 3x Forest
 // Maybeboard
-// END TAG Druids
+// END TAG Druidic Circle
 
-// BEGIN TAG Squirrels
+// BEGIN TAG Scurry of Squirrels
 // ---
 // Creatures
 1x Chatterfang, Squirrel General
@@ -341,9 +341,9 @@
 2x Thriving Grove
 6x Forest
 // Maybeboard
-// END TAG Squirrels
+// END TAG Scurry of Squirrels
 
-// BEGIN TAG Wizards
+// BEGIN TAG Wizard's Tower
 // ---
 // Creatures
 1x Azami, Lady of Scrolls
@@ -364,10 +364,10 @@
 2x Thriving Isle
 5x Island
 // Maybeboard
-// END TAG Wizards
+// END TAG Wizard's Tower
 
 
-// BEGIN TAG Flashback
+// BEGIN TAG Echo Casters
 // ---
 // Creatures
 1x Murktide Regent
@@ -380,16 +380,16 @@
 // Non-Creatures
 1x Secrets of the Dead
 1x Think Twice
-1x Quiet Speculation
+1x Deep Analysis
 1x Runic Repetition
 1x Silent Departure
 // Lands
 2x Thriving Isle
 6x Island
 // Maybeboard
-// END TAG Flashback
+// END TAG Echo Casters
 
-// BEGIN TAG Burn
+// BEGIN TAG Rampant Wildfire
 // ---
 // Creatures
 1x Chandra's Incinerator
@@ -409,7 +409,7 @@
 2x Thriving Bluff
 6x Mountain
 // Maybeboard
-// END TAG Burn
+// END TAG Rampant Wildfire
 
 // BEGIN TAG Dreadhorde General
 // ---
@@ -433,7 +433,7 @@
 // Maybeboard
 // END TAG Dreadhorde General
 
-// BEGIN TAG Discard
+// BEGIN TAG Dark Deals
 // ---
 // Creatures
 1x Liliana's Specter
@@ -453,9 +453,9 @@
 2x Thriving Moor
 6x Swamp
 // Maybeboard
-// END TAG Discard
+// END TAG Dark Deals
 
-// BEGIN TAG Demons
+// BEGIN TAG Demonic Contract
 // ---
 // Creatures
 1x Treacherous Pit-Dweller
@@ -476,9 +476,9 @@
 2x Thriving Moor
 5x Swamp
 // Maybeboard
-// END TAG Demons
+// END TAG Demonic Contract
 
-// BEGIN TAG Reanimator
+// BEGIN TAG Masterful Necromancy
 // ---
 // Creatures
 1x Sheoldred, Whispering One
@@ -498,9 +498,9 @@
 2x Thriving Moor
 6x Swamp
 // Maybeboard
-// END TAG Reanimator
+// END TAG Masterful Necromancy
 
-// BEGIN TAG Vampire Sacrifice
+// BEGIN TAG Vampiric Feeding
 // ---
 // Creatures
 1x Viscera Seer
@@ -520,9 +520,9 @@
 2x Thriving Moor
 6x Swamp
 // Maybeboard
-// END TAG Vampire Sacrifice
+// END TAG Vampiric Feeding
 
-// BEGIN TAG Vampire Lifegain
+// BEGIN TAG Vampiric Lifedrain
 // ---
 // Creatures
 1x Vito, Thorn of the Dusk Rose
@@ -542,7 +542,7 @@
 2x Thriving Moor
 6x Swamp
 // Maybeboard
-// END TAG Vampire Lifegain
+// END TAG Vampiric Lifedrain
 
 // BEGIN TAG The Dark Realms
 // ---
@@ -570,7 +570,7 @@
 // Maybeboard
 // END TAG The Dark Realms
 
-// BEGIN TAG Red Devils Win
+// BEGIN TAG Devilish Instincts
 // ---
 // Creatures
 1x Sin Prodder
@@ -590,9 +590,9 @@
 2x Thriving Bluff
 6x Mountain
 // Maybeboard
-// END TAG Red Devils Win
+// END TAG Devilish Instincts
 
-// BEGIN TAG Graverisen
+// BEGIN TAG Graverisen Thralls
 // ---
 // Creatures
 1x Apprentice Necromancer
@@ -612,9 +612,9 @@
 2x Thriving Moor
 6x Swamp
 // Maybeboard
-// END TAG Graverisen
+// END TAG Graverisen Thralls
 
-// BEGIN TAG Landfall
+// BEGIN TAG Nature's Bounty
 // ---
 // Creatures
 1x Avenger of Zendikar
@@ -636,10 +636,10 @@
 1x Kazandu Mammoth
 5x Forest
 // Maybeboard
-// END TAG Landfall
+// END TAG Nature's Bounty
 
 
-// BEGIN TAG Artifacts
+// BEGIN TAG Artifact Foundry
 // ---
 // Creatures
 1x Myr Battlesphere
@@ -662,9 +662,9 @@
 1x Treasure Vault
 4x Darksteel Citadel
 // Maybeboard
-// END TAG Artifacts
+// END TAG Artifact Foundry
 
-// BEGIN TAG Equipment
+// BEGIN TAG Equipped for Battle
 // ---
 // Creatures
 1x Puresteel Paladin
@@ -684,9 +684,9 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG Equipment
+// END TAG Equipped for Battle
 
-// BEGIN TAG Vehicles
+// BEGIN TAG Expert Crew
 // ---
 // Creatures
 1x Gearshift Ace
@@ -706,9 +706,9 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG Vehicles
+// END TAG Expert Crew
 
-// BEGIN TAG Goblins
+// BEGIN TAG Goblin Tribe
 // ---
 // Creatures
 1x Krenko, Tin Street Kingpin
@@ -728,10 +728,10 @@
 2x Thriving Bluff
 6x Mountain
 // Maybeboard
-// END TAG Goblins
+// END TAG Goblin Tribe
 
 
-// BEGIN TAG Dragons
+// BEGIN TAG Dragon Clan
 // ---
 // Creatures
 1x Lathliss, Dragon Queen
@@ -752,10 +752,10 @@
 2x Thriving Bluff
 5x Mountain
 // Maybeboard
-// END TAG Dragons
+// END TAG Dragon Clan
 
 
-// BEGIN TAG Hydras
+// BEGIN TAG Hydra Nest
 // ---
 // Creatures
 1x Gargos, Vicious Watcher
@@ -775,10 +775,9 @@
 1x Gaea's Cradle
 6x Forest
 // Maybeboard
-// END TAG Hydras
+// END TAG Hydra Nest
 
-
-// BEGIN TAG Stompy
+// BEGIN TAG Wild Beasts
 // ---
 // Creatures
 1x Sakura-Tribe Elder
@@ -798,7 +797,7 @@
 2x Thriving Grove
 6x Forest
 // Maybeboard
-// END TAG Stompy
+// END TAG Wild Beasts
 
 // BEGIN TAG Verdant Soil
 // ---
@@ -825,7 +824,7 @@
 // Maybeboard
 // END TAG Verdant Soil
 
-// BEGIN TAG Oozes
+// BEGIN TAG Sentient Ooze
 // ---
 // Creatures
 1x Aeve, Progenitor Ooze
@@ -845,9 +844,9 @@
 2x Thriving Grove
 6x Forest
 // Maybeboard
-// END TAG Oozes
+// END TAG Sentient Ooze
 
-// BEGIN TAG Lifegain
+// BEGIN TAG Holy Restoration
 // ---
 // Creatures
 1x Heliod, Sun-Crowned
@@ -867,9 +866,9 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG Lifegain
+// END TAG Holy Restoration
 
-// BEGIN TAG Angels
+// BEGIN TAG Angelic Chant
 // ---
 // Creatures
 1x Lyra Dawnbringer
@@ -889,10 +888,10 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG Angels
+// END TAG Angelic Chant
 
 
-// BEGIN TAG Hatebears
+// BEGIN TAG Tax Collector
 // ---
 // Creatures
 1x Thalia, Guardian of Thraben
@@ -912,10 +911,10 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG Hatebears
+// END TAG Tax Collector
 
 
-// BEGIN TAG Auras
+// BEGIN TAG Enchanting Aura
 // ---
 // Creatures
 1x Danitha Capashen, Paragon
@@ -935,10 +934,10 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG Auras
+// END TAG Enchanting Aura
 
 
-// BEGIN TAG Enchantments
+// BEGIN TAG Benevolent Enchanter
 // ---
 // Creatures
 1x Archetype of Courage
@@ -958,10 +957,10 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG Enchantments
+// END TAG Benevolent Enchanter
 
 
-// BEGIN TAG Cats
+// BEGIN TAG Pride of Cats
 // ---
 // Creatures
 1x Kemba, Kha Regent
@@ -981,10 +980,10 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG Cats
+// END TAG Pride of Cats
 
 
-// BEGIN TAG White Planeswalkers
+// BEGIN TAG Walk the Planes
 // ---
 // Creatures
 1x Djeru, With Eyes Open
@@ -1004,9 +1003,9 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG White Planeswalkers
+// END TAG White Walk the Planes
 
-// BEGIN TAG Chandra
+// BEGIN TAG Chandra's Rage
 // ---
 // Creatures
 1x Chandra's Spitfire
@@ -1026,10 +1025,10 @@
 2x Thriving Bluff
 6x Plains
 // Maybeboard
-// END TAG Chandra
+// END TAG Chandra's Rage
 
 
-// BEGIN TAG Jace
+// BEGIN TAG Jace's Intellect
 // ---
 // Creatures
 1x Jace's Archivist
@@ -1049,9 +1048,9 @@
 2x Thriving Isle
 6x Island
 // Maybeboard
-// END TAG Jace
+// END TAG Jace's Intellect
 
-// BEGIN TAG W Spirits
+// BEGIN TAG Departed Spirits
 // ---
 // Creatures
 1x Yosei, the Morning Star
@@ -1071,9 +1070,9 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG W Spirits
+// END TAG Departed Spirits
 
-// BEGIN TAG G Elementals
+// BEGIN TAG Primal Elements
 // ---
 // Creatures
 1x Nyxbloom Ancient
@@ -1094,9 +1093,9 @@
 1x Evolving Wilds
 6x Forest
 // Maybeboard
-// END TAG G Elementals
+// END TAG Primal Elements
 
-// BEGIN TAG Infect
+// BEGIN TAG Venomous Predators
 // ---
 // Creatures
 1x Fynn, the Fangbearer
@@ -1117,9 +1116,9 @@
 2x Thriving Grove
 5x Forest
 // Maybeboard
-// END TAG Infect
+// END TAG Venomous Predators
 
-// BEGIN TAG Archaeology
+// BEGIN TAG Archaeological Thesis
 // ---
 // Creatures
 1x Emry, Lurker of the Loch
@@ -1139,9 +1138,9 @@
 2x Thriving Isle
 6x Island
 // Maybeboard
-// END TAG Archaeology
+// END TAG Archaeological Thesis
 
-// BEGIN TAG Cantrips
+// BEGIN TAG Sleight of Hand
 // ---
 // Creatures
 1x Orvar, the All-Form
@@ -1161,7 +1160,7 @@
 2x Thriving Isle
 6x Island
 // Maybeboard
-// END TAG Cantrips
+// END TAG Sleight of Hand
 
 // BEGIN TAG Scrap Engineers
 // ---
@@ -1207,7 +1206,7 @@
 // Maybeboard
 // END TAG Spellslinger
 
-// BEGIN TAG Extra Combat
+// BEGIN TAG Insatiable Bloodlust
 // ---
 // Creatures
 1x Combat Celebrant
@@ -1227,7 +1226,7 @@
 2x Thriving Bluff
 6x Mountain
 // Maybeboard
-// END TAG Extra Combat
+// END TAG Insatiable Bloodlust
 
 // BEGIN TAG Prismatic Dragons
 // ---
@@ -1257,7 +1256,7 @@
 // Maybeboard
 // END TAG Prismatic Dragons
 
-// BEGIN TAG Rainbow Mana
+// BEGIN TAG Convergent Leylines
 // ---
 // Creatures
 1x Garth One-Eye
@@ -1283,7 +1282,7 @@
 1x Indatha Triome
 1x Raugrin Triome
 // Maybeboard
-// END TAG Rainbow Mana
+// END TAG Convergent Leylines
 
 // Template
 // BEGIN TAG Name
