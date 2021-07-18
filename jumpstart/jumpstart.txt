@@ -272,7 +272,7 @@
 // END TAG Chilling Geists
 
 
-// BEGIN TAG Elvish Clan
+// BEGIN TAG Forest Elves
 // ---
 // Creatures
 1x Allosaurus Shepherd
@@ -293,7 +293,7 @@
 1x Wirewood Lodge
 5x Forest
 // Maybeboard
-// END TAG Elvish Clan
+// END TAG Forest Elves
 
 // BEGIN TAG Druidic Circle
 // ---
@@ -937,7 +937,7 @@
 // END TAG Enchanting Aura
 
 
-// BEGIN TAG Benevolent Enchanter
+// BEGIN TAG Enchanting Light
 // ---
 // Creatures
 1x Archetype of Courage
@@ -957,7 +957,7 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG Benevolent Enchanter
+// END TAG Enchanting Light
 
 
 // BEGIN TAG Cat's Pride
@@ -1256,7 +1256,7 @@
 // Maybeboard
 // END TAG Prismatic Dragons
 
-// BEGIN TAG Convergent Leylines
+// BEGIN TAG Rainbow Leylines
 // ---
 // Creatures
 1x Garth One-Eye
@@ -1282,7 +1282,7 @@
 1x Indatha Triome
 1x Raugrin Triome
 // Maybeboard
-// END TAG Convergent Leylines
+// END TAG Rainbow Leylines
 
 // Template
 // BEGIN TAG Name
