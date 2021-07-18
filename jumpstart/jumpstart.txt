@@ -343,7 +343,7 @@
 // Maybeboard
 // END TAG Scurry of Squirrels
 
-// BEGIN TAG Wizard's Tower
+// BEGIN TAG Wizard's Study
 // ---
 // Creatures
 1x Azami, Lady of Scrolls
@@ -364,7 +364,7 @@
 2x Thriving Isle
 5x Island
 // Maybeboard
-// END TAG Wizard's Tower
+// END TAG Wizard's Study
 
 
 // BEGIN TAG Echo Casters
@@ -664,7 +664,7 @@
 // Maybeboard
 // END TAG Artifact Foundry
 
-// BEGIN TAG Equipped for Battle
+// BEGIN TAG Well-Equipped
 // ---
 // Creatures
 1x Puresteel Paladin
@@ -684,7 +684,7 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG Equipped for Battle
+// END TAG Well-Equipped
 
 // BEGIN TAG Expert Crew
 // ---
@@ -868,7 +868,7 @@
 // Maybeboard
 // END TAG Holy Restoration
 
-// BEGIN TAG Angelic Chant
+// BEGIN TAG Angelic Host
 // ---
 // Creatures
 1x Lyra Dawnbringer
@@ -888,7 +888,7 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG Angelic Chant
+// END TAG Angelic Host
 
 
 // BEGIN TAG Tax Collector
@@ -960,7 +960,7 @@
 // END TAG Benevolent Enchanter
 
 
-// BEGIN TAG Pride of Cats
+// BEGIN TAG Cat's Pride
 // ---
 // Creatures
 1x Kemba, Kha Regent
@@ -980,10 +980,10 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG Pride of Cats
+// END TAG Cat's Pride
 
 
-// BEGIN TAG Walk the Planes
+// BEGIN TAG Plainswalkers
 // ---
 // Creatures
 1x Djeru, With Eyes Open
@@ -1003,7 +1003,7 @@
 2x Thriving Heath
 6x Plains
 // Maybeboard
-// END TAG Walk the Planes
+// END TAG Plainswalkers
 
 // BEGIN TAG Chandra's Rage
 // ---
