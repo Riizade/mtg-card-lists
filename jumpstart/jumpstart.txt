@@ -1118,7 +1118,7 @@
 // Maybeboard
 // END TAG Venomous Predators
 
-// BEGIN TAG Archaeological Thesis
+// BEGIN TAG Archaeology
 // ---
 // Creatures
 1x Emry, Lurker of the Loch
@@ -1138,7 +1138,7 @@
 2x Thriving Isle
 6x Island
 // Maybeboard
-// END TAG Archaeological Thesis
+// END TAG Archaeology
 
 // BEGIN TAG Sleight of Hand
 // ---
