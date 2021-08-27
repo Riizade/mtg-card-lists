@@ -991,7 +991,7 @@
 1x Chandra's Triumph
 // Lands
 2x Thriving Bluff
-6x Plains
+6x Mountain
 // END TAG Chandra's Rage
 
 

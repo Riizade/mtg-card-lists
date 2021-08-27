@@ -1,4 +1,4 @@
-1x Lyra Dawnbringer id:[93be6799-7b9d-44d4-84dc-2961692b5a85] set:[DOM] no:[26] fb:[border_creature_legendary] tags:[]
+1x Lyra Dawnbringer id:[93be6799-7b9d-44d4-84dc-2961692b5a85] set:[DOM] no:[26] fb:[border_creature_legendary_b] tags:[]
 1x Avacyn, Angel of Hope id:[db149aaa-3da9-48c4-92cc-b3d804285290] set:[2XM] no:[335] fb:[border_creature_super_full] tags:[]
 1x Youthful Valkyrie id:[ffe93b27-f8ae-4abf-8ade-90f503f132c2] set:[KHM] no:[382] fb:[border_creature] tags:[]
 1x Angel of Finality id:[5e199cea-ab34-4eca-9d52-56959d648a16] set:[C20] no:[75] fb:[border_creature_b] tags:[]
