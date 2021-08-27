@@ -292,7 +292,6 @@
 2x Thriving Grove
 1x Wirewood Lodge
 5x Forest
-// Maybeboard
 // END TAG Forest Elves
 
 // BEGIN TAG Druidic Circle
@@ -318,7 +317,6 @@
 1x Temple Garden
 1x Windswept Heath
 3x Forest
-// Maybeboard
 // END TAG Druidic Circle
 
 // BEGIN TAG Scurry of Squirrels
@@ -340,7 +338,6 @@
 // Lands
 2x Thriving Grove
 6x Forest
-// Maybeboard
 // END TAG Scurry of Squirrels
 
 // BEGIN TAG Wizard's Study
@@ -363,7 +360,6 @@
 1x Riptide Laboratory
 2x Thriving Isle
 5x Island
-// Maybeboard
 // END TAG Wizard's Study
 
 
@@ -386,7 +382,6 @@
 // Lands
 2x Thriving Isle
 6x Island
-// Maybeboard
 // END TAG Echo Casters
 
 // BEGIN TAG Rampant Wildfire
@@ -408,7 +403,6 @@
 // Lands
 2x Thriving Bluff
 6x Mountain
-// Maybeboard
 // END TAG Rampant Wildfire
 
 // BEGIN TAG Dreadhorde General
@@ -430,7 +424,6 @@
 // Lands
 2x Thriving Moor
 6x Swamp
-// Maybeboard
 // END TAG Dreadhorde General
 
 // BEGIN TAG Dark Deals
@@ -452,7 +445,6 @@
 // Lands
 2x Thriving Moor
 6x Swamp
-// Maybeboard
 // END TAG Dark Deals
 
 // BEGIN TAG Demonic Contract
@@ -475,7 +467,6 @@
 1x Westvale Abbey
 2x Thriving Moor
 5x Swamp
-// Maybeboard
 // END TAG Demonic Contract
 
 // BEGIN TAG Masterful Necromancy
@@ -497,7 +488,6 @@
 // Lands
 2x Thriving Moor
 6x Swamp
-// Maybeboard
 // END TAG Masterful Necromancy
 
 // BEGIN TAG Vampiric Feeding
@@ -519,7 +509,6 @@
 // Lands
 2x Thriving Moor
 6x Swamp
-// Maybeboard
 // END TAG Vampiric Feeding
 
 // BEGIN TAG Vampiric Lifedrain
@@ -541,7 +530,6 @@
 // Lands
 2x Thriving Moor
 6x Swamp
-// Maybeboard
 // END TAG Vampiric Lifedrain
 
 // BEGIN TAG The Dark Realms
@@ -567,7 +555,6 @@
 1x Godless Shrine
 1x Blood Crypt
 3x Swamp
-// Maybeboard
 // END TAG The Dark Realms
 
 // BEGIN TAG Devilish Instincts
@@ -589,7 +576,6 @@
 // Lands
 2x Thriving Bluff
 6x Mountain
-// Maybeboard
 // END TAG Devilish Instincts
 
 // BEGIN TAG Graverisen Thralls
@@ -611,7 +597,6 @@
 // Lands
 2x Thriving Moor
 6x Swamp
-// Maybeboard
 // END TAG Graverisen Thralls
 
 // BEGIN TAG Nature's Bounty
@@ -635,7 +620,6 @@
 1x Evolving Wilds
 1x Kazandu Mammoth
 5x Forest
-// Maybeboard
 // END TAG Nature's Bounty
 
 
@@ -661,7 +645,6 @@
 1x Spire of Industry
 1x Treasure Vault
 4x Darksteel Citadel
-// Maybeboard
 // END TAG Artifact Foundry
 
 // BEGIN TAG Well-Equipped
@@ -683,7 +666,6 @@
 // Lands
 2x Thriving Heath
 6x Plains
-// Maybeboard
 // END TAG Well-Equipped
 
 // BEGIN TAG Expert Crew
@@ -705,7 +687,6 @@
 // Lands
 2x Thriving Heath
 6x Plains
-// Maybeboard
 // END TAG Expert Crew
 
 // BEGIN TAG Goblin Tribe
@@ -727,7 +708,6 @@
 // Lands
 2x Thriving Bluff
 6x Mountain
-// Maybeboard
 // END TAG Goblin Tribe
 
 
@@ -751,7 +731,6 @@
 1x Haven of the Spirit Dragon
 2x Thriving Bluff
 5x Mountain
-// Maybeboard
 // END TAG Dragon Clan
 
 
@@ -774,7 +753,6 @@
 2x Thriving Grove
 1x Gaea's Cradle
 6x Forest
-// Maybeboard
 // END TAG Hydra Nest
 
 // BEGIN TAG Wild Beasts
@@ -796,7 +774,6 @@
 // Lands
 2x Thriving Grove
 6x Forest
-// Maybeboard
 // END TAG Wild Beasts
 
 // BEGIN TAG Verdant Soil
@@ -821,7 +798,6 @@
 1x Blighted Woodland
 1x Myriad Landscape
 4x Forest
-// Maybeboard
 // END TAG Verdant Soil
 
 // BEGIN TAG Sentient Ooze
@@ -843,7 +819,6 @@
 // Lands
 2x Thriving Grove
 6x Forest
-// Maybeboard
 // END TAG Sentient Ooze
 
 // BEGIN TAG Holy Restoration
@@ -865,7 +840,6 @@
 // Lands
 2x Thriving Heath
 6x Plains
-// Maybeboard
 // END TAG Holy Restoration
 
 // BEGIN TAG Angelic Host
@@ -887,7 +861,6 @@
 // Lands
 2x Thriving Heath
 6x Plains
-// Maybeboard
 // END TAG Angelic Host
 
 
@@ -910,7 +883,6 @@
 // Lands
 2x Thriving Heath
 6x Plains
-// Maybeboard
 // END TAG Tax Collector
 
 
@@ -933,7 +905,6 @@
 // Lands
 2x Thriving Heath
 6x Plains
-// Maybeboard
 // END TAG Enchanting Aura
 
 
@@ -956,7 +927,6 @@
 // Lands
 2x Thriving Heath
 6x Plains
-// Maybeboard
 // END TAG Enchanting Light
 
 
@@ -979,7 +949,6 @@
 // Lands
 2x Thriving Heath
 6x Plains
-// Maybeboard
 // END TAG Cat's Pride
 
 
@@ -1002,7 +971,6 @@
 // Lands
 2x Thriving Heath
 6x Plains
-// Maybeboard
 // END TAG Plainswalkers
 
 // BEGIN TAG Chandra's Rage
@@ -1024,7 +992,6 @@
 // Lands
 2x Thriving Bluff
 6x Plains
-// Maybeboard
 // END TAG Chandra's Rage
 
 
@@ -1047,7 +1014,6 @@
 // Lands
 2x Thriving Isle
 6x Island
-// Maybeboard
 // END TAG Jace's Intellect
 
 // BEGIN TAG Departed Spirits
@@ -1069,7 +1035,6 @@
 // Lands
 2x Thriving Heath
 6x Plains
-// Maybeboard
 // END TAG Departed Spirits
 
 // BEGIN TAG Primal Elements
@@ -1092,7 +1057,6 @@
 1x Terramorphic Expanse
 1x Evolving Wilds
 6x Forest
-// Maybeboard
 // END TAG Primal Elements
 
 // BEGIN TAG Venomous Predators
@@ -1115,7 +1079,6 @@
 1x Rogue's Passage
 2x Thriving Grove
 5x Forest
-// Maybeboard
 // END TAG Venomous Predators
 
 // BEGIN TAG Archaeology
@@ -1137,7 +1100,6 @@
 // Lands
 2x Thriving Isle
 6x Island
-// Maybeboard
 // END TAG Archaeology
 
 // BEGIN TAG Sleight of Hand
@@ -1159,7 +1121,6 @@
 // Lands
 2x Thriving Isle
 6x Island
-// Maybeboard
 // END TAG Sleight of Hand
 
 // BEGIN TAG Scrap Engineers
@@ -1181,7 +1142,6 @@
 // Lands
 2x Thriving Bluff
 6x Mountain
-// Maybeboard
 // END TAG Scrap Engineers
 
 // BEGIN TAG Spellslinger
@@ -1203,7 +1163,6 @@
 // Lands
 2x Thriving Bluff
 6x Mountain
-// Maybeboard
 // END TAG Spellslinger
 
 // BEGIN TAG Insatiable Bloodlust
@@ -1225,7 +1184,6 @@
 // Lands
 2x Thriving Bluff
 6x Mountain
-// Maybeboard
 // END TAG Insatiable Bloodlust
 
 // BEGIN TAG Prismatic Dragons
@@ -1253,7 +1211,6 @@
 1x Savai Triome
 1x Indatha Triome
 1x Raugrin Triome
-// Maybeboard
 // END TAG Prismatic Dragons
 
 // BEGIN TAG Rainbow Leylines
@@ -1281,7 +1238,6 @@
 1x Savai Triome
 1x Indatha Triome
 1x Raugrin Triome
-// Maybeboard
 // END TAG Rainbow Leylines
 
 // Template
@@ -1290,5 +1246,4 @@
 // Creatures
 // Non-Creatures
 // Lands
-// Maybeboard
 // END TAG Name
