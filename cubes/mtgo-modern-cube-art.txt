@@ -1,540 +1,540 @@
-1x Abbot of Keral Keep [cb7a2770-9a20-4f52-aac4-24502f50e374] f{border_none}
-1x Abrade [4f984662-8fe0-42eb-8031-89c80315dede] f{border_none}
-1x Abrupt Decay [a8e328c6-3a84-49cf-a1a3-1d1e5373d274] f{border_none}
-1x Acidic Slime [551afb4c-17e8-424f-ace3-b2c184b16b2a] f{border_none}
-1x Adanto Vanguard [21c950d7-b4f6-4902-8c9a-98f2933f9fa5] f{border_none}
-1x Aethersphere Harvester [4160bb5f-4b49-4535-94f5-776d7abd1d1a] f{border_none}
-1x Agadeem's Awakening // Agadeem, the Undercrypt [499c2b20-e83e-40ff-919e-1d134ad50c0a] f{border_none}
-1x Ahn-Crop Crasher [dd5db68c-24d5-44ce-9809-e446f26fac5d] f{border_none}
-1x Ajani Vengeant [8fc108a3-15e5-44ab-a6e2-182b309f9c0c] f{border_none}
-1x All Is Dust [c0c9f6dd-308e-4c91-8bcc-975d273a0a33] f{border_none}
-1x Alrund's Epiphany [6dd24105-4202-4690-bb62-16d0b9c291c9] f{border_none}
-1x Anax, Hardened in the Forge [badac9b4-bfaf-4b02-a48a-ec141393566c] f{border_none}
-1x Ancestral Vision [307752ed-f4cc-4e2d-a0fd-0c677844e848] f{border_none}
-1x Anger of the Gods [e2ecae08-bcc6-4074-822c-3dfe1d46ae39] f{border_none}
-1x Approach of the Second Sun [e0d18742-d661-4223-8880-9ed995379b2e] f{border_none}
-1x Arbor Elf [e092bdd5-af65-44ce-8f72-519801115d82] f{border_none}
-1x Archangel Avacyn // Avacyn, the Purifier [ae155ee2-008f-4dc6-82bf-476be7baa224] f{border_none}
-1x Archon of Cruelty [1be9d9a4-d7ee-4854-abc2-85cabf993ec9] f{border_none}
-1x Arid Mesa [245e16ae-4514-42fa-b409-2c3ae084436c] f{border_none}
-1x Ashiok, Nightmare Muse [c18d2a4a-cfde-434e-85eb-f9aae0da9dce] f{border_none}
-1x Ashiok, Nightmare Weaver [599c3c9f-dfb7-4357-9d9c-9a1a4616b103] f{border_none}
-1x Assassin's Trophy [906b6e99-128f-4c11-8daf-16099d35b0d4] f{border_none}
-1x Atris, Oracle of Half-Truths [a3085763-e65b-49cb-a4e0-2cbad2658a1b] f{border_none}
-1x Aurelia, Exemplar of Justice [a8e9f4d2-bba5-4061-8ae7-a68b912f2c11] f{border_none}
-1x Avacyn's Pilgrim [e9600bdc-6a1b-4f7a-aa7d-538fb89df937] f{border_none}
-1x Avenger of Zendikar [5c43add9-f948-41fe-b40c-e1d357db5f05] f{border_none}
-1x Banefire [6d418362-aa0c-4e42-b473-f266ec3d0a25] f{border_none}
-1x Baneslayer Angel [0b0974b4-b306-4026-b0a8-22bd9da3e384] f{border_none}
-1x Banishing Light [a1ddd113-140f-49c9-b45c-cf1b0d1dffd8] f{border_none}
-1x Baral, Chief of Compliance [60e16d94-1166-4050-8554-686e153a7f80] f{border_none}
-1x Barkchannel Pathway // Tidechannel Pathway [87c33c94-4b56-4a96-9c4c-a376f8d54943] f{border_none}
-1x Batterskull [2abc5ac8-b944-4b71-b022-c78183eb92c3] f{border_none}
-1x Beanstalk Giant // Fertile Footsteps [49875f7a-31b9-4276-b971-8ead1e18fc81] f{border_none}
-1x Beast Whisperer [9da6f595-41b2-4e52-b15a-6ad18e4232c7] f{border_none}
-1x Beast Within [e228bede-5972-4381-969b-9de26e570117] f{border_none}
-1x Bedlam Reveler [0232f188-44f2-4aee-963c-6f6edc4a21ac] f{border_none}
-1x Binding the Old Gods [d93ee644-d7d7-48d8-a04b-fb479b74edb0] f{border_none}
-1x Birds of Paradise [feefe9f0-24a6-461c-9ef1-86c5a6f33b83] f{border_none}
-1x Birgi, God of Storytelling // Harnfel, Horn of Bounty [54dccbc0-528c-4e99-a6db-f2373978fe5f] f{border_none}
-1x Bitterblossom [25dd861f-ee63-4d79-b31b-173c9c336426] f{border_none}
-1x Blade Splicer [277bc4e5-f43a-4f1e-a7e9-11796e78fcdf] f{border_none}
-1x Blessed Alliance [b5805eab-9a32-4c0c-9015-7bdb74ad7634] f{border_none}
-1x Blightstep Pathway // Searstep Pathway [3933326a-2014-4ac0-bfd3-8ff26e178920] f{border_none}
-1x Blink of an Eye [ab830392-4d7e-4b45-93cf-35ed1e935228] f{border_none}
-1x Blood Crypt [399f4d04-65ee-478d-9184-d33bb355e726] f{border_none}
-1x Bloodbraid Elf [a646dbd4-07a3-44c5-ab24-2655c5fe9562] f{border_none}
-1x Bloodchief's Thirst [f7be5c0a-b538-4bc5-89c7-f5a81de7ccc3] f{border_none}
-1x Bloodghast [730c521f-ba12-48fb-b18f-6bb55423a551] f{border_none}
-1x Bloodstained Mire [ed7bcbf1-9045-4810-93fa-9918c45856ca] f{border_none}
-1x Bomat Courier [425bff89-ad15-4d22-bce9-a4a07dbafd87] f{border_none}
-1x Bone Shards [1ee98955-4c47-4d45-9377-608dfa755337] f{border_none}
-1x Bone Shredder [63d0b5f0-ed45-4b30-9c24-1c12011e3513] f{border_none}
-1x Bonecrusher Giant // Stomp [ff984a4c-1818-4f8f-a9d7-fce57e77937d] f{border_none}
-1x Bonfire of the Damned [cf4f47a9-1c23-4d63-bb89-83c889615e50] f{border_none}
-1x Branchloft Pathway // Boulderloft Pathway [738ebafa-04be-4ba9-ae65-5f85e00c645a] f{border_none}
-1x Brazen Borrower // Petty Theft [d42a57b2-fbe9-4024-a593-f6dc711a2e9d] f{border_none}
-1x Breeding Pool [045d22eb-b291-4bbe-b468-32bdf8b6eba6] f{border_none}
-1x Bribery [71c97713-0dcd-4dc3-a797-cce9b1dfa5f5] f{border_none}
-1x Brightclimb Pathway // Grimclimb Pathway [eb55e544-ab9d-403d-93ee-19e792a256c5] f{border_none}
-1x Brimaz, King of Oreskos [f54eb705-6326-4bac-bf0e-68d42db7a270] f{border_none}
-1x Burst Lightning [f2e6428f-5c78-45f7-9bf9-eb4de63325d5] f{border_none}
-1x Cabal Coffers [6cd01460-901c-4d75-bc29-e97ed26afc39] f{border_none}
-1x Careful Consideration [08b7224b-adb9-4c31-b0bb-1c498f2922fb] f{border_none}
-1x Cast Out [76ff0dd0-489e-4773-93f6-b77fc3b8ef2e] f{border_none}
-1x Celestial Colonnade [24a76568-a2d4-41a6-88b8-fa5ed4093930] f{border_none}
-1x Censor [4cb4e315-1a77-479a-9f15-fb23575de805] f{border_none}
-1x Chainer, Nightmare Adept [d8089e7f-7619-43fe-8e0b-31ce5d988a1b] f{border_none}
-1x Champion of Wits [d765221d-9718-47eb-aa49-9c0719337139] f{border_none}
-1x Chandra, Acolyte of Flame [2cabfcfe-012e-4cab-bba2-24052eac0946] f{border_none}
-1x Chandra, Torch of Defiance [c7bbb911-9de2-455d-9677-e1004db65dbd] f{border_none}
-1x Char [53de6c9a-b7af-45bc-b0f7-41ebd5910cf4] f{border_none}
-1x Charming Prince [dd45820e-39be-448e-b446-44f3ebab555e] f{border_none}
-1x Chord of Calling [dac257a9-39bf-4185-9d2e-f80f0848a96a] f{border_none}
-1x Chromatic Lantern [c7970aee-494f-45c1-9842-04632ad27313] f{border_none}
-1x City of Brass [459042ef-0d5b-480f-9b8a-520e13ae9217] f{border_none}
-1x Clattering Augur [a22dd28d-eb65-410a-af17-51b5064c6033] f{border_none}
-1x Clearwater Pathway // Murkwater Pathway [b0fe4b53-18f6-42eb-b03f-cab3e5a7fba6] f{border_none}
-1x Clifftop Retreat [e0b52b9c-7278-46b4-9f3c-3a7fc0c7e526] f{border_none}
-1x Cloudgoat Ranger [6dfaa74a-0ef0-44bb-b8b5-6d121278b5a2] f{border_none}
-1x Coalition Relic [a9fae620-8fa5-44db-8326-11cb323c626e] f{border_none}
-1x Collected Company [cfa7b456-7e83-4587-a875-9b35fde318c2] f{border_none}
-1x Collective Brutality [cb94a02f-4660-45b6-8a39-941b710cf8f3] f{border_none}
-1x Collective Defiance [8960883f-3813-412b-9a5b-f8cf8d566fac] f{border_none}
-1x Compulsive Research [0f578fbf-c3c7-4407-9fda-3c13b165798c] f{border_none}
-1x Conclave Tribunal [a9472d25-9c11-4a18-be05-96c7fd434370] f{border_none}
-1x Condemn [b28100b4-f4ee-4e1c-be50-508dd01e846a] f{border_none}
-1x Consecrated Sphinx [030e46a1-64a7-47e3-9b9f-82a22fe3734b] f{border_none}
-1x Counterspell [ffdf9d2a-c163-43df-9a2f-20b8749c86ae] f{border_none}
-1x Courser of Kruphix [59592a53-c5a5-4e0c-8b91-b2431fa84b07] f{border_none}
-1x Cragcrown Pathway // Timbercrown Pathway [050602c0-b5b7-4076-af33-0f7a58d0b260] f{border_none}
-1x Crater's Claws [95dde66b-b4a1-4a1e-8c9e-0bec4790b1e5] f{border_none}
-1x Craterhoof Behemoth [44afd414-cc69-4888-ba12-7ea87e60b1f7] f{border_none}
-1x Creeping Tar Pit [3272a554-8509-40b2-ac39-c906b1366275] f{border_none}
-1x Cryptbreaker [629e37d1-c0f3-44f2-926e-41eb3687c1d9] f{border_none}
-1x Cryptic Command [30f6fca9-003b-4f6b-9d6e-1e88adda4155] f{border_none}
-1x Cultivate [31233339-c5ec-40fb-badd-94ef7f0ff7c0] f{border_none}
-1x Cyclonic Rift [f9baef6e-a086-41d4-a20e-486f01d72406] f{border_none}
-1x Damn [402060d4-10d6-4cee-aa8b-cd083bf5df43] f{border_none}
-1x Damnation [941b65da-b9b3-4e15-bab5-bcbfd20dbe05] f{border_none}
-1x Dark Confidant [6c821158-f71a-48f9-b6b4-b0e605f22bec] f{border_none}
-1x Darkbore Pathway // Slitherbore Pathway [501ceec3-c196-4db4-980d-31edf6232acf] f{border_none}
-1x Dauthi Voidwalker [29632951-3c3d-478c-8c5a-9a34f30a5c28] f{border_none}
-1x Declaration in Stone [f685445d-e2af-455f-b3b2-97cf15362f3c] f{border_none}
-1x Delver of Secrets // Insectile Aberration [11bf83bb-c95b-4b4f-9a56-ce7a1816307a] f{border_none}
-1x Den Protector [f6c1c367-35a9-4932-86a6-d63d3b9b326a] f{border_none}
-1x Devoted Druid [5c8a8dbb-cba7-4e1d-8888-73ab6f4aff07] f{border_none}
-1x Disallow [25f05814-a5a5-460f-9d29-0ab03efecf4c] f{border_none}
-1x Dismember [3d286cf6-3e16-4941-9326-1818b1e06d69] f{border_none}
-1x Dissolve [992e8119-f933-4e54-bb04-e1cc78f7e87b] f{border_none}
-1x Domri, Anarch of Bolas [c1af9881-e35b-4be2-8716-ea7c6664e22c] f{border_none}
-1x Doom Blade [7e6c0fe2-a82b-42cb-8629-b9f00b7f08e9] f{border_none}
-1x Doom Whisperer [0a11ee0d-ff8d-4648-8b4e-29440c135c30] f{border_none}
-1x Dragon's Rage Channeler [4ced112a-e775-4f97-97b3-74877e9dce12] f{border_none}
-1x Dragonlord Atarka [ce0c3b45-cf1d-4d85-9fe3-fb26b4b15dfd] f{border_none}
-1x Dragonlord Silumgar [2eae504d-d4a9-440f-8ceb-df967cc50494] f{border_none}
-1x Dragonskull Summit [91570836-9e36-4774-8d5d-7cbcee0012ba] f{border_none}
-1x Dreadbore [6390e641-0ecd-46ea-b6eb-f7e638d61cfd] f{border_none}
-1x Dreadhorde Arcanist [fd97b3cf-924e-4f77-bb82-0bf19592389f] f{border_none}
-1x Dream Trawler [ea1072d6-afda-4282-8dff-06a76ceb447d] f{border_none}
-1x Dromoka's Command [df1e43a8-0adc-4e26-bc56-6b914bd35838] f{border_none}
-1x Drowned Catacomb [8ef728f1-5153-47d6-8f9c-dfd473ee0750] f{border_none}
-1x Dryad of the Ilysian Grove [22e22287-21c5-4733-a527-b176fbf3725d] f{border_none}
-1x Dungeon Geists [d3c81fda-c23d-437c-85f0-62d7b492ea32] f{border_none}
-1x Duplicant [1a79eebd-89bf-49a2-9c22-f86af934633a] f{border_none}
-1x Duress [ed02eba7-f9ef-418d-9c8e-6e7d2bd3869d] f{border_none}
-1x Earthshaker Khenra [0d60eabe-b281-4eba-9c26-287364ed2067] f{border_none}
-1x Eidolon of Obstruction [02694fb6-7695-4296-b5d6-cfe60829f1e7] f{border_none}
-1x Eidolon of the Great Revel [183ef738-0559-49ca-85b4-e6836521f203] f{border_none}
-1x Elder Gargaroth [8ee9b3ad-0774-4952-b49b-be390182b245] f{border_none}
-1x Electrolyze [08a4d142-b98b-4027-94cb-314f67fb1d4a] f{border_none}
-1x Elesh Norn, Grand Cenobite [78c2bfef-06a5-4c7f-8283-ea3fb673b7a1] f{border_none}
-1x Elite Spellbinder [25608957-fe71-4ed7-9c55-fb7f2fcf103e] f{border_none}
-1x Elspeth Conquers Death [ea20208b-1939-4c69-8cfd-c0a42f9dc427] f{border_none}
-1x Elspeth, Sun's Champion [fd5b1633-c41d-42b1-af1b-4a872077ffbd] f{border_none}
-1x Elspeth, Sun's Nemesis [fedff53b-b5c7-470e-bb66-797d5d20b983] f{border_none}
-1x Elvish Mystic [d618c3ea-f823-4fe0-8e11-65d5965528d3] f{border_none}
-1x Embercleave [939b8bcc-b9ac-4d8c-9db4-2bf91a853f03] f{border_none}
-1x Embereth Shieldbreaker // Battle Display [13b553f1-8107-42a8-841a-91adf71cff72] f{border_none}
-1x Essence Scatter [975f61eb-a121-4f43-93a4-c6f20c6aee84] f{border_none}
-1x Eternal Witness [47961be7-f8c8-4aa0-afa1-51a20a129406] f{border_none}
-1x Everflowing Chalice [9cd8112f-21e0-4272-9f0d-14d1ef989779] f{border_none}
-1x Expansion // Explosion [e0644c92-4d67-475e-8c8e-0e2c493682fb] f{border_none}
-1x Experimental Frenzy [4b8f32e2-5dc8-4f1b-8a69-d3ae06378ed8] f{border_none}
-1x Expressive Iteration [93e5c7e8-e6bf-4186-8140-d1171fbb8552] f{border_none}
-1x Exquisite Firecraft [42eca98e-a164-4f70-a0b0-7a604863f30b] f{border_none}
-1x Extinction Event [3cb788cd-a6ab-44a9-adcf-13bdfc3be2e8] f{border_none}
-1x Fabled Passage [57645743-27fa-4a75-9511-acfc32dd349a] f{border_none}
-1x Fact or Fiction [8fb642e0-a390-4079-b349-ff0ec29c610e] f{border_none}
-1x Fairgrounds Warden [49b6c8f3-76b7-4954-8608-023304cdec3e] f{border_none}
-1x Faith's Fetters [1c8e887e-bf53-44e3-b3e5-d00d8974d0b3] f{border_none}
-1x Faithless Looting [cebee949-f16a-413c-92b0-8ee64584c924] f{border_none}
-1x Fallen Shinobi [900c9dfd-ece1-4b09-a801-0fa05e1994b9] f{border_none}
-1x Farseek [061f0032-eb14-4c63-8231-aa61472396c2] f{border_none}
-1x Fatal Push [b9a50516-a20f-4e6e-b4f2-0049b673f942] f{border_none}
-1x Field of Ruin [3e84e179-9d59-4d08-8a36-51ad2fc32ae3] f{border_none}
-1x Figure of Destiny [2019a4dd-a2cb-47a0-a1d5-da40d42013f3] f{border_none}
-1x Find // Finality [1e4e9e35-6cbc-4997-beff-d1a22d87545e] f{border_none}
-1x Flame Slash [15affc1b-2ebb-4934-87a2-10e89eafe894] f{border_none}
-1x Flame Spill [b3090004-d7dd-47bc-92e5-977be4fd9ae5] f{border_none}
-1x Flametongue Yearling [33ab05b5-d6f5-439c-9aed-1a58ceb282ad] f{border_none}
-1x Flay Essence [297eaa16-890b-41dc-a470-fa8c313e6e1b] f{border_none}
-1x Flickerwisp [5f0ed8ee-d6ea-469c-a575-6643d3995f54] f{border_none}
-1x Flooded Strand [acc4115b-4bbb-4bb7-81c6-466130982a9c] f{border_none}
-1x Force of Negation [e9be371c-c688-44ad-ab71-bd4c9f242d58] f{border_none}
-1x Foundation Breaker [4f08381e-34f5-4d08-b737-8c37964719e0] f{border_none}
-1x Frost Titan [ef8073af-bd3d-48f1-99d4-d216e3f1ff60] f{border_none}
-1x Gadwick, the Wizened [e73b89ce-fdb2-4730-b87c-e23aa131be24] f{border_none}
-1x Garruk Relentless // Garruk, the Veil-Cursed [b4160322-ff40-41a4-887a-73cd6b85ae45] f{border_none}
-1x Garruk Wildspeaker [08cf7ee6-ba30-42cd-a5b3-fd2fe7252f11] f{border_none}
-1x Garruk, Apex Predator [543515aa-4b8c-437c-89aa-56dd57a4a6d5] f{border_none}
-1x Garruk, Primal Hunter [79cfc0d7-fccb-47fb-87b6-08dd32528be6] f{border_none}
-1x Gavony Township [74d53774-f654-4c86-9261-b676d332e41e] f{border_none}
-1x Geist of Saint Traft [c6554820-e501-44d4-9141-7c83f81d3fd7] f{border_none}
-1x Gemrazer [0095245c-a30e-4e2a-88c9-632c678e9f03] f{border_none}
-1x Genesis Hydra [49f0118e-4449-4394-b4c1-5b4f83d7bc4a] f{border_none}
-1x Genesis Wave [5007919b-27d3-46e7-a588-ce796709d565] f{border_none}
-1x Geralf's Messenger [bffaad78-97ff-431f-bfb0-e96c7558f974] f{border_none}
-1x Geyadrone Dihada [69ef067b-58ac-4b88-a983-83316d157fcb] f{border_none}
-1x Gideon Jura [8532d72a-b2d2-49e1-85ea-35f4c91c6c8d] f{border_none}
-1x Gideon, Ally of Zendikar [187e887c-c39d-4d25-a506-cdc95fc70316] f{border_none}
-1x Gifted Aetherborn [abceb4fd-e3c5-400d-af7a-6dd17108a4b4] f{border_none}
-1x Gifts Ungiven [024f73a3-4a01-4cfc-957a-8023ba642f21] f{border_none}
-1x Gilded Goose [d274723a-27f3-49ec-ade0-d0b5e0e87d84] f{border_none}
-1x Gilded Lotus [a487e208-8493-4bca-8c44-284d89c66b15] f{border_none}
-1x Giver of Runes [4e117771-5a8b-4812-b487-32ba34b7f724] f{border_none}
-1x Glacial Fortress [cef133d9-26d2-4a1e-8d6a-829f1067c169] f{border_none}
-1x Glass Casket [2728180c-c24d-4deb-a901-ae90232ad45d] f{border_none}
-1x Glen Elendra Archmage [bd9af767-42da-46c7-a2b8-3957b2e3063f] f{border_none}
-1x Glorious Anthem [a3ba79d6-7da0-46ba-a26a-dc484bdae41d] f{border_none}
-1x Glorybringer [67d0e96d-047a-457b-a88a-4504888a6d0a] f{border_none}
-1x Go for the Throat [8185ecd0-2fdf-4d8b-a396-d5db593985b9] f{border_none}
-1x Goblin Cratermaker [86ecaedc-08f1-4de7-aae8-056df57940e0] f{border_none}
-1x Goblin Guide [62d2058c-3f20-4566-b366-93a2cbbe682f] f{border_none}
-1x Goblin Rabblemaster [80ef4153-256b-47b9-8d2c-262527412588] f{border_none}
-1x Godless Shrine [db192c30-d28a-431c-ba46-1e3d9d3da3f4] f{border_none}
-1x Goldspan Dragon [a7cec498-e2ac-4ca0-9aa2-ef98ba634c32] f{border_none}
-1x Golos, Tireless Pilgrim [1fa48620-4c3d-4f75-be1f-c12c4aa59f51] f{border_none}
-1x Gonti, Lord of Luxury [7735ecda-9bb0-4ef9-86b2-16e5b6592e61] f{border_none}
-1x Grave Titan [8f1a018f-ce08-428b-9be2-937204dd25c2] f{border_none}
-1x Gravecrawler [3c189fe5-a5f9-4057-bb70-0a88ae3169de] f{border_none}
-1x Gray Merchant of Asphodel [d794d0a4-4041-43c0-aedb-e2a76611a3ea] f{border_none}
-1x Grim Lavamancer [ee2a0d71-15a2-4061-b5f2-434755094aa4] f{border_none}
-1x Griselbrand [cf2a5c2e-7fe1-45eb-b01c-891ab961186f] f{border_none}
-1x Grist, the Hunger Tide [808a3770-057a-4985-ba5c-870d7b1cd527] f{border_none}
-1x Gut Shot [461987da-8860-4a04-8f93-d182523ca311] f{border_none}
-1x Hallowed Fountain [3eef85b2-3e5f-45e1-b669-ad152e55fa6d] f{border_none}
-1x Hangarback Walker [c246b845-dfca-47a3-aa56-074d30590320] f{border_none}
-1x Harbinger of the Tides [90f648d2-27be-4414-9e0a-5a3e4d5067ce] f{border_none}
-1x Hard Evidence [501599d6-1072-4124-b05d-01f96de153f3] f{border_none}
-1x Harmonize [9e1f1110-0919-49cd-8b5b-979b2744fd3c] f{border_none}
-1x Hazoret the Fervent [36ed9f9d-99a7-49f4-b0ad-d71355809d32] f{border_none}
-1x Heartless Act [928b0234-fc62-4ab8-b257-3fddcc52376b] f{border_none}
-1x Hedron Archive [2519149c-f8a3-413f-b7b2-cd596970be4c] f{border_none}
-1x Hengegate Pathway // Mistgate Pathway [b851c41b-ed73-4ee4-9063-544f97f35f67] f{border_none}
-1x Hero of Bladehold [8a3853ec-e307-46e0-96d7-0706b5c45c5e] f{border_none}
-1x Hero of Oxid Ridge [1a516bce-3d2d-4e0f-afc7-27be3d88848c] f{border_none}
-1x Hero's Downfall [cb6f32e0-57ab-42fb-959e-1a845e74ae04] f{border_none}
-1x Hidden Dragonslayer [87c760a8-e051-4584-ae1b-178164b84427] f{border_none}
-1x Hinterland Harbor [d631d040-51e9-4540-91e7-aeb5ade84090] f{border_none}
-1x Hissing Quagmire [6ef11b54-205a-48e9-92d0-5d416be869ef] f{border_none}
-1x History of Benalia [d134385d-b01c-41c7-bb2d-30722b44dc5a] f{border_none}
-1x Honor of the Pure [3831cb3b-0983-403b-9e0a-4720222817c4] f{border_none}
-1x Hornet Queen [d245cb84-56aa-47a1-aa3a-17ffded57e15] f{border_none}
-1x Huntmaster of the Fells // Ravager of the Fells [4d553078-afaf-42db-879b-fb4cb4d25742] f{border_none}
-1x Hydroid Krasis [801dd9c6-b159-4e1c-af2c-214c1f573633] f{border_none}
-1x Ignoble Hierarch [aba51852-af8f-49d8-8fb6-22d52a1742b8] f{border_none}
-1x Immersturm Predator [3d222d66-137b-4707-b28a-a23549b1ee35] f{border_none}
-1x Imperial Recruiter [ce0dbf20-bb76-4f4b-960f-68bbb99bde33] f{border_none}
-1x Incinerate [f23dff46-e040-4cba-890a-97c2899701f2] f{border_none}
-1x Inevitable Betrayal [adb9a0f9-0af6-42ac-9e42-f315f4882939] f{border_none}
-1x Inferno Titan [be293048-1df6-4df4-869c-b3b19534b35b] f{border_none}
-1x Inquisition of Kozilek [56995b84-2307-4955-9c7c-dc4f04acdc07] f{border_none}
-1x Isolated Chapel [a1d95d37-5dbe-4a25-bc80-a4db08f3c63a] f{border_none}
-1x Jace Beleren [de8a1c0e-23fc-4d27-925f-cc560548ccba] f{border_none}
-1x Jace, the Mind Sculptor [a5d1f66f-75b5-4a9b-8b98-f237f065de9c] f{border_none}
-1x Jace, Vryn's Prodigy // Jace, Telepath Unbound [02d6d693-f1f3-4317-bcc0-c21fa8490d38] f{border_none}
-1x Jadelight Ranger [9fe5c719-f20d-4469-9750-fb689d5f3fc8] f{border_none}
-1x Journey to Nowhere [4686b51c-e02b-48c1-bafe-e8d08a5407b9] f{border_none}
-1x Kaleidoscorch [a5f07603-fd79-437a-9b12-495fc5a39b68] f{border_none}
-1x Kalitas, Traitor of Ghet [17a278d0-f601-4d57-bc3d-2972f8602a69] f{border_none}
-1x Kari Zev, Skyship Raider [72495879-39ce-449d-ad2f-ef32ea46f3aa] f{border_none}
-1x Karn Liberated [96d1a254-01a8-4590-8878-690c5bfb4a95] f{border_none}
-1x Karn, Scion of Urza [0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9] f{border_none}
-1x Kaya's Guile [179bd74b-c458-49d6-90ac-6075454e43dd] f{border_none}
-1x Keranos, God of Storms [93c13445-60e3-43a0-a56a-de91c6442367] f{border_none}
-1x Kessig Wolf Run [b1140b05-49cf-49d5-a9a6-dfb2f0d1ec55] f{border_none}
-1x Kiki-Jiki, Mirror Breaker [fa701469-a15c-4e45-8455-089bd4040cf1] f{border_none}
-1x Kinnan, Bonder Prodigy [532746e2-f822-4920-ab31-94e0c8baaa84] f{border_none}
-1x Kitchen Finks [763083c4-a1ec-4e90-af70-26b203b369ce] f{border_none}
-1x Kitesail Freebooter [f62fd592-4910-417d-a500-e7029f3d119f] f{border_none}
-1x Klothys, God of Destiny [4d747889-04db-4e7a-ad4c-7549514b5112] f{border_none}
-1x Knight of Autumn [3028075c-5fc5-4942-a984-1ffcf7a8933d] f{border_none}
-1x Knight of the Ebon Legion [29425426-7bf2-4872-aa35-c12c22801edd] f{border_none}
-1x Kodama's Reach [d3eec2c0-dfe4-489a-a3e3-1bdb94707305] f{border_none}
-1x Kolaghan's Command [6d09be4f-785a-4faf-b03b-ca462cd375ca] f{border_none}
-1x Koma, Cosmos Serpent [876ad1df-e926-4d89-aad7-499a37b27f4c] f{border_none}
-1x Koth of the Hammer [dccb325a-6fba-4a6f-af35-dc9e9de996a9] f{border_none}
-1x Kroxa, Titan of Death's Hunger [6186ca35-4d28-4176-aaff-5b384a688aa6] f{border_none}
-1x Kytheon, Hero of Akros // Gideon, Battle-Forged [58c39df6-b237-40d1-bdcb-2fe5d05392a9] f{border_none}
-1x Languish [69923060-9015-41ea-91ad-f3252ba25c85] f{border_none}
-1x Lava Coil [f6135cf4-50c2-4e44-b9b0-96e1187a2200] f{border_none}
-1x Lavaclaw Reaches [7c9fb3d9-e018-4aa3-9c14-1a51fae176b4] f{border_none}
-1x Legion Warboss [5e84cb9c-9876-47a4-aea4-78574321bc36] f{border_none}
-1x Legion's Landing // Adanto, the First Fort [05e2a5e6-3aaa-4096-bdd0-fcc1afe5a36c] f{border_none}
-1x Lightning Bolt [6ab06973-6440-4b12-8947-8c412500fa41] f{border_none}
-1x Lightning Helix [227ac87a-7196-40d0-ab00-98ebafcca09a] f{border_none}
-1x Lightning Strike [f0f55dee-7e39-4183-8e74-844d9c299bf5] f{border_none}
-1x Liliana of the Veil [1e945c79-6c1e-404a-8993-655851566928] f{border_none}
-1x Liliana's Mastery [4ff4a2f3-f923-428c-a402-4ff0e602139e] f{border_none}
-1x Liliana, Dreadhorde General [d75ebba8-34ca-47a0-bf13-8318ad73b343] f{border_none}
-1x Liliana, Heretical Healer // Liliana, Defiant Necromancer [9f25e1cf-eeb4-458d-8fb2-b3a2f86bdd54] f{border_none}
-1x Liliana, the Last Hope [7ffc77bf-21e7-4e1e-a635-d6b61213b3e1] f{border_none}
-1x Lingering Souls [bcf1288a-8e2c-4a69-afcf-af293f66d007] f{border_none}
-1x Llanowar Elves [27a21d19-5631-43f8-817d-51ccb5aa0f05] f{border_none}
-1x Looter il-Kor [0d891cb5-c575-4c63-b053-a2315947c3e0] f{border_none}
-1x Lotus Cobra [151bdf3a-4445-43b1-8cea-2737c13d9dee] f{border_none}
-1x Lovestruck Beast // Heart's Desire [341110e5-577d-45ee-bf62-53373a331c87] f{border_none}
-1x Lumbering Falls [f0d8d2e4-3ebe-4311-b99e-dea9fb0b20ac] f{border_none}
-1x Luminarch Aspirant [ebe9427d-068f-487c-9263-b40366a164bc] f{border_none}
-1x Luminous Broodmoth [0535c823-f6e9-4a2f-8adf-f69b6f0fea1f] f{border_none}
-1x Lurrus of the Dream-Den [2c89beb2-3467-4be0-a066-919f54331942] f{border_none}
-1x Lyra Dawnbringer [93be6799-7b9d-44d4-84dc-2961692b5a85] f{border_none}
-1x Maelstrom Pulse [57418b2d-238c-4637-9830-9e672e3bc6da] f{border_none}
-1x Magma Opus [82f15bee-c4fa-4ad4-acaf-bb8023ebd6f0] f{border_none}
-1x Mana Confluence [4eafa4f8-3b9b-4e20-97bf-8f547e970752] f{border_none}
-1x Mana Leak [247939d9-87e9-4f01-b223-fb4cfa7dbbe1] f{border_none}
-1x Mana Tithe [9ae707d5-d81d-4320-b947-6016dc188898] f{border_none}
-1x Marsh Flats [9e1e76a2-ec37-4fd8-8185-f98f675ff0cb] f{border_none}
-1x Martial Coup [42f30b99-5177-48e9-be0a-ab04bbc4586b] f{border_none}
-1x Mass Manipulation [782760d7-59cc-4d40-a885-6a7980094fee] f{border_none}
-1x Massacre Wurm [a0523c0a-b9b6-4946-b90d-ed8e13cf1915] f{border_none}
-1x Master of the Wild Hunt [3c56fda1-d286-46b1-9617-4f7c430abb79] f{border_none}
-1x Master of Waves [14cd5387-c6aa-4430-8edb-05da6b4e2ff5] f{border_none}
-1x Maul of the Skyclaves [fb9da1e4-4554-42eb-aed5-9d068c39e727] f{border_none}
-1x Midnight Reaper [5e122fe0-51c5-404d-a7b9-3d161a426c35] f{border_none}
-1x Millikin [513ba8b6-9583-405f-84a5-9d2ca42f9597] f{border_none}
-1x Mimic Vat [f99c44c1-daff-43a2-9a8e-ec4be217a81a] f{border_none}
-1x Mind Shatter [10aeeedf-8298-4877-bd8b-f0b3a89b2483] f{border_none}
-1x Mirari's Wake [157ce8f8-625c-407a-b015-3b5326da69a0] f{border_none}
-1x Mirran Crusader [f7c34f5d-0430-4036-a633-1a68a0d2fc65] f{border_none}
-1x Mishra's Factory [9d596bc0-c972-4a36-8cf6-cd8f72169021] f{border_none}
-1x Misty Rainforest [6d14bd1a-068e-4338-8014-d5271cb2fe4d] f{border_none}
-1x Mizzium Mortars [bef58faf-4d5e-4c66-9780-28abfc4c0c69] f{border_none}
-1x Monastery Mentor [abcd0e32-2e6b-419b-9e8a-af38f2b48a66] f{border_none}
-1x Monastery Swiftspear [b81c6c8b-a9cf-4866-89ba-7f8ad077b836] f{border_none}
-1x Mulldrifter [d9fb2f2b-ed82-4461-9013-490e8bca89f8] f{border_none}
-1x Murderous Cut [b2dadff2-883f-4134-a881-be145cdcbd84] f{border_none}
-1x Murderous Rider // Swift End [49c98e70-e8fe-4fea-b1d0-e7560780fda9] f{border_none}
-1x Mutavault [8ca3c48b-f104-4292-9a4e-2ce87a65893c] f{border_none}
-1x Myr Battlesphere [31837c7c-267a-4483-8712-406bfa7c4fde] f{border_none}
-1x Mystic Snake [e75bdab4-9507-47e7-bf70-f78c87d2e0ba] f{border_none}
-1x Nahiri, the Harbinger [45f43bd0-d4d9-4a64-a829-f1ea3dfc9e90] f{border_none}
-1x Narset, Parter of Veils [8c39f9b4-02b9-4d44-b8d6-4fd02ebbb0c5] f{border_none}
-1x Nature's Claim [666a8ac9-d21d-4f3e-84a4-117fbeabbe8b] f{border_none}
-1x Needle Spires [3d73700c-fa62-42be-aaca-5f8a50af20db] f{border_none}
-1x Needleverge Pathway // Pillarverge Pathway [ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a] f{border_none}
-1x Negate [5bfe3a17-3349-4fcc-a9b5-418faa55cc43] f{border_none}
-1x Never // Return [a4b32135-7061-4278-a01a-4fcbaadc9706] f{border_none}
-1x Nevinyrral's Disk [9bd9fbe2-3961-4096-aec5-f5358fa4b9fc] f{border_none}
-1x Night's Whisper [930186b0-ac25-4ad1-9a5c-4051fa04700b] f{border_none}
-1x Nighthawk Scavenger [b9522009-4fc9-439a-95ea-5800842c5ee2] f{border_none}
-1x Nightveil Specter [762e1528-52d7-46fc-a035-e2af6b4676b8] f{border_none}
-1x Nimble Obstructionist [832426d7-be22-4092-b614-7fa417af03bd] f{border_none}
-1x Nissa, Vastwood Seer // Nissa, Sage Animist [ff0063da-ab6b-499d-8e87-8b34d46f0372] f{border_none}
-1x Nissa, Voice of Zendikar [a548acc7-bf37-4bb3-83c9-6e5fdb501f56] f{border_none}
-1x Nissa, Who Shakes the World [f857bbe4-5619-4733-a0c7-69700f2ef4f3] f{border_none}
-1x Niv-Mizzet Reborn [56a2609d-b535-400b-81d9-72989a33c70f] f{border_none}
-1x Noble Hierarch [8008977f-b164-4ab7-a38a-25b382c6a16f] f{border_none}
-1x Noxious Gearhulk [d3bb2c02-7153-4231-a313-f75f5a1338e3] f{border_none}
-1x Nykthos, Shrine to Nyx [834b27a0-dfd7-4f96-8cde-cacac4b24acc] f{border_none}
-1x Nyxbloom Ancient [c8a8e37b-0b97-4355-8e00-169a82c38ea0] f{border_none}
-1x Ob Nixilis Reignited [6bb7a4bd-0e74-4b1b-bf23-55c06442881e] f{border_none}
-1x Oblivion Ring [bff31eba-8ab3-403e-8d82-37a18b279bec] f{border_none}
-1x Oblivion Stone [99b26da0-2ddb-4f73-bb2e-1288e349fb46] f{border_none}
-1x Opt [ab59ac4f-2a77-4566-85c0-32666447dcf2] f{border_none}
-1x Oracle of Mul Daya [5de097e5-e960-4404-a370-defe93ce892f] f{border_none}
-1x Outpost Siege [ad63f120-f6d0-4394-b12a-f3e1cf728a2f] f{border_none}
-1x Overgrown Tomb [b92ca85d-eede-4c7f-b491-f555da1c23eb] f{border_none}
-1x Pack Rat [f3864bc8-f86e-4c41-b454-e19d1939147b] f{border_none}
-1x Pact of Negation [1ed4c0bb-b710-44a1-b8bc-6bd11c27b8b8] f{border_none}
-1x Path to Exile [206fd18a-f263-42cd-a77a-e40ae31a468a] f{border_none}
-1x Persist [90f390c3-af1c-424f-9721-e26e9321e5a3] f{border_none}
-1x Pestermite [b58a6a63-c7d8-4f2f-acaf-b0a871eb5a7c] f{border_none}
-1x Phantasmal Image [e7472958-dd1b-48a7-a960-ec2ef3b69ded] f{border_none}
-1x Phoenix of Ash [7d2be6f0-1cc1-4153-bdcf-528d49a474f4] f{border_none}
-1x Phyrexian Arena [c87d2e75-aa91-4657-b8c0-c399ff9331e0] f{border_none}
-1x Phyrexian Metamorph [cacaf5ec-6745-4584-9175-36c98742958f] f{border_none}
-1x Phyrexian Obliterator [acf5cbe2-84fa-46f4-a4f2-97b48ddf2d39] f{border_none}
-1x Phyrexian Revoker [6982a82c-dd32-40d2-8dd2-ec92d0fc6c2d] f{border_none}
-1x Pia and Kiran Nalaar [2eb6fc54-77e7-4e90-abc9-fd88581b57bf] f{border_none}
-1x Pia Nalaar [9d2502c8-bf80-404c-9a9a-b843d355fcaa] f{border_none}
-1x Plow Under [27128f26-0d89-4962-96e8-5fa343031a26] f{border_none}
-1x Polluted Delta [d052d99b-b1ca-44da-8460-c022d041d665] f{border_none}
-1x Polukranos, World Eater [4979cc1b-9c1a-47e4-ae37-7c41798eb89a] f{border_none}
-1x Porcelain Legionnaire [2616aa0e-8413-4e63-877c-bffd5263f552] f{border_none}
-1x Priest of Fell Rites [d116329d-6de7-402c-821d-e9aeba9ad2b1] f{border_none}
-1x Primal Command [87d2ad86-5d74-4507-8faa-fc6124fd5a7f] f{border_none}
-1x Prime Speaker Vannifar [84abfc59-10a7-4cb5-9cdd-81797116c810] f{border_none}
-1x Primeval Titan [c3377096-d89c-408f-ab0b-6f96f1b240f6] f{border_none}
-1x Prismari Command [8ffb6717-93f5-4774-9cc3-29b883b144b5] f{border_none}
-1x Prismatic Ending [825969b9-3c70-4fca-8cab-696e9ca7cdb2] f{border_none}
-1x Prismatic Vista [1ac01fff-4de6-4783-9489-4127e25bc641] f{border_none}
-1x Profane Command [857b6766-4df9-47e7-aa51-8ade7989bf57] f{border_none}
-1x Progenitor Mimic [acba72e1-3f7f-4e5c-af3f-dfe37b5d61f9] f{border_none}
-1x Pteramander [280f2a85-1900-460b-a768-164fc2dea636] f{border_none}
-1x Pull from Tomorrow [f1eccf27-c934-45fb-87ae-67006cd4e0ed] f{border_none}
-1x Purphoros, God of the Forge [d2698e2d-16d8-4b76-923f-e18775104de0] f{border_none}
-1x Pyroclasm [bac89aef-a0f5-494b-a085-5b3b016d7f17] f{border_none}
-1x Quarantine Field [30c525ab-08d5-4d29-aef1-01b0c75ee8d9] f{border_none}
-1x Questing Beast [5357e802-2d25-48d3-a188-101c142787b7] f{border_none}
-1x Radha, Heart of Keld [7777bc17-88cf-41fb-9169-77149c01eec8] f{border_none}
-1x Ragavan, Nimble Pilferer [b3e685f9-cc0f-4dc6-98dc-4727944de445] f{border_none}
-1x Raging Ravine [54f41726-e0bb-4154-a2db-4b68b50f5032] f{border_none}
-1x Rakdos's Return [bbc95892-c8fc-4e8d-9452-709cf9992db0] f{border_none}
-1x Rampaging Ferocidon [39d3c658-1927-4af3-9077-88c4a669c730] f{border_none}
-1x Rampant Growth [d2e16cbe-b52b-46d7-8532-2068684b3491] f{border_none}
-1x Ranger of Eos [7c3ba78b-c66a-4a93-abc6-18b63779eda3] f{border_none}
-1x Rankle, Master of Pranks [ee4d196e-7ce4-4dc1-9d58-102a89aca2a4] f{border_none}
-1x Ravenous Chupacabra [02551196-ecea-472f-9547-3c9658d0489e] f{border_none}
-1x Read the Bones [0cc51b90-7f1e-4e20-bc36-e3a198bc71bf] f{border_none}
-1x Reclamation Sage [cac912bb-f18a-4501-a5c0-aed8cb0a9e43] f{border_none}
-1x Rekindling Phoenix [daccec32-84c6-4de4-9b00-c497a6ba5de8] f{border_none}
-1x Remand [dc595c63-af05-4c05-80e8-e1a90df26b0f] f{border_none}
-1x Restoration Angel [3dbdd0bc-92d7-49ae-b7fc-b2d1f0670bd8] f{border_none}
-1x Reveillark [7db7e70c-ce79-4a52-b97b-f1bd46e0768c] f{border_none}
-1x Rift Sower [97dbd212-f1e8-429a-bf00-b2ea966d880e] f{border_none}
-1x Riftwing Cloudskate [7a150bc3-1d1a-4364-a97a-a71b6c09f6c9] f{border_none}
-1x Rip Apart [101f135f-1404-4333-946e-62d3aa919a62] f{border_none}
-1x Rishadan Dockhand [97f6f1da-ddef-44d0-af1b-e0c4024d9985] f{border_none}
-1x Riverglide Pathway // Lavaglide Pathway [78792607-0872-4de4-a9d8-92f1d58f4a71] f{border_none}
-1x Roast [a4da49b6-69eb-4dea-b52e-26dd69e05d0c] f{border_none}
-1x Roil Eruption [560c02ec-f21e-405b-8267-7f7ff089904a] f{border_none}
-1x Rootbound Crag [b6f59e19-9ac1-4f86-893e-5b3364122fc6] f{border_none}
-1x Rotting Regisaur [d88c61cb-dbf9-46c3-8795-8896ba1208d5] f{border_none}
-1x Sacred Foundry [33c519df-c6b1-4e32-92bc-8a67ae5cbaab] f{border_none}
-1x Saheeli, Sublime Artificer [5a10b543-d5d4-42a8-9ee8-dada59a2ad7e] f{border_none}
-1x Sakura-Tribe Elder [114328dd-6c4f-4b6b-b9b7-dfa8c9b79495] f{border_none}
-1x Scalding Tarn [48f0a970-452a-405f-bd4d-ac4d2e89ab40] f{border_none}
-1x Scavenging Ooze [0a91920a-7de3-4e9b-9cce-ff43ce0157b8] f{border_none}
-1x Scrapheap Scrounger [216a8e4e-ea7b-41c7-a982-b5751025ff25] f{border_none}
-1x Sea-Dasher Octopus [bd6986a8-e258-46f0-88a9-8f84732f359e] f{border_none}
-1x Seal of Cleansing [fa7e69e8-a527-44b8-a8d8-79e09b92c7b2] f{border_none}
-1x Search for Azcanta // Azcanta, the Sunken Ruin [1a7e242e-bb48-4134-a1c2-6033713d658f] f{border_none}
-1x Search for Tomorrow [0c65336f-f735-4c35-9278-ad97255eb5bb] f{border_none}
-1x Searing Blaze [f659d464-13dd-49e2-a842-098dcba49659] f{border_none}
-1x Seasoned Pyromancer [2e139ad1-1079-49e9-babd-6399c44ad333] f{border_none}
-1x Sedgemoor Witch [075bfaa8-3d54-4934-aaf6-72be43a87324] f{border_none}
-1x Selfless Spirit [a4624976-3773-4a1e-b725-5f6efce147a5] f{border_none}
-1x Serra's Emissary [b6534049-3045-4546-b1e8-e5b1b0df5f56] f{border_none}
-1x Serum Visions [20296a5b-4e15-4f07-8bce-9a37abb35729] f{border_none}
-1x Shadowspear [131cb967-9569-4fbf-8143-c410d3a94538] f{border_none}
-1x Shambling Vent [30a73816-1f33-4798-a9d6-5f0410d19625] f{border_none}
-1x Shark Typhoon [5dfd8d35-3f73-4181-80a3-d4d69badcc47] f{border_none}
-1x Shatterskull Smashing // Shatterskull, the Hammer Pass [243d374f-5b40-4cff-99f5-079ba873d44b] f{border_none}
-1x Shelldock Isle [4216656e-90e8-45fc-a0f6-0d0d79d0a021] f{border_none}
-1x Sheoldred, Whispering One [bbd672c9-46ae-4d2b-93d9-16271d2f71ff] f{border_none}
-1x Showdown of the Skalds [3d9d840e-1f13-44e3-a4de-903cfa58a346] f{border_none}
-1x Shriekmaw [8ce5b89f-ec60-46b5-9160-9255cbb858a9] f{border_none}
-1x Siege-Gang Commander [f59ff087-97e7-4946-871f-1833abb2558a] f{border_none}
-1x Silverblade Paladin [79c43502-5b82-43b6-a62d-162b49667f39] f{border_none}
-1x Skyclave Apparition [bc4b938f-a600-4d10-8030-ed60cf6ade56] f{border_none}
-1x Skyclave Shade [05347539-de61-4a37-929f-c909e65033f5] f{border_none}
-1x Sleight of Hand [1766d117-6ee1-4103-88e8-47b932a94d65] f{border_none}
-1x Smuggler's Copter [7832abb5-5107-4603-904e-491b221bd3e3] f{border_none}
-1x Snapcaster Mage [ee203ede-b9af-4f97-84ca-597debf2efd0] f{border_none}
-1x Solemn Simulacrum [a2df1622-bfdc-405f-bbd9-f03fe4acd347] f{border_none}
-1x Solitude [febad44a-eaf0-4122-87c5-a12d17f28392] f{border_none}
-1x Sorcerous Spyglass [c177f0e0-a1d3-4790-9e2c-bd5d2250603d] f{border_none}
-1x Sorin, Solemn Visitor [da1a9643-34d6-4b4b-b896-2d4626eca40a] f{border_none}
-1x Soul-Scar Mage [a8003786-6e2a-4e2d-a915-f23293c7273a] f{border_none}
-1x Sower of Temptation [830158d4-1105-4d4c-ae0a-b4cec5f9266b] f{border_none}
-1x Spark Double [bb8a103c-b776-4501-9441-a45b90391045] f{border_none}
-1x Spear of Heliod [34ef01da-d311-4d4f-9f7b-328e7bb17db4] f{border_none}
-1x Spectral Procession [9964629e-d79e-46e4-b3fd-e7d1759cbc60] f{border_none}
-1x Spell Pierce [6bf4dfc0-c58b-4535-b660-54ceaa6e0217] f{border_none}
-1x Spell Queller [cf1320b1-3eac-4c5a-9f75-6fdff3cc2639] f{border_none}
-1x Spellskite [440e0daf-aafe-4696-a977-ac5b822134e2] f{border_none}
-1x Sphinx's Revelation [0038ea4d-d0a6-44a4-bee6-24c03313d2bc] f{border_none}
-1x Steam Vents [2349e6aa-5bbf-4250-a19a-321bd308ddcb] f{border_none}
-1x Steel Leaf Champion [2c86a925-fb0e-479e-b11e-eb7cd1d30c63] f{border_none}
-1x Stirring Wildwood [5e63fd70-ca5b-45fd-b551-9ebe02410e9c] f{border_none}
-1x Stomping Ground [4c5e0fa3-63db-4b1e-bc15-dcb0ae80db14] f{border_none}
-1x Stoneforge Mystic [eb49805c-8546-463d-b78c-f4ea109851b4] f{border_none}
-1x Storm's Wrath [6f774b26-7b8b-4d06-bec8-764429445e93] f{border_none}
-1x Stratus Dancer [82fb8b0c-b86e-4915-b72d-9a6b5c1368c7] f{border_none}
-1x Student of Warfare [9f4df9be-324b-458a-9379-ab4aa437a6d2] f{border_none}
-1x Subtlety [6ade923f-f064-4b5a-a6c0-348ca3e0dbed] f{border_none}
-1x Sulfur Falls [6bc412fc-e9d4-4283-bd4a-811384e79b5c] f{border_none}
-1x Sun Titan [ef3e7352-5768-4d4e-befb-560b9d10a178] f{border_none}
-1x Sundering Titan [dd963b5b-598c-47ee-bacb-40a408051761] f{border_none}
-1x Sunlance [82ab72c3-1f76-45ff-84b4-05f403866d44] f{border_none}
-1x Sunpetal Grove [0f234312-00e8-49f7-a489-f4c316b0a81a] f{border_none}
-1x Suspend [f2b39f1d-6d8b-4d5d-a956-094de5c26ba8] f{border_none}
-1x Sweltering Suns [f11cd406-c6ae-4018-ae45-4e5577aa82ae] f{border_none}
-1x Sword of Feast and Famine [0a469d00-1416-48dd-ad91-eb6f3fb4b42b] f{border_none}
-1x Sword of Fire and Ice [22cd80dd-1c57-423c-81e2-9a956901565f] f{border_none}
-1x Sword of Hearth and Home [b27d2f06-42ed-42fd-874c-8c278cdb66dc] f{border_none}
-1x Sword of Light and Shadow [3a195efe-8c4f-479d-bd0f-563ee4bb49a1] f{border_none}
-1x Sword of Truth and Justice [2be8d24e-1370-4e85-90f2-66b6d6e9c4a4] f{border_none}
-1x Sylvan Anthem [a119edc2-9e0f-43d1-a13d-25827f86e3e3] f{border_none}
-1x Sylvan Caryatid [d40b65c1-b24d-492d-81b9-d8474ebdc08c] f{border_none}
-1x Tarmogoyf [8a34e2df-a9ee-4c61-bc4c-518475a39925] f{border_none}
-1x Tasigur, the Golden Fang [87e58c1d-a3b7-4752-928b-168ec0d8f154] f{border_none}
-1x Tatyova, Benthic Druid [93657aaa-7a0f-49ad-b026-6f79b3bd6768] f{border_none}
-1x Tectonic Edge [7c079aa9-e633-4ad0-87c1-79c0421c03dc] f{border_none}
-1x Teferi, Hero of Dominaria [829e38d8-2421-4a16-9bbd-c3f9e927247b] f{border_none}
-1x Teferi, Master of Time [ba95c4fc-f0fc-4bfe-bef7-694c3d82a6c7] f{border_none}
-1x Teferi, Time Raveler [5cb76266-ae50-4bbc-8f96-d98f309b02d3] f{border_none}
-1x Tempest Djinn [3acc883b-3aea-4d0b-ae0f-00d4a08c47c1] f{border_none}
-1x Temple Garden [b1c846f3-142d-43f0-aa9a-8fd5fbd5ada4] f{border_none}
-1x Temporal Mastery [729cdea3-59ca-4b32-9a8a-9b0cdb4b3aaf] f{border_none}
-1x Terastodon [32141ae3-0c1c-480c-8f61-90a46d5ce54c] f{border_none}
-1x Terminus [c726193f-e7bf-45b0-8eb5-2e9f62f5e7b0] f{border_none}
-1x Terror of the Peaks [ac35ea21-fef4-4000-9b22-c8d07420827b] f{border_none}
-1x Thalia, Guardian of Thraben [b05031dc-f99c-49d3-9a20-3453587d8dea] f{border_none}
-1x Thalia, Heretic Cathar [46928c55-969b-487a-a869-37052ca096c1] f{border_none}
-1x The Eldest Reborn [c8318f40-ecd5-429e-8fe2-febf31f64841] f{border_none}
-1x The Great Henge [ff7e30c8-b3fc-430f-ac63-d376d9e47a8d] f{border_none}
-1x The Immortal Sun [5e92b0d5-b171-4096-b1bb-65755db73b73] f{border_none}
-1x The Scarab God [d79ee141-0ea6-45d6-a682-96a37d703394] f{border_none}
-1x Thing in the Ice // Awoken Horror [359d1b13-6156-43b0-a9a7-6bfff36c1a91] f{border_none}
-1x Thought Scour [18d32e59-54e7-4be0-99b7-261cd433bd03] f{border_none}
-1x Thoughtseize [95702503-8f2d-46c8-abdb-6edd6c431d19] f{border_none}
-1x Thraben Inspector [2be39749-ad6f-4160-99eb-c677eee7f1b2] f{border_none}
-1x Thragtusk [d9a8459b-4dea-4dc9-8b95-a3748472f699] f{border_none}
-1x Thrun, the Last Troll [617b247f-0e75-4815-b1fc-64bdb5239b46] f{border_none}
-1x Thundermaw Hellkite [a75f6bb4-ab06-42ca-a0df-326d9a098a26] f{border_none}
-1x Tidehollow Sculler [09521f23-52d6-482d-9f3b-c4d12fcc08cc] f{border_none}
-1x Time Warp [6e70332c-de0b-45ce-bbd1-5de4314c08db] f{border_none}
-1x Timeless Dragon [044902aa-29a1-4627-a4fc-0beccd2a10b3] f{border_none}
-1x Tireless Tracker [ee8e9928-d9b2-4570-adb8-44b34115decd] f{border_none}
-1x Tooth and Nail [403f6e97-eb7a-470a-8673-4997256e79f0] f{border_none}
-1x Torrential Gearhulk [7892c45c-1b17-4474-82fd-01f6d9a83181] f{border_none}
-1x Toski, Bearer of Secrets [08eb31f3-7686-4d6b-a0e4-5d6ece6fba82] f{border_none}
-1x Tourach, Dread Cantor [f5c38dc8-574b-4e53-9b60-8fbb64a29175] f{border_none}
-1x Treasure Map // Treasure Cove [c0f9c733-0818-4a03-8f0c-a163d09e0fff] f{border_none}
-1x Treetop Village [14394198-0993-46ee-a3ea-5c7084a78772] f{border_none}
-1x Trostani Discordant [fa1190a4-3d7e-4500-991f-e36ec3d1d9dc] f{border_none}
-1x Ugin, the Spirit Dragon [411e8228-b594-4af8-8008-c6c8c815d254] f{border_none}
-1x Ulamog, the Ceaseless Hunger [1192f7a9-102e-4b3a-b154-18c8eb332217] f{border_none}
-1x Unburial Rites [e639e1cc-9d6d-4c96-95a5-6ab8554889ce] f{border_none}
-1x Urza, Lord High Artificer [9e7fb3c0-5159-4d1f-8490-ce4c9a60f567] f{border_none}
-1x Usher of the Fallen [d7811579-0d01-4fae-b621-98eb6c0355f6] f{border_none}
-1x Valki, God of Lies // Tibalt, Cosmic Impostor [e3e5c965-a689-4726-b8c2-63b836895939] f{border_none}
-1x Vampire Hexmage [47c8e6c4-450b-4f8b-b897-5808fe935a90] f{border_none}
-1x Vendilion Clique [01978fe5-00a9-4add-ae2a-b4c2572ffb9a] f{border_none}
-1x Venerated Loxodon [93599fba-7c53-4621-85b5-6434be077bf6] f{border_none}
-1x Venser, Shaper Savant [c08dabd1-c043-4bcf-afa8-271225a099e1] f{border_none}
-1x Verdant Catacombs [efd97080-c5c7-47db-b605-8bdd06c2dd5a] f{border_none}
-1x Verdurous Gearhulk [39997212-6943-4094-a9f7-cbdfa8938090] f{border_none}
-1x Vindicate [e4978ecd-3c2e-49e2-98e0-0172887e4319] f{border_none}
-1x Vivien, Monsters' Advocate [3e7ce2ee-2ebc-4336-a9f3-02380ea9784b] f{border_none}
-1x Vizier of Many Faces [b2781c44-aa90-4a37-a812-33c643ba4deb] f{border_none}
-1x Voice of Resurgence [99d1e843-71c9-4a65-bc36-d23858ef5ead] f{border_none}
-1x Vorinclex, Monstrous Raider [f6db03ef-db89-43c4-89b4-d48e0620e101] f{border_none}
-1x Walking Ballista [5272436e-74f0-44c4-a291-ea8ebc3f1525] f{border_none}
-1x Wall of Omens [f5c2aad9-1dc4-4e33-a630-9b828de1ed20] f{border_none}
-1x Wandering Fumarole [dd0ee251-6c79-499b-8366-c281c989b061] f{border_none}
-1x Watery Grave [af6d2e24-9467-4aa6-8841-7716d051edf7] f{border_none}
-1x Westvale Abbey // Ormendahl, Profane Prince [c1f53d7a-9dad-46e8-b686-cd1362867445] f{border_none}
-1x Whip of Erebos [a67b5770-3b52-4f43-9db3-71224c9bebd2] f{border_none}
-1x Whirler Rogue [6bf5a7b6-62ef-48c5-b081-a6f0ca917d16] f{border_none}
-1x Whisperwood Elemental [66c61828-98b9-4264-b3dd-e83f881f4a67] f{border_none}
-1x Wilt-Leaf Liege [0a0bcfad-cb7e-4b12-b308-a4a1245bd835] f{border_none}
-1x Windbrisk Heights [ec7f0e60-8fa4-4eab-8465-baf4e5e8196b] f{border_none}
-1x Windswept Heath [63c59228-c742-4abd-b4d7-9f7880190e95] f{border_none}
-1x Woe Strider [05500b14-d36d-49b3-82b0-d0c533d4ec00] f{border_none}
-1x Wolfwillow Haven [cfc4be7b-a948-464d-8327-575ccb7dccf3] f{border_none}
-1x Wooded Foothills [1066a94a-8e4f-4d77-820b-7a77a18116f0] f{border_none}
-1x Woodfall Primus [5da88d23-8650-4b55-a3f9-e964427660ed] f{border_none}
-1x Woodland Cemetery [ba05cf47-9823-41f9-b893-321ea89e473e] f{border_none}
-1x Wrath of God [664e6656-36a3-4635-9f33-9f8901afd397] f{border_none}
-1x Wurmcoil Engine [6927d6d4-93fe-4ded-b091-a0c671c1716b] f{border_none}
-1x Xenagos, the Reveler [3aecfe99-9c4b-4087-84ee-fb208fd22820] f{border_none}
-1x Yavimaya Elder [c8511fe7-63f9-4942-8972-d40bf5d7e949] f{border_none}
-1x Yawgmoth, Thran Physician [8690cbcc-f8fd-41f7-9e28-e61c12b04014] f{border_none}
-1x Yorion, Sky Nomad [77b05368-1661-42de-9319-bbe987d27327] f{border_none}
-1x Young Pyromancer [2dd80b9f-5c35-438b-ba52-da0e3e8ff781] f{border_none}
-1x Zealous Conscripts [df3784d4-80cd-4f78-afb3-d61f3bab5b2c] f{border_none}
-1x Zurgo Bellstriker [bbac6d75-59ab-4d7d-87ae-46875abf8cc7] f{border_none}
+1x Abbot of Keral Keep id:[cb7a2770-9a20-4f52-aac4-24502f50e374] set:[ORI] no:[127] fb:[border_creature_b] tags:[]
+1x Abrade id:[4f984662-8fe0-42eb-8031-89c80315dede] set:[CMR] no:[659] fb:[border_spell_full] tags:[]
+1x Abrupt Decay id:[a8e328c6-3a84-49cf-a1a3-1d1e5373d274] set:[MM3] no:[146] fb:[border_spell_b] tags:[]
+1x Acidic Slime id:[551afb4c-17e8-424f-ace3-b2c184b16b2a] set:[CMR] no:[673] fb:[border_creature_full] tags:[]
+1x Adanto Vanguard id:[21c950d7-b4f6-4902-8c9a-98f2933f9fa5] set:[XLN] no:[1] fb:[border_creature] tags:[]
+1x Aethersphere Harvester id:[4160bb5f-4b49-4535-94f5-776d7abd1d1a] set:[AER] no:[142] fb:[border_none] tags:[]
+1x Agadeem's Awakening // Agadeem, the Undercrypt id:[499c2b20-e83e-40ff-919e-1d134ad50c0a] set:[ZNR] no:[336] fb:[border_spell_full_mdfc] tags:[]
+1x Ahn-Crop Crasher id:[dd5db68c-24d5-44ce-9809-e446f26fac5d] set:[AKH] no:[117] fb:[border_creature] tags:[]
+1x Ajani Vengeant id:[8fc108a3-15e5-44ab-a6e2-182b309f9c0c] set:[ALA] no:[154] fb:[border_planeswalker] tags:[]
+1x All Is Dust id:[c0c9f6dd-308e-4c91-8bcc-975d273a0a33] set:[MM2] no:[1] fb:[border_spell_b] tags:[]
+1x Alrund's Epiphany id:[6dd24105-4202-4690-bb62-16d0b9c291c9] set:[KHM] no:[295] fb:[border_spell_super_full] tags:[]
+1x Anax, Hardened in the Forge id:[badac9b4-bfaf-4b02-a48a-ec141393566c] set:[THB] no:[264] fb:[border_creature_legendary] tags:[]
+1x Ancestral Vision id:[307752ed-f4cc-4e2d-a0fd-0c677844e848] set:[JVC] no:[21] fb:[border_spell_b] tags:[]
+1x Anger of the Gods id:[e2ecae08-bcc6-4074-822c-3dfe1d46ae39] set:[IMA] no:[116] fb:[border_spell_b] tags:[]
+1x Approach of the Second Sun id:[e0d18742-d661-4223-8880-9ed995379b2e] set:[STA] no:[1] fb:[border_spell_mystical_archive_b] tags:[]
+1x Arbor Elf id:[e092bdd5-af65-44ce-8f72-519801115d82] set:[MB1] no:[1124] fb:[border_creature] tags:[]
+1x Archangel Avacyn // Avacyn, the Purifier id:[ae155ee2-008f-4dc6-82bf-476be7baa224] set:[SOI] no:[5] fb:[border_creature] tags:[]
+1x Archon of Cruelty id:[1be9d9a4-d7ee-4854-abc2-85cabf993ec9] set:[MH2] no:[75] fb:[border_creature_b] tags:[]
+1x Arid Mesa id:[245e16ae-4514-42fa-b409-2c3ae084436c] set:[ZNE] no:[9] fb:[border_none] tags:[]
+1x Ashiok, Nightmare Muse id:[c18d2a4a-cfde-434e-85eb-f9aae0da9dce] set:[THB] no:[256] fb:[border_planeswalker_full_b] tags:[]
+1x Ashiok, Nightmare Weaver id:[599c3c9f-dfb7-4357-9d9c-9a1a4616b103] set:[THS] no:[188] fb:[border_planeswalker] tags:[]
+1x Assassin's Trophy id:[906b6e99-128f-4c11-8daf-16099d35b0d4] set:[GRN] no:[152] fb:[border_spell_b] tags:[]
+1x Atris, Oracle of Half-Truths id:[a3085763-e65b-49cb-a4e0-2cbad2658a1b] set:[THB] no:[333] fb:[border_creature_full] tags:[]
+1x Aurelia, Exemplar of Justice id:[a8e9f4d2-bba5-4061-8ae7-a68b912f2c11] set:[GRN] no:[153] fb:[border_creature_b] tags:[]
+1x Avacyn's Pilgrim id:[e9600bdc-6a1b-4f7a-aa7d-538fb89df937] set:[MM3] no:[119] fb:[border_creature] tags:[]
+1x Avenger of Zendikar id:[5c43add9-f948-41fe-b40c-e1d357db5f05] set:[SLD] no:[158] fb:[border_creature_b] tags:[]
+1x Banefire id:[6d418362-aa0c-4e42-b473-f266ec3d0a25] set:[MM2] no:[104] fb:[border_spell_b] tags:[]
+1x Baneslayer Angel id:[0b0974b4-b306-4026-b0a8-22bd9da3e384] set:[M21] no:[340] fb:[border_creature_full] tags:[]
+1x Banishing Light id:[a1ddd113-140f-49c9-b45c-cf1b0d1dffd8] set:[THB] no:[4] fb:[border_spell] tags:[]
+1x Baral, Chief of Compliance id:[60e16d94-1166-4050-8554-686e153a7f80] set:[AER] no:[28] fb:[border_creature_b] tags:[]
+1x Barkchannel Pathway // Tidechannel Pathway id:[87c33c94-4b56-4a96-9c4c-a376f8d54943] set:[KHM] no:[290] fb:[border_none] tags:[]
+1x Batterskull id:[2abc5ac8-b944-4b71-b022-c78183eb92c3] set:[2XM] no:[356] fb:[border_spell_super_full] tags:[]
+1x Beanstalk Giant // Fertile Footsteps id:[49875f7a-31b9-4276-b971-8ead1e18fc81] set:[ELD] no:[295] fb:[border_adventure] tags:[]
+1x Beast Whisperer id:[9da6f595-41b2-4e52-b15a-6ad18e4232c7] set:[GRN] no:[123] fb:[border_creature_b] tags:[]
+1x Beast Within id:[e228bede-5972-4381-969b-9de26e570117] set:[CMR] no:[423] fb:[border_spell] tags:[]
+1x Bedlam Reveler id:[0232f188-44f2-4aee-963c-6f6edc4a21ac] set:[EMN] no:[118] fb:[border_creature_b] tags:[]
+1x Binding the Old Gods id:[d93ee644-d7d7-48d8-a04b-fb479b74edb0] set:[KHM] no:[206] fb:[border_spell] tags:[]
+1x Birds of Paradise id:[feefe9f0-24a6-461c-9ef1-86c5a6f33b83] set:[CN2] no:[176] fb:[border_creature_b] tags:[]
+1x Birgi, God of Storytelling // Harnfel, Horn of Bounty id:[54dccbc0-528c-4e99-a6db-f2373978fe5f] set:[KHM] no:[311] fb:[border_spell_kld_mdfc] tags:[]
+1x Bitterblossom id:[25dd861f-ee63-4d79-b31b-173c9c336426] set:[PUMA] no:[U7] fb:[border_spell_full] tags:[]
+1x Blade Splicer id:[277bc4e5-f43a-4f1e-a7e9-11796e78fcdf] set:[2XM] no:[9] fb:[border_creature_b] tags:[]
+1x Blessed Alliance id:[b5805eab-9a32-4c0c-9015-7bdb74ad7634] set:[EMN] no:[13] fb:[border_spell] tags:[]
+1x Blightstep Pathway // Searstep Pathway id:[3933326a-2014-4ac0-bfd3-8ff26e178920] set:[KHM] no:[291] fb:[border_none] tags:[]
+1x Blink of an Eye id:[ab830392-4d7e-4b45-93cf-35ed1e935228] set:[DOM] no:[46] fb:[border_spell] tags:[]
+1x Blood Crypt id:[399f4d04-65ee-478d-9184-d33bb355e726] set:[EXP] no:[8] fb:[border_spell_b] tags:[]
+1x Bloodbraid Elf id:[a646dbd4-07a3-44c5-ab24-2655c5fe9562] set:[MB1] no:[1402] fb:[border_creature] tags:[]
+1x Bloodchief's Thirst id:[f7be5c0a-b538-4bc5-89c7-f5a81de7ccc3] set:[ZNR] no:[388] fb:[border_spell_b] tags:[]
+1x Bloodghast id:[730c521f-ba12-48fb-b18f-6bb55423a551] set:[IMA] no:[82] fb:[border_creature_b] tags:[]
+1x Bloodstained Mire id:[ed7bcbf1-9045-4810-93fa-9918c45856ca] set:[ZNE] no:[3] fb:[border_none] tags:[]
+1x Bomat Courier id:[425bff89-ad15-4d22-bce9-a4a07dbafd87] set:[KLD] no:[199] fb:[border_creature_b] tags:[]
+1x Bone Shards id:[1ee98955-4c47-4d45-9377-608dfa755337] set:[MH2] no:[76] fb:[border_spell] tags:[]
+1x Bone Shredder id:[63d0b5f0-ed45-4b30-9c24-1c12011e3513] set:[MH2] no:[272] fb:[border_creature] tags:[]
+1x Bonecrusher Giant // Stomp id:[ff984a4c-1818-4f8f-a9d7-fce57e77937d] set:[ELD] no:[291] fb:[border_adventure] tags:[]
+1x Bonfire of the Damned id:[cf4f47a9-1c23-4d63-bb89-83c889615e50] set:[MM3] no:[91] fb:[border_spell_b] tags:[]
+1x Branchloft Pathway // Boulderloft Pathway id:[738ebafa-04be-4ba9-ae65-5f85e00c645a] set:[ZNR] no:[284] fb:[border_none] tags:[]
+1x Brazen Borrower // Petty Theft id:[d42a57b2-fbe9-4024-a593-f6dc711a2e9d] set:[ELD] no:[281] fb:[border_adventure] tags:[]
+1x Breeding Pool id:[045d22eb-b291-4bbe-b468-32bdf8b6eba6] set:[EXP] no:[15] fb:[border_spell_b] tags:[]
+1x Bribery id:[99c7c1d0-dc6b-413f-8346-54728a4c7b14] set:[J13] no:[2] fb:[border_basic_high] tags:[]
+1x Brightclimb Pathway // Grimclimb Pathway id:[eb55e544-ab9d-403d-93ee-19e792a256c5] set:[ZNR] no:[285] fb:[border_none] tags:[]
+1x Brimaz, King of Oreskos id:[f54eb705-6326-4bac-bf0e-68d42db7a270] set:[BNG] no:[5] fb:[border_basic_high] tags:[]
+1x Burst Lightning id:[f2e6428f-5c78-45f7-9bf9-eb4de63325d5] set:[MM2] no:[109] fb:[border_spell] tags:[]
+1x Cabal Coffers id:[6cd01460-901c-4d75-bc29-e97ed26afc39] set:[MH2] no:[325] fb:[border_spell_super_full] tags:[]
+1x Careful Consideration id:[08b7224b-adb9-4c31-b0bb-1c498f2922fb] set:[TSR] no:[56] fb:[border_spell] tags:[]
+1x Cast Out id:[76ff0dd0-489e-4773-93f6-b77fc3b8ef2e] set:[AKH] no:[8] fb:[border_spell] tags:[]
+1x Celestial Colonnade id:[24a76568-a2d4-41a6-88b8-fa5ed4093930] set:[ZNE] no:[23] fb:[border_none] tags:[]
+1x Censor id:[4cb4e315-1a77-479a-9f15-fb23575de805] set:[AKH] no:[46] fb:[border_spell] tags:[]
+1x Chainer, Nightmare Adept id:[d8089e7f-7619-43fe-8e0b-31ce5d988a1b] set:[MH2] no:[289] fb:[border_creature_legendary_b] tags:[]
+1x Champion of Wits id:[d765221d-9718-47eb-aa49-9c0719337139] set:[HOU] no:[31] fb:[border_creature_b] tags:[]
+1x Chandra, Acolyte of Flame id:[2cabfcfe-012e-4cab-bba2-24052eac0946] set:[M20] no:[126] fb:[border_planeswalker_b] tags:[]
+1x Chandra, Torch of Defiance id:[c7bbb911-9de2-455d-9677-e1004db65dbd] set:[SS3] no:[1] fb:[border_none] tags:[]
+1x Char id:[53de6c9a-b7af-45bc-b0f7-41ebd5910cf4] set:[GK1] no:[28] fb:[border_spell_b] tags:[]
+1x Charming Prince id:[dd45820e-39be-448e-b446-44f3ebab555e] set:[ELD] no:[335] fb:[border_creature_full] tags:[]
+1x Chord of Calling id:[dac257a9-39bf-4185-9d2e-f80f0848a96a] set:[2XM] no:[158] fb:[border_spell_b] tags:[]
+1x Chromatic Lantern id:[c7970aee-494f-45c1-9842-04632ad27313] set:[MPS] no:[8] fb:[border_spell_b] tags:[]
+1x City of Brass id:[459042ef-0d5b-480f-9b8a-520e13ae9217] set:[MMA] no:[221] fb:[border_basic_high] tags:[]
+1x Clattering Augur id:[a22dd28d-eb65-410a-af17-51b5064c6033] set:[MH2] no:[79] fb:[border_creature] tags:[]
+1x Clearwater Pathway // Murkwater Pathway id:[b0fe4b53-18f6-42eb-b03f-cab3e5a7fba6] set:[ZNR] no:[286] fb:[border_none] tags:[]
+1x Clifftop Retreat id:[e0b52b9c-7278-46b4-9f3c-3a7fc0c7e526] set:[DOM] no:[239] fb:[border_spell_b] tags:[]
+1x Cloudgoat Ranger id:[6dfaa74a-0ef0-44bb-b8b5-6d121278b5a2] set:[KHC] no:[21] fb:[border_creature] tags:[]
+1x Coalition Relic id:[a9fae620-8fa5-44db-8326-11cb323c626e] set:[TSR] no:[266] fb:[border_spell_b] tags:[]
+1x Collected Company id:[cfa7b456-7e83-4587-a875-9b35fde318c2] set:[DTK] no:[177] fb:[border_spell_b] tags:[]
+1x Collective Brutality id:[cb94a02f-4660-45b6-8a39-941b710cf8f3] set:[EMN] no:[85] fb:[border_spell_b] tags:[]
+1x Collective Defiance id:[8960883f-3813-412b-9a5b-f8cf8d566fac] set:[EMN] no:[123] fb:[border_spell_b] tags:[]
+1x Compulsive Research id:[0f578fbf-c3c7-4407-9fda-3c13b165798c] set:[STA] no:[14] fb:[border_spell_mystical_archive_b] tags:[]
+1x Conclave Tribunal id:[9d9fda5d-df8f-45d6-b8f0-33f903c4bf83] set:[GRN] no:[6] fb:[border_spell] tags:[]
+1x Condemn id:[b28100b4-f4ee-4e1c-be50-508dd01e846a] set:[ZNC] no:[12] fb:[border_spell] tags:[]
+1x Consecrated Sphinx id:[030e46a1-64a7-47e3-9b9f-82a22fe3734b] set:[IMA] no:[47] fb:[border_creature_b] tags:[]
+1x Counterspell id:[ffdf9d2a-c163-43df-9a2f-20b8749c86ae] set:[STA] no:[15] fb:[border_spell_mystical_archive_b] tags:[]
+1x Courser of Kruphix id:[59592a53-c5a5-4e0c-8b91-b2431fa84b07] set:[MB1] no:[1169] fb:[border_creature_b] tags:[]
+1x Cragcrown Pathway // Timbercrown Pathway id:[050602c0-b5b7-4076-af33-0f7a58d0b260] set:[ZNR] no:[287] fb:[border_none] tags:[]
+1x Crater's Claws id:[95dde66b-b4a1-4a1e-8c9e-0bec4790b1e5] set:[KTK] no:[106] fb:[border_spell_b] tags:[]
+1x Craterhoof Behemoth id:[44afd414-cc69-4888-ba12-7ea87e60b1f7] set:[JMP] no:[385] fb:[border_creature_b] tags:[]
+1x Creeping Tar Pit id:[3272a554-8509-40b2-ac39-c906b1366275] set:[ZNE] no:[24] fb:[border_none] tags:[]
+1x Cryptbreaker id:[629e37d1-c0f3-44f2-926e-41eb3687c1d9] set:[EMN] no:[86] fb:[border_creature_b] tags:[]
+1x Cryptic Command id:[30f6fca9-003b-4f6b-9d6e-1e88adda4155] set:[IMA] no:[48] fb:[border_spell_b] tags:[]
+1x Cultivate id:[31233339-c5ec-40fb-badd-94ef7f0ff7c0] set:[M21] no:[317] fb:[border_spell_super_full] tags:[]
+1x Cyclonic Rift id:[f9baef6e-a086-41d4-a20e-486f01d72406] set:[2XM] no:[339] fb:[border_spell_super_full] tags:[]
+1x Damn id:[402060d4-10d6-4cee-aa8b-cd083bf5df43] set:[MH2] no:[449] fb:[border_spell_full] tags:[]
+1x Damnation id:[941b65da-b9b3-4e15-bab5-bcbfd20dbe05] set:[TSR] no:[106] fb:[border_spell_b] tags:[]
+1x Dark Confidant id:[6c821158-f71a-48f9-b6b4-b0e605f22bec] set:[2XM] no:[342] fb:[border_creature_super_full] tags:[]
+1x Darkbore Pathway // Slitherbore Pathway id:[501ceec3-c196-4db4-980d-31edf6232acf] set:[KHM] no:[292] fb:[border_none] tags:[]
+1x Dauthi Voidwalker id:[29632951-3c3d-478c-8c5a-9a34f30a5c28] set:[MH2] no:[450] fb:[border_creature_full] tags:[]
+1x Declaration in Stone id:[f685445d-e2af-455f-b3b2-97cf15362f3c] set:[SOI] no:[12] fb:[border_spell_b] tags:[]
+1x Delver of Secrets // Insectile Aberration id:[28059d09-2c7d-4c61-af55-8942107a7c1f] set:[V17] no:[7] fb:[border_creature] tags:[]
+1x Den Protector id:[f6c1c367-35a9-4932-86a6-d63d3b9b326a] set:[C19] no:[161] fb:[border_creature_b] tags:[]
+1x Devoted Druid id:[5c8a8dbb-cba7-4e1d-8888-73ab6f4aff07] set:[UMA] no:[162] fb:[border_creature] tags:[]
+1x Disallow id:[25f05814-a5a5-460f-9d29-0ab03efecf4c] set:[AER] no:[31] fb:[border_spell_b] tags:[]
+1x Dismember id:[3d286cf6-3e16-4941-9326-1818b1e06d69] set:[MM2] no:[79] fb:[border_spell] tags:[]
+1x Dissolve id:[b4fb87ab-8595-459a-a5f2-087296d9b120] set:[IMA] no:[51] fb:[border_spell] tags:[]
+1x Domri, Anarch of Bolas id:[c1af9881-e35b-4be2-8716-ea7c6664e22c] set:[WAR] no:[191] fb:[border_planeswalker_b] tags:[]
+1x Doom Blade id:[7e6c0fe2-a82b-42cb-8629-b9f00b7f08e9] set:[STA] no:[28] fb:[border_spell_mystical_archive_b] tags:[]
+1x Doom Whisperer id:[0a11ee0d-ff8d-4648-8b4e-29440c135c30] set:[GRN] no:[69] fb:[border_creature_b] tags:[]
+1x Dragon's Rage Channeler id:[4ced112a-e775-4f97-97b3-74877e9dce12] set:[MH2] no:[121] fb:[border_creature] tags:[]
+1x Dragonlord Atarka id:[ce0c3b45-cf1d-4d85-9fe3-fb26b4b15dfd] set:[DTK] no:[216] fb:[border_creature_b] tags:[]
+1x Dragonlord Silumgar id:[2eae504d-d4a9-440f-8ceb-df967cc50494] set:[DTK] no:[220] fb:[border_creature_b] tags:[]
+1x Dragonskull Summit id:[91570836-9e36-4774-8d5d-7cbcee0012ba] set:[XLN] no:[252] fb:[border_spell_b] tags:[]
+1x Dreadbore id:[6390e641-0ecd-46ea-b6eb-f7e638d61cfd] set:[GK2] no:[63] fb:[border_spell_b] tags:[]
+1x Dreadhorde Arcanist id:[fd97b3cf-924e-4f77-bb82-0bf19592389f] set:[WAR] no:[125] fb:[border_creature_b] tags:[]
+1x Dream Trawler id:[ea1072d6-afda-4282-8dff-06a76ceb447d] set:[THB] no:[336] fb:[border_creature_full] tags:[]
+1x Dromoka's Command id:[df1e43a8-0adc-4e26-bc56-6b914bd35838] set:[DTK] no:[221] fb:[border_spell_b] tags:[]
+1x Drowned Catacomb id:[8ef728f1-5153-47d6-8f9c-dfd473ee0750] set:[XLN] no:[253] fb:[border_spell_b] tags:[]
+1x Dryad of the Ilysian Grove id:[22e22287-21c5-4733-a527-b176fbf3725d] set:[SLD] no:[191] fb:[border_creature_super_full] tags:[]
+1x Dungeon Geists id:[d3c81fda-c23d-437c-85f0-62d7b492ea32] set:[M20] no:[57] fb:[border_creature_b] tags:[]
+1x Duplicant id:[1a79eebd-89bf-49a2-9c22-f86af934633a] set:[MPS] no:[35] fb:[border_creature_b] tags:[]
+1x Duress id:[5bb89f3f-f3b0-402d-9f3c-5b4b8a9d1e91] set:[STA] no:[29] fb:[border_spell_mystical_archive] tags:[]
+1x Earthshaker Khenra id:[0d60eabe-b281-4eba-9c26-287364ed2067] set:[HOU] no:[90] fb:[border_creature_b] tags:[]
+1x Eidolon of Obstruction id:[02694fb6-7695-4296-b5d6-cfe60829f1e7] set:[THB] no:[299] fb:[border_creature_full] tags:[]
+1x Eidolon of the Great Revel id:[183ef738-0559-49ca-85b4-e6836521f203] set:[A25] no:[128] fb:[border_creature_b] tags:[]
+1x Elder Gargaroth id:[8ee9b3ad-0774-4952-b49b-be390182b245] set:[M21] no:[373] fb:[border_creature_full] tags:[]
+1x Electrolyze id:[08a4d142-b98b-4027-94cb-314f67fb1d4a] set:[STA] no:[60] fb:[border_spell_mystical_archive_b] tags:[]
+1x Elesh Norn, Grand Cenobite id:[78c2bfef-06a5-4c7f-8283-ea3fb673b7a1] set:[IMA] no:[18] fb:[border_creature_b] tags:[]
+1x Elite Spellbinder id:[25608957-fe71-4ed7-9c55-fb7f2fcf103e] set:[STX] no:[289] fb:[border_creature_full] tags:[]
+1x Elspeth Conquers Death id:[ea20208b-1939-4c69-8cfd-c0a42f9dc427] set:[THB] no:[13] fb:[border_spell_c] tags:[]
+1x Elspeth, Sun's Champion id:[fd5b1633-c41d-42b1-af1b-4a872077ffbd] set:[THS] no:[9] fb:[border_planeswalker] tags:[]
+1x Elspeth, Sun's Nemesis id:[fedff53b-b5c7-470e-bb66-797d5d20b983] set:[THB] no:[255] fb:[border_planeswalker_full_b] tags:[]
+1x Elvish Mystic id:[d618c3ea-f823-4fe0-8e11-65d5965528d3] set:[DDU] no:[7] fb:[border_creature] tags:[]
+1x Embercleave id:[939b8bcc-b9ac-4d8c-9db4-2bf91a853f03] set:[ELD] no:[359] fb:[border_spell_full] tags:[]
+1x Embereth Shieldbreaker // Battle Display id:[13b553f1-8107-42a8-841a-91adf71cff72] set:[ELD] no:[292] fb:[border_adventure] tags:[]
+1x Essence Scatter id:[5f79c8a0-291e-4e13-b765-4cf8c726cf30] set:[IKO] no:[49] fb:[border_spell] tags:[]
+1x Eternal Witness id:[47961be7-f8c8-4aa0-afa1-51a20a129406] set:[PUMA] no:[U16] fb:[border_creature_full] tags:[]
+1x Everflowing Chalice id:[9cd8112f-21e0-4272-9f0d-14d1ef989779] set:[2XM] no:[254] fb:[border_spell] tags:[]
+1x Expansion // Explosion id:[e0644c92-4d67-475e-8c8e-0e2c493682fb] set:[GRN] no:[224] fb:[border_split] tags:[]
+1x Experimental Frenzy id:[4b8f32e2-5dc8-4f1b-8a69-d3ae06378ed8] set:[GRN] no:[99] fb:[border_spell_b] tags:[]
+1x Expressive Iteration id:[31b770cc-09e7-4c0b-b2a4-462ab4f7200d] set:[STX] no:[186] fb:[border_spell] tags:[]
+1x Exquisite Firecraft id:[42eca98e-a164-4f70-a0b0-7a604863f30b] set:[ORI] no:[143] fb:[border_spell_b] tags:[]
+1x Extinction Event id:[3cb788cd-a6ab-44a9-adcf-13bdfc3be2e8] set:[IKO] no:[321] fb:[border_spell_full] tags:[]
+1x Fabled Passage id:[57645743-27fa-4a75-9511-acfc32dd349a] set:[ELD] no:[391] fb:[border_spell_full] tags:[]
+1x Fact or Fiction id:[8fb642e0-a390-4079-b349-ff0ec29c610e] set:[CMR] no:[634] fb:[border_spell_full] tags:[]
+1x Fairgrounds Warden id:[49b6c8f3-76b7-4954-8608-023304cdec3e] set:[KLD] no:[13] fb:[border_creature] tags:[]
+1x Faith's Fetters id:[1c8e887e-bf53-44e3-b3e5-d00d8974d0b3] set:[UMA] no:[16] fb:[border_spell] tags:[]
+1x Faithless Looting id:[4e0865d7-3325-489f-bbe6-b7d2a43c23af] set:[UMA] no:[128] fb:[border_spell] tags:[]
+1x Fallen Shinobi id:[900c9dfd-ece1-4b09-a801-0fa05e1994b9] set:[MH1] no:[199] fb:[border_creature_b] tags:[]
+1x Farseek id:[061f0032-eb14-4c63-8231-aa61472396c2] set:[C19] no:[165] fb:[border_spell] tags:[]
+1x Fatal Push id:[b9a50516-a20f-4e6e-b4f2-0049b673f942] set:[2XM] no:[343] fb:[border_spell_super_full] tags:[]
+1x Field of Ruin id:[3e84e179-9d59-4d08-8a36-51ad2fc32ae3] set:[THB] no:[242] fb:[border_spell] tags:[]
+1x Figure of Destiny id:[2019a4dd-a2cb-47a0-a1d5-da40d42013f3] set:[MMA] no:[189] fb:[border_basic_high] tags:[]
+1x Find // Finality id:[1e4e9e35-6cbc-4997-beff-d1a22d87545e] set:[GRN] no:[225] fb:[border_split] tags:[]
+1x Flame Slash id:[15affc1b-2ebb-4934-87a2-10e89eafe894] set:[CN2] no:[157] fb:[border_spell] tags:[]
+1x Flame Spill id:[b3090004-d7dd-47bc-92e5-977be4fd9ae5] set:[IKO] no:[117] fb:[border_spell] tags:[]
+1x Flametongue Yearling id:[33ab05b5-d6f5-439c-9aed-1a58ceb282ad] set:[MH2] no:[125] fb:[border_creature] tags:[]
+1x Flay Essence id:[297eaa16-890b-41dc-a470-fa8c313e6e1b] set:[MH2] no:[85] fb:[border_spell] tags:[]
+1x Flickerwisp id:[5f0ed8ee-d6ea-469c-a575-6643d3995f54] set:[2XM] no:[16] fb:[border_creature] tags:[]
+1x Flooded Strand id:[acc4115b-4bbb-4bb7-81c6-466130982a9c] set:[ZNE] no:[1] fb:[border_none] tags:[]
+1x Force of Negation id:[e9be371c-c688-44ad-ab71-bd4c9f242d58] set:[MH1] no:[52] fb:[border_spell_b] tags:[]
+1x Foundation Breaker id:[4f08381e-34f5-4d08-b737-8c37964719e0] set:[MH2] no:[160] fb:[border_creature] tags:[]
+1x Frost Titan id:[ef8073af-bd3d-48f1-99d4-d216e3f1ff60] set:[SLD] no:[220] fb:[border_none] tags:[]
+1x Gadwick, the Wizened id:[e73b89ce-fdb2-4730-b87c-e23aa131be24] set:[ELD] no:[344] fb:[border_creature_full] tags:[]
+1x Garruk Relentless // Garruk, the Veil-Cursed id:[b4160322-ff40-41a4-887a-73cd6b85ae45] set:[ISD] no:[181] fb:[border_planeswalker] tags:[]
+1x Garruk Wildspeaker id:[08cf7ee6-ba30-42cd-a5b3-fd2fe7252f11] set:[CMD] no:[157] fb:[border_planeswalker] tags:[]
+1x Garruk, Apex Predator id:[543515aa-4b8c-437c-89aa-56dd57a4a6d5] set:[MED] no:[WS5] fb:[border_planeswalker_full_b] tags:[]
+1x Garruk, Primal Hunter id:[79cfc0d7-fccb-47fb-87b6-08dd32528be6] set:[C21] no:[190] fb:[border_planeswalker_b] tags:[]
+1x Gavony Township id:[74d53774-f654-4c86-9261-b676d332e41e] set:[C20] no:[276] fb:[border_spell_b] tags:[]
+1x Geist of Saint Traft id:[c6554820-e501-44d4-9141-7c83f81d3fd7] set:[2XM] no:[197] fb:[border_creature_b] tags:[]
+1x Gemrazer id:[d75546a5-81fd-41c1-a081-d8980f6bd60a] set:[IKO] no:[295] fb:[border_creature_super_full] tags:[]
+1x Genesis Hydra id:[49f0118e-4449-4394-b4c1-5b4f83d7bc4a] set:[IMA] no:[163] fb:[border_creature_b] tags:[]
+1x Genesis Wave id:[5007919b-27d3-46e7-a588-ce796709d565] set:[IMA] no:[164] fb:[border_spell_b] tags:[]
+1x Geralf's Messenger id:[bffaad78-97ff-431f-bfb0-e96c7558f974] set:[DKA] no:[63] fb:[border_basic_high] tags:[]
+1x Geyadrone Dihada id:[69ef067b-58ac-4b88-a983-83316d157fcb] set:[MH2] no:[305] fb:[border_planeswalker_full_b] tags:[]
+1x Gideon Jura id:[8532d72a-b2d2-49e1-85ea-35f4c91c6c8d] set:[SS2] no:[1] fb:[border_none] tags:[]
+1x Gideon, Ally of Zendikar id:[187e887c-c39d-4d25-a506-cdc95fc70316] set:[BFZ] no:[29] fb:[border_planeswalker_b] tags:[]
+1x Gifted Aetherborn id:[abceb4fd-e3c5-400d-af7a-6dd17108a4b4] set:[AER] no:[61] fb:[border_creature] tags:[]
+1x Gifts Ungiven id:[024f73a3-4a01-4cfc-957a-8023ba642f21] set:[SS1] no:[5] fb:[border_none] tags:[]
+1x Gilded Goose id:[d274723a-27f3-49ec-ade0-d0b5e0e87d84] set:[ELD] no:[369] fb:[border_creature_full] tags:[]
+1x Gilded Lotus id:[a487e208-8493-4bca-8c44-284d89c66b15] set:[DOM] no:[215] fb:[border_spell_b] tags:[]
+1x Giver of Runes id:[4e117771-5a8b-4812-b487-32ba34b7f724] set:[MH1] no:[13] fb:[border_creature_b] tags:[]
+1x Glacial Fortress id:[cef133d9-26d2-4a1e-8d6a-829f1067c169] set:[XLN] no:[255] fb:[border_spell_b] tags:[]
+1x Glass Casket id:[2728180c-c24d-4deb-a901-ae90232ad45d] set:[ELD] no:[393] fb:[border_spell_b] tags:[]
+1x Glen Elendra Archmage id:[bd9af767-42da-46c7-a2b8-3957b2e3063f] set:[UMA] no:[58] fb:[border_creature_b] tags:[]
+1x Glorious Anthem id:[a3ba79d6-7da0-46ba-a26a-dc484bdae41d] set:[M21] no:[341] fb:[border_spell_full] tags:[]
+1x Glorybringer id:[67d0e96d-047a-457b-a88a-4504888a6d0a] set:[PAKH] no:[134] fb:[border_creature_b] tags:[]
+1x Go for the Throat id:[8185ecd0-2fdf-4d8b-a396-d5db593985b9] set:[MB1] no:[670] fb:[border_spell] tags:[]
+1x Goblin Cratermaker id:[86ecaedc-08f1-4de7-aae8-056df57940e0] set:[GRN] no:[103] fb:[border_creature] tags:[]
+1x Goblin Guide id:[62d2058c-3f20-4566-b366-93a2cbbe682f] set:[2XM] no:[347] fb:[border_creature_super_full] tags:[]
+1x Goblin Rabblemaster id:[aab03d01-ec92-473d-b983-18cf5f06ff39] set:[SLD] no:[215] fb:[border_creature_super_full] tags:[]
+1x Godless Shrine id:[db192c30-d28a-431c-ba46-1e3d9d3da3f4] set:[EXP] no:[11] fb:[border_spell_b] tags:[]
+1x Goldspan Dragon id:[a7cec498-e2ac-4ca0-9aa2-ef98ba634c32] set:[KHM] no:[358] fb:[border_creature_b] tags:[]
+1x Golos, Tireless Pilgrim id:[1fa48620-4c3d-4f75-be1f-c12c4aa59f51] set:[M20] no:[226] fb:[border_creature_b] tags:[]
+1x Gonti, Lord of Luxury id:[7735ecda-9bb0-4ef9-86b2-16e5b6592e61] set:[KLD] no:[84] fb:[border_creature_b] tags:[]
+1x Grave Titan id:[8f1a018f-ce08-428b-9be2-937204dd25c2] set:[SLD] no:[223] fb:[border_none] tags:[]
+1x Gravecrawler id:[3c189fe5-a5f9-4057-bb70-0a88ae3169de] set:[DDQ] no:[59] fb:[border_creature_b] tags:[]
+1x Gray Merchant of Asphodel id:[7c1a7dd8-8034-4f59-a351-33666b26ff5a] set:[THB] no:[99] fb:[border_creature] tags:[]
+1x Grim Lavamancer id:[ee2a0d71-15a2-4061-b5f2-434755094aa4] set:[2XM] no:[129] fb:[border_creature_b] tags:[]
+1x Griselbrand id:[cf2a5c2e-7fe1-45eb-b01c-891ab961186f] set:[MM3] no:[72] fb:[border_creature_b] tags:[]
+1x Grist, the Hunger Tide id:[808a3770-057a-4985-ba5c-870d7b1cd527] set:[MH2] no:[306] fb:[border_planeswalker_full_b] tags:[]
+1x Gut Shot id:[461987da-8860-4a04-8f93-d182523ca311] set:[MM2] no:[117] fb:[border_spell] tags:[]
+1x Hallowed Fountain id:[3eef85b2-3e5f-45e1-b669-ad152e55fa6d] set:[EXP] no:[6] fb:[border_spell_b] tags:[]
+1x Hangarback Walker id:[c246b845-dfca-47a3-aa56-074d30590320] set:[MPS] no:[13] fb:[border_creature_b] tags:[]
+1x Harbinger of the Tides id:[90f648d2-27be-4414-9e0a-5a3e4d5067ce] set:[DDT] no:[7] fb:[border_creature_b] tags:[]
+1x Hard Evidence id:[501599d6-1072-4124-b05d-01f96de153f3] set:[MH2] no:[46] fb:[border_spell] tags:[]
+1x Harmonize id:[9e1f1110-0919-49cd-8b5b-979b2744fd3c] set:[STA] no:[52] fb:[border_spell_mystical_archive_b] tags:[]
+1x Hazoret the Fervent id:[36ed9f9d-99a7-49f4-b0ad-d71355809d32] set:[AKH] no:[136] fb:[border_creature_b] tags:[]
+1x Heartless Act id:[e4e6794a-feeb-4fc8-a2ee-38c75c18aaae] set:[IKO] no:[91] fb:[border_spell] tags:[]
+1x Hedron Archive id:[2519149c-f8a3-413f-b7b2-cd596970be4c] set:[BFZ] no:[223] fb:[border_spell] tags:[]
+1x Hengegate Pathway // Mistgate Pathway id:[b851c41b-ed73-4ee4-9063-544f97f35f67] set:[KHM] no:[293] fb:[border_none] tags:[]
+1x Hero of Bladehold id:[8a3853ec-e307-46e0-96d7-0706b5c45c5e] set:[MBS] no:[8] fb:[border_basic_high] tags:[]
+1x Hero of Oxid Ridge id:[1a516bce-3d2d-4e0f-afc7-27be3d88848c] set:[MBS] no:[66] fb:[border_basic_high] tags:[]
+1x Hero's Downfall id:[ed96b05d-b2ca-4c8f-969b-cac9b4562fab] set:[SLD] no:[312] fb:[border_spell_super_full] tags:[]
+1x Hidden Dragonslayer id:[87c760a8-e051-4584-ae1b-178164b84427] set:[DTK] no:[23] fb:[border_creature_b] tags:[]
+1x Hinterland Harbor id:[d631d040-51e9-4540-91e7-aeb5ade84090] set:[DOM] no:[240] fb:[border_spell_b] tags:[]
+1x Hissing Quagmire id:[6ef11b54-205a-48e9-92d0-5d416be869ef] set:[OGW] no:[171] fb:[border_spell_b] tags:[]
+1x History of Benalia id:[d134385d-b01c-41c7-bb2d-30722b44dc5a] set:[DOM] no:[21] fb:[border_spell_c] tags:[]
+1x Honor of the Pure id:[3831cb3b-0983-403b-9e0a-4720222817c4] set:[M11] no:[17] fb:[border_basic_high] tags:[]
+1x Hornet Queen id:[d245cb84-56aa-47a1-aa3a-17ffded57e15] set:[C21] no:[193] fb:[border_creature_b] tags:[]
+1x Huntmaster of the Fells // Ravager of the Fells id:[4d553078-afaf-42db-879b-fb4cb4d25742] set:[V17] no:[11] fb:[border_creature] tags:[]
+1x Hydroid Krasis id:[801dd9c6-b159-4e1c-af2c-214c1f573633] set:[RNA] no:[183] fb:[border_creature_b] tags:[]
+1x Ignoble Hierarch id:[aba51852-af8f-49d8-8fb6-22d52a1742b8] set:[MH2] no:[166] fb:[border_creature_b] tags:[]
+1x Immersturm Predator id:[3d222d66-137b-4707-b28a-a23549b1ee35] set:[KHM] no:[367] fb:[border_creature_full] tags:[]
+1x Imperial Recruiter id:[ce0dbf20-bb76-4f4b-960f-68bbb99bde33] set:[MH2] no:[314] fb:[border_creature_super_full] tags:[]
+1x Incinerate id:[f23dff46-e040-4cba-890a-97c2899701f2] set:[JVC] no:[51] fb:[border_spell] tags:[]
+1x Inevitable Betrayal id:[adb9a0f9-0af6-42ac-9e42-f315f4882939] set:[MH2] no:[446] fb:[border_spell_full] tags:[]
+1x Inferno Titan id:[be293048-1df6-4df4-869c-b3b19534b35b] set:[SLD] no:[224] fb:[border_none] tags:[]
+1x Inquisition of Kozilek id:[56995b84-2307-4955-9c7c-dc4f04acdc07] set:[CN2] no:[140] fb:[border_spell_b] tags:[]
+1x Isolated Chapel id:[a1d95d37-5dbe-4a25-bc80-a4db08f3c63a] set:[DOM] no:[241] fb:[border_spell_b] tags:[]
+1x Jace Beleren id:[de8a1c0e-23fc-4d27-925f-cc560548ccba] set:[SS1] no:[1] fb:[border_none] tags:[]
+1x Jace, the Mind Sculptor id:[a5d1f66f-75b5-4a9b-8b98-f237f065de9c] set:[MED] no:[WS3] fb:[border_planeswalker_full_b] tags:[]
+1x Jace, Vryn's Prodigy // Jace, Telepath Unbound id:[02d6d693-f1f3-4317-bcc0-c21fa8490d38] set:[ORI] no:[60] fb:[border_none] tags:[]
+1x Jadelight Ranger id:[9fe5c719-f20d-4469-9750-fb689d5f3fc8] set:[RIX] no:[136] fb:[border_creature_b] tags:[]
+1x Journey to Nowhere id:[4686b51c-e02b-48c1-bafe-e8d08a5407b9] set:[CMD] no:[17] fb:[border_basic_high] tags:[]
+1x Kaleidoscorch id:[a5f07603-fd79-437a-9b12-495fc5a39b68] set:[MH2] no:[133] fb:[border_spell] tags:[]
+1x Kalitas, Traitor of Ghet id:[17a278d0-f601-4d57-bc3d-2972f8602a69] set:[OGW] no:[86] fb:[border_creature_b] tags:[]
+1x Kari Zev, Skyship Raider id:[72495879-39ce-449d-ad2f-ef32ea46f3aa] set:[AER] no:[87] fb:[border_creature_b] tags:[]
+1x Karn Liberated id:[96d1a254-01a8-4590-8878-690c5bfb4a95] set:[2XM] no:[333] fb:[border_planeswalker_full_b] tags:[]
+1x Karn, Scion of Urza id:[0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9] set:[MED] no:[RA1] fb:[border_planeswalker_full_b] tags:[]
+1x Kaya's Guile id:[179bd74b-c458-49d6-90ac-6075454e43dd] set:[MH1] no:[205] fb:[border_spell_b] tags:[]
+1x Keranos, God of Storms id:[93c13445-60e3-43a0-a56a-de91c6442367] set:[SLD] no:[79] fb:[border_creature_legendary_b] tags:[]
+1x Kessig Wolf Run id:[b1140b05-49cf-49d5-a9a6-dfb2f0d1ec55] set:[C20] no:[284] fb:[border_spell_b] tags:[]
+1x Kiki-Jiki, Mirror Breaker id:[fa701469-a15c-4e45-8455-089bd4040cf1] set:[MM2] no:[121] fb:[border_creature_b] tags:[]
+1x Kinnan, Bonder Prodigy id:[532746e2-f822-4920-ab31-94e0c8baaa84] set:[IKO] no:[338] fb:[border_creature_full] tags:[]
+1x Kitchen Finks id:[763083c4-a1ec-4e90-af70-26b203b369ce] set:[PUMA] no:[U27] fb:[border_creature_full] tags:[]
+1x Kitesail Freebooter id:[f62fd592-4910-417d-a500-e7029f3d119f] set:[XLN] no:[110] fb:[border_creature] tags:[]
+1x Klothys, God of Destiny id:[4d747889-04db-4e7a-ad4c-7549514b5112] set:[THB] no:[268] fb:[border_creature_legendary_b] tags:[]
+1x Knight of Autumn id:[3028075c-5fc5-4942-a984-1ffcf7a8933d] set:[GRN] no:[183] fb:[border_creature_b] tags:[]
+1x Knight of the Ebon Legion id:[29425426-7bf2-4872-aa35-c12c22801edd] set:[M20] no:[105] fb:[border_creature_b] tags:[]
+1x Kodama's Reach id:[d3eec2c0-dfe4-489a-a3e3-1bdb94707305] set:[CMR] no:[681] fb:[border_spell_full] tags:[]
+1x Kolaghan's Command id:[6d09be4f-785a-4faf-b03b-ca462cd375ca] set:[MB1] no:[1445] fb:[border_spell_b] tags:[]
+1x Koma, Cosmos Serpent id:[876ad1df-e926-4d89-aad7-499a37b27f4c] set:[KHM] no:[326] fb:[border_creature_kld_mdfc_b] tags:[]
+1x Koth of the Hammer id:[dccb325a-6fba-4a6f-af35-dc9e9de996a9] set:[DDI] no:[44] fb:[border_planeswalker] tags:[]
+1x Kroxa, Titan of Death's Hunger id:[6186ca35-4d28-4176-aaff-5b384a688aa6] set:[SLD] no:[225] fb:[border_creature_kld_mdfc_b] tags:[]
+1x Kytheon, Hero of Akros // Gideon, Battle-Forged id:[58c39df6-b237-40d1-bdcb-2fe5d05392a9] set:[ORI] no:[23] fb:[border_none] tags:[]
+1x Languish id:[69923060-9015-41ea-91ad-f3252ba25c85] set:[PORI] no:[105] fb:[border_none] tags:[]
+1x Lava Coil id:[f6135cf4-50c2-4e44-b9b0-96e1187a2200] set:[GRN] no:[108] fb:[border_none] tags:[]
+1x Lavaclaw Reaches id:[7c9fb3d9-e018-4aa3-9c14-1a51fae176b4] set:[PUMA] no:[U37] fb:[border_none] tags:[]
+1x Legion Warboss id:[5e84cb9c-9876-47a4-aea4-78574321bc36] set:[GRN] no:[109] fb:[border_none] tags:[]
+1x Legion's Landing // Adanto, the First Fort id:[05e2a5e6-3aaa-4096-bdd0-fcc1afe5a36c] set:[XLN] no:[22] fb:[border_none] tags:[]
+1x Lightning Bolt id:[6ab06973-6440-4b12-8947-8c412500fa41] set:[SLD] no:[85] fb:[border_none] tags:[]
+1x Lightning Helix id:[227ac87a-7196-40d0-ab00-98ebafcca09a] set:[STA] no:[62] fb:[border_none] tags:[]
+1x Lightning Strike id:[f0f55dee-7e39-4183-8e74-844d9c299bf5] set:[XLN] no:[149] fb:[border_none] tags:[]
+1x Liliana of the Veil id:[1e945c79-6c1e-404a-8993-655851566928] set:[PUMA] no:[U10] fb:[border_none] tags:[]
+1x Liliana's Mastery id:[4ff4a2f3-f923-428c-a402-4ff0e602139e] set:[GNT] no:[32] fb:[border_none] tags:[]
+1x Liliana, Dreadhorde General id:[d75ebba8-34ca-47a0-bf13-8318ad73b343] set:[WAR] no:[97] fb:[border_none] tags:[]
+1x Liliana, Heretical Healer // Liliana, Defiant Necromancer id:[9f25e1cf-eeb4-458d-8fb2-b3a2f86bdd54] set:[ORI] no:[106] fb:[border_none] tags:[]
+1x Liliana, the Last Hope id:[7ffc77bf-21e7-4e1e-a635-d6b61213b3e1] set:[MED] no:[GR2] fb:[border_none] tags:[]
+1x Lingering Souls id:[bcf1288a-8e2c-4a69-afcf-af293f66d007] set:[MM3] no:[12] fb:[border_none] tags:[]
+1x Llanowar Elves id:[27a21d19-5631-43f8-817d-51ccb5aa0f05] set:[PDOM] no:[168] fb:[border_none] tags:[]
+1x Looter il-Kor id:[0d891cb5-c575-4c63-b053-a2315947c3e0] set:[TSR] no:[74] fb:[border_none] tags:[]
+1x Lotus Cobra id:[151bdf3a-4445-43b1-8cea-2737c13d9dee] set:[ZNR] no:[307] fb:[border_none] tags:[]
+1x Lovestruck Beast // Heart's Desire id:[341110e5-577d-45ee-bf62-53373a331c87] set:[ELD] no:[299] fb:[border_none] tags:[]
+1x Lumbering Falls id:[f0d8d2e4-3ebe-4311-b99e-dea9fb0b20ac] set:[BFZ] no:[239] fb:[border_none] tags:[]
+1x Luminarch Aspirant id:[ebe9427d-068f-487c-9263-b40366a164bc] set:[ZNR] no:[319] fb:[border_none] tags:[]
+1x Luminous Broodmoth id:[0535c823-f6e9-4a2f-8adf-f69b6f0fea1f] set:[IKO] no:[316] fb:[border_none] tags:[]
+1x Lurrus of the Dream-Den id:[2c89beb2-3467-4be0-a066-919f54331942] set:[IKO] no:[355] fb:[border_none] tags:[]
+1x Lyra Dawnbringer id:[93be6799-7b9d-44d4-84dc-2961692b5a85] set:[DOM] no:[26] fb:[border_none] tags:[]
+1x Maelstrom Pulse id:[57418b2d-238c-4637-9830-9e672e3bc6da] set:[PUMA] no:[U24] fb:[border_none] tags:[]
+1x Magma Opus id:[82f15bee-c4fa-4ad4-acaf-bb8023ebd6f0] set:[STX] no:[346] fb:[border_none] tags:[]
+1x Mana Confluence id:[4eafa4f8-3b9b-4e20-97bf-8f547e970752] set:[EXP] no:[42] fb:[border_none] tags:[]
+1x Mana Leak id:[247939d9-87e9-4f01-b223-fb4cfa7dbbe1] set:[IMA] no:[66] fb:[border_none] tags:[]
+1x Mana Tithe id:[e7f32354-893d-4f0b-b555-e0757fb5443b] set:[STA] no:[8] fb:[border_none] tags:[]
+1x Marsh Flats id:[9e1e76a2-ec37-4fd8-8185-f98f675ff0cb] set:[ZNE] no:[6] fb:[border_none] tags:[]
+1x Martial Coup id:[42f30b99-5177-48e9-be0a-ab04bbc4586b] set:[CMR] no:[378] fb:[border_none] tags:[]
+1x Mass Manipulation id:[782760d7-59cc-4d40-a885-6a7980094fee] set:[RNA] no:[42] fb:[border_none] tags:[]
+1x Massacre Wurm id:[a0523c0a-b9b6-4946-b90d-ed8e13cf1915] set:[M21] no:[316] fb:[border_none] tags:[]
+1x Master of the Wild Hunt id:[3c56fda1-d286-46b1-9617-4f7c430abb79] set:[A25] no:[181] fb:[border_none] tags:[]
+1x Master of Waves id:[14cd5387-c6aa-4430-8edb-05da6b4e2ff5] set:[DDT] no:[1] fb:[border_none] tags:[]
+1x Maul of the Skyclaves id:[fb9da1e4-4554-42eb-aed5-9d068c39e727] set:[ZNR] no:[320] fb:[border_none] tags:[]
+1x Midnight Reaper id:[5e122fe0-51c5-404d-a7b9-3d161a426c35] set:[GRN] no:[77] fb:[border_none] tags:[]
+1x Millikin id:[513ba8b6-9583-405f-84a5-9d2ca42f9597] set:[MH2] no:[297] fb:[border_none] tags:[]
+1x Mimic Vat id:[f99c44c1-daff-43a2-9a8e-ec4be217a81a] set:[C20] no:[246] fb:[border_none] tags:[]
+1x Mind Shatter id:[10aeeedf-8298-4877-bd8b-f0b3a89b2483] set:[MB1] no:[714] fb:[border_none] tags:[]
+1x Mirari's Wake id:[157ce8f8-625c-407a-b015-3b5326da69a0] set:[MH2] no:[320] fb:[border_none] tags:[]
+1x Mirran Crusader id:[f7c34f5d-0430-4036-a633-1a68a0d2fc65] set:[MM2] no:[25] fb:[border_none] tags:[]
+1x Mishra's Factory id:[9d596bc0-c972-4a36-8cf6-cd8f72169021] set:[MH2] no:[326] fb:[border_none] tags:[]
+1x Misty Rainforest id:[6d14bd1a-068e-4338-8014-d5271cb2fe4d] set:[ZNE] no:[10] fb:[border_none] tags:[]
+1x Mizzium Mortars id:[bef58faf-4d5e-4c66-9780-28abfc4c0c69] set:[GK1] no:[32] fb:[border_none] tags:[]
+1x Monastery Mentor id:[abcd0e32-2e6b-419b-9e8a-af38f2b48a66] set:[FRF] no:[20] fb:[border_none] tags:[]
+1x Monastery Swiftspear id:[b81c6c8b-a9cf-4866-89ba-7f8ad077b836] set:[KTK] no:[118] fb:[border_none] tags:[]
+1x Mulldrifter id:[d9fb2f2b-ed82-4461-9013-490e8bca89f8] set:[C20] no:[117] fb:[border_none] tags:[]
+1x Murderous Cut id:[b2dadff2-883f-4134-a881-be145cdcbd84] set:[KTK] no:[81] fb:[border_none] tags:[]
+1x Murderous Rider // Swift End id:[49c98e70-e8fe-4fea-b1d0-e7560780fda9] set:[ELD] no:[287] fb:[border_none] tags:[]
+1x Mutavault id:[85985b9a-274a-49be-be46-6e32efcce9fb] set:[PCMP] no:[12] fb:[border_none] tags:[]
+1x Myr Battlesphere id:[31837c7c-267a-4483-8712-406bfa7c4fde] set:[2XM] no:[276] fb:[border_none] tags:[]
+1x Mystic Snake id:[e75bdab4-9507-47e7-bf70-f78c87d2e0ba] set:[C15] no:[228] fb:[border_none] tags:[]
+1x Nahiri, the Harbinger id:[45f43bd0-d4d9-4a64-a829-f1ea3dfc9e90] set:[MED] no:[WS7] fb:[border_none] tags:[]
+1x Narset, Parter of Veils id:[8c39f9b4-02b9-4d44-b8d6-4fd02ebbb0c5] set:[WAR] no:[61] fb:[border_none] tags:[]
+1x Nature's Claim id:[666a8ac9-d21d-4f3e-84a4-117fbeabbe8b] set:[EMA] no:[178] fb:[border_none] tags:[]
+1x Needle Spires id:[3d73700c-fa62-42be-aaca-5f8a50af20db] set:[OGW] no:[175] fb:[border_none] tags:[]
+1x Needleverge Pathway // Pillarverge Pathway id:[ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a] set:[ZNR] no:[288] fb:[border_none] tags:[]
+1x Negate id:[5bfe3a17-3349-4fcc-a9b5-418faa55cc43] set:[STA] no:[18] fb:[border_none] tags:[]
+1x Never // Return id:[a4b32135-7061-4278-a01a-4fcbaadc9706] set:[AKH] no:[212] fb:[border_none] tags:[]
+1x Nevinyrral's Disk id:[9bd9fbe2-3961-4096-aec5-f5358fa4b9fc] set:[CMR] no:[696] fb:[border_none] tags:[]
+1x Night's Whisper id:[930186b0-ac25-4ad1-9a5c-4051fa04700b] set:[MB1] no:[723] fb:[border_none] tags:[]
+1x Nighthawk Scavenger id:[b9522009-4fc9-439a-95ea-5800842c5ee2] set:[ZNR] no:[341] fb:[border_none] tags:[]
+1x Nightveil Specter id:[762e1528-52d7-46fc-a035-e2af6b4676b8] set:[GK1] no:[19] fb:[border_none] tags:[]
+1x Nimble Obstructionist id:[832426d7-be22-4092-b614-7fa417af03bd] set:[C20] no:[121] fb:[border_none] tags:[]
+1x Nissa, Vastwood Seer // Nissa, Sage Animist id:[ff0063da-ab6b-499d-8e87-8b34d46f0372] set:[ORI] no:[189] fb:[border_none] tags:[]
+1x Nissa, Voice of Zendikar id:[a548acc7-bf37-4bb3-83c9-6e5fdb501f56] set:[MB1] no:[1281] fb:[border_none] tags:[]
+1x Nissa, Who Shakes the World id:[f857bbe4-5619-4733-a0c7-69700f2ef4f3] set:[WAR] no:[169] fb:[border_none] tags:[]
+1x Niv-Mizzet Reborn id:[56a2609d-b535-400b-81d9-72989a33c70f] set:[WAR] no:[208] fb:[border_none] tags:[]
+1x Noble Hierarch id:[8008977f-b164-4ab7-a38a-25b382c6a16f] set:[2XM] no:[352] fb:[border_none] tags:[]
+1x Noxious Gearhulk id:[d3bb2c02-7153-4231-a313-f75f5a1338e3] set:[MPS] no:[3] fb:[border_none] tags:[]
+1x Nykthos, Shrine to Nyx id:[834b27a0-dfd7-4f96-8cde-cacac4b24acc] set:[THS] no:[223] fb:[border_none] tags:[]
+1x Nyxbloom Ancient id:[c8a8e37b-0b97-4355-8e00-169a82c38ea0] set:[THB] no:[330] fb:[border_none] tags:[]
+1x Ob Nixilis Reignited id:[6bb7a4bd-0e74-4b1b-bf23-55c06442881e] set:[DDR] no:[36] fb:[border_none] tags:[]
+1x Oblivion Ring id:[bff31eba-8ab3-403e-8d82-37a18b279bec] set:[MM2] no:[29] fb:[border_none] tags:[]
+1x Oblivion Stone id:[99b26da0-2ddb-4f73-bb2e-1288e349fb46] set:[MPS] no:[41] fb:[border_none] tags:[]
+1x Opt id:[ab59ac4f-2a77-4566-85c0-32666447dcf2] set:[STA] no:[19] fb:[border_none] tags:[]
+1x Oracle of Mul Daya id:[5de097e5-e960-4404-a370-defe93ce892f] set:[JMP] no:[415] fb:[border_none] tags:[]
+1x Outpost Siege id:[ad63f120-f6d0-4394-b12a-f3e1cf728a2f] set:[C20] no:[157] fb:[border_none] tags:[]
+1x Overgrown Tomb id:[b92ca85d-eede-4c7f-b491-f555da1c23eb] set:[EXP] no:[13] fb:[border_none] tags:[]
+1x Pack Rat id:[f3864bc8-f86e-4c41-b454-e19d1939147b] set:[SLD] no:[35] fb:[border_none] tags:[]
+1x Pact of Negation id:[1ed4c0bb-b710-44a1-b8bc-6bd11c27b8b8] set:[TSR] no:[77] fb:[border_none] tags:[]
+1x Path to Exile id:[206fd18a-f263-42cd-a77a-e40ae31a468a] set:[SS2] no:[3] fb:[border_none] tags:[]
+1x Persist id:[90f390c3-af1c-424f-9721-e26e9321e5a3] set:[MH2] no:[96] fb:[border_none] tags:[]
+1x Pestermite id:[b58a6a63-c7d8-4f2f-acaf-b0a871eb5a7c] set:[MMA] no:[59] fb:[border_none] tags:[]
+1x Phantasmal Image id:[e7472958-dd1b-48a7-a960-ec2ef3b69ded] set:[MM3] no:[46] fb:[border_none] tags:[]
+1x Phoenix of Ash id:[7d2be6f0-1cc1-4153-bdcf-528d49a474f4] set:[THB] no:[319] fb:[border_none] tags:[]
+1x Phyrexian Arena id:[c87d2e75-aa91-4657-b8c0-c399ff9331e0] set:[CN2] no:[144] fb:[border_none] tags:[]
+1x Phyrexian Metamorph id:[cacaf5ec-6745-4584-9175-36c98742958f] set:[2XM] no:[341] fb:[border_none] tags:[]
+1x Phyrexian Obliterator id:[acf5cbe2-84fa-46f4-a4f2-97b48ddf2d39] set:[A25] no:[101] fb:[border_none] tags:[]
+1x Phyrexian Revoker id:[6982a82c-dd32-40d2-8dd2-ec92d0fc6c2d] set:[2XM] no:[282] fb:[border_none] tags:[]
+1x Pia and Kiran Nalaar id:[2eb6fc54-77e7-4e90-abc9-fd88581b57bf] set:[PORI] no:[157] fb:[border_none] tags:[]
+1x Pia Nalaar id:[9d2502c8-bf80-404c-9a9a-b843d355fcaa] set:[C21] no:[177] fb:[border_none] tags:[]
+1x Plow Under id:[27128f26-0d89-4962-96e8-5fa343031a26] set:[8ED] no:[272] fb:[border_none] tags:[]
+1x Polluted Delta id:[d052d99b-b1ca-44da-8460-c022d041d665] set:[ZNE] no:[2] fb:[border_none] tags:[]
+1x Polukranos, World Eater id:[4979cc1b-9c1a-47e4-ae37-7c41798eb89a] set:[THS] no:[172] fb:[border_none] tags:[]
+1x Porcelain Legionnaire id:[2616aa0e-8413-4e63-877c-bffd5263f552] set:[NPH] no:[19] fb:[border_none] tags:[]
+1x Priest of Fell Rites id:[d116329d-6de7-402c-821d-e9aeba9ad2b1] set:[MH2] no:[208] fb:[border_none] tags:[]
+1x Primal Command id:[87d2ad86-5d74-4507-8faa-fc6124fd5a7f] set:[DDP] no:[20] fb:[border_none] tags:[]
+1x Prime Speaker Vannifar id:[84abfc59-10a7-4cb5-9cdd-81797116c810] set:[RNA] no:[195] fb:[border_none] tags:[]
+1x Primeval Titan id:[c3377096-d89c-408f-ab0b-6f96f1b240f6] set:[SLD] no:[221] fb:[border_none] tags:[]
+1x Prismari Command id:[8ffb6717-93f5-4774-9cc3-29b883b144b5] set:[STX] no:[348] fb:[border_none] tags:[]
+1x Prismatic Ending id:[825969b9-3c70-4fca-8cab-696e9ca7cdb2] set:[MH2] no:[25] fb:[border_none] tags:[]
+1x Prismatic Vista id:[1ac01fff-4de6-4783-9489-4127e25bc641] set:[ZNE] no:[27] fb:[border_none] tags:[]
+1x Profane Command id:[857b6766-4df9-47e7-aa51-8ade7989bf57] set:[C20] no:[135] fb:[border_none] tags:[]
+1x Progenitor Mimic id:[acba72e1-3f7f-4e5c-af3f-dfe37b5d61f9] set:[2XM] no:[212] fb:[border_none] tags:[]
+1x Pteramander id:[280f2a85-1900-460b-a768-164fc2dea636] set:[RNA] no:[47] fb:[border_none] tags:[]
+1x Pull from Tomorrow id:[f1eccf27-c934-45fb-87ae-67006cd4e0ed] set:[AKH] no:[65] fb:[border_none] tags:[]
+1x Purphoros, God of the Forge id:[d2698e2d-16d8-4b76-923f-e18775104de0] set:[SLD] no:[77] fb:[border_none] tags:[]
+1x Pyroclasm id:[bac89aef-a0f5-494b-a085-5b3b016d7f17] set:[MM3] no:[107] fb:[border_none] tags:[]
+1x Quarantine Field id:[30c525ab-08d5-4d29-aef1-01b0c75ee8d9] set:[BFZ] no:[43] fb:[border_none] tags:[]
+1x Questing Beast id:[5357e802-2d25-48d3-a188-101c142787b7] set:[ELD] no:[372] fb:[border_none] tags:[]
+1x Radha, Heart of Keld id:[7777bc17-88cf-41fb-9169-77149c01eec8] set:[M21] no:[380] fb:[border_none] tags:[]
+1x Ragavan, Nimble Pilferer id:[b3e685f9-cc0f-4dc6-98dc-4727944de445] set:[MH2] no:[315] fb:[border_none] tags:[]
+1x Raging Ravine id:[54f41726-e0bb-4154-a2db-4b68b50f5032] set:[PUMA] no:[U38] fb:[border_none] tags:[]
+1x Rakdos's Return id:[bbc95892-c8fc-4e8d-9452-709cf9992db0] set:[GK2] no:[72] fb:[border_none] tags:[]
+1x Rampaging Ferocidon id:[39d3c658-1927-4af3-9077-88c4a669c730] set:[XLN] no:[154] fb:[border_none] tags:[]
+1x Rampant Growth id:[d2e16cbe-b52b-46d7-8532-2068684b3491] set:[C21] no:[204] fb:[border_none] tags:[]
+1x Ranger of Eos id:[7c3ba78b-c66a-4a93-abc6-18b63779eda3] set:[MM3] no:[19] fb:[border_none] tags:[]
+1x Rankle, Master of Pranks id:[ee4d196e-7ce4-4dc1-9d58-102a89aca2a4] set:[ELD] no:[356] fb:[border_none] tags:[]
+1x Ravenous Chupacabra id:[02551196-ecea-472f-9547-3c9658d0489e] set:[RIX] no:[82] fb:[border_none] tags:[]
+1x Read the Bones id:[0cc51b90-7f1e-4e20-bc36-e3a198bc71bf] set:[ORI] no:[114] fb:[border_none] tags:[]
+1x Reclamation Sage id:[cac912bb-f18a-4501-a5c0-aed8cb0a9e43] set:[PM15] no:[194] fb:[border_none] tags:[]
+1x Rekindling Phoenix id:[daccec32-84c6-4de4-9b00-c497a6ba5de8] set:[RIX] no:[111] fb:[border_none] tags:[]
+1x Remand id:[dc595c63-af05-4c05-80e8-e1a90df26b0f] set:[MM2] no:[55] fb:[border_none] tags:[]
+1x Restoration Angel id:[3dbdd0bc-92d7-49ae-b7fc-b2d1f0670bd8] set:[KHC] no:[31] fb:[border_none] tags:[]
+1x Reveillark id:[7db7e70c-ce79-4a52-b97b-f1bd46e0768c] set:[C20] no:[97] fb:[border_none] tags:[]
+1x Rift Sower id:[97dbd212-f1e8-429a-bf00-b2ea966d880e] set:[MH2] no:[170] fb:[border_none] tags:[]
+1x Riftwing Cloudskate id:[7a150bc3-1d1a-4364-a97a-a71b6c09f6c9] set:[JVC] no:[15] fb:[border_none] tags:[]
+1x Rip Apart id:[101f135f-1404-4333-946e-62d3aa919a62] set:[STX] no:[381] fb:[border_none] tags:[]
+1x Rishadan Dockhand id:[97f6f1da-ddef-44d0-af1b-e0c4024d9985] set:[MH2] no:[447] fb:[border_none] tags:[]
+1x Riverglide Pathway // Lavaglide Pathway id:[78792607-0872-4de4-a9d8-92f1d58f4a71] set:[ZNR] no:[289] fb:[border_none] tags:[]
+1x Roast id:[a4da49b6-69eb-4dea-b52e-26dd69e05d0c] set:[MB1] no:[1042] fb:[border_none] tags:[]
+1x Roil Eruption id:[560c02ec-f21e-405b-8267-7f7ff089904a] set:[ZNR] no:[389] fb:[border_none] tags:[]
+1x Rootbound Crag id:[b6f59e19-9ac1-4f86-893e-5b3364122fc6] set:[XLN] no:[256] fb:[border_none] tags:[]
+1x Rotting Regisaur id:[d88c61cb-dbf9-46c3-8795-8896ba1208d5] set:[M20] no:[111] fb:[border_none] tags:[]
+1x Sacred Foundry id:[33c519df-c6b1-4e32-92bc-8a67ae5cbaab] set:[EXP] no:[14] fb:[border_none] tags:[]
+1x Saheeli, Sublime Artificer id:[5a10b543-d5d4-42a8-9ee8-dada59a2ad7e] set:[WAR] no:[234] fb:[border_none] tags:[]
+1x Sakura-Tribe Elder id:[114328dd-6c4f-4b6b-b9b7-dfa8c9b79495] set:[C19] no:[177] fb:[border_none] tags:[]
+1x Scalding Tarn id:[48f0a970-452a-405f-bd4d-ac4d2e89ab40] set:[ZNE] no:[7] fb:[border_none] tags:[]
+1x Scavenging Ooze id:[0a91920a-7de3-4e9b-9cce-ff43ce0157b8] set:[M21] no:[318] fb:[border_none] tags:[]
+1x Scrapheap Scrounger id:[216a8e4e-ea7b-41c7-a982-b5751025ff25] set:[KLD] no:[231] fb:[border_none] tags:[]
+1x Sea-Dasher Octopus id:[bd6986a8-e258-46f0-88a9-8f84732f359e] set:[IKO] no:[286] fb:[border_none] tags:[]
+1x Seal of Cleansing id:[fa7e69e8-a527-44b8-a8d8-79e09b92c7b2] set:[EMA] no:[26] fb:[border_none] tags:[]
+1x Search for Azcanta // Azcanta, the Sunken Ruin id:[1a7e242e-bb48-4134-a1c2-6033713d658f] set:[XLN] no:[74] fb:[border_none] tags:[]
+1x Search for Tomorrow id:[0c65336f-f735-4c35-9278-ad97255eb5bb] set:[TSR] no:[229] fb:[border_none] tags:[]
+1x Searing Blaze id:[f659d464-13dd-49e2-a842-098dcba49659] set:[DDI] no:[67] fb:[border_none] tags:[]
+1x Seasoned Pyromancer id:[2e139ad1-1079-49e9-babd-6399c44ad333] set:[MH1] no:[145] fb:[border_none] tags:[]
+1x Sedgemoor Witch id:[075bfaa8-3d54-4934-aaf6-72be43a87324] set:[STX] no:[306] fb:[border_none] tags:[]
+1x Selfless Spirit id:[a4624976-3773-4a1e-b725-5f6efce147a5] set:[EMN] no:[40] fb:[border_none] tags:[]
+1x Serra's Emissary id:[b6534049-3045-4546-b1e8-e5b1b0df5f56] set:[MH2] no:[30] fb:[border_none] tags:[]
+1x Serum Visions id:[20296a5b-4e15-4f07-8bce-9a37abb35729] set:[MM3] no:[49] fb:[border_none] tags:[]
+1x Shadowspear id:[131cb967-9569-4fbf-8143-c410d3a94538] set:[THB] no:[345] fb:[border_none] tags:[]
+1x Shambling Vent id:[30a73816-1f33-4798-a9d6-5f0410d19625] set:[BFZ] no:[244] fb:[border_none] tags:[]
+1x Shark Typhoon id:[5dfd8d35-3f73-4181-80a3-d4d69badcc47] set:[IKO] no:[319] fb:[border_none] tags:[]
+1x Shatterskull Smashing // Shatterskull, the Hammer Pass id:[243d374f-5b40-4cff-99f5-079ba873d44b] set:[ZNR] no:[354] fb:[border_none] tags:[]
+1x Shelldock Isle id:[4216656e-90e8-45fc-a0f6-0d0d79d0a021] set:[LRW] no:[272] fb:[border_none] tags:[]
+1x Sheoldred, Whispering One id:[bbd672c9-46ae-4d2b-93d9-16271d2f71ff] set:[IMA] no:[108] fb:[border_none] tags:[]
+1x Showdown of the Skalds id:[3d9d840e-1f13-44e3-a4de-903cfa58a346] set:[KHM] no:[229] fb:[border_none] tags:[]
+1x Shriekmaw id:[8ce5b89f-ec60-46b5-9160-9255cbb858a9] set:[UMA] no:[113] fb:[border_none] tags:[]
+1x Siege-Gang Commander id:[f59ff087-97e7-4946-871f-1833abb2558a] set:[DOM] no:[143] fb:[border_none] tags:[]
+1x Silverblade Paladin id:[79c43502-5b82-43b6-a62d-162b49667f39] set:[C14] no:[88] fb:[border_none] tags:[]
+1x Skyclave Apparition id:[bc4b938f-a600-4d10-8030-ed60cf6ade56] set:[ZNR] no:[322] fb:[border_none] tags:[]
+1x Skyclave Shade id:[05347539-de61-4a37-929f-c909e65033f5] set:[ZNR] no:[298] fb:[border_none] tags:[]
+1x Sleight of Hand id:[1766d117-6ee1-4103-88e8-47b932a94d65] set:[UMA] no:[70] fb:[border_none] tags:[]
+1x Smuggler's Copter id:[7832abb5-5107-4603-904e-491b221bd3e3] set:[KLD] no:[235] fb:[border_none] tags:[]
+1x Snapcaster Mage id:[ee203ede-b9af-4f97-84ca-597debf2efd0] set:[PUMA] no:[U5] fb:[border_none] tags:[]
+1x Solemn Simulacrum id:[a2df1622-bfdc-405f-bbd9-f03fe4acd347] set:[MPS] no:[25] fb:[border_none] tags:[]
+1x Solitude id:[febad44a-eaf0-4122-87c5-a12d17f28392] set:[MH2] no:[307] fb:[border_none] tags:[]
+1x Sorcerous Spyglass id:[c177f0e0-a1d3-4790-9e2c-bd5d2250603d] set:[ELD] no:[384] fb:[border_none] tags:[]
+1x Sorin, Solemn Visitor id:[da1a9643-34d6-4b4b-b896-2d4626eca40a] set:[KTK] no:[202] fb:[border_none] tags:[]
+1x Soul-Scar Mage id:[a8003786-6e2a-4e2d-a915-f23293c7273a] set:[AKH] no:[148] fb:[border_none] tags:[]
+1x Sower of Temptation id:[830158d4-1105-4d4c-ae0a-b4cec5f9266b] set:[SLD] no:[120] fb:[border_none] tags:[]
+1x Spark Double id:[bb8a103c-b776-4501-9441-a45b90391045] set:[WAR] no:[68] fb:[border_none] tags:[]
+1x Spear of Heliod id:[34ef01da-d311-4d4f-9f7b-328e7bb17db4] set:[THS] no:[33] fb:[border_none] tags:[]
+1x Spectral Procession id:[9964629e-d79e-46e4-b3fd-e7d1759cbc60] set:[MM2] no:[33] fb:[border_none] tags:[]
+1x Spell Pierce id:[6bf4dfc0-c58b-4535-b660-54ceaa6e0217] set:[XLN] no:[81] fb:[border_none] tags:[]
+1x Spell Queller id:[cf1320b1-3eac-4c5a-9f75-6fdff3cc2639] set:[SLD] no:[193] fb:[border_none] tags:[]
+1x Spellskite id:[440e0daf-aafe-4696-a977-ac5b822134e2] set:[MM2] no:[230] fb:[border_none] tags:[]
+1x Sphinx's Revelation id:[0038ea4d-d0a6-44a4-bee6-24c03313d2bc] set:[MM3] no:[187] fb:[border_none] tags:[]
+1x Steam Vents id:[2349e6aa-5bbf-4250-a19a-321bd308ddcb] set:[EXP] no:[12] fb:[border_none] tags:[]
+1x Steel Leaf Champion id:[2c86a925-fb0e-479e-b11e-eb7cd1d30c63] set:[PDOM] no:[182] fb:[border_none] tags:[]
+1x Stirring Wildwood id:[5e63fd70-ca5b-45fd-b551-9ebe02410e9c] set:[PUMA] no:[U39] fb:[border_none] tags:[]
+1x Stomping Ground id:[4c5e0fa3-63db-4b1e-bc15-dcb0ae80db14] set:[EXP] no:[9] fb:[border_none] tags:[]
+1x Stoneforge Mystic id:[eb49805c-8546-463d-b78c-f4ea109851b4] set:[2XM] no:[337] fb:[border_none] tags:[]
+1x Storm's Wrath id:[6f774b26-7b8b-4d06-bec8-764429445e93] set:[THB] no:[322] fb:[border_none] tags:[]
+1x Stratus Dancer id:[82fb8b0c-b86e-4915-b72d-9a6b5c1368c7] set:[C19] no:[96] fb:[border_none] tags:[]
+1x Student of Warfare id:[9f4df9be-324b-458a-9379-ab4aa437a6d2] set:[ROE] no:[47] fb:[border_none] tags:[]
+1x Subtlety id:[6ade923f-f064-4b5a-a6c0-348ca3e0dbed] set:[MH2] no:[309] fb:[border_none] tags:[]
+1x Sulfur Falls id:[6bc412fc-e9d4-4283-bd4a-811384e79b5c] set:[DOM] no:[247] fb:[border_none] tags:[]
+1x Sun Titan id:[ef3e7352-5768-4d4e-befb-560b9d10a178] set:[ZNC] no:[21] fb:[border_none] tags:[]
+1x Sundering Titan id:[dd963b5b-598c-47ee-bacb-40a408051761] set:[MPS] no:[49] fb:[border_none] tags:[]
+1x Sunlance id:[82ab72c3-1f76-45ff-84b4-05f403866d44] set:[TSR] no:[47] fb:[border_none] tags:[]
+1x Sunpetal Grove id:[0f234312-00e8-49f7-a489-f4c316b0a81a] set:[XLN] no:[257] fb:[border_none] tags:[]
+1x Suspend id:[f2b39f1d-6d8b-4d5d-a956-094de5c26ba8] set:[MH2] no:[448] fb:[border_none] tags:[]
+1x Sweltering Suns id:[f11cd406-c6ae-4018-ae45-4e5577aa82ae] set:[AKH] no:[149] fb:[border_none] tags:[]
+1x Sword of Feast and Famine id:[0a469d00-1416-48dd-ad91-eb6f3fb4b42b] set:[2XM] no:[364] fb:[border_none] tags:[]
+1x Sword of Fire and Ice id:[22cd80dd-1c57-423c-81e2-9a956901565f] set:[2XM] no:[365] fb:[border_none] tags:[]
+1x Sword of Hearth and Home id:[b27d2f06-42ed-42fd-874c-8c278cdb66dc] set:[MH2] no:[324] fb:[border_none] tags:[]
+1x Sword of Light and Shadow id:[3a195efe-8c4f-479d-bd0f-563ee4bb49a1] set:[2XM] no:[366] fb:[border_none] tags:[]
+1x Sword of Truth and Justice id:[2be8d24e-1370-4e85-90f2-66b6d6e9c4a4] set:[MH1] no:[229] fb:[border_none] tags:[]
+1x Sylvan Anthem id:[a119edc2-9e0f-43d1-a13d-25827f86e3e3] set:[MH2] no:[176] fb:[border_none] tags:[]
+1x Sylvan Caryatid id:[d40b65c1-b24d-492d-81b9-d8474ebdc08c] set:[THS] no:[180] fb:[border_none] tags:[]
+1x Tarmogoyf id:[8a34e2df-a9ee-4c61-bc4c-518475a39925] set:[PUMA] no:[U19] fb:[border_none] tags:[]
+1x Tasigur, the Golden Fang id:[87e58c1d-a3b7-4752-928b-168ec0d8f154] set:[PUMA] no:[U13] fb:[border_none] tags:[]
+1x Tatyova, Benthic Druid id:[93657aaa-7a0f-49ad-b026-6f79b3bd6768] set:[DOM] no:[206] fb:[border_none] tags:[]
+1x Tectonic Edge id:[7c079aa9-e633-4ad0-87c1-79c0421c03dc] set:[EXP] no:[44] fb:[border_none] tags:[]
+1x Teferi, Hero of Dominaria id:[829e38d8-2421-4a16-9bbd-c3f9e927247b] set:[MED] no:[GR6] fb:[border_none] tags:[]
+1x Teferi, Master of Time id:[ba95c4fc-f0fc-4bfe-bef7-694c3d82a6c7] set:[M21] no:[281] fb:[border_none] tags:[]
+1x Teferi, Time Raveler id:[5cb76266-ae50-4bbc-8f96-d98f309b02d3] set:[WAR] no:[221] fb:[border_none] tags:[]
+1x Tempest Djinn id:[3acc883b-3aea-4d0b-ae0f-00d4a08c47c1] set:[DOM] no:[68] fb:[border_none] tags:[]
+1x Temple Garden id:[b1c846f3-142d-43f0-aa9a-8fd5fbd5ada4] set:[EXP] no:[10] fb:[border_none] tags:[]
+1x Temporal Mastery id:[729cdea3-59ca-4b32-9a8a-9b0cdb4b3aaf] set:[MM3] no:[54] fb:[border_none] tags:[]
+1x Terastodon id:[32141ae3-0c1c-480c-8f61-90a46d5ce54c] set:[CMR] no:[438] fb:[border_none] tags:[]
+1x Terminus id:[c726193f-e7bf-45b0-8eb5-2e9f62f5e7b0] set:[C18] no:[77] fb:[border_none] tags:[]
+1x Terror of the Peaks id:[ac35ea21-fef4-4000-9b22-c8d07420827b] set:[M21] no:[369] fb:[border_none] tags:[]
+1x Thalia, Guardian of Thraben id:[b05031dc-f99c-49d3-9a20-3453587d8dea] set:[SLD] no:[37] fb:[border_none] tags:[]
+1x Thalia, Heretic Cathar id:[46928c55-969b-487a-a869-37052ca096c1] set:[PEMN] no:[46] fb:[border_none] tags:[]
+1x The Eldest Reborn id:[c8318f40-ecd5-429e-8fe2-febf31f64841] set:[DOM] no:[90] fb:[border_none] tags:[]
+1x The Great Henge id:[ff7e30c8-b3fc-430f-ac63-d376d9e47a8d] set:[ELD] no:[370] fb:[border_none] tags:[]
+1x The Immortal Sun id:[5e92b0d5-b171-4096-b1bb-65755db73b73] set:[PRIX] no:[180p] fb:[border_none] tags:[]
+1x The Scarab God id:[d79ee141-0ea6-45d6-a682-96a37d703394] set:[2XM] no:[216] fb:[border_none] tags:[]
+1x Thing in the Ice // Awoken Horror id:[359d1b13-6156-43b0-a9a7-6bfff36c1a91] set:[SOI] no:[92] fb:[border_none] tags:[]
+1x Thought Scour id:[18d32e59-54e7-4be0-99b7-261cd433bd03] set:[IMA] no:[76] fb:[border_none] tags:[]
+1x Thoughtseize id:[95702503-8f2d-46c8-abdb-6edd6c431d19] set:[2XM] no:[344] fb:[border_none] tags:[]
+1x Thraben Inspector id:[2be39749-ad6f-4160-99eb-c677eee7f1b2] set:[2XM] no:[35] fb:[border_none] tags:[]
+1x Thragtusk id:[d9a8459b-4dea-4dc9-8b95-a3748472f699] set:[2XM] no:[183] fb:[border_none] tags:[]
+1x Thrun, the Last Troll id:[617b247f-0e75-4815-b1fc-64bdb5239b46] set:[MB1] no:[1358] fb:[border_none] tags:[]
+1x Thundermaw Hellkite id:[a75f6bb4-ab06-42ca-a0df-326d9a098a26] set:[IMA] no:[149] fb:[border_none] tags:[]
+1x Tidehollow Sculler id:[09521f23-52d6-482d-9f3b-c4d12fcc08cc] set:[MMA] no:[184] fb:[border_none] tags:[]
+1x Time Warp id:[6e70332c-de0b-45ce-bbd1-5de4314c08db] set:[STA] no:[22] fb:[border_none] tags:[]
+1x Timeless Dragon id:[044902aa-29a1-4627-a4fc-0beccd2a10b3] set:[MH2] no:[445] fb:[border_none] tags:[]
+1x Tireless Tracker id:[ee8e9928-d9b2-4570-adb8-44b34115decd] set:[SOI] no:[233] fb:[border_none] tags:[]
+1x Tooth and Nail id:[403f6e97-eb7a-470a-8673-4997256e79f0] set:[MMA] no:[170] fb:[border_none] tags:[]
+1x Torrential Gearhulk id:[7892c45c-1b17-4474-82fd-01f6d9a83181] set:[MPS] no:[2] fb:[border_none] tags:[]
+1x Toski, Bearer of Secrets id:[08eb31f3-7686-4d6b-a0e4-5d6ece6fba82] set:[KHM] no:[319] fb:[border_none] tags:[]
+1x Tourach, Dread Cantor id:[f5c38dc8-574b-4e53-9b60-8fbb64a29175] set:[MH2] no:[312] fb:[border_none] tags:[]
+1x Treasure Map // Treasure Cove id:[c0f9c733-0818-4a03-8f0c-a163d09e0fff] set:[XLN] no:[250] fb:[border_none] tags:[]
+1x Treetop Village id:[14394198-0993-46ee-a3ea-5c7084a78772] set:[DDU] no:[30] fb:[border_none] tags:[]
+1x Trostani Discordant id:[fa1190a4-3d7e-4500-991f-e36ec3d1d9dc] set:[GRN] no:[208] fb:[border_none] tags:[]
+1x Ugin, the Spirit Dragon id:[411e8228-b594-4af8-8008-c6c8c815d254] set:[MED] no:[WS1] fb:[border_none] tags:[]
+1x Ulamog, the Ceaseless Hunger id:[1192f7a9-102e-4b3a-b154-18c8eb332217] set:[BFZ] no:[15] fb:[border_none] tags:[]
+1x Unburial Rites id:[e639e1cc-9d6d-4c96-95a5-6ab8554889ce] set:[C20] no:[139] fb:[border_none] tags:[]
+1x Urza, Lord High Artificer id:[9e7fb3c0-5159-4d1f-8490-ce4c9a60f567] set:[MH1] no:[75] fb:[border_none] tags:[]
+1x Usher of the Fallen id:[d7811579-0d01-4fae-b621-98eb6c0355f6] set:[KHM] no:[401] fb:[border_none] tags:[]
+1x Valki, God of Lies // Tibalt, Cosmic Impostor id:[e3e5c965-a689-4726-b8c2-63b836895939] set:[KHM] no:[308] fb:[border_none] tags:[]
+1x Vampire Hexmage id:[47c8e6c4-450b-4f8b-b897-5808fe935a90] set:[C14] no:[168] fb:[border_none] tags:[]
+1x Vendilion Clique id:[01978fe5-00a9-4add-ae2a-b4c2572ffb9a] set:[MM2] no:[67] fb:[border_none] tags:[]
+1x Venerated Loxodon id:[93599fba-7c53-4621-85b5-6434be077bf6] set:[GRN] no:[30] fb:[border_none] tags:[]
+1x Venser, Shaper Savant id:[c08dabd1-c043-4bcf-afa8-271225a099e1] set:[TSR] no:[96] fb:[border_none] tags:[]
+1x Verdant Catacombs id:[efd97080-c5c7-47db-b605-8bdd06c2dd5a] set:[ZNE] no:[8] fb:[border_none] tags:[]
+1x Verdurous Gearhulk id:[39997212-6943-4094-a9f7-cbdfa8938090] set:[MPS] no:[5] fb:[border_none] tags:[]
+1x Vindicate id:[e4978ecd-3c2e-49e2-98e0-0172887e4319] set:[MH2] no:[322] fb:[border_none] tags:[]
+1x Vivien, Monsters' Advocate id:[3e7ce2ee-2ebc-4336-a9f3-02380ea9784b] set:[IKO] no:[277] fb:[border_none] tags:[]
+1x Vizier of Many Faces id:[b2781c44-aa90-4a37-a812-33c643ba4deb] set:[AKH] no:[74] fb:[border_none] tags:[]
+1x Voice of Resurgence id:[99d1e843-71c9-4a65-bc36-d23858ef5ead] set:[2XM] no:[227] fb:[border_none] tags:[]
+1x Vorinclex, Monstrous Raider id:[f6db03ef-db89-43c4-89b4-d48e0620e101] set:[KHM] no:[320] fb:[border_none] tags:[]
+1x Walking Ballista id:[5272436e-74f0-44c4-a291-ea8ebc3f1525] set:[2XM] no:[306] fb:[border_none] tags:[]
+1x Wall of Omens id:[f5c2aad9-1dc4-4e33-a630-9b828de1ed20] set:[EMA] no:[34] fb:[border_none] tags:[]
+1x Wandering Fumarole id:[dd0ee251-6c79-499b-8366-c281c989b061] set:[OGW] no:[182] fb:[border_none] tags:[]
+1x Watery Grave id:[af6d2e24-9467-4aa6-8841-7716d051edf7] set:[EXP] no:[7] fb:[border_none] tags:[]
+1x Westvale Abbey // Ormendahl, Profane Prince id:[c1f53d7a-9dad-46e8-b686-cd1362867445] set:[SOI] no:[281] fb:[border_none] tags:[]
+1x Whip of Erebos id:[a67b5770-3b52-4f43-9db3-71224c9bebd2] set:[CP2] no:[5] fb:[border_none] tags:[]
+1x Whirler Rogue id:[6bf5a7b6-62ef-48c5-b081-a6f0ca917d16] set:[DDU] no:[43] fb:[border_none] tags:[]
+1x Whisperwood Elemental id:[66c61828-98b9-4264-b3dd-e83f881f4a67] set:[FRF] no:[145] fb:[border_none] tags:[]
+1x Wilt-Leaf Liege id:[0a0bcfad-cb7e-4b12-b308-a4a1245bd835] set:[MM2] no:[200] fb:[border_none] tags:[]
+1x Windbrisk Heights id:[ec7f0e60-8fa4-4eab-8465-baf4e5e8196b] set:[C20] no:[321] fb:[border_none] tags:[]
+1x Windswept Heath id:[63c59228-c742-4abd-b4d7-9f7880190e95] set:[ZNE] no:[5] fb:[border_none] tags:[]
+1x Woe Strider id:[05500b14-d36d-49b3-82b0-d0c533d4ec00] set:[THB] no:[317] fb:[border_none] tags:[]
+1x Wolfwillow Haven id:[cfc4be7b-a948-464d-8327-575ccb7dccf3] set:[THB] no:[357] fb:[border_none] tags:[]
+1x Wooded Foothills id:[1066a94a-8e4f-4d77-820b-7a77a18116f0] set:[ZNE] no:[4] fb:[border_none] tags:[]
+1x Woodfall Primus id:[5da88d23-8650-4b55-a3f9-e964427660ed] set:[UMA] no:[195] fb:[border_none] tags:[]
+1x Woodland Cemetery id:[ba05cf47-9823-41f9-b893-321ea89e473e] set:[DOM] no:[248] fb:[border_none] tags:[]
+1x Wrath of God id:[664e6656-36a3-4635-9f33-9f8901afd397] set:[2XM] no:[39] fb:[border_none] tags:[]
+1x Wurmcoil Engine id:[f097accb-28ad-4b22-b615-103c74e07708] set:[2XM] no:[368] fb:[border_none] tags:[]
+1x Xenagos, the Reveler id:[3aecfe99-9c4b-4087-84ee-fb208fd22820] set:[THS] no:[209] fb:[border_none] tags:[]
+1x Yavimaya Elder id:[c8511fe7-63f9-4942-8972-d40bf5d7e949] set:[MH2] no:[288] fb:[border_none] tags:[]
+1x Yawgmoth, Thran Physician id:[8690cbcc-f8fd-41f7-9e28-e61c12b04014] set:[MH1] no:[116] fb:[border_none] tags:[]
+1x Yorion, Sky Nomad id:[77b05368-1661-42de-9319-bbe987d27327] set:[IKO] no:[359] fb:[border_none] tags:[]
+1x Young Pyromancer id:[2dd80b9f-5c35-438b-ba52-da0e3e8ff781] set:[SS3] no:[8] fb:[border_none] tags:[]
+1x Zealous Conscripts id:[df3784d4-80cd-4f78-afb3-d61f3bab5b2c] set:[MM3] no:[116] fb:[border_none] tags:[]
+1x Zurgo Bellstriker id:[bbac6d75-59ab-4d7d-87ae-46875abf8cc7] set:[DTK] no:[169] fb:[border_none] tags:[]
