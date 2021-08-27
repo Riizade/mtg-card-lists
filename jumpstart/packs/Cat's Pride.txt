@@ -3,7 +3,7 @@
 1x King of the Pride id:[c4e83abd-6f15-491e-9253-90af9f6f1025] set:[MH1] no:[16] fb:[creature] tags:[]
 1x Regal Caracal id:[cd349f95-3eae-4ef2-abf8-e911bb8e93e5] set:[AKH] no:[24] fb:[creature_b] tags:[]
 1x Leonin Warleader id:[b31b2e5e-6572-462a-9fa0-1b2e660099e3] set:[M19] no:[23] fb:[creature_b] tags:[]
-1x Cubwarden id:[17398d7f-baf3-4605-aced-21582a81c73a] set:[IKO] no:[279] fb:[creature_super_full] tags:[]
+1x Cubwarden id:[17398d7f-baf3-4605-aced-21582a81c73a] set:[IKO] no:[279] fb:[creature_super_full_b] tags:[]
 1x Basri's Acolyte id:[08d1dd97-2675-4953-ab95-d47d23abfe05] set:[M21] no:[8] fb:[creature] tags:[]
 1x Balan, Wandering Knight id:[5d0b279c-9a6d-4a56-878e-0ebf3f609f65] set:[C17] no:[2] fb:[creature_b] tags:[]
 1x White Sun's Zenith id:[029e0450-ceb1-484d-8a18-e769defac428] set:[CMR] no:[391] fb:[spell_b] tags:[]
