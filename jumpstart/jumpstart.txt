@@ -566,7 +566,7 @@
 1x Vexing Devil
 1x Rakdos Cackler
 1x Wildfire Devils
-1x Bedlam Reveler
+1x Spiteful Prankster
 1x Zurzoth, Chaos Rider
 // Non-Creatures
 1x Tibalt, the Fiend-Blooded
