@@ -1,1249 +1,828 @@
-// CubeCobra list: https://cubecobra.com/cube/list/nnit
-
-// BEGIN TAG Decaying Mass
-// ---
-// Creatures
-1x Hogaak, Arisen Necropolis
-1x Golgari Thug
-1x Fiend Artisan
-1x Rotting Regisaur
-1x Stinkweed Imp
-1x Deathrite Shaman
-1x Stitcher's Supplier
-1x Nighthowler
-// Non-Creatures
-1x Bone Shards
-1x Buried Alive
-1x Necrotic Wound
-1x Living Death
-// Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
-6x Swamp
-// 1x Lotleth Troll
-// 1x Grim Flayer
-// 1x Stinkweed Imp
-// 1x Deathrite Shaman
-// END TAG Decaying Mass
-
-// BEGIN TAG Ransacking Pirates
-// ---
-// Creatures
-1x Ragavan, Nimble Pilferer
-1x Breeches, Brazen Plunderer
-1x Robber of the Rich
-1x Grenzo, Havoc Raiser
-1x Captivating Crew
-1x Coercive Recruiter
-1x Dire Fleet Daredevil
-// Non-Creatures
-1x Hijack
-1x Stolen Strategy
-1x Price of Loyalty
-1x Chef's Kiss
-1x Zealous Conscripts
-// Lands
-2x Thriving Bluff
-6x Mountain
-// END TAG Ransacking Pirates
-
-// BEGIN TAG Treasure Hunters
-// ---
-// Creatures
-1x Captain Lannery Storm
-1x Magda, Brazen Outlaw
-1x Gadrak, the Crown-Scourge
-1x Impulsive Pilferer
-1x Storm-Kiln Artist
-1x Goldspan Dragon
-1x Rapacious Dragon
-1x Xorn
-// Non-Creatures
-1x Pirate's Pillage
-1x Improvised Weaponry
-1x Unexpected Windfall
-1x Price of Loyalty
-// Lands
-2x Thriving Bluff
-6x Mountain
-// END TAG Treasure Hunters
-
-// BEGIN TAG The Great Distortion
-// ---
-// Creatures
-1x Kozilek, the Great Distortion
-1x Kozilek's Channeler
-1x Kozilek's Pathfinder
-1x Oblivion Sower
-1x Kozilek's Translator
-1x Kozilek's Shrieker
-1x Warden of Geometries
-// Non-Creatures
-1x Everflowing Chalice
-1x Basalt Monolith
-1x Forsaken Monument
-1x All is Dust
-1x Scour from Existence
-// Lands
-1x Shrine of the Forsaken Gods
-1x Eldrazi Temple
-1x Eye of Ugin
-1x Ancient Tomb
-4x Swamp
-// END TAG The Great Distortion
-
-// BEGIN TAG The Promised End
-// ---
-// Creatures
-1x Emrakul, the Promised End
-1x Hand of Emrakul
-1x Broodwarden
-1x Nest Invader
-1x Eternal Scourge
-1x Oblivion Sower
-1x Ulvenwald Captive
-// Non-Creatures
-1x Cryptolith Fragment
-1x Awakening Zone
-1x Skittering Invasion
-1x All is Dust
-1x Scour from Existence
-// Lands
-1x Shrine of the Forsaken Gods
-1x Eldrazi Temple
-1x Eye of Ugin
-1x Ancient Tomb
-4x Forest
-// END TAG The Promised End
-
-// BEGIN TAG The Ceaseless Hunger
-// ---
-// Creatures
-1x Ulamog, the Ceaseless Hunger
-1x Blight Herder
-1x Scion Summoner
-1x Brood Monitor
-1x Eyeless Watcher
-1x Ulamog's Crusher
-1x Vile Redeemer
-1x Blisterpod
-// Non-Creatures
-1x From Beyond
-1x Call the Scions
-1x All is Dust
-1x Scour from Existence
-// Lands
-1x Shrine of the Forsaken Gods
-1x Eldrazi Temple
-4x Forest
-2x Spawning Bed
-// END TAG The Ceaseless Hunger
-
-
-// BEGIN TAG Rat Swarm
-// ---
-// Creatures
-1x Piper of the Swarm
-1x Pack Rat
-1x Rat Colony
-1x Marrow-Gnawer
-1x Chittering Witch
-1x Swarm of Rats
-1x Typhoid Rats
-1x Drainpipe Vermin
-// Non-Creatures
-1x Feed the Swarm
-1x Bone Shards
-1x Plague of Vermin
-1x Bad Moon
-// Lands
-1x Swarmyard
-2x Thriving Moor
-5x Swamp
-// END TAG Rat Swarm
-
-
-// BEGIN TAG Mad Scientist
-// ---
-// Creatures
-1x Laboratory Maniac
-1x Mirror-Mad Phantasm
-1x Skaab Ruinator
-1x Deranged Assistant
-1x Laboratory Brute
-1x Stitcher Geralf
-1x Thassa's Oracle
-1x Curious Homunculus
-// Non-Creatures
-1x Circular Logic
-1x Increasing Confusion
-1x Calculated Dismissal
-1x Jace, Wielder of Mysteries
-// Lands
-2x Thriving Isle
-6x Island
-// END TAG Mad Scientist
-
-// BEGIN TAG Memory Erasure
-// ---
-// Creatures
-1x Bruvac the Grandiloquent
-1x Mindshrieker
-1x Sphinx Mindbreaker
-1x Manic Scribe
-1x Riddlekeeper
-1x Shriekgeist
-// Non-Creatures
-1x Dream Twist
-1x Increasing Confusion
-1x Mind Sculpt
-1x Jace, Memory Adept
-1x Thought Collapse
-1x Countermand
-// Lands
-2x Thriving Isle
-6x Island
-// END TAG Memory Erasure
-
-
-// BEGIN TAG Siren's Melody
-// ---
-// Creatures
-1x Dreamcaller Siren
-1x Siren Lookout
-1x Siren Reaver
-1x Siren Stormtamer
-1x Siren of the Fanged Coast
-1x Threnody Singer
-1x Hypnotic Siren
-1x Alluring Siren
-// Non-Creatures
-1x Essence Scatter
-1x Aether Gale
-1x Siren's Ruse
-1x Sea Legs
-// Lands
-2x Thriving Isle
-6x Island
-// END TAG Siren's Melody
-
-
-// BEGIN TAG God of the Sea
-// ---
-// Creatures
-1x Thassa, God of the Sea
-1x Thassa's Oracle
-1x Thassa's Emissary
-1x Nezahal, Primal Tide
-1x Gyruda, Doom of Depths
-1x Sea-Dasher Octopus
-1x Hullbreacher
-1x Reef Worm
-// Non-Creatures
-1x Scourge of Fleets
-1x Crush of Tentacles
-1x Thassa's Rebuff
-1x Bident of Thassa
-// Lands
-2x Thriving Isle
-6x Island
-// END TAG God of the Sea
-
-
-// BEGIN TAG Chilling Geists
-// ---
-// Creatures
-1x Battleground Geist
-1x Departed Deckhand
-1x Dungeon Geists
-1x Ghost of Ramirez DePietro
-1x Nebelgast Herald
-1x Niblis of the Breath
-1x Shriekgeist
-1x Shacklegeist
-1x Spectral Sailor
-// Non-Creatures
-1x Field of Reality
-1x Essence Flux
-1x Geist Snatch
-// Lands
-2x Thriving Isle
-6x Island
-// END TAG Chilling Geists
-
-
-// BEGIN TAG Forest Elves
-// ---
-// Creatures
-1x Allosaurus Shepherd
-1x Llanowar Elves
-1x Canopy Tactician
-1x Elvish Archdruid
-1x Ezuri, Renegade Leader
-1x Fyndhorn Elves
-1x Imperious Perfect
-1x Priest of Titania
-1x Rhys the Redeemed
-1x Wildborn Preserver
-1x Joraga Warcaller
-// Non-Creatures
-1x Collected Company
-// Lands
-2x Thriving Grove
-1x Wirewood Lodge
-5x Forest
-// END TAG Forest Elves
-
-// BEGIN TAG Druidic Circle
-// ---
-// Creatures
-1x Paradise Druid
-1x Incubation Druid
-1x Bloom Tender
-1x Gilt-Leaf Archdruid
-1x Kamahl, Heart of Krosa
-1x Noble Hierarch
-1x Skyshroud Elf
-1x Reckless Amplimancer
-1x Arbor Elf
-1x Earthshaker Giant
-1x Karametra's Acolyte
-// Non-Creatures
-1x Freyalise, Llanowar's Fury
-// Lands
-1x Overgrown Tomb
-1x Breeding Pool
-1x Stomping Ground
-1x Temple Garden
-1x Windswept Heath
-3x Forest
-// END TAG Druidic Circle
-
-// BEGIN TAG Scurry of Squirrels
-// ---
-// Creatures
-1x Chatterfang, Squirrel General
-1x Scurrid Colony
-1x Squirrel Mob
-1x Squirrel Sovereign
-1x Toski, Bearer of Secrets
-1x Deep Forest Hermit
-1x Deranged Hermit
-// Non-Creatures
-1x Chitterspitter
-1x Squirrel Nest
-1x Verdant Command
-1x Chatter of the Squirrel
-1x Chatterstorm
-// Lands
-2x Thriving Grove
-6x Forest
-// END TAG Scurry of Squirrels
-
-// BEGIN TAG Wizard's Study
-// ---
-// Creatures
-1x Azami, Lady of Scrolls
-1x Exclusion Mage
-1x Barrin, Tolarian Archmage
-1x Delver of Secrets
-1x Snapcaster Mage
-1x Echo Mage
-1x Naru Meha, Master Wizard
-// Non-Creatures
-1x Talrand's Invocation
-1x Wizard Class
-1x Wizard's Retort
-1x Unsubstantiate
-1x Control Magic
-// Lands
-1x Riptide Laboratory
-2x Thriving Isle
-5x Island
-// END TAG Wizard's Study
-
-
-// BEGIN TAG Echo Casters
-// ---
-// Creatures
-1x Murktide Regent
-1x River Kelpie
-1x Thing in the Ice
-1x Deekah, Fractal Theorist
-1x Karfell Harbinger
-1x Niblis of Frost
-1x Sea Gate Stormcaller
-// Non-Creatures
-1x Secrets of the Dead
-1x Think Twice
-1x Deep Analysis
-1x Runic Repetition
-1x Silent Departure
-// Lands
-2x Thriving Isle
-6x Island
-// END TAG Echo Casters
-
-// BEGIN TAG Rampant Wildfire
-// ---
-// Creatures
-1x Chandra's Incinerator
-1x Vexing Devil
-1x Monastery Swiftspear
-1x Arclight Phoenix
-1x Backdraft Hellkite
-// Non-Creatures
-1x Lightning Bolt
-1x Rift Bolt
-1x Lightning Strike
-1x Lava Spike
-1x Chain Lightning
-1x Skullcrack
-1x Sulfuric Vortex
-// Lands
-2x Thriving Bluff
-6x Mountain
-// END TAG Rampant Wildfire
-
-// BEGIN TAG Dreadhorde General
-// ---
-// Creatures
-1x Cryptbreaker
-1x Liliana's Devotee
-1x Liliana's Elite
-1x Liliana's Reaver
-1x Lord of the Accursed
-1x Josu Vess, Lich Knight
-1x Death Baron
-1x Diregraf Colossus
-1x Lord of the Undead
-// Non-Creatures
-1x Liliana, Dreadhorde General
-1x Liliana's Mastery
-1x Endless Ranks of the Dead
-// Lands
-2x Thriving Moor
-6x Swamp
-// END TAG Dreadhorde General
-
-// BEGIN TAG Dark Deals
-// ---
-// Creatures
-1x Liliana's Specter
-1x Liliana's Steward
-1x Tinybones, Trinket Thief
-1x Rankle, Master of Pranks
-1x Tergrid, God of Fright
-1x Fell Specter
-// Non-Creatures
-1x Liliana Vess
-1x Liliana's Caress
-1x Raiders' Wake
-1x Duress
-1x Dark Deal
-1x Waste Not
-// Lands
-2x Thriving Moor
-6x Swamp
-// END TAG Dark Deals
-
-// BEGIN TAG Demonic Contract
-// ---
-// Creatures
-1x Treacherous Pit-Dweller
-1x Scourge of the Skyclaves
-1x Dream Devourer
-1x Ammit Eternal
-1x Herald of Torment
-1x Taborax, Hope's Demise
-1x Desecration Demon
-1x Vilis, Broker of Blood
-1x Ob Nixilis, the Fallen
-// Non-Creatures
-1x Liliana's Contract
-1x Dark Ritual
-1x Songs of the Damned
-// Lands
-1x Westvale Abbey
-2x Thriving Moor
-5x Swamp
-// END TAG Demonic Contract
-
-// BEGIN TAG Masterful Necromancy
-// ---
-// Creatures
-1x Sheoldred, Whispering One
-1x Dauthi Voidwalker
-1x Kokusho, the Evening Star
-1x It That Betrays
-1x Fleshbag Marauder
-// Non-Creatures
-1x Entomb
-1x Buried Alive
-1x Reanimate
-1x Animate Dead
-1x Victimize
-1x Attrition
-1x Living Death
-// Lands
-2x Thriving Moor
-6x Swamp
-// END TAG Masterful Necromancy
-
-// BEGIN TAG Vampiric Feeding
-// ---
-// Creatures
-1x Viscera Seer
-1x Carrier Thrall
-1x Callous Bloodmage
-1x Blood Artist
-1x Bloodghast
-1x Pawn of Ulamog
-1x Bloodline Keeper
-1x Butcher of Malakir
-// Non-Creatures
-1x Call the Bloodline
-1x Go for the Throat
-1x Victim of Night
-1x Blade of the Bloodchief
-// Lands
-2x Thriving Moor
-6x Swamp
-// END TAG Vampiric Feeding
-
-// BEGIN TAG Vampiric Lifedrain
-// ---
-// Creatures
-1x Vito, Thorn of the Dusk Rose
-1x Nighthawk Scavenger
-1x Vampire Nighthawk
-1x Vampire of the Dire Moon
-1x Oathsworn Vampire
-1x Bloodthirsty Aerialist
-1x Vampire Cutthroat
-1x Bloodbond Vampire
-// Non-Creatures
-1x Go for the Throat
-1x Tribute to Hunger
-1x Feast of Blood
-1x Blood Tribute
-// Lands
-2x Thriving Moor
-6x Swamp
-// END TAG Vampiric Lifedrain
-
-// BEGIN TAG The Dark Realms
-// ---
-// Creatures
-1x Dark Confidant
-1x Knight of the Ebon Legion
-1x Nirkana Revenant
-1x Reassembling Skeleton
-1x Crypt Ghast
-// Non-Creatures
-1x Defile
-1x Torment of Hailfire
-1x Liliana of the Dark Realms
-1x Army of the Damned
-1x Mind Twist
-1x Dread Summons
-// Lands
-1x Cabal Coffers
-1x Cabal Stronghold
-1x Watery Grave
-1x Overgrown Tomb
-1x Godless Shrine
-1x Blood Crypt
-3x Swamp
-// END TAG The Dark Realms
-
-// BEGIN TAG Devilish Instincts
-// ---
-// Creatures
-1x Sin Prodder
-1x Hellrider
-1x Bedlam Reveler
-1x Vexing Devil
-1x Rakdos Cackler
-1x Wildfire Devils
-1x Spiteful Prankster
-1x Zurzoth, Chaos Rider
-// Non-Creatures
-1x Tibalt, the Fiend-Blooded
-1x Faithless Looting
-1x Thrill of Possibility
-1x Pillar of Flame
-// Lands
-2x Thriving Bluff
-6x Mountain
-// END TAG Devilish Instincts
-
-// BEGIN TAG Graverisen Thralls
-// ---
-// Creatures
-1x Apprentice Necromancer
-1x Blood Scrivener
-1x Gravecrawler
-1x Butcher Ghoul
-1x Carnophage
-1x Carrion Feeder
-1x Cryptbreaker
-1x Diregraf Ghoul
-// Non-Creatures
-1x Cemetery Recruitment
-1x Feast or Famine
-1x Graf Harvest
-1x Never // Return
-// Lands
-2x Thriving Moor
-6x Swamp
-// END TAG Graverisen Thralls
-
-// BEGIN TAG Nature's Bounty
-// ---
-// Creatures
-1x Avenger of Zendikar
-1x Beanstalk Giant
-1x Oracle of Mul Daya
-1x Greenseeker
-1x Rampaging Baloths
-1x Dryad of the Ilysian Grove
-// Non-Creatures
-1x Cultivate
-1x Nissa, Who Shakes the World
-1x Rampant Growth
-1x Collective Voyage
-1x Scapeshift
-1x Zendikar's Roil
-// Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
-1x Kazandu Mammoth
-5x Forest
-// END TAG Nature's Bounty
-
-
-// BEGIN TAG Artifact Foundry
-// ---
-// Creatures
-1x Myr Battlesphere
-1x Wurmcoil Engine
-1x Foundry Inspector
-1x Myr Retriever
-1x Hangarback Walker
-1x Metalwork Colossus
-1x Steel Overseer
-// Non-Creatures
-1x Karn, Scion of Urza
-1x Mox Opal
-1x Blinkmoth Urn
-1x Manifold Key
-1x Sculpting Steel
-// Lands
-1x Mishra's Workshop
-1x Urza's Factory
-1x Spire of Industry
-1x Treasure Vault
-4x Darksteel Citadel
-// END TAG Artifact Foundry
-
-// BEGIN TAG Well-Equipped
-// ---
-// Creatures
-1x Puresteel Paladin
-1x Halvar, God of Battle
-1x Armored Skyhunter
-1x Stoneforge Mystic
-1x Brass Squire
-// Non-Creatures
-1x Sigarda's Aid
-1x Colossus Hammer
-1x Sword of Feast and Famine
-1x Sword of Fire and Ice
-1x Whispersilk Cloak
-1x Swiftfoot Boots
-1x Batterskull
-// Lands
-2x Thriving Heath
-6x Plains
-// END TAG Well-Equipped
-
-// BEGIN TAG Expert Crew
-// ---
-// Creatures
-1x Gearshift Ace
-1x Giant Ox
-1x Restoration Specialist
-1x Salvage Scout
-1x Aethershield Artificer
-1x Audacious Infiltrator
-// Non-Creatures
-1x Smuggler's Copter
-1x Conqueror's Galleon
-1x Skysovereign, Consul Flagship
-1x Cultivator's Caravan
-1x Peacewalker Colossus
-1x Fell Flagship
-// Lands
-2x Thriving Heath
-6x Plains
-// END TAG Expert Crew
-
-// BEGIN TAG Goblin Tribe
-// ---
-// Creatures
-1x Krenko, Tin Street Kingpin
-1x Goblin Trashmaster
-1x Goblin Warchief
-1x Pashalik Mons
-1x Goblin Chieftain
-1x Conspicuous Snoop
-1x Goblin Ringleader
-1x Goblin Piledriver
-1x Legion Loyalist
-// Non-Creatures
-1x Quest for the Goblin Lord
-1x Krenko's Command
-1x Massive Raid
-// Lands
-2x Thriving Bluff
-6x Mountain
-// END TAG Goblin Tribe
-
-
-// BEGIN TAG Dragon Clan
-// ---
-// Creatures
-1x Lathliss, Dragon Queen
-1x Dragonspeaker Shaman
-1x Utvara Hellkite
-1x Scourge of Valkas
-1x Terror of the Peaks
-1x Dragonmaster Outcast
-1x Dragonlord's Servant
-1x Dragon Hatchling
-// Non-Creatures
-1x Dragon Tempest
-1x Crucible of Fire
-1x Scorching Dragonfire
-1x Dragon's Fire
-// Lands
-1x Haven of the Spirit Dragon
-2x Thriving Bluff
-5x Mountain
-// END TAG Dragon Clan
-
-
-// BEGIN TAG Hydra Nest
-// ---
-// Creatures
-1x Gargos, Vicious Watcher
-1x Wren's Run Hydra
-1x Hungering Hydra
-1x Voracious Hydra
-1x Managorger Hydra
-1x Hooded Hydra
-1x Hydra Broodmaster
-1x Crash of Rhino Beetles
-1x Polukranos, World Eater
-// Non-Creatures
-1x Primal Might
-1x Smell Fear
-// Lands
-2x Thriving Grove
-1x Gaea's Cradle
-6x Forest
-// END TAG Hydra Nest
-
-// BEGIN TAG Wild Beasts
-// ---
-// Creatures
-1x Sakura-Tribe Elder
-1x Birds of Paradise
-1x Selvala, Heart of the Wilds
-1x Goreclaw, Terror of Qal Sisma
-1x Impervious Greatwurm
-1x Ghalta, Primal Hunger
-1x Kogla, the Titan Ape
-1x Craterhoof Behemoth
-// Non-Creatures
-1x Garruk, Primal Hunter
-1x The Great Henge
-1x Beast Within
-1x Natural Order
-// Lands
-2x Thriving Grove
-6x Forest
-// END TAG Wild Beasts
-
-// BEGIN TAG Verdant Soil
-// ---
-// Creatures
-1x Sylvan Safekeeper
-1x Yedora, Grave Gardener
-1x Multani, Yavimaya's Avatar
-1x Springbloom Druid
-1x Ramunap Excavator
-1x Eternal Witness
-1x Ancient Greenwarden
-1x Undergrowth Champion
-// Non-Creatures
-1x Harrow
-1x Roiling Regrowth
-1x Sylvan Awakening
-1x Cultivate
-// Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
-1x Blighted Woodland
-1x Myriad Landscape
-4x Forest
-// END TAG Verdant Soil
-
-// BEGIN TAG Sentient Ooze
-// ---
-// Creatures
-1x Aeve, Progenitor Ooze
-1x Inexorable Blob
-1x Corrosive Ooze
-1x Acidic Slime
-1x Scavenging Ooze
-1x Predator Ooze
-1x Biogenic Ooze
-1x Mitotic Slime
-1x Ravenous Slime
-// Non-Creatures
-1x Gelatinous Genesis
-1x Slime Molding
-1x Devouring Tendrils
-// Lands
-2x Thriving Grove
-6x Forest
-// END TAG Sentient Ooze
-
-// BEGIN TAG Holy Restoration
-// ---
-// Creatures
-1x Heliod, Sun-Crowned
-1x Evra, Halcyon Witness
-1x Daxos, Blessed by the Sun
-1x Soul Warden
-1x Archangel of Thune
-1x Speaker of the Heavens
-1x Serra Ascendant
-1x Angel of Vitality
-// Non-Creatures
-1x Heliod's Intervention
-1x Dawn of Hope
-1x Swords to Plowshares
-1x Ajani, Strength of the Pride
-// Lands
-2x Thriving Heath
-6x Plains
-// END TAG Holy Restoration
-
-// BEGIN TAG Angelic Host
-// ---
-// Creatures
-1x Lyra Dawnbringer
-1x Avacyn, Angel of Hope
-1x Youthful Valkyrie
-1x Angel of Finality
-1x Adarkar Valkyrie
-1x Resplendent Angel
-1x Righteous Valkyrie
-1x Resplendent Marshal
-1x Restoration Angel
-// Non-Creatures
-1x Emeria's Call
-1x Afterlife
-1x Angelic Ascension
-// Lands
-2x Thriving Heath
-6x Plains
-// END TAG Angelic Host
-
-
-// BEGIN TAG Tax Collector
-// ---
-// Creatures
-1x Thalia, Guardian of Thraben
-1x Archon of Emeria
-1x Vryn Wingmare
-1x Spirit of the Labyrinth
-1x Hushbringer
-1x Imposing Sovereign
-1x Angel of Jubilation
-1x Grand Abolisher
-1x Linvala, Keeper of Silence
-// Non-Creatures
-1x Smothering Tithe
-1x Mana Tithe
-1x Austere Command
-// Lands
-2x Thriving Heath
-6x Plains
-// END TAG Tax Collector
-
-
-// BEGIN TAG Enchanting Aura
-// ---
-// Creatures
-1x Danitha Capashen, Paragon
-1x Eidolon of Countless Battles
-1x Kor Spiritdancer
-1x Hero of Iroas
-1x Transcendent Envoy
-1x Archon of Sun's Grace
-// Non-Creatures
-1x Ethereal Armor
-1x All That Glitters
-1x Sage's Reverie
-1x Spirit Mantle
-1x Angelic Gift
-1x Reprobation
-// Lands
-2x Thriving Heath
-6x Plains
-// END TAG Enchanting Aura
-
-
-// BEGIN TAG Enchanting Light
-// ---
-// Creatures
-1x Archetype of Courage
-1x Starfield Mystic
-1x Heliod, God of the Sun
-1x Auramancer
-1x Alseid of Life's Bounty
-1x Harvestguard Alseids
-// Non-Creatures
-1x Sphere of Safety
-1x Oblivion Ring
-1x Dawn of Hope
-1x Banishing Light
-1x Spear of Heliod
-1x Luminarch Ascension
-// Lands
-2x Thriving Heath
-6x Plains
-// END TAG Enchanting Light
-
-
-// BEGIN TAG Cat's Pride
-// ---
-// Creatures
-1x Kemba, Kha Regent
-1x Brimaz, King of Oreskos
-1x King of the Pride
-1x Regal Caracal
-1x Leonin Warleader
-1x Cubwarden
-1x Basri's Acolyte
-1x Balan, Wandering Knight
-// Non-Creatures
-1x White Sun's Zenith
-1x Felidar Retreat
-1x Ajani, Caller of the Pride
-1x Winds of Abandon
-// Lands
-2x Thriving Heath
-6x Plains
-// END TAG Cat's Pride
-
-
-// BEGIN TAG Plainswalkers
-// ---
-// Creatures
-1x Djeru, With Eyes Open
-1x Baird, Steward of Argive
-1x Archon of Absolution
-// Non-Creatures
-1x Gideon of the Trials
-1x Elspeth, Sun's Nemesis
-1x Basri Ket
-1x Ajani, Adversary of Tyrants
-1x Teyo, the Shieldmage
-1x Serra the Benevolent
-1x Nahiri, the Lithomancer
-1x Cleansing Nova
-1x Terminus
-// Lands
-2x Thriving Heath
-6x Plains
-// END TAG Plainswalkers
-
-// BEGIN TAG Chandra's Rage
-// ---
-// Creatures
-1x Chandra's Spitfire
-1x Chandra's Embercat
-1x Chandra's Magmutt
-1x Chandra's Incinerator
-1x Obsidian Fireheart
-1x Ball Lightning
-1x Runaway Steam-Kin
-// Non-Creatures
-1x Chandra, Torch of Defiance
-1x Chandra, Awakened Inferno
-1x Chandra, Novice Pyromancer
-1x Chandra's Regulator
-1x Chandra's Triumph
-// Lands
-2x Thriving Bluff
-6x Mountain
-// END TAG Chandra's Rage
-
-
-// BEGIN TAG Jace's Intellect
-// ---
-// Creatures
-1x Jace's Archivist
-1x Jace's Phantasm
-1x Jace's Mindseeker
-1x Spark Double
-1x Mulldrifter
-// Non-Creatures
-1x Jace, the Mind Sculptor
-1x Psychic Corrosion
-1x Jace Beleren
-1x Folio of Fancies
-1x Didn't Say Please
-1x Memory Erosion
-1x Jace, Memory Adept
-// Lands
-2x Thriving Isle
-6x Island
-// END TAG Jace's Intellect
-
-// BEGIN TAG Departed Spirits
-// ---
-// Creatures
-1x Yosei, the Morning Star
-1x Topplegeist
-1x Remorseful Cleric
-1x Anafenza, Kin-Tree Spirit
-1x Wall of Reverence
-1x Forbidding Spirit
-1x Eternal Dragon
-// Non-Creatures
-1x Spirit Bonds
-1x Field of Souls
-1x Spectral Procession
-1x Midnight Haunting
-1x Afterlife
-// Lands
-2x Thriving Heath
-6x Plains
-// END TAG Departed Spirits
-
-// BEGIN TAG Primal Elements
-// ---
-// Creatures
-1x Nyxbloom Ancient
-1x Fertilid
-1x Tangled Florahedron
-1x Vigor
-1x Titania, Protector of Argoth
-1x Ashaya, Soul of the Wild
-1x Leafkin Druid
-1x Endurance
-// Non-Creatures
-1x Sylvan Awakening
-1x Awakening of Vitu-Ghazi
-1x Beast Within
-1x Kamahl's Will
-// Lands
-1x Terramorphic Expanse
-1x Evolving Wilds
-6x Forest
-// END TAG Primal Elements
-
-// BEGIN TAG Venomous Predators
-// ---
-// Creatures
-1x Fynn, the Fangbearer
-1x Ambush Viper
-1x Blight Mamba
-1x Questing Beast
-1x Viridian Corrupter
-1x Glistener Elf
-1x Phyrexian Swarmlord
-1x Rot Wolf
-// Non-Creatures
-1x Vines of Vastwood
-1x Mutagenic Growth
-1x Triumph of the Hordes
-1x Invigorate
-// Lands
-1x Rogue's Passage
-2x Thriving Grove
-5x Forest
-// END TAG Venomous Predators
-
-// BEGIN TAG Archaeology
-// ---
-// Creatures
-1x Emry, Lurker of the Loch
-1x Urza, Lord High Artificer
-1x Sai, Master Thopterist
-1x Memnarch
-1x Etherium Sculptor
-1x Master Transmuter
-1x Spellskite
-1x Grand Architect
-// Non-Creatures
-1x Nevinyrral's Disk
-1x Mirrorworks
-1x Sculpting Steel
-1x Lithoform Engine
-// Lands
-2x Thriving Isle
-6x Island
-// END TAG Archaeology
-
-// BEGIN TAG Sleight of Hand
-// ---
-// Creatures
-1x Orvar, the All-Form
-1x Octavia, Living Thesis
-1x Wavebreak Hippocamp
-1x Talrand, Sky Summoner
-// Non-Creatures
-1x Mystical Tutor
-1x Thought Scour
-1x Think Twice
-1x Brainstorm
-1x Ponder
-1x Preordain
-1x Into the Roil
-1x Counterspell
-// Lands
-2x Thriving Isle
-6x Island
-// END TAG Sleight of Hand
-
-// BEGIN TAG Scrap Engineers
-// ---
-// Creatures
-1x Bosh, Iron Golem
-1x Kurkesh, Onakke Ancient
-1x Feldon of the Third Path
-1x Goblin Welder
-1x Combustible Gearhulk
-1x Steel Hellkite
-1x Kuldotha Forgemaster
-1x Scuttling Doom Engine
-// Non-Creatures
-1x Daretti, Scrap Savant
-1x Wayfarer's Bauble
-1x Codex Shredder
-1x Pyrite Spellbomb
-// Lands
-2x Thriving Bluff
-6x Mountain
-// END TAG Scrap Engineers
-
-// BEGIN TAG Spellslinger
-// ---
-// Creatures
-1x Syr Carah, the Bold
-1x Chandra, Fire of Kaladesh
-1x Guttersnipe
-1x Young Pyromancer
-1x Charmbreaker Devils
-// Non-Creatures
-1x Pyromancer's Goggles
-1x Mizzix's Mastery
-1x Shock
-1x Faithless Looting
-1x Searing Spear
-1x Reverberate
-1x Thrill of Possibility
-// Lands
-2x Thriving Bluff
-6x Mountain
-// END TAG Spellslinger
-
-// BEGIN TAG Insatiable Bloodlust
-// ---
-// Creatures
-1x Combat Celebrant
-1x Moraug, Fury of Akoum
-1x Hellkite Charger
-1x Port Razer
-1x Ilharg, the Raze-Boar
-1x Legion Warboss
-1x Fervent Champion
-1x Conspiracy Theorist
-1x Borderland Marauder
-// Non-Creatures
-1x World at War
-1x Breath of Fury
-1x Seize the Day
-// Lands
-2x Thriving Bluff
-6x Mountain
-// END TAG Insatiable Bloodlust
-
-// BEGIN TAG Prismatic Dragons
-// ---
-// Creatures
-1x Morophon, the Boundless
-1x Tiamat
-1x O-Kagachi, Vengeful Kami
-1x The Ur-Dragon
-1x Niv-Mizzet Reborn
-1x Scion of the Ur-Dragon
-1x Birds of Paradise
-1x Paradise Druid
-// Non-Creatures
-1x Chromatic Lantern
-1x Chrome Mox
-1x Coalition Relic
-1x Springleaf Drum
-// Lands
-1x Mana Confluence
-1x City of Brass
-1x Cavern of Souls
-1x Zagoth Triome
-1x Ketria Triome
-1x Savai Triome
-1x Indatha Triome
-1x Raugrin Triome
-// END TAG Prismatic Dragons
-
-// BEGIN TAG Rainbow Leylines
-// ---
-// Creatures
-1x Garth One-Eye
-1x Jodah, Archmage Eternal
-1x Esika, God of the Tree
-1x Sisay, Weatherlight Captain
-1x Jegantha, the Wellspring
-1x Progenitus
-1x Ramos, Dragon Engine
-1x Maelstrom Archangel
-// Non-Creatures
-1x Chromatic Lantern
-1x Chrome Mox
-1x Coalition Relic
-1x Chromatic Orrery
-// Lands
-1x Mana Confluence
-1x City of Brass
-1x Cascading Cataracts
-1x Zagoth Triome
-1x Ketria Triome
-1x Savai Triome
-1x Indatha Triome
-1x Raugrin Triome
-// END TAG Rainbow Leylines
-
-// Template
-// BEGIN TAG Name
-// ---
-// Creatures
-// Non-Creatures
-// Lands
-// END TAG Name
+1x Lyra Dawnbringer [MAINBOARD] id:[93be6799-7b9d-44d4-84dc-2961692b5a85] set:[DOM] no:[26] fb:[creature_legendary_b] tags:[Angelic Host]
+1x Avacyn, Angel of Hope [MAINBOARD] id:[db149aaa-3da9-48c4-92cc-b3d804285290] set:[2XM] no:[335] fb:[creature_super_full_b] tags:[Angelic Host]
+1x Youthful Valkyrie [MAINBOARD] id:[ffe93b27-f8ae-4abf-8ade-90f503f132c2] set:[KHM] no:[382] fb:[creature] tags:[Angelic Host]
+1x Angel of Finality [MAINBOARD] id:[5e199cea-ab34-4eca-9d52-56959d648a16] set:[C20] no:[75] fb:[creature_b] tags:[Angelic Host]
+1x Adarkar Valkyrie [MAINBOARD] id:[fc2a4abc-85da-46a6-a616-9aa607ce7372] set:[C18] no:[60] fb:[creature_b] tags:[Angelic Host]
+1x Resplendent Angel [MAINBOARD] id:[586854d1-edfd-4c66-873d-df459324dbfd] set:[M19] no:[34] fb:[creature_b] tags:[Angelic Host]
+1x Righteous Valkyrie [MAINBOARD] id:[c0ff8c9f-a865-4570-8bd3-8229a18e5c99] set:[KHM] no:[338] fb:[creature_full_b] tags:[Angelic Host]
+1x Resplendent Marshal [MAINBOARD] id:[39906ca0-0f52-42fa-8266-add1860c7a4d] set:[KHM] no:[337] fb:[creature_full_b] tags:[Angelic Host]
+1x Restoration Angel [MAINBOARD] id:[3b5233ff-03bc-4053-9b49-c4185c2de38d] set:[IMA] no:[28] fb:[creature_b] tags:[Angelic Host]
+1x Emeria's Call // Emeria, Shattered Skyclave [MAINBOARD] id:[ca50edb2-e50e-4601-ae18-1a313e041105] set:[ZNR] no:[317] fb:[spell_full_mdfc_b] bb:[spell_full_mdfc] tags:[Angelic Host]
+1x Afterlife [MAINBOARD] id:[258946f2-294a-4ddf-be91-9ff4c94e4bdb] set:[C14] no:[64] fb:[spell] tags:[Angelic Host]
+1x Angelic Ascension [MAINBOARD] id:[e8cca776-b0e4-4cd2-815f-36c1f86cf497] set:[M21] no:[3] fb:[spell] tags:[Angelic Host]
+2x Thriving Heath [MAINBOARD] id:[fe424eb3-7df8-4317-8776-6d960afbb90a] set:[JMP] no:[35] fb:[spell] tags:[Angelic Host]
+6x Plains [MAINBOARD] id:[a9891b7b-fc52-470c-9f74-292ae665f378] set:[THB] no:[250] fb:[land_thb_full_art] tags:[Angelic Host]
+1x Emry, Lurker of the Loch [MAINBOARD] id:[157f343d-8583-4827-a77d-d916e6a5caa1] set:[ELD] no:[342] fb:[creature_full_b] tags:[Archaeology]
+1x Urza, Lord High Artificer [MAINBOARD] id:[9e7fb3c0-5159-4d1f-8490-ce4c9a60f567] set:[MH1] no:[75] fb:[creature_legendary_b] tags:[Archaeology]
+1x Sai, Master Thopterist [MAINBOARD] id:[19316cbb-d1af-4ab7-b588-78637503e986] set:[M19] no:[69] fb:[creature_legendary_b] tags:[Archaeology]
+1x Memnarch [MAINBOARD] id:[9f48defb-888b-4040-9dd2-16a0643c5c30] set:[V16] no:[7] fb:[creature_b] tags:[Archaeology]
+1x Etherium Sculptor [MAINBOARD] id:[3d800fe1-4b53-4002-9a0a-1f0b2461b800] set:[C18] no:[90] fb:[creature] tags:[Archaeology]
+1x Master Transmuter [MAINBOARD] id:[480eb74f-9e62-41f7-b48a-b4249aab5752] set:[2XM] no:[58] fb:[creature_b] tags:[Archaeology]
+1x Spellskite [MAINBOARD] id:[aa9bf341-0060-467d-99b3-a5bc7f2270b8] set:[2XM] no:[289] fb:[creature_b] tags:[Archaeology]
+1x Grand Architect [MAINBOARD] id:[14ce909d-a53e-4711-a9fd-b110433d460f] set:[2XM] no:[53] fb:[creature_b] tags:[Archaeology]
+1x Nevinyrral's Disk [MAINBOARD] id:[9bd9fbe2-3961-4096-aec5-f5358fa4b9fc] set:[CMR] no:[696] fb:[spell_full_b] tags:[Archaeology]
+1x Mirrorworks [MAINBOARD] id:[99fff4f2-1a12-4bb5-9904-6c058e5ed595] set:[C18] no:[211] fb:[spell_b] tags:[Archaeology]
+1x Sculpting Steel [MAINBOARD] id:[ebb792e6-952b-4b28-a276-7d807c155de9] set:[MPS] no:[23] fb:[spell_b] tags:[Archaeology]
+1x Lithoform Engine [MAINBOARD] id:[e3b02012-56b1-4386-936b-139480162e8f] set:[ZNR] no:[375] fb:[spell_full_b] tags:[Archaeology]
+2x Thriving Isle [MAINBOARD] id:[7eb8fd94-2b59-4b05-b4d0-c93497301d19] set:[JMP] no:[36] fb:[spell] tags:[Archaeology]
+6x Island [MAINBOARD] id:[acf7b664-3e75-4018-81f6-2a14ab59f258] set:[THB] no:[251] fb:[land_thb_full_art] tags:[Archaeology]
+1x Myr Battlesphere [MAINBOARD] id:[31837c7c-267a-4483-8712-406bfa7c4fde] set:[2XM] no:[276] fb:[creature_b] tags:[Artifact Foundry]
+1x Wurmcoil Engine [MAINBOARD] id:[f097accb-28ad-4b22-b615-103c74e07708] set:[2XM] no:[368] fb:[creature_super_full_b] tags:[Artifact Foundry]
+1x Foundry Inspector [MAINBOARD] id:[93f827e8-1cc4-4a15-a4be-2e74323963b9] set:[KLD] no:[215] fb:[creature] tags:[Artifact Foundry]
+1x Myr Retriever [MAINBOARD] id:[7f0149d4-0731-474a-a1c3-28c25e486c14] set:[2XM] no:[277] fb:[creature] tags:[Artifact Foundry]
+1x Hangarback Walker [MAINBOARD] id:[c246b845-dfca-47a3-aa56-074d30590320] set:[MPS] no:[13] fb:[creature_b] tags:[Artifact Foundry]
+1x Metalwork Colossus [MAINBOARD] id:[474480b5-c60b-4c7f-9d3e-751bca43d074] set:[KLD] no:[222] fb:[creature_b] tags:[Artifact Foundry]
+1x Steel Overseer [MAINBOARD] id:[3c0c495e-d2ac-45e4-9f75-5633e7ade26c] set:[MPS] no:[27] fb:[creature_b] tags:[Artifact Foundry]
+1x Karn, Scion of Urza [MAINBOARD] id:[0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9] set:[MED] no:[RA1] fb:[planeswalker_full_b] tags:[Artifact Foundry]
+1x Mox Opal [MAINBOARD] id:[547e3aa5-d88a-4418-ab9d-dd65385f031b] set:[2XM] no:[362] fb:[spell_super_full_b] tags:[Artifact Foundry]
+1x Blinkmoth Urn [MAINBOARD] id:[1016fb10-82b5-465a-8f33-ec54f9785544] set:[C16] no:[244] fb:[spell_b] tags:[Artifact Foundry]
+1x Manifold Key [MAINBOARD] id:[715e637a-dfd8-45a0-b1ea-53e4abd29307] set:[M20] no:[230] fb:[spell] tags:[Artifact Foundry]
+1x Sculpting Steel [MAINBOARD] id:[ebb792e6-952b-4b28-a276-7d807c155de9] set:[MPS] no:[23] fb:[spell_b] tags:[Artifact Foundry]
+1x Mishra's Workshop [MAINBOARD] id:[aac0c8df-f01d-4178-8d66-ee603f814d24] set:[VMA] no:[305] fb:[spell_b] tags:[Artifact Foundry]
+1x Urza's Factory [MAINBOARD] id:[d03f17f1-b0fd-4b84-82ea-085c2f87eeda] set:[TSR] no:[288] fb:[spell] tags:[Artifact Foundry]
+1x Spire of Industry [MAINBOARD] id:[8331724d-6fab-454a-b06c-b06e499fa552] set:[AER] no:[184] fb:[spell_b] tags:[Artifact Foundry]
+1x Treasure Vault [MAINBOARD] id:[a0931eb3-b403-4b1a-ad46-a7b0a51bb9a4] set:[AFR] no:[261] fb:[spell_b] tags:[Artifact Foundry]
+4x Darksteel Citadel [MAINBOARD] id:[2ba7597d-6d76-45b8-b172-342999e401bd] set:[C21] no:[285] fb:[spell] tags:[Artifact Foundry]
+1x Heliod, Sun-Crowned [MAINBOARD] id:[e11cf760-da35-41f2-8cf5-a5141103eeb3] set:[THB] no:[259] fb:[creature_legendary_b] tags:[Benevolence]
+1x Evra, Halcyon Witness [MAINBOARD] id:[f2be6765-a251-4035-a4ad-601e5ae23d33] set:[MB1] no:[97] fb:[creature_legendary_b] tags:[Benevolence]
+1x Daxos, Blessed by the Sun [MAINBOARD] id:[03970f12-e849-4312-848e-0b03677e20bc] set:[PLIST] no:[304] fb:[creature_legendary] tags:[Benevolence]
+1x Soul Warden [MAINBOARD] id:[37fee9ca-a9bc-4369-b71f-69f4183d1c1e] set:[MB1] no:[241] fb:[creature] tags:[Benevolence]
+1x Archangel of Thune [MAINBOARD] id:[aff10db6-f9bf-4fc8-b3ef-c4c11f192f53] set:[IMA] no:[8] fb:[creature_b] tags:[Benevolence]
+1x Speaker of the Heavens [MAINBOARD] id:[e300294d-0bbd-4d28-b2bd-c5a976de212a] set:[M21] no:[347] fb:[creature_super_full_b] tags:[Benevolence]
+1x Serra Ascendant [MAINBOARD] id:[0a22ee47-fc56-436d-8570-88fbff421027] set:[IMA] no:[31] fb:[creature_b] tags:[Benevolence]
+1x Angel of Vitality [MAINBOARD] id:[e2f39777-b80a-4618-9310-a9e5b91bb2a2] set:[M20] no:[4] fb:[creature] tags:[Benevolence]
+1x Heliod's Intervention [MAINBOARD] id:[6c0674c3-4e6c-4dbb-a4b0-a5607fcfc3f1] set:[THB] no:[300] fb:[spell_full_b] tags:[Benevolence]
+1x Dawn of Hope [MAINBOARD] id:[cf2a9e82-8670-4b7f-b5f0-8e10f8aeff1c] set:[GRN] no:[8] fb:[spell_b] tags:[Benevolence]
+1x Swords to Plowshares [MAINBOARD] id:[cd33c0f5-5545-477a-9185-53c707983795] set:[CMR] no:[627] fb:[spell_full_b] tags:[Benevolence]
+1x Ajani, Strength of the Pride [MAINBOARD] id:[79883468-a37c-4894-8d05-6a4d150b7d59] set:[M20] no:[2] fb:[planeswalker_b] tags:[Benevolence]
+2x Thriving Heath [MAINBOARD] id:[fe424eb3-7df8-4317-8776-6d960afbb90a] set:[JMP] no:[35] fb:[spell] tags:[Benevolence]
+6x Plains [MAINBOARD] id:[a9891b7b-fc52-470c-9f74-292ae665f378] set:[THB] no:[250] fb:[land_thb_full_art] tags:[Benevolence]
+1x Kemba, Kha Regent [MAINBOARD] id:[e8e92cf6-8382-44b5-9f14-c91e572685b9] set:[2XM] no:[19] fb:[creature_legendary_b] tags:[Cat's Pride]
+1x Brimaz, King of Oreskos [MAINBOARD] id:[f54eb705-6326-4bac-bf0e-68d42db7a270] set:[BNG] no:[5] fb:[raised] tags:[Cat's Pride]
+1x King of the Pride [MAINBOARD] id:[c4e83abd-6f15-491e-9253-90af9f6f1025] set:[MH1] no:[16] fb:[creature] tags:[Cat's Pride]
+1x Regal Caracal [MAINBOARD] id:[cd349f95-3eae-4ef2-abf8-e911bb8e93e5] set:[AKH] no:[24] fb:[creature_b] tags:[Cat's Pride]
+1x Leonin Warleader [MAINBOARD] id:[b31b2e5e-6572-462a-9fa0-1b2e660099e3] set:[M19] no:[23] fb:[creature_b] tags:[Cat's Pride]
+1x Cubwarden [MAINBOARD] id:[17398d7f-baf3-4605-aced-21582a81c73a] set:[IKO] no:[279] fb:[creature_super_full_b] tags:[Cat's Pride]
+1x Basri's Acolyte [MAINBOARD] id:[08d1dd97-2675-4953-ab95-d47d23abfe05] set:[M21] no:[8] fb:[creature] tags:[Cat's Pride]
+1x Balan, Wandering Knight [MAINBOARD] id:[5d0b279c-9a6d-4a56-878e-0ebf3f609f65] set:[C17] no:[2] fb:[creature_b] tags:[Cat's Pride]
+1x White Sun's Zenith [MAINBOARD] id:[029e0450-ceb1-484d-8a18-e769defac428] set:[CMR] no:[391] fb:[spell_b] tags:[Cat's Pride]
+1x Felidar Retreat [MAINBOARD] id:[d442c32d-457d-4fef-bba2-33a07bf23125] set:[ZNR] no:[292] fb:[spell_b] tags:[Cat's Pride]
+1x Ajani, Caller of the Pride [MAINBOARD] id:[33e44e04-8330-49ca-906c-bb9bf0bc84ce] set:[M14] no:[1] fb:[planeswalker] tags:[Cat's Pride]
+1x Winds of Abandon [MAINBOARD] id:[3bb17913-fe4d-4acd-9b75-71f5a90f898b] set:[MH1] no:[37] fb:[spell_b] tags:[Cat's Pride]
+2x Thriving Heath [MAINBOARD] id:[fe424eb3-7df8-4317-8776-6d960afbb90a] set:[JMP] no:[35] fb:[spell] tags:[Cat's Pride]
+6x Plains [MAINBOARD] id:[a9891b7b-fc52-470c-9f74-292ae665f378] set:[THB] no:[250] fb:[land_thb_full_art] tags:[Cat's Pride]
+1x Chandra's Spitfire [MAINBOARD] id:[8a857da7-5438-465b-821a-bd5bfd780c69] set:[M20] no:[132] fb:[creature] tags:[Chandra's Rage]
+1x Chandra's Embercat [MAINBOARD] id:[30f9c266-f32e-4483-9709-f83675331688] set:[M20] no:[129] fb:[creature] tags:[Chandra's Rage]
+1x Chandra's Magmutt [MAINBOARD] id:[91d3e366-4da5-42c8-bbd5-a0c178c0da28] set:[M21] no:[137] fb:[creature] tags:[Chandra's Rage]
+1x Chandra's Incinerator [MAINBOARD] id:[ed875705-b7b6-4464-b16f-61629ffed04f] set:[M21] no:[136] fb:[creature_b] tags:[Chandra's Rage]
+1x Obsidian Fireheart [MAINBOARD] id:[49ef5a91-d293-468a-8816-b16ca4ba79e0] set:[E01] no:[55] fb:[creature_b] tags:[Chandra's Rage]
+1x Ball Lightning [MAINBOARD] id:[d9b53218-804b-4992-9c93-a797dd6b2a04] set:[JMP] no:[291] fb:[creature_b] tags:[Chandra's Rage]
+1x Runaway Steam-Kin [MAINBOARD] id:[d8c9c111-fbc7-44e1-94bd-1ca164370623] set:[GRN] no:[115] fb:[creature_b] tags:[Chandra's Rage]
+1x Chandra, Torch of Defiance [MAINBOARD] id:[ff8086cd-b868-4f4e-823e-2635ad7ebc07] set:[KLD] no:[110] fb:[planeswalker_b] tags:[Chandra's Rage]
+1x Chandra, Awakened Inferno [MAINBOARD] id:[49d2a680-4f3b-4bfa-b77b-d2dfaced9f23] set:[M20] no:[127] fb:[planeswalker_b] tags:[Chandra's Rage]
+1x Chandra, Novice Pyromancer [MAINBOARD] id:[d678cf4c-60e3-40a1-a9cc-b0bd157bcf36] set:[M20] no:[128] fb:[planeswalker] tags:[Chandra's Rage]
+1x Chandra's Regulator [MAINBOARD] id:[b4448017-850e-4613-8d55-4f633c67c7e9] set:[PM20] no:[131] fb:[spell_legendary_b] tags:[Chandra's Rage]
+1x Chandra's Triumph [MAINBOARD] id:[70f43c17-7022-4052-86b8-90b74382b7bf] set:[WAR] no:[121] fb:[spell] tags:[Chandra's Rage]
+2x Thriving Bluff [MAINBOARD] id:[15481459-3703-4185-ad27-105d95691e9d] set:[JMP] no:[33] fb:[spell] tags:[Chandra's Rage]
+6x Mountain [MAINBOARD] id:[53fb7b99-9e47-46a6-9c8a-88e28b5197f1] set:[THB] no:[253] fb:[land_thb_full_art] tags:[Chandra's Rage]
+1x Battleground Geist [MAINBOARD] id:[52b2d108-16f2-4d9b-abc8-83ee3d2e8baf] set:[JMP] no:[139] fb:[creature] tags:[Chilling Geists]
+1x Departed Deckhand [MAINBOARD] id:[48b3c3e3-151f-4f16-bb40-167978180bbc] set:[JMP] no:[149] fb:[creature] tags:[Chilling Geists]
+1x Dungeon Geists [MAINBOARD] id:[072ca247-85e8-4414-96e5-736261516c20] set:[CMA] no:[39] fb:[creature_b] tags:[Chilling Geists]
+1x Ghost of Ramirez DePietro [MAINBOARD] id:[e4a41506-85c6-4362-b983-36df13db09d9] set:[CMR] no:[71] fb:[creature_legendary] tags:[Chilling Geists]
+1x Nebelgast Herald [MAINBOARD] id:[40965d3b-9b8f-4706-9364-64f758a768e6] set:[EMN] no:[71] fb:[creature] tags:[Chilling Geists]
+1x Niblis of the Breath [MAINBOARD] id:[0686843d-6d1e-4488-8c17-7c986a154195] set:[DKA] no:[44] fb:[raised] tags:[Chilling Geists]
+1x Shriekgeist [MAINBOARD] id:[424b08b1-d9a3-4f18-a5ef-0f46698ac7ed] set:[IMA] no:[72] fb:[creature] tags:[Chilling Geists]
+1x Shacklegeist [MAINBOARD] id:[7d6d0c71-d1c8-4eb0-96e7-b3325d5fb4c0] set:[M21] no:[353] fb:[creature_b] tags:[Chilling Geists]
+1x Spectral Sailor [MAINBOARD] id:[67483891-36d1-46f2-8b4f-b8b7bd54bdcc] set:[M20] no:[76] fb:[creature] tags:[Chilling Geists]
+1x Field of Reality [MAINBOARD] id:[2ff7c6fc-324b-4cff-9109-6d817767865f] set:[CHK] no:[60] fb:[basic_high] tags:[Chilling Geists]
+1x Essence Flux [MAINBOARD] id:[2600a51b-0dae-431e-a0a7-2b1421706a6a] set:[JMP] no:[151] fb:[spell] tags:[Chilling Geists]
+1x Geist Snatch [MAINBOARD] id:[b6dac5db-ef96-4bd5-aabc-e5ae2b95c8c3] set:[AVR] no:[55] fb:[basic_high] tags:[Chilling Geists]
+2x Thriving Isle [MAINBOARD] id:[7eb8fd94-2b59-4b05-b4d0-c93497301d19] set:[JMP] no:[36] fb:[spell] tags:[Chilling Geists]
+6x Island [MAINBOARD] id:[acf7b664-3e75-4018-81f6-2a14ab59f258] set:[THB] no:[251] fb:[land_thb_full_art] tags:[Chilling Geists]
+1x Liliana's Specter [MAINBOARD] id:[549089f4-1359-49c3-9560-6fe49d1598d0] set:[PCA] no:[34] fb:[creature] tags:[Dark Deals]
+1x Liliana's Steward [MAINBOARD] id:[1945fc78-8aa4-46fb-9571-eaa1c4729e3d] set:[M21] no:[111] fb:[creature] tags:[Dark Deals]
+1x Tinybones, Trinket Thief [MAINBOARD] id:[4063be5b-bfd9-43c5-bc39-09a40bc793bf] set:[JMP] no:[17] fb:[creature_legendary_b] tags:[Dark Deals]
+1x Rankle, Master of Pranks [MAINBOARD] id:[ee4d196e-7ce4-4dc1-9d58-102a89aca2a4] set:[ELD] no:[356] fb:[creature_legendary_b] tags:[Dark Deals]
+1x Tergrid, God of Fright // Tergrid's Lantern [MAINBOARD] id:[9ff4efdf-c0bb-443a-a100-2f3850571e91] set:[KHM] no:[307] fb:[spell_kld_mdfc] tags:[Dark Deals]
+1x Fell Specter [MAINBOARD] id:[90c4b3bb-90b1-4241-a9ca-fdd7a0e0f0ac] set:[JMP] no:[233] fb:[creature] tags:[Dark Deals]
+1x Liliana Vess [MAINBOARD] id:[6087f146-f468-472a-b248-fc7386ea3e63] set:[M15] no:[103] fb:[planeswalker_b] tags:[Dark Deals]
+1x Liliana's Caress [MAINBOARD] id:[0d995382-57a6-40a4-9050-31f57cb8dae3] set:[M11] no:[103] fb:[basic_high] tags:[Dark Deals]
+1x Raiders' Wake [MAINBOARD] id:[fd81dd41-a982-46d2-a572-432580be73c5] set:[XLN] no:[116] fb:[spell] tags:[Dark Deals]
+1x Duress [MAINBOARD] id:[e3845911-37e1-44af-b270-bbcae21bdc61] set:[MB1] no:[642] fb:[spell] tags:[Dark Deals]
+1x Dark Deal [MAINBOARD] id:[69dfaafe-2fbd-4f2f-913d-ea64e4ce44cd] set:[FRF] no:[66] fb:[spell] tags:[Dark Deals]
+1x Waste Not [MAINBOARD] id:[2f5500a2-c6d6-40d7-b586-59b854733160] set:[C16] no:[117] fb:[spell_b] tags:[Dark Deals]
+2x Thriving Moor [MAINBOARD] id:[18756fe5-70f0-48d9-a4f1-ea78f77d2084] set:[JMP] no:[37] fb:[spell] tags:[Dark Deals]
+6x Swamp [MAINBOARD] id:[02cb5cfd-018e-4c5e-bef1-166262aa5f1d] set:[THB] no:[252] fb:[land_thb_full_art] tags:[Dark Deals]
+1x Hogaak, Arisen Necropolis [MAINBOARD] id:[0049e68d-0caf-474f-9523-dad343f1250a] set:[MH1] no:[202] fb:[creature_legendary_b] tags:[Decaying Mass]
+1x Golgari Thug [MAINBOARD] id:[8ecfb37f-aa3f-46ca-9bff-01a874f8cc59] set:[UMA] no:[98] fb:[creature] tags:[Decaying Mass]
+1x Fiend Artisan [MAINBOARD] id:[653e706a-5506-4efd-a86b-2a25bb66a2ae] set:[IKO] no:[350] fb:[creature_full_b] tags:[Decaying Mass]
+1x Rotting Regisaur [MAINBOARD] id:[d88c61cb-dbf9-46c3-8795-8896ba1208d5] set:[M20] no:[111] fb:[creature_b] tags:[Decaying Mass]
+1x Stinkweed Imp [MAINBOARD] id:[c31d9067-a389-4a66-ae85-bf524c41cd4c] set:[MB1] no:[782] fb:[creature] tags:[Decaying Mass]
+1x Deathrite Shaman [MAINBOARD] id:[d14f9fc8-e48c-473f-ba6b-9cffce94bb53] set:[EMA] no:[215] fb:[creature_b] tags:[Decaying Mass]
+1x Stitcher's Supplier [MAINBOARD] id:[2b737126-50b5-4678-91bf-197b64086fe4] set:[M19] no:[121] fb:[creature] tags:[Decaying Mass]
+1x Nighthowler [MAINBOARD] id:[0349784a-1d2f-4cc9-8460-6576d84f12fe] set:[MB1] no:[722] fb:[creature_b] tags:[Decaying Mass]
+1x Bone Shards [MAINBOARD] id:[1ee98955-4c47-4d45-9377-608dfa755337] set:[MH2] no:[76] fb:[spell] tags:[Decaying Mass]
+1x Buried Alive [MAINBOARD] id:[c5f51145-aade-4955-b9e7-4a34074253d6] set:[UMA] no:[88] fb:[spell] tags:[Decaying Mass]
+1x Necrotic Wound [MAINBOARD] id:[9ab636af-5b30-4138-8e68-81f567f10417] set:[GRN] no:[79] fb:[spell] tags:[Decaying Mass]
+1x Living Death [MAINBOARD] id:[cbd222f6-54db-40d7-9583-8f9197ace24c] set:[MB1] no:[702] fb:[spell_b] tags:[Decaying Mass]
+1x Terramorphic Expanse [MAINBOARD] id:[6b92b751-6162-4293-953b-ec7190309a6a] set:[CMR] no:[712] fb:[spell_full_b] tags:[Decaying Mass]
+1x Evolving Wilds [MAINBOARD] id:[40a2804d-d925-4950-8542-608f6e92387a] set:[IMA] no:[235] fb:[spell] tags:[Decaying Mass]
+6x Swamp [MAINBOARD] id:[02cb5cfd-018e-4c5e-bef1-166262aa5f1d] set:[THB] no:[252] fb:[land_thb_full_art] tags:[Decaying Mass]
+1x Treacherous Pit-Dweller [MAINBOARD] id:[eec7dfd7-d7b2-44fa-b351-022a19fe81b8] set:[AVR] no:[121] fb:[raised] tags:[Demonic Contract]
+1x Scourge of the Skyclaves [MAINBOARD] id:[43fec4b5-2a9c-4448-9fef-045d0e6725c2] set:[ZNR] no:[343] fb:[creature_full_b] tags:[Demonic Contract]
+1x Dream Devourer [MAINBOARD] id:[30c01887-d4b3-46d2-af6b-2877659d057f] set:[KHM] no:[352] fb:[creature_full_b] tags:[Demonic Contract]
+1x Ammit Eternal [MAINBOARD] id:[1b04934f-87d1-4768-b7b5-5f7249a09771] set:[HOU] no:[57] fb:[creature_b] tags:[Demonic Contract]
+1x Herald of Torment [MAINBOARD] id:[6bb7e5ab-57d7-4a86-b7c2-262932ac3344] set:[BNG] no:[75] fb:[raised] tags:[Demonic Contract]
+1x Taborax, Hope's Demise [MAINBOARD] id:[6d014ddb-c545-4f59-aa8e-e324399722e8] set:[ZNR] no:[346] fb:[creature_legendary_full_b] tags:[Demonic Contract]
+1x Desecration Demon [MAINBOARD] id:[89936685-8647-4a65-b764-62fc4b49293a] set:[MM3] no:[66] fb:[creature_b] tags:[Demonic Contract]
+1x Vilis, Broker of Blood [MAINBOARD] id:[ecdf2bd9-87b9-470a-ad2e-0ebf98560f87] set:[M20] no:[122] fb:[creature_legendary_b] tags:[Demonic Contract]
+1x Ob Nixilis, the Fallen [MAINBOARD] id:[7824a001-3f0e-4ac5-8406-e58f4288f2f2] set:[ZEN] no:[107] fb:[raised] tags:[Demonic Contract]
+1x Liliana's Contract [MAINBOARD] id:[750e6246-c28d-46ed-9966-26706f6d3172] set:[M19] no:[107] fb:[spell_b] tags:[Demonic Contract]
+1x Dark Ritual [MAINBOARD] id:[493a5ca7-5f90-4af4-b6db-43ae09a2f2c9] set:[MB1] no:[611] fb:[spell] tags:[Demonic Contract]
+1x Songs of the Damned [MAINBOARD] id:[9133b267-295d-4987-b1d6-f32a85b66081] set:[UMA] no:[115] fb:[spell] tags:[Demonic Contract]
+1x Westvale Abbey // Ormendahl, Profane Prince [MAINBOARD] id:[c1f53d7a-9dad-46e8-b686-cd1362867445] set:[SOI] no:[281] fb:[spell_b] bb:[creature] tags:[Demonic Contract]
+2x Thriving Moor [MAINBOARD] id:[18756fe5-70f0-48d9-a4f1-ea78f77d2084] set:[JMP] no:[37] fb:[spell] tags:[Demonic Contract]
+5x Swamp [MAINBOARD] id:[02cb5cfd-018e-4c5e-bef1-166262aa5f1d] set:[THB] no:[252] fb:[land_thb_full_art] tags:[Demonic Contract]
+1x Yosei, the Morning Star [MAINBOARD] id:[47af956c-e2ba-47c5-bc5d-ec0ab345ce57] set:[IMA] no:[39] fb:[creature_b] tags:[Departed Spirits]
+1x Topplegeist [MAINBOARD] id:[ec9e8653-13ae-446c-b341-85c9b3fa6ca8] set:[SOI] no:[45] fb:[creature] tags:[Departed Spirits]
+1x Remorseful Cleric [MAINBOARD] id:[9620716d-9be8-4ebd-80d2-679373f4f897] set:[M19] no:[33] fb:[creature_b] tags:[Departed Spirits]
+1x Anafenza, Kin-Tree Spirit [MAINBOARD] id:[55611f05-10cf-42d0-b93e-7f0c0c852a06] set:[DTK] no:[2] fb:[creature_b] tags:[Departed Spirits]
+1x Wall of Reverence [MAINBOARD] id:[1515e039-b838-40b6-b087-eb9e9d9ff008] set:[UMA] no:[41] fb:[creature_b] tags:[Departed Spirits]
+1x Forbidding Spirit [MAINBOARD] id:[c17056e7-95c6-4bed-a747-3b40dcda275a] set:[RNA] no:[9] fb:[creature] tags:[Departed Spirits]
+1x Eternal Dragon [MAINBOARD] id:[e659b6ea-8522-4644-9f73-5c9312e28c81] set:[C20] no:[88] fb:[creature_b] tags:[Departed Spirits]
+1x Spirit Bonds [MAINBOARD] id:[aa2a3aaa-e78a-48cc-b7d3-7f65e467054c] set:[M15] no:[37] fb:[spell_b] tags:[Departed Spirits]
+1x Field of Souls [MAINBOARD] id:[018e48ee-cbd8-4ff8-92f6-c649e8e8df57] set:[EMA] no:[11] fb:[spell] tags:[Departed Spirits]
+1x Spectral Procession [MAINBOARD] id:[9964629e-d79e-46e4-b3fd-e7d1759cbc60] set:[MM2] no:[33] fb:[spell] tags:[Departed Spirits]
+1x Midnight Haunting [MAINBOARD] id:[4399dcc7-7684-4345-9f74-318c3ec9af82] set:[C14] no:[80] fb:[spell] tags:[Departed Spirits]
+1x Afterlife [MAINBOARD] id:[258946f2-294a-4ddf-be91-9ff4c94e4bdb] set:[C14] no:[64] fb:[spell] tags:[Departed Spirits]
+2x Thriving Heath [MAINBOARD] id:[fe424eb3-7df8-4317-8776-6d960afbb90a] set:[JMP] no:[35] fb:[spell] tags:[Departed Spirits]
+6x Plains [MAINBOARD] id:[a9891b7b-fc52-470c-9f74-292ae665f378] set:[THB] no:[250] fb:[land_thb_full_art] tags:[Departed Spirits]
+1x Sin Prodder [MAINBOARD] id:[cefeb031-9dda-4717-a8d1-e2c21551e43a] set:[SOI] no:[181] fb:[creature_b] tags:[Devilish Instincts]
+1x Hellrider [MAINBOARD] id:[24ee5320-a19b-4798-b1fb-125b738bd3b9] set:[MM3] no:[98] fb:[creature_b] tags:[Devilish Instincts]
+1x Bedlam Reveler [MAINBOARD] id:[0232f188-44f2-4aee-963c-6f6edc4a21ac] set:[EMN] no:[118] fb:[creature_b] tags:[Devilish Instincts]
+1x Vexing Devil [MAINBOARD] id:[a5ebb551-6b0d-45fa-88c8-3746214094f6] set:[UMA] no:[154] fb:[creature_b] tags:[Devilish Instincts]
+1x Rakdos Cackler [MAINBOARD] id:[4b04d7e8-df17-4acb-a763-71d47215fd03] set:[GK2] no:[67] fb:[creature] tags:[Devilish Instincts]
+1x Wildfire Devils [MAINBOARD] id:[f2181ef5-963a-4e3b-805d-b3a04f4bef5e] set:[C21] no:[183] fb:[creature_b] tags:[Devilish Instincts]
+1x Spiteful Prankster [MAINBOARD] id:[d59ee7a6-3dfa-44c7-8f00-0183137c4d31] set:[JMP] no:[26] fb:[creature] tags:[Devilish Instincts]
+1x Zurzoth, Chaos Rider [MAINBOARD] id:[3d94b4c3-7944-41b6-8c92-78fd6e50658d] set:[JMP] no:[27] fb:[creature_legendary_b] tags:[Devilish Instincts]
+1x Tibalt, the Fiend-Blooded [MAINBOARD] id:[5ddb3936-8f5a-498d-a46c-27eb9546c76c] set:[AVR] no:[161] fb:[planeswalker] tags:[Devilish Instincts]
+1x Faithless Looting [MAINBOARD] id:[671c008a-8ff8-42d7-9e03-6d8a9ddace67] set:[MB1] no:[919] fb:[spell] tags:[Devilish Instincts]
+1x Thrill of Possibility [MAINBOARD] id:[f4af156d-0fbf-4a4e-b0c1-db7e95be4903] set:[M21] no:[165] fb:[spell] tags:[Devilish Instincts]
+1x Pillar of Flame [MAINBOARD] id:[e16b001f-dffd-4e7c-a7ab-daa00221bfbf] set:[IMA] no:[141] fb:[spell] tags:[Devilish Instincts]
+2x Thriving Bluff [MAINBOARD] id:[15481459-3703-4185-ad27-105d95691e9d] set:[JMP] no:[33] fb:[spell] tags:[Devilish Instincts]
+6x Mountain [MAINBOARD] id:[53fb7b99-9e47-46a6-9c8a-88e28b5197f1] set:[THB] no:[253] fb:[land_thb_full_art] tags:[Devilish Instincts]
+1x Lathliss, Dragon Queen [MAINBOARD] id:[54a4c37d-5eeb-42c9-9688-c2ed0d5044cd] set:[M19] no:[149] fb:[creature_legendary_b] tags:[Dragon Clan]
+1x Dragonspeaker Shaman [MAINBOARD] id:[4ca8335b-21b1-40bc-970a-480e74874d03] set:[JMP] no:[312] fb:[creature] tags:[Dragon Clan]
+1x Utvara Hellkite [MAINBOARD] id:[f2ad4005-a511-4151-90c9-ace197b86759] set:[GK2] no:[59] fb:[creature_b] tags:[Dragon Clan]
+1x Scourge of Valkas [MAINBOARD] id:[0f59f13a-653d-4883-a18b-bc030c51e61e] set:[IMA] no:[145] fb:[creature_b] tags:[Dragon Clan]
+1x Terror of the Peaks [MAINBOARD] id:[ac35ea21-fef4-4000-9b22-c8d07420827b] set:[M21] no:[369] fb:[creature_full_b] tags:[Dragon Clan]
+1x Dragonmaster Outcast [MAINBOARD] id:[c1479b6e-b1a2-4089-8ab5-56a6864dbbc0] set:[C19] no:[139] fb:[creature_b] tags:[Dragon Clan]
+1x Dragonlord's Servant [MAINBOARD] id:[d8e5f3d8-c468-412c-a32b-92c5d8fc1e14] set:[JMP] no:[311] fb:[creature] tags:[Dragon Clan]
+1x Dragon Hatchling [MAINBOARD] id:[c5d3a18c-d030-494d-b7b1-4d1d1e27fbbf] set:[JMP] no:[310] fb:[creature] tags:[Dragon Clan]
+1x Dragon Tempest [MAINBOARD] id:[cefac283-8491-4d11-9a40-0e90cbeac19f] set:[DTK] no:[136] fb:[spell_b] tags:[Dragon Clan]
+1x Crucible of Fire [MAINBOARD] id:[d7a6f4dd-29c9-4084-a622-098b197a6eb7] set:[IMA] no:[122] fb:[spell_b] tags:[Dragon Clan]
+1x Scorching Dragonfire [MAINBOARD] id:[a9a1cce7-1472-42fc-bfd3-c9ed9e563f03] set:[M21] no:[158] fb:[spell] tags:[Dragon Clan]
+1x Dragon's Fire [MAINBOARD] id:[9666987a-5267-46d3-9b00-31baa92a9cbc] set:[AFR] no:[139] fb:[spell] tags:[Dragon Clan]
+1x Haven of the Spirit Dragon [MAINBOARD] id:[d4ba8429-6712-45a3-8cb7-7afd65aa9406] set:[C17] no:[255] fb:[spell_b] tags:[Dragon Clan]
+2x Thriving Bluff [MAINBOARD] id:[15481459-3703-4185-ad27-105d95691e9d] set:[JMP] no:[33] fb:[spell] tags:[Dragon Clan]
+5x Mountain [MAINBOARD] id:[53fb7b99-9e47-46a6-9c8a-88e28b5197f1] set:[THB] no:[253] fb:[land_thb_full_art] tags:[Dragon Clan]
+1x Cryptbreaker [MAINBOARD] id:[629e37d1-c0f3-44f2-926e-41eb3687c1d9] set:[EMN] no:[86] fb:[creature_b] tags:[Dreadhorde General]
+1x Liliana's Devotee [MAINBOARD] id:[ae5d7f15-a86f-4eaa-8280-2e7f73c8ce3a] set:[M21] no:[109] fb:[creature] tags:[Dreadhorde General]
+1x Liliana's Elite [MAINBOARD] id:[ad542aa9-5c0e-4962-b167-9071e66f9c03] set:[EMN] no:[94] fb:[creature] tags:[Dreadhorde General]
+1x Liliana's Reaver [MAINBOARD] id:[fa9396f3-a93c-47ee-91da-78af864c86c3] set:[JMP] no:[251] fb:[creature_b] tags:[Dreadhorde General]
+1x Lord of the Accursed [MAINBOARD] id:[2aa8d3c1-ae2a-4dd5-82c7-1f93f39f4580] set:[MB1] no:[703] fb:[creature] tags:[Dreadhorde General]
+1x Josu Vess, Lich Knight [MAINBOARD] id:[6ed6d088-db82-4648-a109-0e3fa1421847] set:[DOM] no:[95] fb:[creature_legendary_b] tags:[Dreadhorde General]
+1x Death Baron [MAINBOARD] id:[c9699446-b6f5-4e6a-a263-059cbf6e4b7e] set:[M19] no:[90] fb:[creature_b] tags:[Dreadhorde General]
+1x Diregraf Colossus [MAINBOARD] id:[9039e8f6-5513-4307-a1b5-07209dc8e1c8] set:[SOI] no:[107] fb:[creature_b] tags:[Dreadhorde General]
+1x Lord of the Undead [MAINBOARD] id:[792e773b-5feb-407f-a162-f35d6e693cca] set:[10E] no:[155] fb:[raised] tags:[Dreadhorde General]
+1x Liliana, Dreadhorde General [MAINBOARD] id:[d75ebba8-34ca-47a0-bf13-8318ad73b343] set:[WAR] no:[97] fb:[planeswalker_b] tags:[Dreadhorde General]
+1x Liliana's Mastery [MAINBOARD] id:[4ff4a2f3-f923-428c-a402-4ff0e602139e] set:[GNT] no:[32] fb:[spell_b] tags:[Dreadhorde General]
+1x Endless Ranks of the Dead [MAINBOARD] id:[5db15c5f-80b7-4f7f-985a-9bbec3199ad9] set:[ISD] no:[99] fb:[spell_c] tags:[Dreadhorde General]
+2x Thriving Moor [MAINBOARD] id:[18756fe5-70f0-48d9-a4f1-ea78f77d2084] set:[JMP] no:[37] fb:[spell] tags:[Dreadhorde General]
+6x Swamp [MAINBOARD] id:[02cb5cfd-018e-4c5e-bef1-166262aa5f1d] set:[THB] no:[252] fb:[land_thb_full_art] tags:[Dreadhorde General]
+1x Paradise Druid [MAINBOARD] id:[6ed8d9e7-cdad-450d-8329-fa653d387a63] set:[WAR] no:[171] fb:[creature] tags:[Druidic Circle]
+1x Incubation Druid [MAINBOARD] id:[bd3071c4-6269-4c6b-9324-3d2284ec616d] set:[C21] no:[195] fb:[creature_b] tags:[Druidic Circle]
+1x Bloom Tender [MAINBOARD] id:[35dbe45e-16df-4ebb-a76a-df24124de23b] set:[SLD] no:[284] fb:[creature_super_full_b] tags:[Druidic Circle]
+1x Gilt-Leaf Archdruid [MAINBOARD] id:[a913f9b3-abbd-424b-8dea-061e15364fb0] set:[MOR] no:[124] fb:[raised] tags:[Druidic Circle]
+1x Kamahl, Heart of Krosa [MAINBOARD] id:[4c3560ae-b1f6-4269-a9eb-1a45247b6232] set:[CMR] no:[237] fb:[creature_legendary_b] tags:[Druidic Circle]
+1x Noble Hierarch [MAINBOARD] id:[8008977f-b164-4ab7-a38a-25b382c6a16f] set:[2XM] no:[352] fb:[creature_super_full_b] tags:[Druidic Circle]
+1x Skyshroud Elf [MAINBOARD] id:[cd47a927-3ab3-4d2e-b962-ce94eeaba4f9] set:[TPR] no:[192] fb:[creature] tags:[Druidic Circle]
+1x Reckless Amplimancer [MAINBOARD] id:[bc8072b1-6080-45cd-b1c7-353b54a55931] set:[STX] no:[141] fb:[creature] tags:[Druidic Circle]
+1x Arbor Elf [MAINBOARD] id:[e092bdd5-af65-44ce-8f72-519801115d82] set:[MB1] no:[1124] fb:[creature] tags:[Druidic Circle]
+1x Earthshaker Giant [MAINBOARD] id:[dbcdbf7a-9294-47ad-9f93-c16b78c7463a] set:[GN2] no:[5] fb:[creature_b] tags:[Druidic Circle]
+1x Karametra's Acolyte [MAINBOARD] id:[579f4800-8fd0-44c8-ab46-acf4a5d20384] set:[PTHS] no:[160] fb:[raised] tags:[Druidic Circle]
+1x Freyalise, Llanowar's Fury [MAINBOARD] id:[869118c9-1ebb-42a5-8020-d043ec653241] set:[CC1] no:[1] fb:[planeswalker_b] tags:[Druidic Circle]
+1x Overgrown Tomb [MAINBOARD] id:[b92ca85d-eede-4c7f-b491-f555da1c23eb] set:[EXP] no:[13] fb:[land_zendikar_expedition] tags:[Druidic Circle]
+1x Breeding Pool [MAINBOARD] id:[045d22eb-b291-4bbe-b468-32bdf8b6eba6] set:[EXP] no:[15] fb:[land_zendikar_expedition] tags:[Druidic Circle]
+1x Stomping Ground [MAINBOARD] id:[4c5e0fa3-63db-4b1e-bc15-dcb0ae80db14] set:[EXP] no:[9] fb:[land_zendikar_expedition] tags:[Druidic Circle]
+1x Temple Garden [MAINBOARD] id:[b1c846f3-142d-43f0-aa9a-8fd5fbd5ada4] set:[EXP] no:[10] fb:[land_zendikar_expedition] tags:[Druidic Circle]
+1x Windswept Heath [MAINBOARD] id:[4b5fc9ef-724d-4287-8ebc-ada2625e0dfb] set:[EXP] no:[20] fb:[land_zendikar_expedition] tags:[Druidic Circle]
+3x Forest [MAINBOARD] id:[32af9f41-89e2-4e7a-9fec-fffe79cae077] set:[THB] no:[254] fb:[land_thb_full_art] tags:[Druidic Circle]
+1x Murktide Regent [MAINBOARD] id:[20c4aae1-7665-4df7-bd51-a1d95bf8a17d] set:[MH2] no:[52] fb:[creature_b] tags:[Echo Casters]
+1x River Kelpie [MAINBOARD] id:[81efe7cf-81f0-4799-813f-73ec8d865190] set:[C19] no:[93] fb:[creature_b] tags:[Echo Casters]
+1x Thing in the Ice // Awoken Horror [MAINBOARD] id:[359d1b13-6156-43b0-a9a7-6bfff36c1a91] set:[SOI] no:[92] fb:[creature_b] bb:[creature] tags:[Echo Casters]
+1x Deekah, Fractal Theorist [MAINBOARD] id:[f0ae3869-8429-4fd3-902f-e36362d4feb9] set:[C21] no:[353] fb:[creature_legendary_full_b] tags:[Echo Casters]
+1x Karfell Harbinger [MAINBOARD] id:[4911016c-b92a-47cc-9553-b424d7be196a] set:[KHM] no:[65] fb:[creature] tags:[Echo Casters]
+1x Niblis of Frost [MAINBOARD] id:[da2301c8-0ca8-4b26-a232-1df90effcb42] set:[EMN] no:[72] fb:[creature_b] tags:[Echo Casters]
+1x Sea Gate Stormcaller [MAINBOARD] id:[17b79895-30ac-4bb4-bbe3-033a0dfcf1d6] set:[ZNR] no:[334] fb:[creature_full_b] tags:[Echo Casters]
+1x Secrets of the Dead [MAINBOARD] id:[066311f5-51fc-4da9-a5fa-fa5059a88e5b] set:[C19] no:[95] fb:[spell] tags:[Echo Casters]
+1x Think Twice [MAINBOARD] id:[73db9c10-109a-417f-81cd-489d9510cc78] set:[UMA] no:[78] fb:[spell] tags:[Echo Casters]
+1x Deep Analysis [MAINBOARD] id:[7b576264-da33-4272-98cf-70d1af1105b1] set:[MB1] no:[345] fb:[spell] tags:[Echo Casters]
+1x Runic Repetition [MAINBOARD] id:[8cabd32b-187d-4a41-92b2-72c3b3216728] set:[C19] no:[94] fb:[spell] tags:[Echo Casters]
+1x Silent Departure [MAINBOARD] id:[9882d7be-1d58-432b-ad36-4cd13609ad90] set:[EMA] no:[72] fb:[spell] tags:[Echo Casters]
+2x Thriving Isle [MAINBOARD] id:[7eb8fd94-2b59-4b05-b4d0-c93497301d19] set:[JMP] no:[36] fb:[spell] tags:[Echo Casters]
+6x Island [MAINBOARD] id:[acf7b664-3e75-4018-81f6-2a14ab59f258] set:[THB] no:[251] fb:[land_thb_full_art] tags:[Echo Casters]
+1x Danitha Capashen, Paragon [MAINBOARD] id:[b2a2b53c-0bf2-4d3d-91c2-57a484ae4f6b] set:[DOM] no:[12] fb:[creature_legendary] tags:[Enchanting Aura]
+1x Eidolon of Countless Battles [MAINBOARD] id:[4d16283b-b5bb-48e8-8c97-db5ad74fd544] set:[BNG] no:[7] fb:[raised] tags:[Enchanting Aura]
+1x Kor Spiritdancer [MAINBOARD] id:[59813c47-e779-404d-8a1c-70ea29bc7023] set:[JMP] no:[116] fb:[creature_b] tags:[Enchanting Aura]
+1x Hero of Iroas [MAINBOARD] id:[fcc9a63b-e7cd-404a-8d5c-0c1396e16d0b] set:[UMA] no:[20] fb:[creature] tags:[Enchanting Aura]
+1x Transcendent Envoy [MAINBOARD] id:[a9241289-28d2-4827-970e-81bdecbb5c16] set:[THB] no:[40] fb:[creature] tags:[Enchanting Aura]
+1x Archon of Sun's Grace [MAINBOARD] id:[e146a721-8655-496c-97c0-d6691fa2043e] set:[THB] no:[298] fb:[creature_full_b] tags:[Enchanting Aura]
+1x Ethereal Armor [MAINBOARD] id:[76960e65-e5c7-4414-b9a5-37d7b2ded4a0] set:[RTR] no:[9] fb:[basic_high] tags:[Enchanting Aura]
+1x All That Glitters [MAINBOARD] id:[d9713032-2956-4564-b5f5-2dd16245a4e6] set:[ELD] no:[2] fb:[spell] tags:[Enchanting Aura]
+1x Sage's Reverie [MAINBOARD] id:[d20c3b2d-299c-4423-9091-6f8c0c1c0661] set:[C18] no:[72] fb:[spell] tags:[Enchanting Aura]
+1x Spirit Mantle [MAINBOARD] id:[ee5fdaa3-7879-4fa3-a157-60c7890a660a] set:[CMR] no:[385] fb:[spell] tags:[Enchanting Aura]
+1x Angelic Gift [MAINBOARD] id:[27534f38-5c21-4bad-84eb-0145a5ea682e] set:[BBD] no:[88] fb:[spell] tags:[Enchanting Aura]
+1x Reprobation [MAINBOARD] id:[b1349c3d-39ad-40ba-897e-59e5b76de853] set:[MH1] no:[23] fb:[spell] tags:[Enchanting Aura]
+2x Thriving Heath [MAINBOARD] id:[fe424eb3-7df8-4317-8776-6d960afbb90a] set:[JMP] no:[35] fb:[spell] tags:[Enchanting Aura]
+6x Plains [MAINBOARD] id:[a9891b7b-fc52-470c-9f74-292ae665f378] set:[THB] no:[250] fb:[land_thb_full_art] tags:[Enchanting Aura]
+1x Archetype of Courage [MAINBOARD] id:[8e6c4afb-6a94-4519-91c6-9824fed2892c] set:[BNG] no:[4] fb:[raised] tags:[Enchanting Light]
+1x Starfield Mystic [MAINBOARD] id:[80382963-a9d7-4c2d-8671-8dd3fdd4dbdc] set:[M20] no:[39] fb:[creature_b] tags:[Enchanting Light]
+1x Heliod, God of the Sun [MAINBOARD] id:[f6365e12-c470-40a2-95b0-827ec4404c38] set:[SLD] no:[68] fb:[creature_legendary_b] tags:[Enchanting Light]
+1x Auramancer [MAINBOARD] id:[b542f253-36d1-4824-8534-6242aaf502c6] set:[PCA] no:[2] fb:[creature] tags:[Enchanting Light]
+1x Alseid of Life's Bounty [MAINBOARD] id:[36c8c075-9597-412e-9fc4-9d73b4405d12] set:[THB] no:[1] fb:[creature] tags:[Enchanting Light]
+1x Harvestguard Alseids [MAINBOARD] id:[3b9256e2-b59c-4997-91c1-4c565746d53d] set:[JOU] no:[13] fb:[raised] tags:[Enchanting Light]
+1x Sphere of Safety [MAINBOARD] id:[a18d7582-185a-429a-9c6a-fc51b981e0a1] set:[C16] no:[77] fb:[spell] tags:[Enchanting Light]
+1x Oblivion Ring [MAINBOARD] id:[bff31eba-8ab3-403e-8d82-37a18b279bec] set:[MM2] no:[29] fb:[spell] tags:[Enchanting Light]
+1x Dawn of Hope [MAINBOARD] id:[cf2a9e82-8670-4b7f-b5f0-8e10f8aeff1c] set:[GRN] no:[8] fb:[spell_b] tags:[Enchanting Light]
+1x Banishing Light [MAINBOARD] id:[d35bad68-e1a9-4cdc-bd68-cee4ccebef6c] set:[ZNC] no:[11] fb:[spell] tags:[Enchanting Light]
+1x Spear of Heliod [MAINBOARD] id:[34ef01da-d311-4d4f-9f7b-328e7bb17db4] set:[THS] no:[33] fb:[basic_high] tags:[Enchanting Light]
+1x Luminarch Ascension [MAINBOARD] id:[b3770d86-4496-4c06-aab1-2917cfec100e] set:[A25] no:[23] fb:[spell_b] tags:[Enchanting Light]
+2x Thriving Heath [MAINBOARD] id:[fe424eb3-7df8-4317-8776-6d960afbb90a] set:[JMP] no:[35] fb:[spell] tags:[Enchanting Light]
+6x Plains [MAINBOARD] id:[a9891b7b-fc52-470c-9f74-292ae665f378] set:[THB] no:[250] fb:[land_thb_full_art] tags:[Enchanting Light]
+1x Gearshift Ace [MAINBOARD] id:[2e8c6a9d-6169-40f8-8b3e-53ebf75be663] set:[KLD] no:[16] fb:[creature] tags:[Expert Crew]
+1x Giant Ox [MAINBOARD] id:[fc71d8ca-c613-4534-bc9d-bc1e13202a2c] set:[KHM] no:[11] fb:[creature] tags:[Expert Crew]
+1x Restoration Specialist [MAINBOARD] id:[63682db3-1a56-4d8e-a9b7-04465a577518] set:[AER] no:[21] fb:[creature] tags:[Expert Crew]
+1x Salvage Scout [MAINBOARD] id:[5909e77e-a930-4713-bca4-c6b265238c17] set:[SOM] no:[19] fb:[raised] tags:[Expert Crew]
+1x Aethershield Artificer [MAINBOARD] id:[226f7c45-db9f-4d48-b575-4d2f1904c963] set:[M19] no:[2] fb:[creature] tags:[Expert Crew]
+1x Audacious Infiltrator [MAINBOARD] id:[36a348bb-cdc5-4e2a-933f-21f91faab891] set:[AER] no:[7] fb:[creature] tags:[Expert Crew]
+1x Smuggler's Copter [MAINBOARD] id:[7832abb5-5107-4603-904e-491b221bd3e3] set:[KLD] no:[235] fb:[creature_b] tags:[Expert Crew]
+1x Conqueror's Galleon // Conqueror's Foothold [MAINBOARD] id:[02bb4b2a-3c9f-48ab-b2a5-ae31f06b82d9] set:[XLN] no:[234] fb:[creature_b] bb:[spell] tags:[Expert Crew]
+1x Skysovereign, Consul Flagship [MAINBOARD] id:[1df70ef3-8919-43ac-9317-23548437a181] set:[KLD] no:[234] fb:[creature_b] tags:[Expert Crew]
+1x Cultivator's Caravan [MAINBOARD] id:[b46b3726-4bc8-4e3a-bc6d-402c81663712] set:[KLD] no:[203] fb:[creature_b] tags:[Expert Crew]
+1x Peacewalker Colossus [MAINBOARD] id:[1599b545-6b8e-4350-980a-59349374400d] set:[AER] no:[170] fb:[creature_b] tags:[Expert Crew]
+1x Fell Flagship [MAINBOARD] id:[2774bdb6-7a02-43c9-9e6f-75d0b09570ca] set:[XLN] no:[238] fb:[creature_b] tags:[Expert Crew]
+2x Thriving Heath [MAINBOARD] id:[fe424eb3-7df8-4317-8776-6d960afbb90a] set:[JMP] no:[35] fb:[spell] tags:[Expert Crew]
+6x Plains [MAINBOARD] id:[a9891b7b-fc52-470c-9f74-292ae665f378] set:[THB] no:[250] fb:[land_thb_full_art] tags:[Expert Crew]
+1x Allosaurus Shepherd [MAINBOARD] id:[0ee4a931-5d61-49ba-affc-f022263938ca] set:[JMP] no:[28] fb:[creature_b] tags:[Forest Elves]
+1x Llanowar Elves [MAINBOARD] id:[27a21d19-5631-43f8-817d-51ccb5aa0f05] set:[PDOM] no:[168] fb:[creature_b] tags:[Forest Elves]
+1x Canopy Tactician [MAINBOARD] id:[3eaf48c9-09bc-4d81-a3a5-432219a71754] set:[KHM] no:[378] fb:[creature_b] tags:[Forest Elves]
+1x Elvish Archdruid [MAINBOARD] id:[1eb230a8-08d6-46a8-87fb-3c1614550f16] set:[DDU] no:[5] fb:[creature_b] tags:[Forest Elves]
+1x Ezuri, Renegade Leader [MAINBOARD] id:[8a448dbf-08a1-4145-a4b2-0265cc9f2e53] set:[DDU] no:[1] fb:[creature_legendary_b] tags:[Forest Elves]
+1x Fyndhorn Elves [MAINBOARD] id:[ec8bf526-1260-40a1-b007-10ff9340f10b] set:[CMR] no:[678] fb:[creature_full_b] tags:[Forest Elves]
+1x Imperious Perfect [MAINBOARD] id:[a93e9d33-0c5d-4890-a1aa-84f59af9d4fb] set:[KHC] no:[64] fb:[creature_b] tags:[Forest Elves]
+1x Priest of Titania [MAINBOARD] id:[99a3376b-80be-4a53-9030-21d6256dc996] set:[MB1] no:[1299] fb:[creature] tags:[Forest Elves]
+1x Rhys the Redeemed [MAINBOARD] id:[b91dadcb-31e9-43b0-b425-c9311af3e9d7] set:[2XM] no:[213] fb:[creature_legendary_b] tags:[Forest Elves]
+1x Wildborn Preserver [MAINBOARD] id:[27a907bc-2000-43b4-b95f-00acfa594fe0] set:[ELD] no:[375] fb:[creature_full_b] tags:[Forest Elves]
+1x Joraga Warcaller [MAINBOARD] id:[fa125071-ced8-4ccc-bbff-a2cbff13b9d2] set:[CMA] no:[120] fb:[creature_b] tags:[Forest Elves]
+1x Collected Company [MAINBOARD] id:[cfa7b456-7e83-4587-a875-9b35fde318c2] set:[DTK] no:[177] fb:[spell_b] tags:[Forest Elves]
+2x Thriving Grove [MAINBOARD] id:[79cabbe0-1c44-4888-8ebc-25a4c3e2c5d7] set:[JMP] no:[34] fb:[spell] tags:[Forest Elves]
+1x Wirewood Lodge [MAINBOARD] id:[15a92571-1409-40c3-84c3-da01d6f1b104] set:[EVG] no:[27] fb:[spell] tags:[Forest Elves]
+5x Forest [MAINBOARD] id:[32af9f41-89e2-4e7a-9fec-fffe79cae077] set:[THB] no:[254] fb:[land_thb_full_art] tags:[Forest Elves]
+1x Krenko, Tin Street Kingpin [MAINBOARD] id:[4bf960b4-bc71-4966-9014-8dd4242c162b] set:[PWAR] no:[137p] fb:[creature_legendary_b] tags:[Goblin Tribe]
+1x Goblin Trashmaster [MAINBOARD] id:[2bc69988-3c2d-4b76-a8c0-05926b9bbd08] set:[M19] no:[144] fb:[creature_b] tags:[Goblin Tribe]
+1x Goblin Warchief [MAINBOARD] id:[6fa4ce66-1811-4ff2-86cf-ddc37ba07f6c] set:[MB1] no:[961] fb:[creature] tags:[Goblin Tribe]
+1x Pashalik Mons [MAINBOARD] id:[11616853-34b1-4bb1-9590-461e12970ec3] set:[MH1] no:[138] fb:[creature_legendary_b] tags:[Goblin Tribe]
+1x Goblin Chieftain [MAINBOARD] id:[89fcc35b-76fa-4408-8620-a1e11b2caf1f] set:[JMP] no:[324] fb:[creature_b] tags:[Goblin Tribe]
+1x Conspicuous Snoop [MAINBOARD] id:[f6e3cb0a-3a23-4b00-9a79-bd2d16d0b1b2] set:[M21] no:[364] fb:[creature_full_b] tags:[Goblin Tribe]
+1x Goblin Ringleader [MAINBOARD] id:[2b549543-7447-4bb9-ad0e-b24fd3d7ed4f] set:[EVG] no:[40] fb:[creature] tags:[Goblin Tribe]
+1x Goblin Piledriver [MAINBOARD] id:[4b332e3d-dcf4-4f62-8130-124ec5d23b90] set:[ORI] no:[151] fb:[creature_b] tags:[Goblin Tribe]
+1x Legion Loyalist [MAINBOARD] id:[ff93d9e3-3e27-4bd4-955b-076788519694] set:[GK1] no:[82] fb:[creature_b] tags:[Goblin Tribe]
+1x Quest for the Goblin Lord [MAINBOARD] id:[e23adb09-d216-47f5-a7d4-cb6a2ce48ada] set:[WWK] no:[86] fb:[basic_high] tags:[Goblin Tribe]
+1x Krenko's Command [MAINBOARD] id:[80979d0c-d833-46d8-9f7c-b188801fe336] set:[MB1] no:[997] fb:[spell] tags:[Goblin Tribe]
+1x Massive Raid [MAINBOARD] id:[8b16fbd8-fb62-4f75-92b3-a6295d95b327] set:[GTC] no:[100] fb:[basic_high] tags:[Goblin Tribe]
+2x Thriving Bluff [MAINBOARD] id:[15481459-3703-4185-ad27-105d95691e9d] set:[JMP] no:[33] fb:[spell] tags:[Goblin Tribe]
+6x Mountain [MAINBOARD] id:[53fb7b99-9e47-46a6-9c8a-88e28b5197f1] set:[THB] no:[253] fb:[land_thb_full_art] tags:[Goblin Tribe]
+1x Thassa, God of the Sea [MAINBOARD] id:[84bcfb09-ca60-405b-9603-eb3e4b2a8bd0] set:[SLD] no:[71] fb:[creature_legendary_b] tags:[God of the Sea]
+1x Thassa's Oracle [MAINBOARD] id:[13d7e352-4d01-4947-a76f-f8a01dd876cc] set:[THB] no:[308] fb:[creature_full_b] tags:[God of the Sea]
+1x Thassa's Emissary [MAINBOARD] id:[f52b325b-3ea9-4a99-ae99-9d158560e45b] set:[THS] no:[68] fb:[raised] tags:[God of the Sea]
+1x Nezahal, Primal Tide [MAINBOARD] id:[a959b40d-dd8c-49d8-8003-744d0c877b04] set:[CMR] no:[401] fb:[creature_legendary_b] tags:[God of the Sea]
+1x Gyruda, Doom of Depths [MAINBOARD] id:[0d59bf12-f898-40ad-a8a9-2f31f733cf15] set:[IKO] no:[351] fb:[creature_legendary_full_b] tags:[God of the Sea]
+1x Sea-Dasher Octopus [MAINBOARD] id:[bd6986a8-e258-46f0-88a9-8f84732f359e] set:[IKO] no:[286] fb:[creature_super_full_b] tags:[God of the Sea]
+1x Hullbreacher [MAINBOARD] id:[a49d0990-2f3b-4fa9-a895-4148d65c3fff] set:[CMR] no:[635] fb:[creature_full_b] tags:[God of the Sea]
+1x Reef Worm [MAINBOARD] id:[e715bb21-db06-475a-b71e-4f2313817b8d] set:[C21] no:[127] fb:[creature_b] tags:[God of the Sea]
+1x Scourge of Fleets [MAINBOARD] id:[48bf5880-b118-4f09-858b-ac4c369945e8] set:[DDO] no:[41] fb:[creature_b] tags:[God of the Sea]
+1x Crush of Tentacles [MAINBOARD] id:[be1434e1-a0d6-4028-918b-1e2d17d3a227] set:[OGW] no:[53] fb:[spell_b] tags:[God of the Sea]
+1x Thassa's Rebuff [MAINBOARD] id:[816a6ff7-cede-4346-b3e6-aee33aefac3a] set:[BNG] no:[54] fb:[basic_high] tags:[God of the Sea]
+1x Bident of Thassa [MAINBOARD] id:[57af7aa5-8626-4de2-843f-a2dc250e1381] set:[C15] no:[86] fb:[spell_b] tags:[God of the Sea]
+2x Thriving Isle [MAINBOARD] id:[7eb8fd94-2b59-4b05-b4d0-c93497301d19] set:[JMP] no:[36] fb:[spell] tags:[God of the Sea]
+6x Island [MAINBOARD] id:[acf7b664-3e75-4018-81f6-2a14ab59f258] set:[THB] no:[251] fb:[land_thb_full_art] tags:[God of the Sea]
+1x Apprentice Necromancer [MAINBOARD] id:[18d86ad3-e0a1-43da-9dc1-a9028b719c99] set:[UMA] no:[84] fb:[creature] tags:[Graverisen]
+1x Blood Scrivener [MAINBOARD] id:[9ea8179a-d3c9-4cdc-a5b5-68cc73279050] set:[DGM] no:[22] fb:[raised] tags:[Graverisen]
+1x Gravecrawler [MAINBOARD] id:[c1a6d1c9-7779-4165-ad82-f7c4c5fe529c] set:[MB1] no:[673] fb:[creature_b] tags:[Graverisen]
+1x Butcher Ghoul [MAINBOARD] id:[37117234-76eb-4a94-8230-a0a8c9b92e47] set:[DDQ] no:[53] fb:[creature] tags:[Graverisen]
+1x Carnophage [MAINBOARD] id:[889a92ca-e198-494d-9ccb-6ae2c19ec62e] set:[TPR] no:[84] fb:[creature] tags:[Graverisen]
+1x Carrion Feeder [MAINBOARD] id:[22a77543-749a-49d8-96f4-3458ae5dcd38] set:[MB1] no:[592] fb:[creature] tags:[Graverisen]
+1x Cryptbreaker [MAINBOARD] id:[629e37d1-c0f3-44f2-926e-41eb3687c1d9] set:[EMN] no:[86] fb:[creature_b] tags:[Graverisen]
+1x Diregraf Ghoul [MAINBOARD] id:[6adfcecf-bd58-4546-a058-0aa3fd93bce1] set:[DDQ] no:[54] fb:[creature] tags:[Graverisen]
+1x Cemetery Recruitment [MAINBOARD] id:[3a23adea-9f4a-409c-a37d-323eee781273] set:[EMN] no:[83] fb:[spell] tags:[Graverisen]
+1x Feast or Famine [MAINBOARD] id:[92105bc6-b64a-4bdc-99fe-7a2ccdbd4486] set:[DDJ] no:[72] fb:[spell_c] tags:[Graverisen]
+1x Graf Harvest [MAINBOARD] id:[fbc17697-9db9-41d4-aacf-b2f2e6ff80cf] set:[EMN] no:[90] fb:[spell] tags:[Graverisen]
+1x Never // Return [MAINBOARD] id:[a4b32135-7061-4278-a01a-4fcbaadc9706] set:[AKH] no:[212] fb:[spell_b] tags:[Graverisen]
+2x Thriving Moor [MAINBOARD] id:[18756fe5-70f0-48d9-a4f1-ea78f77d2084] set:[JMP] no:[37] fb:[spell] tags:[Graverisen]
+6x Swamp [MAINBOARD] id:[02cb5cfd-018e-4c5e-bef1-166262aa5f1d] set:[THB] no:[252] fb:[land_thb_full_art] tags:[Graverisen]
+1x Gargos, Vicious Watcher [MAINBOARD] id:[4e446e90-6e31-43ed-bcb1-a01422b503c0] set:[M20] no:[172] fb:[creature_legendary_b] tags:[Hydra Nest]
+1x Wren's Run Hydra [MAINBOARD] id:[5198ac65-118c-4616-8315-d71d41b883ad] set:[MH2] no:[183] fb:[creature] tags:[Hydra Nest]
+1x Hungering Hydra [MAINBOARD] id:[cce0561d-252a-499f-bfa0-9de59e4ea5ba] set:[C20] no:[177] fb:[creature_b] tags:[Hydra Nest]
+1x Voracious Hydra [MAINBOARD] id:[74bbe44f-864a-446c-bfc9-5f5188e663b8] set:[M20] no:[200] fb:[creature_b] tags:[Hydra Nest]
+1x Managorger Hydra [MAINBOARD] id:[234b6ddf-c2d9-45d5-9dd6-caae2a96a755] set:[C21] no:[199] fb:[creature_b] tags:[Hydra Nest]
+1x Hooded Hydra [MAINBOARD] id:[aecc699c-c955-4167-b8cf-35faa7ce94b4] set:[C19] no:[172] fb:[creature_b] tags:[Hydra Nest]
+1x Hydra Broodmaster [MAINBOARD] id:[5b11bb5a-66e3-4dc6-9df4-e1683c57e488] set:[C21] no:[194] fb:[creature_b] tags:[Hydra Nest]
+1x Crash of Rhino Beetles [MAINBOARD] id:[c87715d6-4ce1-43d8-9909-e1d80c2d099f] set:[C18] no:[29] fb:[creature_b] tags:[Hydra Nest]
+1x Polukranos, World Eater [MAINBOARD] id:[4979cc1b-9c1a-47e4-ae37-7c41798eb89a] set:[THS] no:[172] fb:[raised] tags:[Hydra Nest]
+1x Primal Might [MAINBOARD] id:[dffcaab7-674b-4e34-b09d-41414bd0022e] set:[M21] no:[377] fb:[spell_full_b] tags:[Hydra Nest]
+1x Smell Fear [MAINBOARD] id:[956a2a42-6a91-45b5-99f1-87c2cf1dd608] set:[MH2] no:[173] fb:[spell] tags:[Hydra Nest]
+2x Thriving Grove [MAINBOARD] id:[79cabbe0-1c44-4888-8ebc-25a4c3e2c5d7] set:[JMP] no:[34] fb:[spell] tags:[Hydra Nest]
+1x Gaea's Cradle [MAINBOARD] id:[3faf2c71-8591-4005-a93f-08441e3bba49] set:[OLGC] no:[2014] fb:[spell_b] tags:[Hydra Nest]
+6x Forest [MAINBOARD] id:[32af9f41-89e2-4e7a-9fec-fffe79cae077] set:[THB] no:[254] fb:[land_thb_full_art] tags:[Hydra Nest]
+1x Combat Celebrant [MAINBOARD] id:[28b63c3d-2e55-4343-b49a-11fa602ec473] set:[AKH] no:[125] fb:[creature_b] tags:[Insatiable Bloodlust]
+1x Moraug, Fury of Akoum [MAINBOARD] id:[aecfbd48-7da0-4b44-b9a2-d31412f65eb1] set:[ZNR] no:[300] fb:[creature_b] tags:[Insatiable Bloodlust]
+1x Hellkite Charger [MAINBOARD] id:[7d069748-1969-471e-bb13-b575eb5f2616] set:[C17] no:[138] fb:[creature_b] tags:[Insatiable Bloodlust]
+1x Port Razer [MAINBOARD] id:[77222431-9db0-4bc8-80be-7bfc7c48bc5e] set:[CMR] no:[669] fb:[creature_full_b] tags:[Insatiable Bloodlust]
+1x Ilharg, the Raze-Boar [MAINBOARD] id:[c0109b60-09aa-4a03-92e7-0c651d976d51] set:[WAR] no:[133] fb:[creature_legendary_b] tags:[Insatiable Bloodlust]
+1x Legion Warboss [MAINBOARD] id:[5e84cb9c-9876-47a4-aea4-78574321bc36] set:[GRN] no:[109] fb:[creature_b] tags:[Insatiable Bloodlust]
+1x Fervent Champion [MAINBOARD] id:[5e66e70e-354e-4c3c-9d5d-90f0bf1b857d] set:[ELD] no:[360] fb:[creature_full_b] tags:[Insatiable Bloodlust]
+1x Conspiracy Theorist [MAINBOARD] id:[52d3509c-8d67-4c5e-83bf-1a67f87589b9] set:[STX] no:[307] fb:[creature_full_b] tags:[Insatiable Bloodlust]
+1x Borderland Marauder [MAINBOARD] id:[e3132919-58a7-429f-8a0f-9210d3c2c734] set:[JMP] no:[300] fb:[creature] tags:[Insatiable Bloodlust]
+1x World at War [MAINBOARD] id:[a47a05ad-fe86-481e-b770-e1760be4f852] set:[ROE] no:[172] fb:[basic_high] tags:[Insatiable Bloodlust]
+1x Breath of Fury [MAINBOARD] id:[a1fce58d-d754-4532-b4d0-4bb3cf108090] set:[C16] no:[121] fb:[spell_b] tags:[Insatiable Bloodlust]
+1x Seize the Day [MAINBOARD] id:[0ee67808-abe3-4755-83a0-03681ad5f82f] set:[UMA] no:[147] fb:[spell_b] tags:[Insatiable Bloodlust]
+2x Thriving Bluff [MAINBOARD] id:[15481459-3703-4185-ad27-105d95691e9d] set:[JMP] no:[33] fb:[spell] tags:[Insatiable Bloodlust]
+6x Mountain [MAINBOARD] id:[53fb7b99-9e47-46a6-9c8a-88e28b5197f1] set:[THB] no:[253] fb:[land_thb_full_art] tags:[Insatiable Bloodlust]
+1x Jace's Archivist [MAINBOARD] id:[3c21df8e-a24f-4ce1-aa8a-1467f9f9423a] set:[C15] no:[95] fb:[creature_b] tags:[Jace's Intellect]
+1x Jace's Phantasm [MAINBOARD] id:[96a4783a-db1f-4222-b989-559eead14bd6] set:[MB1] no:[408] fb:[creature] tags:[Jace's Intellect]
+1x Jace's Mindseeker [MAINBOARD] id:[aeec1661-43e9-4e64-8798-c9aebad421e6] set:[DDM] no:[19] fb:[raised] tags:[Jace's Intellect]
+1x Spark Double [MAINBOARD] id:[bb8a103c-b776-4501-9441-a45b90391045] set:[WAR] no:[68] fb:[creature_b] tags:[Jace's Intellect]
+1x Mulldrifter [MAINBOARD] id:[0f0e6ff7-eed1-4965-813f-00d92fb48a1e] set:[CMR] no:[639] fb:[creature_full_b] tags:[Jace's Intellect]
+1x Jace, the Mind Sculptor [MAINBOARD] id:[a5d1f66f-75b5-4a9b-8b98-f237f065de9c] set:[MED] no:[WS3] fb:[planeswalker_full_b] tags:[Jace's Intellect]
+1x Psychic Corrosion [MAINBOARD] id:[285d22fa-1623-463a-83c0-a9aa7c969ce2] set:[M19] no:[68] fb:[spell] tags:[Jace's Intellect]
+1x Jace Beleren [MAINBOARD] id:[de8a1c0e-23fc-4d27-925f-cc560548ccba] set:[SS1] no:[1] fb:[planeswalker_signature_jace] tags:[Jace's Intellect]
+1x Folio of Fancies [MAINBOARD] id:[40fb4518-406b-4673-afd9-61a9440e3335] set:[ELD] no:[343] fb:[spell_legendary_full_b] tags:[Jace's Intellect]
+1x Didn't Say Please [MAINBOARD] id:[77500b53-0852-4d6a-bfe3-b1e8ef5a12cd] set:[ELD] no:[42] fb:[spell] tags:[Jace's Intellect]
+1x Memory Erosion [MAINBOARD] id:[1ac12aba-0ec6-4922-94cb-1b77634a603b] set:[MB1] no:[424] fb:[spell_b] tags:[Jace's Intellect]
+1x Jace, Memory Adept [MAINBOARD] id:[2801a4ad-5d44-4414-af62-458c7f90dad6] set:[M14] no:[60] fb:[planeswalker] tags:[Jace's Intellect]
+2x Thriving Isle [MAINBOARD] id:[7eb8fd94-2b59-4b05-b4d0-c93497301d19] set:[JMP] no:[36] fb:[spell] tags:[Jace's Intellect]
+6x Island [MAINBOARD] id:[acf7b664-3e75-4018-81f6-2a14ab59f258] set:[THB] no:[251] fb:[land_thb_full_art] tags:[Jace's Intellect]
+1x Laboratory Maniac [MAINBOARD] id:[51b080d5-ae4b-4d5e-acf2-c51695d8750a] set:[MB1] no:[415] fb:[creature] tags:[Mad Scientist]
+1x Mirror-Mad Phantasm [MAINBOARD] id:[b20eea41-9daf-4ac1-8bad-bb4aa211bb53] set:[ISD] no:[68] fb:[raised] tags:[Mad Scientist]
+1x Skaab Ruinator [MAINBOARD] id:[44c40cdc-a11a-47df-b902-d8fbe9014d03] set:[ISD] no:[77] fb:[raised] tags:[Mad Scientist]
+1x Deranged Assistant [MAINBOARD] id:[73373421-c43d-4152-818a-55abc85b477a] set:[CMR] no:[65] fb:[creature] tags:[Mad Scientist]
+1x Laboratory Brute [MAINBOARD] id:[efb142ff-634c-4425-99fc-f9426692f5eb] set:[MB1] no:[414] fb:[creature] tags:[Mad Scientist]
+1x Stitcher Geralf [MAINBOARD] id:[156945db-4575-48ae-b9c9-e3b341353cd7] set:[C14] no:[17] fb:[creature_b] tags:[Mad Scientist]
+1x Thassa's Oracle [MAINBOARD] id:[13d7e352-4d01-4947-a76f-f8a01dd876cc] set:[THB] no:[308] fb:[creature_full_b] tags:[Mad Scientist]
+1x Curious Homunculus // Voracious Reader [MAINBOARD] id:[22e816af-df55-4a3f-a6e7-0ff3bb1b45b5] set:[EMN] no:[54] fb:[creature] bb:[creature] tags:[Mad Scientist]
+1x Circular Logic [MAINBOARD] id:[1186875c-8a42-4d4a-a619-f1d80bb9a1e5] set:[MB1] no:[317] fb:[spell] tags:[Mad Scientist]
+1x Increasing Confusion [MAINBOARD] id:[13f5bcdc-70bb-4d67-99e1-282f166ee4bf] set:[DKA] no:[41] fb:[spell_c] tags:[Mad Scientist]
+1x Calculated Dismissal [MAINBOARD] id:[252c360d-eb30-417d-9c1d-dab58b6fa305] set:[MB1] no:[304] fb:[spell] tags:[Mad Scientist]
+1x Jace, Wielder of Mysteries [MAINBOARD] id:[6adb7d73-4482-4930-8497-cffd169b57e2] set:[WAR] no:[54] fb:[planeswalker_b] tags:[Mad Scientist]
+2x Thriving Isle [MAINBOARD] id:[7eb8fd94-2b59-4b05-b4d0-c93497301d19] set:[JMP] no:[36] fb:[spell] tags:[Mad Scientist]
+6x Island [MAINBOARD] id:[acf7b664-3e75-4018-81f6-2a14ab59f258] set:[THB] no:[251] fb:[land_thb_full_art] tags:[Mad Scientist]
+1x Bruvac the Grandiloquent [MAINBOARD] id:[5b43bdc7-e49e-4848-9101-6cad2ecab4dc] set:[JMP] no:[10] fb:[creature_legendary_b] tags:[Memory Erasure]
+1x Mindshrieker [MAINBOARD] id:[ab1e52af-6746-4ec6-afbf-008594c874f8] set:[ISD] no:[67] fb:[raised] tags:[Memory Erasure]
+1x Sphinx Mindbreaker [MAINBOARD] id:[d70c50ce-48f0-49a6-9653-42b8ccb9a647] set:[THB] no:[290] fb:[creature_b] tags:[Memory Erasure]
+1x Manic Scribe [MAINBOARD] id:[eb0fadba-4205-47ce-b4cf-e0ff7308749b] set:[SOI] no:[73] fb:[creature] tags:[Memory Erasure]
+1x Riddlekeeper [MAINBOARD] id:[57ad1d92-0c91-4a43-a4d3-c2250b9fe23e] set:[CM2] no:[48] fb:[creature_b] tags:[Memory Erasure]
+1x Shriekgeist [MAINBOARD] id:[424b08b1-d9a3-4f18-a5ef-0f46698ac7ed] set:[IMA] no:[72] fb:[creature] tags:[Memory Erasure]
+1x Dream Twist [MAINBOARD] id:[edaab8fb-c19c-4462-932b-452e2adf4a02] set:[MB1] no:[360] fb:[spell] tags:[Memory Erasure]
+1x Increasing Confusion [MAINBOARD] id:[13f5bcdc-70bb-4d67-99e1-282f166ee4bf] set:[DKA] no:[41] fb:[basic_high] tags:[Memory Erasure]
+1x Mind Sculpt [MAINBOARD] id:[037d6277-1fc3-41a4-ade6-7cca10535b0f] set:[M15] no:[70] fb:[spell] tags:[Memory Erasure]
+1x Jace, Memory Adept [MAINBOARD] id:[96b2a335-2f01-4ba7-a037-453dbb1045e9] set:[M13] no:[56] fb:[planeswalker] tags:[Memory Erasure]
+1x Thought Collapse [MAINBOARD] id:[1759ce5a-bd01-4729-b4ca-712228c50b7f] set:[MB1] no:[521] fb:[spell] tags:[Memory Erasure]
+1x Countermand [MAINBOARD] id:[07815e32-0b64-4c2b-84e6-a72336c45cf5] set:[JOU] no:[33] fb:[basic_high] tags:[Memory Erasure]
+2x Thriving Isle [MAINBOARD] id:[7eb8fd94-2b59-4b05-b4d0-c93497301d19] set:[JMP] no:[36] fb:[spell] tags:[Memory Erasure]
+6x Island [MAINBOARD] id:[acf7b664-3e75-4018-81f6-2a14ab59f258] set:[THB] no:[251] fb:[land_thb_full_art] tags:[Memory Erasure]
+1x Avenger of Zendikar [MAINBOARD] id:[5c43add9-f948-41fe-b40c-e1d357db5f05] set:[SLD] no:[158] fb:[creature_b] tags:[Nature's Bounty]
+1x Beanstalk Giant // Fertile Footsteps [MAINBOARD] id:[49875f7a-31b9-4276-b971-8ead1e18fc81] set:[ELD] no:[295] fb:[adventure] tags:[Nature's Bounty]
+1x Oracle of Mul Daya [MAINBOARD] id:[5de097e5-e960-4404-a370-defe93ce892f] set:[JMP] no:[415] fb:[creature_b] tags:[Nature's Bounty]
+1x Greenseeker [MAINBOARD] id:[423d0c1d-1791-4c80-86d1-f87f3c6a8611] set:[TSR] no:[207] fb:[creature] tags:[Nature's Bounty]
+1x Rampaging Baloths [MAINBOARD] id:[32bbe3c3-d00f-4d53-8738-e4aceb6a01ab] set:[C21] no:[203] fb:[creature_b] tags:[Nature's Bounty]
+1x Dryad of the Ilysian Grove [MAINBOARD] id:[36adefc7-44a8-40d0-8bdf-ad12d010b0bd] set:[THB] no:[326] fb:[creature_full_b] tags:[Nature's Bounty]
+1x Cultivate [MAINBOARD] id:[31233339-c5ec-40fb-badd-94ef7f0ff7c0] set:[M21] no:[317] fb:[spell_super_full_b] tags:[Nature's Bounty]
+1x Nissa, Who Shakes the World [MAINBOARD] id:[f857bbe4-5619-4733-a0c7-69700f2ef4f3] set:[WAR] no:[169] fb:[planeswalker_b] tags:[Nature's Bounty]
+1x Rampant Growth [MAINBOARD] id:[b80ea082-9780-4ef8-8a7d-e20604727881] set:[C15] no:[199] fb:[spell] tags:[Nature's Bounty]
+1x Collective Voyage [MAINBOARD] id:[3f2d44f0-c71e-4061-bb7c-1f91fbce8f51] set:[C16] no:[145] fb:[spell_b] tags:[Nature's Bounty]
+1x Scapeshift [MAINBOARD] id:[175e21a3-00f7-4c51-8a8e-fbfd7089efda] set:[M19] no:[201] fb:[spell_b] tags:[Nature's Bounty]
+1x Zendikar's Roil [MAINBOARD] id:[79298a0f-50ca-4bf5-b863-a60f07846970] set:[MB1] no:[1382] fb:[spell] tags:[Nature's Bounty]
+1x Terramorphic Expanse [MAINBOARD] id:[6b92b751-6162-4293-953b-ec7190309a6a] set:[CMR] no:[712] fb:[spell_full_b] tags:[Nature's Bounty]
+1x Evolving Wilds [MAINBOARD] id:[13ff769b-455b-497a-afc4-d87e1ff7e33d] set:[PTKDF] no:[248] fb:[spell_b] tags:[Nature's Bounty]
+1x Kazandu Mammoth // Kazandu Valley [MAINBOARD] id:[09c8c150-a0d8-4254-9169-7697e9c540da] set:[ZNR] no:[305] fb:[creature_mdfc_b] bb:[spell_mdfc] tags:[Nature's Bounty]
+5x Forest [MAINBOARD] id:[32af9f41-89e2-4e7a-9fec-fffe79cae077] set:[THB] no:[254] fb:[land_thb_full_art] tags:[Nature's Bounty]
+1x Ragavan, Nimble Pilferer [MAINBOARD] id:[b3e685f9-cc0f-4dc6-98dc-4727944de445] set:[MH2] no:[315] fb:[creature_super_full_b] tags:[Pillaging Pirates]
+1x Breeches, Brazen Plunderer [MAINBOARD] id:[83e8fe2e-ec6c-47fc-85c0-6eec185ecdce] set:[CMR] no:[165] fb:[creature_legendary] tags:[Pillaging Pirates]
+1x Robber of the Rich [MAINBOARD] id:[68b44930-f109-4865-8cd0-735ae5b4299c] set:[ELD] no:[365] fb:[creature_full_b] tags:[Pillaging Pirates]
+1x Grenzo, Havoc Raiser [MAINBOARD] id:[075cd558-2557-409a-8244-2de65664be53] set:[CN2] no:[54] fb:[creature_b] tags:[Pillaging Pirates]
+1x Captivating Crew [MAINBOARD] id:[c76e66c1-dbe2-4346-b4b3-20e8386e7d76] set:[XLN] no:[137] fb:[creature_b] tags:[Pillaging Pirates]
+1x Coercive Recruiter [MAINBOARD] id:[8daee74d-aaf9-41bb-96f4-6d967cd4faf7] set:[CMR] no:[662] fb:[creature_full_b] tags:[Pillaging Pirates]
+1x Dire Fleet Daredevil [MAINBOARD] id:[28c3c7d7-bf25-4dd7-8fbf-4c8ae6603dd1] set:[AFC] no:[121] fb:[creature_b] tags:[Pillaging Pirates]
+1x Hijack [MAINBOARD] id:[0e925954-faa3-4d16-8442-e34af1f85fb6] set:[KLD] no:[118] fb:[spell] tags:[Pillaging Pirates]
+1x Stolen Strategy [MAINBOARD] id:[bb90e4b8-8f66-45f0-a457-a081f2ff231c] set:[BBD] no:[64] fb:[spell_b] tags:[Pillaging Pirates]
+1x Price of Loyalty [MAINBOARD] id:[47634528-cc34-406a-8572-812a41d6a86a] set:[AFR] no:[159] fb:[spell] tags:[Pillaging Pirates]
+1x Chef's Kiss [MAINBOARD] id:[c936ebbd-512a-49a6-ab23-16ac34b4a3a9] set:[MH2] no:[120] fb:[spell_b] tags:[Pillaging Pirates]
+1x Zealous Conscripts [MAINBOARD] id:[df3784d4-80cd-4f78-afb3-d61f3bab5b2c] set:[MM3] no:[116] fb:[creature_b] tags:[Pillaging Pirates]
+2x Thriving Bluff [MAINBOARD] id:[15481459-3703-4185-ad27-105d95691e9d] set:[JMP] no:[33] fb:[spell] tags:[Pillaging Pirates]
+6x Mountain [MAINBOARD] id:[53fb7b99-9e47-46a6-9c8a-88e28b5197f1] set:[THB] no:[253] fb:[land_thb_full_art] tags:[Pillaging Pirates]
+1x Djeru, With Eyes Open [MAINBOARD] id:[2234df89-0835-4a17-b5d8-2334ee8f692d] set:[HOU] no:[10] fb:[creature_b] tags:[Plainswalkers]
+1x Baird, Steward of Argive [MAINBOARD] id:[d1a9594e-edc9-42b2-ba8a-8298da9441fb] set:[DOM] no:[4] fb:[creature_legendary] tags:[Plainswalkers]
+1x Archon of Absolution [MAINBOARD] id:[684ca60c-7ed4-49e1-b54a-91d129539375] set:[ELD] no:[3] fb:[creature] tags:[Plainswalkers]
+1x Gideon of the Trials [MAINBOARD] id:[959ce13f-519f-4472-bbd1-f26a972723d7] set:[AKH] no:[14] fb:[planeswalker_b] tags:[Plainswalkers]
+1x Elspeth, Sun's Nemesis [MAINBOARD] id:[fedff53b-b5c7-470e-bb66-797d5d20b983] set:[THB] no:[255] fb:[planeswalker_full_b] tags:[Plainswalkers]
+1x Basri Ket [MAINBOARD] id:[ed3906ea-df06-4299-a305-32e6ef476507] set:[M21] no:[280] fb:[planeswalker_full_b] tags:[Plainswalkers]
+1x Ajani, Adversary of Tyrants [MAINBOARD] id:[4c565076-5db2-47ea-8ee0-4a4fd7bb353d] set:[M19] no:[3] fb:[planeswalker_b] tags:[Plainswalkers]
+1x Teyo, the Shieldmage [MAINBOARD] id:[a974571c-d8d5-4860-9077-2023e5f32a24] set:[WAR] no:[32] fb:[planeswalker_b] tags:[Plainswalkers]
+1x Serra the Benevolent [MAINBOARD] id:[88bf4af9-4b14-43e7-9d50-0e6a895cece1] set:[MH1] no:[26] fb:[planeswalker_b] tags:[Plainswalkers]
+1x Nahiri, the Lithomancer [MAINBOARD] id:[9a226eae-1c77-45a9-9115-f846b76681a3] set:[C14] no:[10] fb:[planeswalker_b] tags:[Plainswalkers]
+1x Cleansing Nova [MAINBOARD] id:[11f1b6cd-d89a-4468-a097-7a54efe22f2c] set:[C21] no:[86] fb:[spell_b] tags:[Plainswalkers]
+1x Terminus [MAINBOARD] id:[c726193f-e7bf-45b0-8eb5-2e9f62f5e7b0] set:[C18] no:[77] fb:[spell_b] tags:[Plainswalkers]
+2x Thriving Heath [MAINBOARD] id:[fe424eb3-7df8-4317-8776-6d960afbb90a] set:[JMP] no:[35] fb:[spell] tags:[Plainswalkers]
+6x Plains [MAINBOARD] id:[a9891b7b-fc52-470c-9f74-292ae665f378] set:[THB] no:[250] fb:[land_thb_full_art] tags:[Plainswalkers]
+1x Nyxbloom Ancient [MAINBOARD] id:[c8a8e37b-0b97-4355-8e00-169a82c38ea0] set:[THB] no:[330] fb:[creature_full_b] tags:[Primal Elements]
+1x Fertilid [MAINBOARD] id:[4532020f-c6b5-43e6-946b-a4491c1785b3] set:[ZNC] no:[67] fb:[creature] tags:[Primal Elements]
+1x Tangled Florahedron // Tangled Vale [MAINBOARD] id:[235d1ffc-72aa-40a2-95dc-3f6a8d495061] set:[ZNR] no:[211] fb:[creature_mdfc] bb:[spell_mdfc] tags:[Primal Elements]
+1x Vigor [MAINBOARD] id:[525b23c4-9a8e-4fbe-b4f9-584cc25ba758] set:[MB1] no:[1368] fb:[creature_b] tags:[Primal Elements]
+1x Titania, Protector of Argoth [MAINBOARD] id:[58fb9fd5-359e-4da2-8d91-80ef50a8e390] set:[MH2] no:[319] fb:[creature_super_full_b] tags:[Primal Elements]
+1x Ashaya, Soul of the Wild [MAINBOARD] id:[8a6a883f-55e2-43f5-90a9-34494c14c0c4] set:[ZNR] no:[358] fb:[creature_legendary_full_b] tags:[Primal Elements]
+1x Leafkin Druid [MAINBOARD] id:[8968a942-72f6-42ad-ae9d-418a1dff0ab3] set:[M20] no:[178] fb:[creature] tags:[Primal Elements]
+1x Endurance [MAINBOARD] id:[1fc6d14a-1328-4032-ad9e-cd85cd365bd3] set:[MH2] no:[317] fb:[creature_super_full_b] tags:[Primal Elements]
+1x Sylvan Awakening [MAINBOARD] id:[93ac4d3d-064e-459d-b3a4-6c0872a2da8c] set:[DOM] no:[183] fb:[spell_b] tags:[Primal Elements]
+1x Awakening of Vitu-Ghazi [MAINBOARD] id:[b42b2fb4-8016-462c-8764-2639adec931f] set:[WAR] no:[152] fb:[spell_b] tags:[Primal Elements]
+1x Beast Within [MAINBOARD] id:[edf4a131-5f29-46c0-9c73-719d1112d57a] set:[C19] no:[157] fb:[spell] tags:[Primal Elements]
+1x Kamahl's Will [MAINBOARD] id:[f5c98793-8bc0-419b-a1a9-7360f370bcdf] set:[CMR] no:[680] fb:[spell_full_b] tags:[Primal Elements]
+1x Terramorphic Expanse [MAINBOARD] id:[6b92b751-6162-4293-953b-ec7190309a6a] set:[CMR] no:[712] fb:[spell_full_b] tags:[Primal Elements]
+1x Evolving Wilds [MAINBOARD] id:[40a2804d-d925-4950-8542-608f6e92387a] set:[IMA] no:[235] fb:[spell] tags:[Primal Elements]
+6x Forest [MAINBOARD] id:[32af9f41-89e2-4e7a-9fec-fffe79cae077] set:[THB] no:[254] fb:[land_thb_full_art] tags:[Primal Elements]
+1x Morophon, the Boundless [MAINBOARD] id:[9693e59b-032d-4ddc-a7d1-88a0f52dcc6c] set:[MH1] no:[1] fb:[creature_legendary_b] tags:[Prismatic Dragons]
+1x Tiamat [MAINBOARD] id:[492fe79b-7af2-4911-8497-cbee8d529d18] set:[AFR] no:[298] fb:[creature_super_full_b] tags:[Prismatic Dragons]
+1x O-Kagachi, Vengeful Kami [MAINBOARD] id:[8d8a5329-2512-407b-aa35-e83dd56dc26a] set:[C17] no:[45] fb:[creature_b] tags:[Prismatic Dragons]
+1x The Ur-Dragon [MAINBOARD] id:[ea949741-af94-47ae-a577-2953c69ab71d] set:[SLD] no:[11] fb:[creature_legendary_b] tags:[Prismatic Dragons]
+1x Niv-Mizzet Reborn [MAINBOARD] id:[56a2609d-b535-400b-81d9-72989a33c70f] set:[WAR] no:[208] fb:[creature_legendary_b] tags:[Prismatic Dragons]
+1x Scion of the Ur-Dragon [MAINBOARD] id:[565b2a40-57b1-451f-8c2a-e02222502288] set:[C17] no:[192] fb:[creature_b] tags:[Prismatic Dragons]
+1x Birds of Paradise [MAINBOARD] id:[0003aa31-d42e-4972-9fb9-086aefe29a2c] set:[SLD] no:[176] fb:[creature_b] tags:[Prismatic Dragons]
+1x Paradise Druid [MAINBOARD] id:[6ed8d9e7-cdad-450d-8329-fa653d387a63] set:[WAR] no:[171] fb:[creature] tags:[Prismatic Dragons]
+1x Chromatic Lantern [MAINBOARD] id:[c7970aee-494f-45c1-9842-04632ad27313] set:[MPS] no:[8] fb:[spell_b] tags:[Prismatic Dragons]
+1x Chrome Mox [MAINBOARD] id:[90bbc0fa-4810-490d-bda7-a8fd4aaa01c4] set:[MPS] no:[9] fb:[spell_b] tags:[Prismatic Dragons]
+1x Coalition Relic [MAINBOARD] id:[02c532e8-21f1-4d6f-a931-1ea48a6aeea2] set:[A25] no:[223] fb:[spell_b] tags:[Prismatic Dragons]
+1x Springleaf Drum [MAINBOARD] id:[f3b3869b-6da1-4b01-a2e7-2018d478b6e5] set:[2XM] no:[291] fb:[spell] tags:[Prismatic Dragons]
+1x Mana Confluence [MAINBOARD] id:[4eafa4f8-3b9b-4e20-97bf-8f547e970752] set:[EXP] no:[42] fb:[spell_b] tags:[Prismatic Dragons]
+1x City of Brass [MAINBOARD] id:[459042ef-0d5b-480f-9b8a-520e13ae9217] set:[MMA] no:[221] fb:[land_thb_full_art] tags:[Prismatic Dragons]
+1x Cavern of Souls [MAINBOARD] id:[bea9f6e9-69ae-4c49-9682-ad09e787c01e] set:[PUMA] no:[U32] fb:[spell_full_b] tags:[Prismatic Dragons]
+1x Zagoth Triome [MAINBOARD] id:[f809f970-25a7-4c34-b98f-1cb08012080d] set:[IKO] no:[313] fb:[spell_super_full_b] tags:[Prismatic Dragons]
+1x Ketria Triome [MAINBOARD] id:[f5b5b9bb-ee9f-4a52-bd74-fd2759c8e3d3] set:[IKO] no:[310] fb:[spell_super_full_b] tags:[Prismatic Dragons]
+1x Savai Triome [MAINBOARD] id:[d21ef9e6-e2dd-4e0a-a36c-e07034ac4ba3] set:[IKO] no:[312] fb:[spell_super_full_b] tags:[Prismatic Dragons]
+1x Indatha Triome [MAINBOARD] id:[9bf2b208-79c6-4c4c-bf66-871352ed600f] set:[IKO] no:[309] fb:[spell_super_full_b] tags:[Prismatic Dragons]
+1x Raugrin Triome [MAINBOARD] id:[c303a627-cce3-4045-81f8-fe7427e0a941] set:[IKO] no:[311] fb:[spell_super_full_b] tags:[Prismatic Dragons]
+1x Garth One-Eye [MAINBOARD] id:[23774462-9f17-4b50-a2ac-b2edd706bbfe] set:[MH2] no:[197] fb:[creature_legendary_b] tags:[Rainbow Leylines]
+1x Jodah, Archmage Eternal [MAINBOARD] id:[1ee86efa-248e-4251-b734-f8ad3e8a0344] set:[DOM] no:[198] fb:[creature_legendary_b] tags:[Rainbow Leylines]
+1x Esika, God of the Tree // The Prismatic Bridge [MAINBOARD] id:[f6cd7465-9dd0-473c-ac5e-dd9e2f22f5f6] set:[KHM] no:[168] fb:[creature_mdfc_legendary_b] bb:[spell_mdfc_legendary] tags:[Rainbow Leylines]
+1x Sisay, Weatherlight Captain [MAINBOARD] id:[5a293c45-1e73-4527-be2f-2dcd5c47b610] set:[MH1] no:[29] fb:[creature_legendary_b] tags:[Rainbow Leylines]
+1x Jegantha, the Wellspring [MAINBOARD] id:[d5592378-f9e7-4c50-8425-2105744aa85c] set:[IKO] no:[352] fb:[creature_legendary_full_b] tags:[Rainbow Leylines]
+1x Progenitus [MAINBOARD] id:[f9d8579f-d539-44fb-a016-2537cd27efeb] set:[PGPX] no:[2017] fb:[creature_b] tags:[Rainbow Leylines]
+1x Ramos, Dragon Engine [MAINBOARD] id:[2e747ef1-a1ad-4859-a70c-3f935f017310] set:[C17] no:[55] fb:[creature_b] tags:[Rainbow Leylines]
+1x Maelstrom Archangel [MAINBOARD] id:[ed111116-c2cc-4c97-a84c-f9576ea2ada7] set:[JMP] no:[454] fb:[creature_b] tags:[Rainbow Leylines]
+1x Chromatic Lantern [MAINBOARD] id:[c7970aee-494f-45c1-9842-04632ad27313] set:[MPS] no:[8] fb:[spell_b] tags:[Rainbow Leylines]
+1x Chrome Mox [MAINBOARD] id:[90bbc0fa-4810-490d-bda7-a8fd4aaa01c4] set:[MPS] no:[9] fb:[spell_b] tags:[Rainbow Leylines]
+1x Coalition Relic [MAINBOARD] id:[02c532e8-21f1-4d6f-a931-1ea48a6aeea2] set:[A25] no:[223] fb:[spell_b] tags:[Rainbow Leylines]
+1x Chromatic Orrery [MAINBOARD] id:[d5d9ddf6-9283-4c93-9932-70362068ce72] set:[M21] no:[382] fb:[spell_legendary_b] tags:[Rainbow Leylines]
+1x Mana Confluence [MAINBOARD] id:[4eafa4f8-3b9b-4e20-97bf-8f547e970752] set:[EXP] no:[42] fb:[spell_b] tags:[Rainbow Leylines]
+1x City of Brass [MAINBOARD] id:[459042ef-0d5b-480f-9b8a-520e13ae9217] set:[MMA] no:[221] fb:[land_thb_full_art] tags:[Rainbow Leylines]
+1x Zagoth Triome [MAINBOARD] id:[f809f970-25a7-4c34-b98f-1cb08012080d] set:[IKO] no:[313] fb:[spell_super_full_b] tags:[Rainbow Leylines]
+1x Ketria Triome [MAINBOARD] id:[f5b5b9bb-ee9f-4a52-bd74-fd2759c8e3d3] set:[IKO] no:[310] fb:[spell_super_full_b] tags:[Rainbow Leylines]
+1x Savai Triome [MAINBOARD] id:[d21ef9e6-e2dd-4e0a-a36c-e07034ac4ba3] set:[IKO] no:[312] fb:[spell_super_full_b] tags:[Rainbow Leylines]
+1x Indatha Triome [MAINBOARD] id:[9bf2b208-79c6-4c4c-bf66-871352ed600f] set:[IKO] no:[309] fb:[spell_super_full_b] tags:[Rainbow Leylines]
+1x Raugrin Triome [MAINBOARD] id:[c303a627-cce3-4045-81f8-fe7427e0a941] set:[IKO] no:[311] fb:[spell_super_full_b] tags:[Rainbow Leylines]
+1x Cascading Cataracts [MAINBOARD] id:[778739db-4431-4e58-91de-d2619aeef3ce] set:[AKH] no:[240] fb:[spell_b] tags:[Rainbow Leylines]
+1x Piper of the Swarm [MAINBOARD] id:[ee235810-078e-4208-91e2-b559c277eb86] set:[ELD] no:[355] fb:[creature_full_b] tags:[Rat Swarm]
+1x Pack Rat [MAINBOARD] id:[f3864bc8-f86e-4c41-b454-e19d1939147b] set:[SLD] no:[35] fb:[creature_b] tags:[Rat Swarm]
+1x Rat Colony [MAINBOARD] id:[a4227afa-780b-4755-9b61-46255717c6be] set:[SLD] no:[36] fb:[creature_b] tags:[Rat Swarm]
+1x Marrow-Gnawer [MAINBOARD] id:[3ce0ce55-bf61-491e-9136-6f62b5aa5795] set:[SLD] no:[34] fb:[creature_legendary_b] tags:[Rat Swarm]
+1x Chittering Witch [MAINBOARD] id:[8c298940-4277-4145-9f2f-a284fd2e1a9d] set:[ELD] no:[319] fb:[creature_b] tags:[Rat Swarm]
+1x Swarm of Rats [MAINBOARD] id:[2690a627-23c5-46a4-b508-a5bc6ecc08d7] set:[8ED] no:[167] fb:[raised] tags:[Rat Swarm]
+1x Typhoid Rats [MAINBOARD] id:[4371c00a-06f8-4350-a906-8a367c014416] set:[MB1] no:[803] fb:[creature] tags:[Rat Swarm]
+1x Drainpipe Vermin [MAINBOARD] id:[761f2f66-a43b-422e-94b7-3c068314b7ec] set:[JMP] no:[224] fb:[creature] tags:[Rat Swarm]
+1x Feed the Swarm [MAINBOARD] id:[97ba4f5c-6336-49ed-bea4-90b745276284] set:[C21] no:[144] fb:[spell] tags:[Rat Swarm]
+1x Bone Shards [MAINBOARD] id:[1ee98955-4c47-4d45-9377-608dfa755337] set:[MH2] no:[76] fb:[spell] tags:[Rat Swarm]
+1x Plague of Vermin [MAINBOARD] id:[231613d6-d3b8-4b41-bc93-4d5da3fec5d0] set:[SHM] no:[73] fb:[basic_high] tags:[Rat Swarm]
+1x Bad Moon [MAINBOARD] id:[d2a766a1-8382-4dc7-aba8-ebc325f7e61f] set:[C14] no:[135] fb:[spell_b] tags:[Rat Swarm]
+1x Swarmyard [MAINBOARD] id:[db231a23-c556-4667-bf83-9216f13b9618] set:[SLD] no:[199] fb:[spell_b] tags:[Rat Swarm]
+2x Thriving Moor [MAINBOARD] id:[18756fe5-70f0-48d9-a4f1-ea78f77d2084] set:[JMP] no:[37] fb:[spell] tags:[Rat Swarm]
+5x Swamp [MAINBOARD] id:[02cb5cfd-018e-4c5e-bef1-166262aa5f1d] set:[THB] no:[252] fb:[land_thb_full_art] tags:[Rat Swarm]
+1x Sheoldred, Whispering One [MAINBOARD] id:[8b207a4a-47d1-4905-81d3-455c59bfd7da] set:[JMP] no:[278] fb:[creature_b] tags:[Reanimation]
+1x Dauthi Voidwalker [MAINBOARD] id:[29632951-3c3d-478c-8c5a-9a34f30a5c28] set:[MH2] no:[450] fb:[creature_full_b] tags:[Reanimation]
+1x Kokusho, the Evening Star [MAINBOARD] id:[ab56cedb-1bcd-48a5-8503-a8e324e236ad] set:[IMA] no:[95] fb:[creature_b] tags:[Reanimation]
+1x It That Betrays [MAINBOARD] id:[5b64cfc0-dace-4f54-b2b1-c92d8cb64c35] set:[DDP] no:[43] fb:[creature_b] tags:[Reanimation]
+1x Fleshbag Marauder [MAINBOARD] id:[712c8708-cd43-4f1e-b520-ef90cf2ba72d] set:[CMR] no:[648] fb:[creature_full_b] tags:[Reanimation]
+1x Entomb [MAINBOARD] id:[d66f864b-b1bb-4596-93b8-3b4bfe6b1332] set:[UMA] no:[94] fb:[spell_b] tags:[Reanimation]
+1x Buried Alive [MAINBOARD] id:[17e943af-a051-4892-bc96-0b8c40e12f19] set:[CM2] no:[59] fb:[spell] tags:[Reanimation]
+1x Reanimate [MAINBOARD] id:[ac394f35-d999-43ea-97cf-99a736d4b2dd] set:[PUMA] no:[U12] fb:[spell_full_b] tags:[Reanimation]
+1x Animate Dead [MAINBOARD] id:[7b83536a-efa4-41f3-9424-75b0efc0aea5] set:[EMA] no:[78] fb:[spell] tags:[Reanimation]
+1x Victimize [MAINBOARD] id:[b6eaeb18-a7e3-4b7d-b2c2-04a66a5b89d6] set:[CMR] no:[657] fb:[spell_full_b] tags:[Reanimation]
+1x Attrition [MAINBOARD] id:[f8f29b57-172e-407b-b55e-32fe96198f92] set:[CMD] no:[72] fb:[spell_c] tags:[Reanimation]
+1x Living Death [MAINBOARD] id:[0e73682a-56a2-4796-9902-a03aaa3815e8] set:[VMA] no:[126] fb:[spell_b] tags:[Reanimation]
+2x Thriving Moor [MAINBOARD] id:[18756fe5-70f0-48d9-a4f1-ea78f77d2084] set:[JMP] no:[37] fb:[spell] tags:[Reanimation]
+6x Swamp [MAINBOARD] id:[02cb5cfd-018e-4c5e-bef1-166262aa5f1d] set:[THB] no:[252] fb:[land_thb_full_art] tags:[Reanimation]
+1x Bosh, Iron Golem [MAINBOARD] id:[09fb3b1f-c3a0-4da4-9b29-eff81fc1d562] set:[C21] no:[237] fb:[creature_legendary_b] tags:[Scrap Engineers]
+1x Kurkesh, Onakke Ancient [MAINBOARD] id:[2e2a0e9e-0e45-4af1-9f03-6fd3652933f9] set:[M15] no:[153] fb:[creature_b] tags:[Scrap Engineers]
+1x Feldon of the Third Path [MAINBOARD] id:[97879ddb-b00b-4f24-b901-af19c436b9f1] set:[C21] no:[169] fb:[creature_legendary_b] tags:[Scrap Engineers]
+1x Goblin Welder [MAINBOARD] id:[17be21c8-d7bb-405e-addd-5aba1125b709] set:[DDU] no:[35] fb:[creature_b] tags:[Scrap Engineers]
+1x Combustible Gearhulk [MAINBOARD] id:[a861f50c-8152-4cf6-bb17-3efcfac3be9b] set:[MPS] no:[4] fb:[creature_b] tags:[Scrap Engineers]
+1x Steel Hellkite [MAINBOARD] id:[4c145019-385d-4a16-b28b-bb9699c95e53] set:[C21] no:[266] fb:[creature_b] tags:[Scrap Engineers]
+1x Kuldotha Forgemaster [MAINBOARD] id:[c768267f-5ad2-4f4d-bbc7-6639325401c7] set:[2XM] no:[266] fb:[creature_b] tags:[Scrap Engineers]
+1x Scuttling Doom Engine [MAINBOARD] id:[16f74ee4-f647-49b1-88b8-1aae8df3b271] set:[DDU] no:[61] fb:[creature_b] tags:[Scrap Engineers]
+1x Daretti, Scrap Savant [MAINBOARD] id:[fa393eeb-bccc-453c-b783-6b0ff445c3a6] set:[C21] no:[164] fb:[planeswalker_b] tags:[Scrap Engineers]
+1x Wayfarer's Bauble [MAINBOARD] id:[873f7ccd-87b3-44b4-8dc0-41d19676db93] set:[C15] no:[274] fb:[spell] tags:[Scrap Engineers]
+1x Codex Shredder [MAINBOARD] id:[4f5a3293-f3e7-4f68-af6a-b478959226c1] set:[CMR] no:[304] fb:[spell] tags:[Scrap Engineers]
+1x Pyrite Spellbomb [MAINBOARD] id:[088c801d-381f-403b-aeb7-fbbfafee99bf] set:[2XM] no:[283] fb:[spell] tags:[Scrap Engineers]
+2x Thriving Bluff [MAINBOARD] id:[15481459-3703-4185-ad27-105d95691e9d] set:[JMP] no:[33] fb:[spell] tags:[Scrap Engineers]
+6x Mountain [MAINBOARD] id:[53fb7b99-9e47-46a6-9c8a-88e28b5197f1] set:[THB] no:[253] fb:[land_thb_full_art] tags:[Scrap Engineers]
+1x Chatterfang, Squirrel General [MAINBOARD] id:[57b819b7-c193-446d-b7cf-75a09e1d58a4] set:[MH2] no:[316] fb:[creature_super_full_b] tags:[Scurry of Squirrels]
+1x Scurrid Colony [MAINBOARD] id:[c9c0a096-870d-443c-92d3-f7ec1f362616] set:[STX] no:[142] fb:[creature] tags:[Scurry of Squirrels]
+1x Squirrel Mob [MAINBOARD] id:[fa6bfc95-ec7e-46dd-88fd-b0e1ba48bfbc] set:[MH2] no:[286] fb:[creature_b] tags:[Scurry of Squirrels]
+1x Squirrel Sovereign [MAINBOARD] id:[8f739d55-30d6-4879-872a-82c6778113de] set:[MH2] no:[175] fb:[creature] tags:[Scurry of Squirrels]
+1x Toski, Bearer of Secrets [MAINBOARD] id:[08eb31f3-7686-4d6b-a0e4-5d6ece6fba82] set:[KHM] no:[319] fb:[creature_kld_mdfc_b] tags:[Scurry of Squirrels]
+1x Deep Forest Hermit [MAINBOARD] id:[3287775f-7bec-4e8f-bb8d-daf5ce92e4a8] set:[MH1] no:[161] fb:[creature_b] tags:[Scurry of Squirrels]
+1x Deranged Hermit [MAINBOARD] id:[c25df202-0dd4-448d-8cb3-11fd7df0d505] set:[VMA] no:[202] fb:[creature_b] tags:[Scurry of Squirrels]
+1x Chitterspitter [MAINBOARD] id:[7ee33ff3-d3d6-4519-9d9f-72e342d8b215] set:[MH2] no:[153] fb:[spell_b] tags:[Scurry of Squirrels]
+1x Squirrel Nest [MAINBOARD] id:[6914d43c-bc5a-47c5-a01c-59ddb1ee8eca] set:[MH1] no:[182] fb:[spell] tags:[Scurry of Squirrels]
+1x Verdant Command [MAINBOARD] id:[83031ea8-a6c9-4318-af16-bba701dd76bb] set:[MH2] no:[182] fb:[spell_b] tags:[Scurry of Squirrels]
+1x Chatter of the Squirrel [MAINBOARD] id:[a320d7e7-aa1e-4c00-9b45-525352393e00] set:[SLD] no:[195] fb:[spell_b] tags:[Scurry of Squirrels]
+1x Chatterstorm [MAINBOARD] id:[b34f0ac1-6894-4761-b62c-b85d927acf09] set:[MH2] no:[152] fb:[spell] tags:[Scurry of Squirrels]
+2x Thriving Grove [MAINBOARD] id:[79cabbe0-1c44-4888-8ebc-25a4c3e2c5d7] set:[JMP] no:[34] fb:[spell] tags:[Scurry of Squirrels]
+6x Forest [MAINBOARD] id:[32af9f41-89e2-4e7a-9fec-fffe79cae077] set:[THB] no:[254] fb:[land_thb_full_art] tags:[Scurry of Squirrels]
+1x Aeve, Progenitor Ooze [MAINBOARD] id:[2009ab97-1d0f-4c59-9357-3ff4952ce3be] set:[MH2] no:[459] fb:[creature_legendary_full_b] tags:[Sentient Ooze]
+1x Inexorable Blob [MAINBOARD] id:[0210ff44-19d9-4d24-9d32-f1f9f219d9e0] set:[SOI] no:[212] fb:[creature_b] tags:[Sentient Ooze]
+1x Corrosive Ooze [MAINBOARD] id:[d13deb9c-5985-4355-8716-ee1c7b54b8e2] set:[DOM] no:[158] fb:[creature] tags:[Sentient Ooze]
+1x Acidic Slime [MAINBOARD] id:[551afb4c-17e8-424f-ace3-b2c184b16b2a] set:[CMR] no:[673] fb:[creature_full_b] tags:[Sentient Ooze]
+1x Scavenging Ooze [MAINBOARD] id:[0a91920a-7de3-4e9b-9cce-ff43ce0157b8] set:[M21] no:[318] fb:[creature_super_full_b] tags:[Sentient Ooze]
+1x Predator Ooze [MAINBOARD] id:[c32fb53b-7fd7-46a2-b502-93a42cf23fa5] set:[C20] no:[185] fb:[creature_b] tags:[Sentient Ooze]
+1x Biogenic Ooze [MAINBOARD] id:[6f11029a-b24d-4248-834f-b852b56857f6] set:[RNA] no:[122] fb:[creature_b] tags:[Sentient Ooze]
+1x Mitotic Slime [MAINBOARD] id:[a0ff5e36-9e0b-4a34-9ae3-1fb520a58fac] set:[PCA] no:[67] fb:[creature_b] tags:[Sentient Ooze]
+1x Ravenous Slime [MAINBOARD] id:[528d8f5e-2d58-4526-875b-21d199267210] set:[C18] no:[34] fb:[creature_b] tags:[Sentient Ooze]
+1x Gelatinous Genesis [MAINBOARD] id:[4e5c2be0-76ab-4873-a1fc-9ff65a9347c7] set:[2XM] no:[169] fb:[spell] tags:[Sentient Ooze]
+1x Slime Molding [MAINBOARD] id:[0daf6a74-57f7-4c44-9413-a28002f3de4c] set:[MM3] no:[137] fb:[spell] tags:[Sentient Ooze]
+1x Devouring Tendrils [MAINBOARD] id:[f7444555-da19-4d2d-ad81-233c54fbb78e] set:[STX] no:[126] fb:[spell] tags:[Sentient Ooze]
+2x Thriving Grove [MAINBOARD] id:[79cabbe0-1c44-4888-8ebc-25a4c3e2c5d7] set:[JMP] no:[34] fb:[spell] tags:[Sentient Ooze]
+6x Forest [MAINBOARD] id:[32af9f41-89e2-4e7a-9fec-fffe79cae077] set:[THB] no:[254] fb:[land_thb_full_art] tags:[Sentient Ooze]
+1x Dreamcaller Siren [MAINBOARD] id:[548c92c8-1ae1-48b4-8cbe-aa18f59c1efb] set:[XLN] no:[54] fb:[creature_b] tags:[Siren's Melody]
+1x Siren Lookout [MAINBOARD] id:[0000cd57-91fe-411f-b798-646e965eec37] set:[XLN] no:[78] fb:[creature] tags:[Siren's Melody]
+1x Siren Reaver [MAINBOARD] id:[1e5827a7-8ee3-4a89-b936-00a3283ddad3] set:[RIX] no:[54] fb:[creature] tags:[Siren's Melody]
+1x Siren Stormtamer [MAINBOARD] id:[72f7375c-2d9b-4738-b539-00e1949980e7] set:[XLN] no:[79] fb:[creature] tags:[Siren's Melody]
+1x Siren of the Fanged Coast [MAINBOARD] id:[5ba93d9a-94cd-4d90-860a-f567793a5be4] set:[BNG] no:[50] fb:[raised] tags:[Siren's Melody]
+1x Threnody Singer [MAINBOARD] id:[242cdffb-5037-4d49-b194-4b60274a8758] set:[THB] no:[75] fb:[creature] tags:[Siren's Melody]
+1x Hypnotic Siren [MAINBOARD] id:[3b2f562f-00d1-41da-a6ac-bc019cce7fe7] set:[JOU] no:[42] fb:[raised] tags:[Siren's Melody]
+1x Alluring Siren [MAINBOARD] id:[dea89d38-765d-4902-b985-bcc15363c4f2] set:[M11] no:[43] fb:[raised] tags:[Siren's Melody]
+1x Essence Scatter [MAINBOARD] id:[02ac1e19-3535-49ef-b93d-c52c9e56d046] set:[DDT] no:[6] fb:[spell] tags:[Siren's Melody]
+1x Aether Gale [MAINBOARD] id:[9f04015b-0286-4230-a72f-36c511d89f45] set:[C21] no:[113] fb:[spell_b] tags:[Siren's Melody]
+1x Siren's Ruse [MAINBOARD] id:[8f389872-d1f4-4828-a527-e820a6f2ac21] set:[XLN] no:[80] fb:[spell] tags:[Siren's Melody]
+1x Sea Legs [MAINBOARD] id:[ae48b747-b9ea-4af1-84c5-3f5835d1ba1f] set:[RIX] no:[50] fb:[spell] tags:[Siren's Melody]
+2x Thriving Isle [MAINBOARD] id:[7eb8fd94-2b59-4b05-b4d0-c93497301d19] set:[JMP] no:[36] fb:[spell] tags:[Siren's Melody]
+6x Island [MAINBOARD] id:[acf7b664-3e75-4018-81f6-2a14ab59f258] set:[THB] no:[251] fb:[land_thb_full_art] tags:[Siren's Melody]
+1x Orvar, the All-Form [MAINBOARD] id:[9d700064-1fda-4de0-9576-17a3faa5f04c] set:[KHM] no:[305] fb:[creature_kld_mdfc_b] tags:[Sleight of Hand]
+1x Octavia, Living Thesis [MAINBOARD] id:[f35834dd-876e-4f5e-9b0c-ce484b14ef24] set:[C21] no:[356] fb:[creature_legendary_full_b] tags:[Sleight of Hand]
+1x Wavebreak Hippocamp [MAINBOARD] id:[543356bc-d4ab-4250-80c8-5ca69c11af87] set:[THB] no:[310] fb:[creature_full_b] tags:[Sleight of Hand]
+1x Talrand, Sky Summoner [MAINBOARD] id:[0ea31d56-3530-41b4-8d31-c6ee16e87ae6] set:[MB1] no:[513] fb:[creature_b] tags:[Sleight of Hand]
+1x Mystical Tutor [MAINBOARD] id:[9264ecb7-bfc0-495d-aaaa-829045ea858f] set:[EMA] no:[62] fb:[spell_b] tags:[Sleight of Hand]
+1x Thought Scour [MAINBOARD] id:[6fa48ee0-0783-4952-87da-5de28b5e600c] set:[MB1] no:[522] fb:[spell] tags:[Sleight of Hand]
+1x Think Twice [MAINBOARD] id:[7b93726a-9ee7-4010-9db1-1e1ac5955398] set:[C19] no:[99] fb:[spell] tags:[Sleight of Hand]
+1x Brainstorm [MAINBOARD] id:[84e0da5b-0916-4dd6-99a2-a58e9d83bb26] set:[SLD] no:[174] fb:[spell_b] tags:[Sleight of Hand]
+1x Ponder [MAINBOARD] id:[84d02bf4-eefd-4916-ab5a-cc16b3e6a186] set:[SLD] no:[245] fb:[spell_super_full_b] tags:[Sleight of Hand]
+1x Preordain [MAINBOARD] id:[c1ab73a5-6c55-4c30-a965-8adf3dba2ddd] set:[CMR] no:[640] fb:[spell_full_b] tags:[Sleight of Hand]
+1x Into the Roil [MAINBOARD] id:[f3463be0-df9e-4cb9-a90f-5d9d2ee729e0] set:[CMR] no:[397] fb:[spell] tags:[Sleight of Hand]
+1x Counterspell [MAINBOARD] id:[2c358d75-01ad-4487-8104-425124b96aae] set:[MH2] no:[308] fb:[spell_super_full_b] tags:[Sleight of Hand]
+2x Thriving Isle [MAINBOARD] id:[7eb8fd94-2b59-4b05-b4d0-c93497301d19] set:[JMP] no:[36] fb:[spell] tags:[Sleight of Hand]
+6x Island [MAINBOARD] id:[acf7b664-3e75-4018-81f6-2a14ab59f258] set:[THB] no:[251] fb:[land_thb_full_art] tags:[Sleight of Hand]
+1x Syr Carah, the Bold [MAINBOARD] id:[080a249a-df47-4769-bb63-0d8ab3f2467c] set:[ELD] no:[145] fb:[creature_legendary] tags:[Spellslinger]
+1x Chandra, Fire of Kaladesh // Chandra, Roaring Flame [MAINBOARD] id:[b0d6caf0-4fa8-4ec5-b7f4-1307474d1b13] set:[ORI] no:[135] fb:[creature_b] bb:[planeswalker_round] tags:[Spellslinger]
+1x Guttersnipe [MAINBOARD] id:[6d5a14b4-e67c-4129-91dc-9e2fefbe27d2] set:[MB1] no:[970] fb:[creature] tags:[Spellslinger]
+1x Young Pyromancer [MAINBOARD] id:[218af707-cc60-407e-af20-e21879a0e902] set:[JMP] no:[372] fb:[creature] tags:[Spellslinger]
+1x Charmbreaker Devils [MAINBOARD] id:[40e2f3a3-7f5f-4ddf-aadb-9ddfe0a9197c] set:[IMA] no:[120] fb:[creature_b] tags:[Spellslinger]
+1x Pyromancer's Goggles [MAINBOARD] id:[0f92d8df-e913-4a95-9f65-4fe98c332a6e] set:[C21] no:[259] fb:[spell_legendary_b] tags:[Spellslinger]
+1x Mizzix's Mastery [MAINBOARD] id:[f6ed599c-ef16-45e1-8d99-5fbf5999e9c8] set:[MB1] no:[1012] fb:[spell_b] tags:[Spellslinger]
+1x Shock [MAINBOARD] id:[60eeb025-704c-4a82-90b2-f91202ae30d9] set:[STA] no:[44] fb:[spell_mystical_archive] tags:[Spellslinger]
+1x Faithless Looting [MAINBOARD] id:[671c008a-8ff8-42d7-9e03-6d8a9ddace67] set:[MB1] no:[919] fb:[spell] tags:[Spellslinger]
+1x Searing Spear [MAINBOARD] id:[44c5f884-d071-40c2-bb2c-925dc2197ea3] set:[E01] no:[56] fb:[spell] tags:[Spellslinger]
+1x Reverberate [MAINBOARD] id:[5996feb4-02ac-45e8-a7f2-966cf74391dc] set:[M13] no:[145] fb:[spell_c] tags:[Spellslinger]
+1x Thrill of Possibility [MAINBOARD] id:[f4af156d-0fbf-4a4e-b0c1-db7e95be4903] set:[M21] no:[165] fb:[spell] tags:[Spellslinger]
+2x Thriving Bluff [MAINBOARD] id:[15481459-3703-4185-ad27-105d95691e9d] set:[JMP] no:[33] fb:[spell] tags:[Spellslinger]
+6x Mountain [MAINBOARD] id:[53fb7b99-9e47-46a6-9c8a-88e28b5197f1] set:[THB] no:[253] fb:[land_thb_full_art] tags:[Spellslinger]
+1x Thalia, Guardian of Thraben [MAINBOARD] id:[d67a5aac-dbda-4e5d-ae4a-eb78dec6765b] set:[SLD] no:[40] fb:[creature_legendary_b] tags:[Tax Collector]
+1x Archon of Emeria [MAINBOARD] id:[530ed3d8-d176-44c8-ba54-f2536ceeb497] set:[ZNR] no:[315] fb:[creature_full_b] tags:[Tax Collector]
+1x Vryn Wingmare [MAINBOARD] id:[17b59819-4746-4c67-b6e5-4157d498a065] set:[M21] no:[43] fb:[creature] tags:[Tax Collector]
+1x Spirit of the Labyrinth [MAINBOARD] id:[f44e5128-e146-4e46-b313-a40d82719d1d] set:[BNG] no:[27] fb:[raised] tags:[Tax Collector]
+1x Hushbringer [MAINBOARD] id:[dda18da1-1ba4-421c-8980-a94984a5e12a] set:[ELD] no:[339] fb:[creature_full_b] tags:[Tax Collector]
+1x Imposing Sovereign [MAINBOARD] id:[0f672328-3361-498e-a9f4-2d8e69a8b072] set:[M14] no:[22] fb:[raised] tags:[Tax Collector]
+1x Angel of Jubilation [MAINBOARD] id:[16c5dfed-4dee-4e48-a445-89f03d7794e6] set:[AVR] no:[2] fb:[raised] tags:[Tax Collector]
+1x Grand Abolisher [MAINBOARD] id:[b4c4f694-618a-43ed-8781-2a51a234ba8e] set:[E01] no:[12] fb:[creature_b] tags:[Tax Collector]
+1x Linvala, Keeper of Silence [MAINBOARD] id:[dded98c3-17cb-4a43-a209-289ceb11df39] set:[JMP] no:[119] fb:[creature_legendary_b] tags:[Tax Collector]
+1x Smothering Tithe [MAINBOARD] id:[7af082fa-86a3-4f7b-966d-2be1f1d0c0bc] set:[RNA] no:[22] fb:[spell_b] tags:[Tax Collector]
+1x Mana Tithe [MAINBOARD] id:[e7f32354-893d-4f0b-b555-e0757fb5443b] set:[STA] no:[8] fb:[spell_mystical_archive_b] tags:[Tax Collector]
+1x Austere Command [MAINBOARD] id:[fb5db772-5ced-485f-a559-81b4e41bbff1] set:[CMR] no:[618] fb:[spell_full_b] tags:[Tax Collector]
+2x Thriving Heath [MAINBOARD] id:[fe424eb3-7df8-4317-8776-6d960afbb90a] set:[JMP] no:[35] fb:[spell] tags:[Tax Collector]
+6x Plains [MAINBOARD] id:[a9891b7b-fc52-470c-9f74-292ae665f378] set:[THB] no:[250] fb:[land_thb_full_art] tags:[Tax Collector]
+1x Ulamog, the Ceaseless Hunger [MAINBOARD] id:[1192f7a9-102e-4b3a-b154-18c8eb332217] set:[BFZ] no:[15] fb:[creature_b] tags:[The Ceaseless Hunger]
+1x Blight Herder [MAINBOARD] id:[478c3a74-ff78-4041-8137-93356d370ece] set:[BFZ] no:[2] fb:[creature_b] tags:[The Ceaseless Hunger]
+1x Scion Summoner [MAINBOARD] id:[826a882e-c4bd-4132-b797-9e1aa2d0bce4] set:[OGW] no:[123] fb:[creature] tags:[The Ceaseless Hunger]
+1x Brood Monitor [MAINBOARD] id:[ea7d4a49-8681-4f95-8718-96648bf73c39] set:[BFZ] no:[164] fb:[creature] tags:[The Ceaseless Hunger]
+1x Eyeless Watcher [MAINBOARD] id:[4d949d0e-baf7-4573-bb15-7e30e3e9b202] set:[BFZ] no:[166] fb:[creature] tags:[The Ceaseless Hunger]
+1x Ulamog's Crusher [MAINBOARD] id:[eda0fd38-38e6-4e9b-9c17-4d855e01b1e1] set:[UMA] no:[8] fb:[creature] tags:[The Ceaseless Hunger]
+1x Vile Redeemer [MAINBOARD] id:[f48b0613-127a-4338-aea4-ad0b8aa96d77] set:[OGW] no:[125] fb:[creature_b] tags:[The Ceaseless Hunger]
+1x Blisterpod [MAINBOARD] id:[e16f1803-634a-41b0-ae21-484d6f914a0d] set:[BFZ] no:[163] fb:[creature] tags:[The Ceaseless Hunger]
+1x From Beyond [MAINBOARD] id:[f5559960-e306-4992-b607-9654327c4507] set:[BFZ] no:[167] fb:[spell_b] tags:[The Ceaseless Hunger]
+1x Call the Scions [MAINBOARD] id:[5d248ed0-c2b4-4558-9a09-ace8fd4b0599] set:[BFZ] no:[165] fb:[spell] tags:[The Ceaseless Hunger]
+1x All Is Dust [MAINBOARD] id:[c0c9f6dd-308e-4c91-8bcc-975d273a0a33] set:[MM2] no:[1] fb:[spell_b] tags:[The Ceaseless Hunger]
+1x Scour from Existence [MAINBOARD] id:[6e47edb2-e43d-479f-a911-e72b67a06c3b] set:[BFZ] no:[13] fb:[spell] tags:[The Ceaseless Hunger]
+1x Shrine of the Forsaken Gods [MAINBOARD] id:[40838c37-3a23-4639-b3ff-879cf4b73d7a] set:[C19] no:[273] fb:[spell_b] tags:[The Ceaseless Hunger]
+1x Eldrazi Temple [MAINBOARD] id:[1ab30d54-6043-4361-b221-268813f06a72] set:[MM2] no:[240] fb:[spell] tags:[The Ceaseless Hunger]
+4x Forest [MAINBOARD] id:[32af9f41-89e2-4e7a-9fec-fffe79cae077] set:[THB] no:[254] fb:[land_thb_full_art] tags:[The Ceaseless Hunger]
+2x Spawning Bed [MAINBOARD] id:[e3a532b2-de88-40af-8961-b01eada05bd3] set:[BFZ] no:[248] fb:[spell] tags:[The Ceaseless Hunger]
+1x Dark Confidant [MAINBOARD] id:[6c821158-f71a-48f9-b6b4-b0e605f22bec] set:[2XM] no:[342] fb:[creature_super_full_b] tags:[The Dark Realms]
+1x Knight of the Ebon Legion [MAINBOARD] id:[29425426-7bf2-4872-aa35-c12c22801edd] set:[M20] no:[105] fb:[creature_b] tags:[The Dark Realms]
+1x Nirkana Revenant [MAINBOARD] id:[e6990bf6-3b2a-44c8-b7fb-04d74249abfe] set:[BBD] no:[150] fb:[creature_b] tags:[The Dark Realms]
+1x Reassembling Skeleton [MAINBOARD] id:[bd1acdf4-2fc1-4675-96d8-19704b7a01ea] set:[MB1] no:[748] fb:[creature] tags:[The Dark Realms]
+1x Crypt Ghast [MAINBOARD] id:[623c9804-42c4-4b69-bc39-f70d96929d07] set:[C14] no:[139] fb:[creature_b] tags:[The Dark Realms]
+1x Defile [MAINBOARD] id:[5bcb4398-edd1-41a7-a496-b12bce22ceb6] set:[MH1] no:[86] fb:[spell] tags:[The Dark Realms]
+1x Torment of Hailfire [MAINBOARD] id:[6a814cf1-a882-4a66-9eae-4d327685d3a3] set:[MB1] no:[795] fb:[spell_b] tags:[The Dark Realms]
+1x Liliana of the Dark Realms [MAINBOARD] id:[00cbe506-7332-4d29-9404-b7c6e1e791d8] set:[M14] no:[102] fb:[planeswalker] tags:[The Dark Realms]
+1x Army of the Damned [MAINBOARD] id:[9aae1c1b-96f0-4529-995d-a53874a74c75] set:[C18] no:[113] fb:[spell_b] tags:[The Dark Realms]
+1x Mind Twist [MAINBOARD] id:[9763ea41-55c4-4b0a-9dc2-91ad4938b343] set:[ME3] no:[72] fb:[spell] tags:[The Dark Realms]
+1x Dread Summons [MAINBOARD] id:[f4bb62df-5248-46fe-85be-8243fafefca9] set:[CMA] no:[56] fb:[spell_b] tags:[The Dark Realms]
+1x Cabal Coffers [MAINBOARD] id:[6cd01460-901c-4d75-bc29-e97ed26afc39] set:[MH2] no:[325] fb:[spell_super_full_b] tags:[The Dark Realms]
+1x Cabal Stronghold [MAINBOARD] id:[0bda51ef-ee3e-48d4-92e2-c9083bbe0f80] set:[DOM] no:[238] fb:[spell_b] tags:[The Dark Realms]
+1x Watery Grave [MAINBOARD] id:[af6d2e24-9467-4aa6-8841-7716d051edf7] set:[EXP] no:[7] fb:[spell_b] tags:[The Dark Realms]
+1x Overgrown Tomb [MAINBOARD] id:[b92ca85d-eede-4c7f-b491-f555da1c23eb] set:[EXP] no:[13] fb:[spell_b] tags:[The Dark Realms]
+1x Godless Shrine [MAINBOARD] id:[db192c30-d28a-431c-ba46-1e3d9d3da3f4] set:[EXP] no:[11] fb:[spell_b] tags:[The Dark Realms]
+1x Blood Crypt [MAINBOARD] id:[399f4d04-65ee-478d-9184-d33bb355e726] set:[EXP] no:[8] fb:[spell_b] tags:[The Dark Realms]
+3x Swamp [MAINBOARD] id:[02cb5cfd-018e-4c5e-bef1-166262aa5f1d] set:[THB] no:[252] fb:[land_thb_full_art] tags:[The Dark Realms]
+1x Kozilek, the Great Distortion [MAINBOARD] id:[f06fc6e0-b22c-40d3-bb53-d5ec400d921c] set:[OGW] no:[4] fb:[creature_b] tags:[The Great Distortion]
+1x Kozilek's Channeler [MAINBOARD] id:[c550d179-32ec-4ad8-91c2-d79320a21cba] set:[BFZ] no:[10] fb:[creature] tags:[The Great Distortion]
+1x Kozilek's Pathfinder [MAINBOARD] id:[b75585bd-fdd8-44d1-8c7c-b96df5fc473e] set:[OGW] no:[5] fb:[creature] tags:[The Great Distortion]
+1x Oblivion Sower [MAINBOARD] id:[9f3a5dea-0422-49f8-a35b-757ea500a52d] set:[DDP] no:[41] fb:[creature_b] tags:[The Great Distortion]
+1x Kozilek's Translator [MAINBOARD] id:[d80665ae-fcb2-48fd-95be-8768293bcef7] set:[OGW] no:[74] fb:[creature] tags:[The Great Distortion]
+1x Kozilek's Shrieker [MAINBOARD] id:[a384cd5b-2c6c-4969-bb62-a017e2fc9794] set:[OGW] no:[73] fb:[creature] tags:[The Great Distortion]
+1x Warden of Geometries [MAINBOARD] id:[c7f517b9-ac10-4710-8ef1-ced1253d5ecf] set:[OGW] no:[11] fb:[creature] tags:[The Great Distortion]
+1x Everflowing Chalice [MAINBOARD] id:[b2dadc79-855c-447e-a421-a9e16e81d47a] set:[CM2] no:[188] fb:[spell] tags:[The Great Distortion]
+1x Basalt Monolith [MAINBOARD] id:[99f4fa97-acf5-4091-b4f3-1e3441cd099b] set:[PZ1] no:[120] fb:[spell] tags:[The Great Distortion]
+1x Forsaken Monument [MAINBOARD] id:[0c8f362c-f035-48b3-8e74-ef23240b44f7] set:[ZNR] no:[374] fb:[spell_legendary_full_b] tags:[The Great Distortion]
+1x All Is Dust [MAINBOARD] id:[8cf632ef-70e3-46f2-af21-14ea7ef30237] set:[UMA] no:[1] fb:[spell_b] tags:[The Great Distortion]
+1x Scour from Existence [MAINBOARD] id:[6e47edb2-e43d-479f-a911-e72b67a06c3b] set:[BFZ] no:[13] fb:[spell] tags:[The Great Distortion]
+1x Shrine of the Forsaken Gods [MAINBOARD] id:[40838c37-3a23-4639-b3ff-879cf4b73d7a] set:[C19] no:[273] fb:[spell_b] tags:[The Great Distortion]
+1x Eldrazi Temple [MAINBOARD] id:[1ab30d54-6043-4361-b221-268813f06a72] set:[MM2] no:[240] fb:[spell] tags:[The Great Distortion]
+1x Eye of Ugin [MAINBOARD] id:[927596bc-4c9f-404a-97f2-89db53826f6b] set:[J20] no:[10] fb:[spell_legendary_b] tags:[The Great Distortion]
+1x Ancient Tomb [MAINBOARD] id:[880ffa23-ed71-4f39-aa66-0953a1f20fe9] set:[ZNE] no:[21] fb:[land_zendikar_expedition] tags:[The Great Distortion]
+4x Swamp [MAINBOARD] id:[02cb5cfd-018e-4c5e-bef1-166262aa5f1d] set:[THB] no:[252] fb:[land_thb_full_art] tags:[The Great Distortion]
+1x Emrakul, the Promised End [MAINBOARD] id:[8d74a469-c71d-4773-99d3-5456b31df424] set:[EMN] no:[6] fb:[creature_b] tags:[The Promised End]
+1x Hand of Emrakul [MAINBOARD] id:[84d602f4-5876-416a-95e5-821a285358bf] set:[ROE] no:[5] fb:[raised] tags:[The Promised End]
+1x Broodwarden [MAINBOARD] id:[d3a1ca42-0fb1-4962-8663-39fc07443aef] set:[ROE] no:[181] fb:[raised] tags:[The Promised End]
+1x Nest Invader [MAINBOARD] id:[55135987-719d-4b7d-a721-b100334a3c68] set:[MM2] no:[150] fb:[creature] tags:[The Promised End]
+1x Eternal Scourge [MAINBOARD] id:[13ce52f5-6d49-4d44-a3d7-925340de8406] set:[EMN] no:[7] fb:[creature_b] tags:[The Promised End]
+1x Oblivion Sower [MAINBOARD] id:[9f3a5dea-0422-49f8-a35b-757ea500a52d] set:[DDP] no:[41] fb:[creature_b] tags:[The Promised End]
+1x Ulvenwald Captive // Ulvenwald Abomination [MAINBOARD] id:[0dbaef61-fa39-4ea7-bc21-445401c373e7] set:[EMN] no:[175] fb:[creature] bb:[creature] tags:[The Promised End]
+1x Cryptolith Fragment // Aurora of Emrakul [MAINBOARD] id:[078b2103-15ce-456d-b092-352fa7222935] set:[EMN] no:[193] fb:[spell] bb:[creature] tags:[The Promised End]
+1x Awakening Zone [MAINBOARD] id:[bae2f694-a4e1-4cfd-a0bf-07aaf27886a6] set:[PCA] no:[56] fb:[spell_b] tags:[The Promised End]
+1x Skittering Invasion [MAINBOARD] id:[270f0e5b-2c46-4816-a195-cfce16570bde] set:[ROE] no:[10] fb:[spell_c] tags:[The Promised End]
+1x All Is Dust [MAINBOARD] id:[c0c9f6dd-308e-4c91-8bcc-975d273a0a33] set:[MM2] no:[1] fb:[spell_b] tags:[The Promised End]
+1x Scour from Existence [MAINBOARD] id:[6e47edb2-e43d-479f-a911-e72b67a06c3b] set:[BFZ] no:[13] fb:[spell] tags:[The Promised End]
+1x Shrine of the Forsaken Gods [MAINBOARD] id:[40838c37-3a23-4639-b3ff-879cf4b73d7a] set:[C19] no:[273] fb:[spell_b] tags:[The Promised End]
+1x Eldrazi Temple [MAINBOARD] id:[1ab30d54-6043-4361-b221-268813f06a72] set:[MM2] no:[240] fb:[spell] tags:[The Promised End]
+1x Eye of Ugin [MAINBOARD] id:[927596bc-4c9f-404a-97f2-89db53826f6b] set:[J20] no:[10] fb:[spell_legendary_b] tags:[The Promised End]
+1x Ancient Tomb [MAINBOARD] id:[880ffa23-ed71-4f39-aa66-0953a1f20fe9] set:[ZNE] no:[21] fb:[land_zendikar_expedition] tags:[The Promised End]
+4x Forest [MAINBOARD] id:[32af9f41-89e2-4e7a-9fec-fffe79cae077] set:[THB] no:[254] fb:[land_thb_full_art] tags:[The Promised End]
+1x Captain Lannery Storm [MAINBOARD] id:[5ab86a8a-7a0a-473e-9a97-da2fe0ab866c] set:[XLN] no:[136] fb:[creature_b] tags:[Treasure Hunters]
+1x Magda, Brazen Outlaw [MAINBOARD] id:[079e6263-e54c-4899-a336-5315909b9322] set:[KHM] no:[142] fb:[creature_legendary_b] tags:[Treasure Hunters]
+1x Gadrak, the Crown-Scourge [MAINBOARD] id:[333228c5-af16-4ebd-acfc-3776b21ef044] set:[M21] no:[367] fb:[creature_legendary_full_b] tags:[Treasure Hunters]
+1x Impulsive Pilferer [MAINBOARD] id:[55ba9bea-5549-45cf-896c-501a1c81fd5a] set:[CMR] no:[185] fb:[creature] tags:[Treasure Hunters]
+1x Storm-Kiln Artist [MAINBOARD] id:[fa96b8dc-233a-4884-ab84-235cbc7df0b6] set:[STX] no:[115] fb:[creature] tags:[Treasure Hunters]
+1x Goldspan Dragon [MAINBOARD] id:[a7cec498-e2ac-4ca0-9aa2-ef98ba634c32] set:[KHM] no:[358] fb:[creature_full_b] tags:[Treasure Hunters]
+1x Rapacious Dragon [MAINBOARD] id:[495c0dbf-1671-40f9-809c-98ef6d588512] set:[JMP] no:[358] fb:[creature] tags:[Treasure Hunters]
+1x Xorn [MAINBOARD] id:[f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e] set:[AFR] no:[167] fb:[creature_b] tags:[Treasure Hunters]
+1x Pirate's Pillage [MAINBOARD] id:[c99c812f-89b1-4741-a50d-8634e003a7c0] set:[RIX] no:[109] fb:[spell] tags:[Treasure Hunters]
+1x Improvised Weaponry [MAINBOARD] id:[29d5fd00-c616-4079-a91e-4da0bcaf9120] set:[AFR] no:[150] fb:[spell] tags:[Treasure Hunters]
+1x Unexpected Windfall [MAINBOARD] id:[bae6a5fb-39f5-4cf8-85f7-661cb4570507] set:[AFR] no:[164] fb:[spell] tags:[Treasure Hunters]
+1x Price of Loyalty [MAINBOARD] id:[47634528-cc34-406a-8572-812a41d6a86a] set:[AFR] no:[159] fb:[spell] tags:[Treasure Hunters]
+2x Thriving Bluff [MAINBOARD] id:[15481459-3703-4185-ad27-105d95691e9d] set:[JMP] no:[33] fb:[spell] tags:[Treasure Hunters]
+6x Mountain [MAINBOARD] id:[53fb7b99-9e47-46a6-9c8a-88e28b5197f1] set:[THB] no:[253] fb:[land_thb_full_art] tags:[Treasure Hunters]
+1x Viscera Seer [MAINBOARD] id:[d49203dd-89b6-4e91-b3ff-5f9f5ce981f8] set:[CMR] no:[158] fb:[creature] tags:[Vampiric Feeding]
+1x Carrier Thrall [MAINBOARD] id:[c5e4de63-820f-4a22-8725-814a220cfdd2] set:[DDR] no:[42] fb:[creature] tags:[Vampiric Feeding]
+1x Callous Bloodmage [MAINBOARD] id:[9786ce79-3cb1-4ac7-9f85-1f7c0e1acff7] set:[STX] no:[302] fb:[creature_full_b] tags:[Vampiric Feeding]
+1x Blood Artist [MAINBOARD] id:[9ca6d92a-45d3-4d67-8ae9-f25dd4a86739] set:[EMA] no:[81] fb:[creature] tags:[Vampiric Feeding]
+1x Bloodghast [MAINBOARD] id:[87089d28-46a7-4247-a784-c34b9f822172] set:[SLD] no:[6] fb:[creature_b] tags:[Vampiric Feeding]
+1x Pawn of Ulamog [MAINBOARD] id:[937d2120-09c6-4898-8024-b9d45b8d00e5] set:[DDP] no:[55] fb:[creature] tags:[Vampiric Feeding]
+1x Bloodline Keeper // Lord of Lineage [MAINBOARD] id:[3216d161-a43d-4a55-a14b-098061805409] set:[V17] no:[4] fb:[creature_b] bb:[creature] tags:[Vampiric Feeding]
+1x Butcher of Malakir [MAINBOARD] id:[da3257cb-f3a5-440b-b197-def28676a063] set:[C17] no:[103] fb:[creature_b] tags:[Vampiric Feeding]
+1x Call the Bloodline [MAINBOARD] id:[3ec85cca-ac2c-4b1b-850b-6a762df72bd0] set:[SOI] no:[103] fb:[spell] tags:[Vampiric Feeding]
+1x Go for the Throat [MAINBOARD] id:[a3109aaa-b1e9-4c68-85f0-7515c8eeadc3] set:[F11] no:[11] fb:[spell_c] tags:[Vampiric Feeding]
+1x Victim of Night [MAINBOARD] id:[c128272d-4611-477c-84b9-081bddcc7188] set:[DDQ] no:[67] fb:[spell] tags:[Vampiric Feeding]
+1x Blade of the Bloodchief [MAINBOARD] id:[0c80fbef-ad13-4ff1-92ae-f8363ed5c6ab] set:[C17] no:[204] fb:[spell_b] tags:[Vampiric Feeding]
+2x Thriving Moor [MAINBOARD] id:[18756fe5-70f0-48d9-a4f1-ea78f77d2084] set:[JMP] no:[37] fb:[spell] tags:[Vampiric Feeding]
+6x Swamp [MAINBOARD] id:[02cb5cfd-018e-4c5e-bef1-166262aa5f1d] set:[THB] no:[252] fb:[land_thb_full_art] tags:[Vampiric Feeding]
+1x Vito, Thorn of the Dusk Rose [MAINBOARD] id:[f8a52a83-0087-4df3-995a-45e15bf664b4] set:[M21] no:[362] fb:[creature_legendary_full_b] tags:[Vampiric Lifedrain]
+1x Nighthawk Scavenger [MAINBOARD] id:[b9522009-4fc9-439a-95ea-5800842c5ee2] set:[ZNR] no:[341] fb:[creature_full_b] tags:[Vampiric Lifedrain]
+1x Vampire Nighthawk [MAINBOARD] id:[c6572c70-7162-440d-a315-9fb31cc4849d] set:[MM3] no:[87] fb:[creature] tags:[Vampiric Lifedrain]
+1x Vampire of the Dire Moon [MAINBOARD] id:[b3c185b9-5d97-4a5a-af0b-8b9c44dcd235] set:[M20] no:[120] fb:[creature] tags:[Vampiric Lifedrain]
+1x Oathsworn Vampire [MAINBOARD] id:[405f82d6-2991-4958-a563-572f0d298346] set:[RIX] no:[80] fb:[creature] tags:[Vampiric Lifedrain]
+1x Bloodthirsty Aerialist [MAINBOARD] id:[378b2e55-e383-408e-af57-072e47cea779] set:[C21] no:[136] fb:[creature] tags:[Vampiric Lifedrain]
+1x Vampire Cutthroat [MAINBOARD] id:[954d53f3-ebbe-48e0-9e1a-7019d2b0740c] set:[EMN] no:[110] fb:[creature] tags:[Vampiric Lifedrain]
+1x Bloodbond Vampire [MAINBOARD] id:[6c2b7878-d66a-437a-967d-d6070e425c2c] set:[E02] no:[15] fb:[creature] tags:[Vampiric Lifedrain]
+1x Go for the Throat [MAINBOARD] id:[a3109aaa-b1e9-4c68-85f0-7515c8eeadc3] set:[F11] no:[11] fb:[spell_c] tags:[Vampiric Lifedrain]
+1x Tribute to Hunger [MAINBOARD] id:[fcfc9bd3-4378-4305-b427-4e3dd4e1fba1] set:[DDQ] no:[65] fb:[spell] tags:[Vampiric Lifedrain]
+1x Feast of Blood [MAINBOARD] id:[1a7dd5e2-b2a5-46ab-a67c-499451706505] set:[ZEN] no:[88] fb:[spell_c] tags:[Vampiric Lifedrain]
+1x Blood Tribute [MAINBOARD] id:[361912f4-5205-44a5-b21e-17402526c1fd] set:[C17] no:[100] fb:[spell_b] tags:[Vampiric Lifedrain]
+2x Thriving Moor [MAINBOARD] id:[18756fe5-70f0-48d9-a4f1-ea78f77d2084] set:[JMP] no:[37] fb:[spell] tags:[Vampiric Lifedrain]
+6x Swamp [MAINBOARD] id:[02cb5cfd-018e-4c5e-bef1-166262aa5f1d] set:[THB] no:[252] fb:[land_thb_full_art] tags:[Vampiric Lifedrain]
+1x Fynn, the Fangbearer [MAINBOARD] id:[2bb2319b-e23b-46df-87e6-c256f0cb111e] set:[KHM] no:[316] fb:[creature_kld_mdfc] tags:[Venomous Predators]
+1x Ambush Viper [MAINBOARD] id:[0e386888-57f5-4eb6-88e8-5679bb8eb290] set:[CMR] no:[213] fb:[creature] tags:[Venomous Predators]
+1x Blight Mamba [MAINBOARD] id:[cf9b3335-565c-406d-bd94-f36974602552] set:[SOM] no:[112] fb:[raised] tags:[Venomous Predators]
+1x Questing Beast [MAINBOARD] id:[5357e802-2d25-48d3-a188-101c142787b7] set:[ELD] no:[372] fb:[creature_legendary_full_b] tags:[Venomous Predators]
+1x Viridian Corrupter [MAINBOARD] id:[d3178acf-9c5a-418c-bbf7-8e430534396d] set:[TD2] no:[56] fb:[raised] tags:[Venomous Predators]
+1x Glistener Elf [MAINBOARD] id:[8b94f4c6-b518-43b3-be52-e889d1f3ea38] set:[NPH] no:[111] fb:[raised] tags:[Venomous Predators]
+1x Phyrexian Swarmlord [MAINBOARD] id:[8a91dea7-9792-4714-82b0-ba2c06cef304] set:[NPH] no:[119] fb:[raised] tags:[Venomous Predators]
+1x Rot Wolf [MAINBOARD] id:[0b08563c-1a00-4d9d-8e4f-13e4b9b0629f] set:[TD2] no:[54] fb:[raised] tags:[Venomous Predators]
+1x Vines of Vastwood [MAINBOARD] id:[6203e3d4-8998-41d6-9f7e-b68af0f1f8b5] set:[MM2] no:[168] fb:[spell] tags:[Venomous Predators]
+1x Mutagenic Growth [MAINBOARD] id:[2e0861a2-1858-47af-8154-20a977c2b298] set:[MM2] no:[149] fb:[spell] tags:[Venomous Predators]
+1x Triumph of the Hordes [MAINBOARD] id:[0a0f64d3-187c-41ff-a771-3a65da995341] set:[TD2] no:[78] fb:[spell_c] tags:[Venomous Predators]
+1x Invigorate [MAINBOARD] id:[16a156ce-242a-4e27-896b-22979ff2db58] set:[PZ1] no:[81] fb:[spell] tags:[Venomous Predators]
+1x Rogue's Passage [MAINBOARD] id:[58f4384e-9aca-4533-8714-3dcaf709dee3] set:[C19] no:[270] fb:[spell] tags:[Venomous Predators]
+2x Thriving Grove [MAINBOARD] id:[79cabbe0-1c44-4888-8ebc-25a4c3e2c5d7] set:[JMP] no:[34] fb:[spell] tags:[Venomous Predators]
+5x Forest [MAINBOARD] id:[32af9f41-89e2-4e7a-9fec-fffe79cae077] set:[THB] no:[254] fb:[land_thb_full_art] tags:[Venomous Predators]
+1x Sylvan Safekeeper [MAINBOARD] id:[60d695b3-b02b-42c6-bf1b-9d97a8d82eae] set:[CMA] no:[152] fb:[creature_b] tags:[Verdant Soil]
+1x Yedora, Grave Gardener [MAINBOARD] id:[a7d8f80e-ece1-49f1-8e14-589d579a568e] set:[C21] no:[397] fb:[creature_legendary_full_b] tags:[Verdant Soil]
+1x Multani, Yavimaya's Avatar [MAINBOARD] id:[5233ad7b-2903-4736-b13a-5cd4a275eb61] set:[DOM] no:[174] fb:[creature_legendary_b] tags:[Verdant Soil]
+1x Springbloom Druid [MAINBOARD] id:[f406d477-720b-498c-9f45-1b687e555bcd] set:[KHC] no:[74] fb:[creature] tags:[Verdant Soil]
+1x Ramunap Excavator [MAINBOARD] id:[8870ef0b-cb1f-463b-8509-fece4743d3d4] set:[CMR] no:[433] fb:[creature_b] tags:[Verdant Soil]
+1x Eternal Witness [MAINBOARD] id:[47961be7-f8c8-4aa0-afa1-51a20a129406] set:[PUMA] no:[U16] fb:[creature_full_b] tags:[Verdant Soil]
+1x Ancient Greenwarden [MAINBOARD] id:[c6a058aa-f620-4a1f-af32-6e6be2cb3e4b] set:[ZNR] no:[357] fb:[creature_full_b] tags:[Verdant Soil]
+1x Undergrowth Champion [MAINBOARD] id:[d53104d8-5b9a-45b6-a2f9-b2c5d231a03d] set:[BFZ] no:[197] fb:[creature_b] tags:[Verdant Soil]
+1x Harrow [MAINBOARD] id:[a325da33-dd35-4136-9c69-73df82c56fd1] set:[C20] no:[174] fb:[spell] tags:[Verdant Soil]
+1x Roiling Regrowth [MAINBOARD] id:[fa259096-b24f-414c-af59-301bed4b4627] set:[ZNR] no:[201] fb:[spell] tags:[Verdant Soil]
+1x Sylvan Awakening [MAINBOARD] id:[93ac4d3d-064e-459d-b3a4-6c0872a2da8c] set:[DOM] no:[183] fb:[spell_b] tags:[Verdant Soil]
+1x Cultivate [MAINBOARD] id:[31233339-c5ec-40fb-badd-94ef7f0ff7c0] set:[M21] no:[317] fb:[spell_super_full_b] tags:[Verdant Soil]
+1x Terramorphic Expanse [MAINBOARD] id:[6b92b751-6162-4293-953b-ec7190309a6a] set:[CMR] no:[712] fb:[spell_full_b] tags:[Verdant Soil]
+1x Evolving Wilds [MAINBOARD] id:[478c3df6-da4e-48bd-92d5-349bc60d7150] set:[SLD] no:[538] fb:[spell_b] tags:[Verdant Soil]
+1x Blighted Woodland [MAINBOARD] id:[0a949030-a46c-4bac-bedc-c07d5c8464af] set:[CMR] no:[476] fb:[spell] tags:[Verdant Soil]
+1x Myriad Landscape [MAINBOARD] id:[c06906eb-a417-411d-bc66-854c9cf8056d] set:[CMR] no:[706] fb:[spell_full_b] tags:[Verdant Soil]
+4x Forest [MAINBOARD] id:[32af9f41-89e2-4e7a-9fec-fffe79cae077] set:[THB] no:[254] fb:[land_thb_full_art] tags:[Verdant Soil]
+1x Puresteel Paladin [MAINBOARD] id:[8abcc2e6-82e7-4cc5-8956-05dd617e3e7d] set:[2XM] no:[26] fb:[creature_b] tags:[Well-Equipped]
+1x Halvar, God of Battle // Sword of the Realms [MAINBOARD] id:[feddb683-a8f8-4def-bd3e-6d630c42cd34] set:[KHM] no:[299] fb:[creature_kld_mdfc_b] bb:[spell_kld_mdfc] tags:[Well-Equipped]
+1x Armored Skyhunter [MAINBOARD] id:[ac255917-c54d-4569-b6f9-88a0e16c9064] set:[CMR] no:[617] fb:[creature_full_b] tags:[Well-Equipped]
+1x Stoneforge Mystic [MAINBOARD] id:[eb49805c-8546-463d-b78c-f4ea109851b4] set:[2XM] no:[337] fb:[creature_super_full_b] tags:[Well-Equipped]
+1x Brass Squire [MAINBOARD] id:[48010648-6f68-41aa-93ae-e02a7de6abb8] set:[CMR] no:[460] fb:[creature] tags:[Well-Equipped]
+1x Sigarda's Aid [MAINBOARD] id:[531da950-dc96-4050-94a8-e01b73ddd965] set:[CMR] no:[384] fb:[spell_b] tags:[Well-Equipped]
+1x Colossus Hammer [MAINBOARD] id:[fa35b2b5-3e91-4a6c-90b1-8581b4ecaf8b] set:[M20] no:[223] fb:[spell] tags:[Well-Equipped]
+1x Sword of Feast and Famine [MAINBOARD] id:[0a469d00-1416-48dd-ad91-eb6f3fb4b42b] set:[2XM] no:[364] fb:[spell_super_full_b] tags:[Well-Equipped]
+1x Sword of Fire and Ice [MAINBOARD] id:[22cd80dd-1c57-423c-81e2-9a956901565f] set:[2XM] no:[365] fb:[spell_super_full_b] tags:[Well-Equipped]
+1x Whispersilk Cloak [MAINBOARD] id:[7485dde2-ee5a-4c5e-a969-354a7b3f7936] set:[MB1] no:[1649] fb:[spell] tags:[Well-Equipped]
+1x Swiftfoot Boots [MAINBOARD] id:[47803242-f744-445b-b645-e6e72b741589] set:[SLD] no:[606] fb:[spell_super_full_b] tags:[Well-Equipped]
+1x Batterskull [MAINBOARD] id:[2abc5ac8-b944-4b71-b022-c78183eb92c3] set:[2XM] no:[356] fb:[spell_super_full_b] tags:[Well-Equipped]
+2x Thriving Heath [MAINBOARD] id:[fe424eb3-7df8-4317-8776-6d960afbb90a] set:[JMP] no:[35] fb:[spell] tags:[Well-Equipped]
+6x Plains [MAINBOARD] id:[a9891b7b-fc52-470c-9f74-292ae665f378] set:[THB] no:[250] fb:[land_thb_full_art] tags:[Well-Equipped]
+1x Sakura-Tribe Elder [MAINBOARD] id:[0b064748-515a-4234-ad00-8a735d7aa385] set:[SLD] no:[192] fb:[creature_super_full_b] tags:[Wild Beasts]
+1x Birds of Paradise [MAINBOARD] id:[0003aa31-d42e-4972-9fb9-086aefe29a2c] set:[SLD] no:[176] fb:[creature_b] tags:[Wild Beasts]
+1x Selvala, Heart of the Wilds [MAINBOARD] id:[fb87782d-e9c7-440b-bd96-aa043d18e185] set:[JMP] no:[429] fb:[creature_legendary_b] tags:[Wild Beasts]
+1x Goreclaw, Terror of Qal Sisma [MAINBOARD] id:[36d4574a-3266-4497-b145-fb25820d8a7f] set:[M19] no:[186] fb:[creature_legendary_b] tags:[Wild Beasts]
+1x Impervious Greatwurm [MAINBOARD] id:[f5e6dc5f-fd83-4166-a5da-cd953722642a] set:[GRN] no:[273] fb:[creature_b] tags:[Wild Beasts]
+1x Ghalta, Primal Hunger [MAINBOARD] id:[c11a7c2e-75e8-432e-84c4-df63e0df0981] set:[PRIX] no:[130] fb:[creature_b] tags:[Wild Beasts]
+1x Kogla, the Titan Ape [MAINBOARD] id:[a1a5905f-4d53-4f7e-8af8-3d802978ec03] set:[IKO] no:[328] fb:[creature_legendary_full_b] tags:[Wild Beasts]
+1x Craterhoof Behemoth [MAINBOARD] id:[c34d66f5-e782-425c-9260-e8989a9cf50b] set:[MM3] no:[122] fb:[creature_b] tags:[Wild Beasts]
+1x Garruk, Primal Hunter [MAINBOARD] id:[79cfc0d7-fccb-47fb-87b6-08dd32528be6] set:[C21] no:[190] fb:[planeswalker_b] tags:[Wild Beasts]
+1x The Great Henge [MAINBOARD] id:[ff7e30c8-b3fc-430f-ac63-d376d9e47a8d] set:[ELD] no:[370] fb:[spell_legendary_full_b] tags:[Wild Beasts]
+1x Beast Within [MAINBOARD] id:[dc259874-5341-4cad-8766-73931f9914c4] set:[MB1] no:[1134] fb:[spell] tags:[Wild Beasts]
+1x Natural Order [MAINBOARD] id:[4bb72f05-5173-4e70-9e71-278249b378e7] set:[STA] no:[54] fb:[spell_mystical_archive_b] tags:[Wild Beasts]
+2x Thriving Grove [MAINBOARD] id:[79cabbe0-1c44-4888-8ebc-25a4c3e2c5d7] set:[JMP] no:[34] fb:[spell] tags:[Wild Beasts]
+6x Forest [MAINBOARD] id:[32af9f41-89e2-4e7a-9fec-fffe79cae077] set:[THB] no:[254] fb:[land_thb_full_art] tags:[Wild Beasts]
+1x Chandra's Incinerator [MAINBOARD] id:[ed875705-b7b6-4464-b16f-61629ffed04f] set:[M21] no:[136] fb:[creature_b] tags:[Wildfire]
+1x Vexing Devil [MAINBOARD] id:[a5ebb551-6b0d-45fa-88c8-3746214094f6] set:[UMA] no:[154] fb:[creature_b] tags:[Wildfire]
+1x Monastery Swiftspear [MAINBOARD] id:[bfa31067-78f4-4804-a544-44d2cbaa80c6] set:[MB1] no:[1017] fb:[creature] tags:[Wildfire]
+1x Arclight Phoenix [MAINBOARD] id:[787de9ce-02c5-4a17-a88b-d38e83dbeb0b] set:[GRN] no:[91] fb:[creature_b] tags:[Wildfire]
+1x Backdraft Hellkite [MAINBOARD] id:[2af9027d-c1d2-49b6-b303-04e37d38e010] set:[C19] no:[23] fb:[creature_b] tags:[Wildfire]
+1x Lightning Bolt [MAINBOARD] id:[45184cd7-b037-4a85-a063-e622ca928d17] set:[SLD] no:[83] fb:[spell_b] tags:[Wildfire]
+1x Rift Bolt [MAINBOARD] id:[fc98895a-bfc3-4b0b-a8a6-2c202f6edf0d] set:[IMA] no:[143] fb:[spell] tags:[Wildfire]
+1x Lightning Strike [MAINBOARD] id:[084b7337-c06f-4cbf-8fc0-0b20c221f1dc] set:[M19] no:[152] fb:[spell] tags:[Wildfire]
+1x Lava Spike [MAINBOARD] id:[79c21c1f-eaa4-454d-a1c7-b41466d0a428] set:[UMA] no:[136] fb:[spell] tags:[Wildfire]
+1x Chain Lightning [MAINBOARD] id:[b7cef88c-0ad6-47c4-b6c8-f989586aa635] set:[JMP] no:[302] fb:[spell] tags:[Wildfire]
+1x Skullcrack [MAINBOARD] id:[8068a146-f6fe-46f3-a42e-822fbc3502e6] set:[GTC] no:[106] fb:[spell_c] tags:[Wildfire]
+1x Sulfuric Vortex [MAINBOARD] id:[7d63127d-ec1a-4eaa-bf64-19cd02886382] set:[VMA] no:[190] fb:[spell_b] tags:[Wildfire]
+2x Thriving Bluff [MAINBOARD] id:[15481459-3703-4185-ad27-105d95691e9d] set:[JMP] no:[33] fb:[spell] tags:[Wildfire]
+6x Mountain [MAINBOARD] id:[53fb7b99-9e47-46a6-9c8a-88e28b5197f1] set:[THB] no:[253] fb:[land_thb_full_art] tags:[Wildfire]
+1x Azami, Lady of Scrolls [MAINBOARD] id:[fa574ca0-a5a2-4f3d-b95f-5888391d4530] set:[CMA] no:[31] fb:[creature_b] tags:[Wizard's Study]
+1x Exclusion Mage [MAINBOARD] id:[c6344ecd-ca57-4104-a77a-d7d14264776d] set:[JMP] no:[153] fb:[creature] tags:[Wizard's Study]
+1x Barrin, Tolarian Archmage [MAINBOARD] id:[fc3765b7-bd99-4c66-8761-1c9cc5bd8666] set:[M21] no:[348] fb:[creature_legendary_full_b] tags:[Wizard's Study]
+1x Delver of Secrets // Insectile Aberration [MAINBOARD] id:[28059d09-2c7d-4c61-af55-8942107a7c1f] set:[V17] no:[7] fb:[creature_b] bb:[creature] tags:[Wizard's Study]
+1x Snapcaster Mage [MAINBOARD] id:[ee203ede-b9af-4f97-84ca-597debf2efd0] set:[PUMA] no:[U5] fb:[creature_full_b] tags:[Wizard's Study]
+1x Echo Mage [MAINBOARD] id:[8b76ba96-9630-44fb-849e-3c3848c03876] set:[C13] no:[43] fb:[basic_high] tags:[Wizard's Study]
+1x Naru Meha, Master Wizard [MAINBOARD] id:[cf44910a-4e24-4e36-a58e-ae7f463db368] set:[C21] no:[124] fb:[creature_legendary_b] tags:[Wizard's Study]
+1x Talrand's Invocation [MAINBOARD] id:[4b153c2f-fc87-49bc-9d1e-d5e7e25b2142] set:[JMP] no:[182] fb:[spell] tags:[Wizard's Study]
+1x Wizard Class [MAINBOARD] id:[d1f629fb-b097-4240-8560-ef47f5678f48] set:[AFR] no:[81] fb:[spell_c] tags:[Wizard's Study]
+1x Wizard's Retort [MAINBOARD] id:[bae30b7d-9306-46ef-adea-c4057f59c9c1] set:[DOM] no:[75] fb:[spell] tags:[Wizard's Study]
+1x Unsubstantiate [MAINBOARD] id:[8b184d7e-46ae-450e-9228-eb605ac3ad41] set:[PEMN] no:[79] fb:[spell_b] tags:[Wizard's Study]
+1x Control Magic [MAINBOARD] id:[c7e90849-ca7a-4f66-871e-1cb4b59aefcf] set:[EMA] no:[42] fb:[spell_b] tags:[Wizard's Study]
+1x Riptide Laboratory [MAINBOARD] id:[25a9cb87-e572-4885-8561-1d4b158ec7e4] set:[MH2] no:[303] fb:[spell_b] tags:[Wizard's Study]
+2x Thriving Isle [MAINBOARD] id:[7eb8fd94-2b59-4b05-b4d0-c93497301d19] set:[JMP] no:[36] fb:[spell] tags:[Wizard's Study]
+5x Island [MAINBOARD] id:[acf7b664-3e75-4018-81f6-2a14ab59f258] set:[THB] no:[251] fb:[land_thb_full_art] tags:[Wizard's Study]
