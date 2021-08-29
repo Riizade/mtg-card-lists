@@ -7,7 +7,7 @@
 1x Righteous Valkyrie id:[c0ff8c9f-a865-4570-8bd3-8229a18e5c99] set:[KHM] no:[338] fb:[creature_full_b] tags:[]
 1x Resplendent Marshal id:[39906ca0-0f52-42fa-8266-add1860c7a4d] set:[KHM] no:[337] fb:[creature_full_b] tags:[]
 1x Restoration Angel id:[3b5233ff-03bc-4053-9b49-c4185c2de38d] set:[IMA] no:[28] fb:[creature_b] tags:[]
-1x Emeria's Call // Emeria, Shattered Skyclave id:[ca50edb2-e50e-4601-ae18-1a313e041105] set:[ZNR] no:[317] fb:[spell_full_b_mdfc] tags:[]
+1x Emeria's Call // Emeria, Shattered Skyclave id:[ca50edb2-e50e-4601-ae18-1a313e041105] set:[ZNR] no:[317] fb:[spell_full_mdfc_b] bb:[spell_full_mdfc] tags:[]
 1x Afterlife id:[258946f2-294a-4ddf-be91-9ff4c94e4bdb] set:[C14] no:[64] fb:[spell] tags:[]
 1x Angelic Ascension id:[e8cca776-b0e4-4cd2-815f-36c1f86cf497] set:[M21] no:[3] fb:[spell] tags:[]
 2x Thriving Heath id:[fe424eb3-7df8-4317-8776-6d960afbb90a] set:[JMP] no:[35] fb:[spell] tags:[]
