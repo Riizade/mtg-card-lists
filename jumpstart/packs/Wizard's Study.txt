@@ -9,7 +9,7 @@
 1x Wizard Class id:[d1f629fb-b097-4240-8560-ef47f5678f48] set:[AFR] no:[81] fb:[spell_c] tags:[]
 1x Wizard's Retort id:[bae30b7d-9306-46ef-adea-c4057f59c9c1] set:[DOM] no:[75] fb:[spell] tags:[]
 1x Unsubstantiate id:[8b184d7e-46ae-450e-9228-eb605ac3ad41] set:[PEMN] no:[79] fb:[spell_b] tags:[]
-1x Control Magic id:[c7e90849-ca7a-4f66-871e-1cb4b59aefcf] set:[EMA] no:[42] fb:[spell_b] tags:[]
+1x Cryptic Command id:[30f6fca9-003b-4f6b-9d6e-1e88adda4155] set:[IMA] no:[48] fb:[spell_b] tags:[]
 1x Riptide Laboratory id:[25a9cb87-e572-4885-8561-1d4b158ec7e4] set:[MH2] no:[303] fb:[spell_b] tags:[]
 2x Thriving Isle id:[7eb8fd94-2b59-4b05-b4d0-c93497301d19] set:[JMP] no:[36] fb:[spell] tags:[]
 5x Island id:[acf7b664-3e75-4018-81f6-2a14ab59f258] set:[THB] no:[251] fb:[land_thb_full_art] tags:[]

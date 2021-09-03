@@ -12,6 +12,6 @@
 1x Scour from Existence id:[6e47edb2-e43d-479f-a911-e72b67a06c3b] set:[BFZ] no:[13] fb:[spell] tags:[]
 1x Shrine of the Forsaken Gods id:[40838c37-3a23-4639-b3ff-879cf4b73d7a] set:[C19] no:[273] fb:[spell_b] tags:[]
 1x Eldrazi Temple id:[1ab30d54-6043-4361-b221-268813f06a72] set:[MM2] no:[240] fb:[spell] tags:[]
-1x Eye of Ugin id:[927596bc-4c9f-404a-97f2-89db53826f6b] set:[J20] no:[10] fb:[spell_legendary_b] tags:[]
+1x Wasteland id:[a81a49a0-995a-4311-894d-5cbfba59db14] set:[ZNE] no:[30] fb:[land_zendikar_expedition] tags:[]
 1x Ancient Tomb id:[880ffa23-ed71-4f39-aa66-0953a1f20fe9] set:[ZNE] no:[21] fb:[land_zendikar_expedition] tags:[]
 4x Swamp id:[02cb5cfd-018e-4c5e-bef1-166262aa5f1d] set:[THB] no:[252] fb:[land_thb_full_art] tags:[]

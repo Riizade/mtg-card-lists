@@ -7,7 +7,7 @@
 1x Ramos, Dragon Engine id:[2e747ef1-a1ad-4859-a70c-3f935f017310] set:[C17] no:[55] fb:[creature_b] tags:[]
 1x Maelstrom Archangel id:[ed111116-c2cc-4c97-a84c-f9576ea2ada7] set:[JMP] no:[454] fb:[creature_b] tags:[]
 1x Chromatic Lantern id:[c7970aee-494f-45c1-9842-04632ad27313] set:[MPS] no:[8] fb:[spell_b] tags:[]
-1x Chrome Mox id:[90bbc0fa-4810-490d-bda7-a8fd4aaa01c4] set:[MPS] no:[9] fb:[spell_b] tags:[]
+1x Sphere of the Suns id:[971f7dd0-290f-4ba4-aa2d-29ff148e7778] set:[MM2] no:[231] fb:[spell] tags:[]
 1x Coalition Relic id:[02c532e8-21f1-4d6f-a931-1ea48a6aeea2] set:[A25] no:[223] fb:[spell_b] tags:[]
 1x Chromatic Orrery id:[d5d9ddf6-9283-4c93-9932-70362068ce72] set:[M21] no:[382] fb:[spell_legendary_b] tags:[]
 1x Mana Confluence id:[4eafa4f8-3b9b-4e20-97bf-8f547e970752] set:[EXP] no:[42] fb:[spell_b] tags:[]

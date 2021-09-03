@@ -6,7 +6,7 @@
 1x Wildfire Devils id:[f2181ef5-963a-4e3b-805d-b3a04f4bef5e] set:[C21] no:[183] fb:[creature_b] tags:[]
 1x Spiteful Prankster id:[d59ee7a6-3dfa-44c7-8f00-0183137c4d31] set:[JMP] no:[26] fb:[creature] tags:[]
 1x Zurzoth, Chaos Rider id:[3d94b4c3-7944-41b6-8c92-78fd6e50658d] set:[JMP] no:[27] fb:[creature_legendary_b] tags:[]
-1x Tibalt, the Fiend-Blooded id:[5ddb3936-8f5a-498d-a46c-27eb9546c76c] set:[AVR] no:[161] fb:[planeswalker] tags:[]
+1x Tibalt, Rakish Instigator id:[7f9a24dc-8bc3-4528-8780-57fb108fdfbf] set:[WAR] no:[146] fb:[planeswalker_smooth] tags:[]
 1x Faithless Looting id:[671c008a-8ff8-42d7-9e03-6d8a9ddace67] set:[MB1] no:[919] fb:[spell] tags:[]
 1x Thrill of Possibility id:[f4af156d-0fbf-4a4e-b0c1-db7e95be4903] set:[M21] no:[165] fb:[spell] tags:[]
 1x Pillar of Flame id:[e16b001f-dffd-4e7c-a7ab-daa00221bfbf] set:[IMA] no:[141] fb:[spell] tags:[]

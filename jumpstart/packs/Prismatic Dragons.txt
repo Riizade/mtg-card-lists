@@ -7,7 +7,7 @@
 1x Birds of Paradise id:[0003aa31-d42e-4972-9fb9-086aefe29a2c] set:[SLD] no:[176] fb:[creature_b] tags:[]
 1x Paradise Druid id:[6ed8d9e7-cdad-450d-8329-fa653d387a63] set:[WAR] no:[171] fb:[creature] tags:[]
 1x Chromatic Lantern id:[c7970aee-494f-45c1-9842-04632ad27313] set:[MPS] no:[8] fb:[spell_b] tags:[]
-1x Chrome Mox id:[90bbc0fa-4810-490d-bda7-a8fd4aaa01c4] set:[MPS] no:[9] fb:[spell_b] tags:[]
+1x Orb of Dragonkind id:[70a7c198-da05-434f-bbef-4b5e8f0597cd] set:[AFR] no:[381] fb:[spell_full_b] tags:[]
 1x Coalition Relic id:[02c532e8-21f1-4d6f-a931-1ea48a6aeea2] set:[A25] no:[223] fb:[spell_b] tags:[]
 1x Springleaf Drum id:[f3b3869b-6da1-4b01-a2e7-2018d478b6e5] set:[2XM] no:[291] fb:[spell] tags:[]
 1x Mana Confluence id:[4eafa4f8-3b9b-4e20-97bf-8f547e970752] set:[EXP] no:[42] fb:[spell_b] tags:[]
