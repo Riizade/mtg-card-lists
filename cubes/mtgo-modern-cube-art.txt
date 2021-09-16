@@ -99,7 +99,7 @@
 1x Damnation id:[941b65da-b9b3-4e15-bab5-bcbfd20dbe05] set:[TSR] no:[106] fb:[spell_b] tags:[]
 1x Dark Confidant id:[6c821158-f71a-48f9-b6b4-b0e605f22bec] set:[2XM] no:[342] fb:[creature_super_full_b] tags:[]
 1x Darkbore Pathway // Slitherbore Pathway id:[501ceec3-c196-4db4-980d-31edf6232acf] set:[KHM] no:[292] fb:[super_mdfc_b] bb:[super_mdfc] tags:[]
-1x Dauthi Voidwalker id:[29632951-3c3d-478c-8c5a-9a34f30a5c28] set:[MH2] no:[450] fb:[creature_full_b] tags:[]
+1x Dauthi Voidwalker id:[dce5db87-4a78-4b8d-b5c2-918ccd1ba4e3] set:[MH2] no:[81] fb:[creature_b] tags:[]
 1x Declaration in Stone id:[f685445d-e2af-455f-b3b2-97cf15362f3c] set:[SOI] no:[12] fb:[spell_b] tags:[]
 1x Delver of Secrets // Insectile Aberration id:[28059d09-2c7d-4c61-af55-8942107a7c1f] set:[V17] no:[7] fb:[creature_b] bb:[creature] tags:[]
 1x Den Protector id:[f6c1c367-35a9-4932-86a6-d63d3b9b326a] set:[C19] no:[161] fb:[creature_b] tags:[]
