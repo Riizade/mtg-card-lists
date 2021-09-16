@@ -1,57 +1,25 @@
-1x Angel
-1x Beast
-1x Beast
-1x Bird
-1x Cat Soldier
-1x Champion of Wits
-1x Clue
-1x Construct
-1x Copy Token
+5x Clue
+2x Construct
 1x Crab
 1x Elemental
+5x Elemental
 1x Elemental
-1x Elemental
-1x Elemental
-1x Elemental
-1x Elephant
-1x Faerie Rogue
-1x Food
+5x Food
 1x Germ
 1x Goat
-1x Goblin
+5x Goblin
 1x Golem
-1x Human
-1x Human Cleric
-1x Human Soldier
-1x Human Warrior
-1x Illusion
 1x Insect
-1x Insect
-1x Kithkin Soldier
-1x Knight
-1x Knight Ally
+3x Insect
+3x Kithkin Soldier
 1x Koma's Coil
-1x Monk
-1x Myr
-1x Nightmare
-1x Pest
-1x Plant
-1x Ragavan
-1x Satyr
-1x Satyr
-1x Servo
-1x Shark
-1x Soldier
-1x Soldier
-1x Spirit
-1x Spirit
-1x Thopter
-1x Treasure
-1x Vampire
-1x Vampire
-1x Wolf
-1x Wolf
+4x Monk
+4x Myr
+3x Nightmare
+5x Pest
+5x Plant
+2x Soldier
+5x Treasure
 1x Wurm
 1x Wurm
-1x Wurm
-1x Zombie
+5x Zombie
