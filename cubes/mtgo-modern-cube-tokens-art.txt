@@ -1,25 +1,25 @@
-5x Clue
-2x Construct
-1x Crab
-1x Elemental
-5x Elemental
-1x Elemental
-5x Food
-1x Germ
-1x Goat
-5x Goblin
-1x Golem
-1x Insect
-3x Insect
-3x Kithkin Soldier
-1x Koma's Coil
-4x Monk
-4x Myr
-3x Nightmare
-5x Pest
-5x Plant
-2x Soldier
-5x Treasure
-1x Wurm
-1x Wurm
-5x Zombie
+5x Clue id:[cfcf6efe-9f94-4a55-9994-701e596691ad] set:[TMH2] no:[14] fb:[spell] tags:[]
+2x Construct id:[a7caaf39-8f16-4f1d-bee6-a45674306319] set:[TMH2] no:[16] fb:[creature] tags:[]
+1x Crab id:[7ef7f37a-b7f5-45a1-8f2b-7097089ca2e5] set:[TMH2] no:[2] fb:[creature] tags:[]
+1x Elemental id:[8676704a-419e-4a00-a052-bca2ad34ecae] set:[T2XM] no:[20] fb:[creature] tags:[]
+5x Elemental id:[ae196fbc-c9ee-4dba-9eb3-52209908b898] set:[TDDT] no:[1] fb:[creature] tags:[]
+1x Elemental id:[bd0bf1d7-2e66-41fd-ae9a-ea86b939e7c9] set:[TRIX] no:[1] fb:[creature] tags:[]
+5x Food id:[46582e55-c6f4-46e4-a78e-2c586ca4cf4d] set:[TELD] no:[17] fb:[spell] tags:[]
+1x Germ id:[377d9749-3d78-4a33-93d1-2e673f6e2e28] set:[TZNC] no:[4] fb:[creature] tags:[]
+1x Goat id:[36cd5f96-5683-4959-b973-37f3c2fcf9bf] set:[TTHB] no:[1] fb:[creature] tags:[]
+5x Goblin id:[d99cc0a4-4868-47f3-bd1d-f46b7cb74650] set:[SLD] no:[219] fb:[creature] tags:[]
+1x Golem id:[7becaa04-f142-4163-9286-00018b95c4ca] set:[T2XM] no:[23] fb:[creature] tags:[]
+1x Insect id:[03ce1033-ce07-40ef-9315-beb759af9465] set:[TMH2] no:[13] fb:[creature] tags:[]
+3x Insect id:[14da0d99-9717-47b3-990b-bed6fde78373] set:[TC21] no:[17] fb:[creature] tags:[]
+3x Kithkin Soldier id:[064ce217-2a93-41ae-b26a-e80cbb2353e4] set:[TKHC] no:[2] fb:[creature] tags:[]
+1x Koma's Coil id:[54a1c6a9-3531-4432-9157-e4400dbc89fd] set:[TKHM] no:[7] fb:[creature] tags:[]
+4x Monk id:[1e498e42-f55c-4afa-b2e2-02345f91cdb5] set:[L15] no:[1] fb:[creature] tags:[]
+4x Myr id:[a4ca03f7-3442-4256-a830-fc2cbcd356db] set:[TC21] no:[28] fb:[creature] tags:[]
+3x Nightmare id:[c528581f-f671-45ae-8d7a-ae26a4e62ceb] set:[TTHB] no:[12] fb:[creature] tags:[]
+5x Pest id:[d0ddbe3e-4a66-494d-9304-7471232549bf] set:[TSTX] no:[5] fb:[creature] tags:[]
+5x Plant id:[d03d87f5-0ac6-45ca-a54b-6a36132a8eae] set:[TZNR] no:[8] fb:[creature] tags:[]
+2x Soldier id:[45907b16-af17-4237-ab38-9d7537fd30e8] set:[TGRN] no:[2] fb:[creature] tags:[]
+5x Treasure id:[4306be80-d7c9-4bcf-a3de-4bf159475546] set:[TM21] no:[15] fb:[spell] tags:[]
+1x Wurm id:[a6ee0db9-ac89-4ab6-ac2e-8a7527d9ecbd] set:[T2XM] no:[30] fb:[creature] tags:[]
+1x Wurm id:[b68e816f-f9ac-435b-ad0b-ceedbe72447a] set:[T2XM] no:[29] fb:[creature] tags:[]
+5x Zombie id:[3f170f84-6c36-43e2-91e6-3c7a136944b1] set:[TM21] no:[7] fb:[creature] tags:[]
