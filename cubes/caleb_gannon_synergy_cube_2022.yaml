@@ -258,27 +258,27 @@ cards:
     back_border: None
   - name: March of Otherworldly Light
     quantity: 1
-    scryfall_uuid: 39247fde-138b-4bee-92e7-76464ece848f
+    scryfall_uuid: 2bbf453c-bded-4d39-bebf-fd240ec44287
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureFullArtOval
     back_border: None
   - name: Path to Exile
     quantity: 1
-    scryfall_uuid: 30233158-01b4-4f14-b7d2-d0377273f6c3
+    scryfall_uuid: e9d36855-c38a-4bba-a642-cff3f81e057e
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Swords to Plowshares
     quantity: 1
-    scryfall_uuid: e95a352d-187f-4d8d-a6bb-4188da756b7c
+    scryfall_uuid: cd33c0f5-5545-477a-9185-53c707983795
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Brought Back
     quantity: 1
@@ -286,23 +286,23 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Rally the Ancestors
     quantity: 1
-    scryfall_uuid: 85f6cdd6-725d-4fa2-a783-7293c50a0cf2
+    scryfall_uuid: 6d9efacb-9d7c-41f4-9b11-59df1be50e11
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Second Sunrise
     quantity: 1
-    scryfall_uuid: ec15714b-3853-47c6-848f-3df3a735548c
+    scryfall_uuid: 4e50ee7c-f2a2-4d49-a1cc-8233fd8dd0c5
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: BasicHigh
     back_border: None
   - name: "Faith's Reward"
     quantity: 1
@@ -310,7 +310,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Oust
     quantity: 1
@@ -318,15 +318,15 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Prismatic Ending
     quantity: 1
-    scryfall_uuid: 4eaa24a9-eece-4067-b7e2-6bc8993cea5a
+    scryfall_uuid: 825969b9-3c70-4fca-8cab-696e9ca7cdb2
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: "Sevinne's Reclamation"
     quantity: 1
@@ -334,7 +334,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Portable Hole
     quantity: 1
@@ -342,15 +342,15 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Swift Reconfiguration
     quantity: 1
-    scryfall_uuid: 975dcfab-0281-4fee-92aa-021ea6c524c7
+    scryfall_uuid: 0bd0b431-534d-4ab7-93ed-b9a25259e88e
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureFullArtOval
     back_border: None
   - name: "Michiko's Reign of Truth"
     quantity: 1
@@ -359,22 +359,22 @@ cards:
     front: Default
     back: Default
     front_border: None
-    back_border: None
+    back_border: Creature
   - name: Enduring Renewal
     quantity: 1
     scryfall_uuid: 57a966e3-c9ba-4105-a36b-54ca70ba9b77
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Faerie Seer
     quantity: 1
-    scryfall_uuid: 3989e920-05df-4b30-9ec3-e6ecaa436fce
+    scryfall_uuid: d1fcfeb4-1818-4e08-be4c-27b8a9dc12e6
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Fatestitcher
     quantity: 1
@@ -382,15 +382,15 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: BasicHigh
     back_border: None
   - name: Shrieking Drake
     quantity: 1
-    scryfall_uuid: dae31023-2649-4f37-b1ec-d9f650d53f09
+    scryfall_uuid: 63971a64-c5f3-4d1f-ae0d-489d7d5b18f0
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Thought Monitor
     quantity: 1
@@ -398,31 +398,31 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: Thousand-Faced Shadow
     quantity: 1
-    scryfall_uuid: a48c2751-fd12-42f2-b8c1-eaf78c5e29eb
+    scryfall_uuid: 00632c03-be00-4722-85b3-2ce31bba5cc6
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015FullArtOval
     back_border: None
   - name: "Jace, Vryn's Prodigy"
     quantity: 1
-    scryfall_uuid: e7b5705f-dc56-41af-a781-8a41aaa7c5b8
+    scryfall_uuid: 02d6d693-f1f3-4317-bcc0-c21fa8490d38
     tags: []
     front: Default
     back: Default
-    front_border: None
-    back_border: None
+    front_border: Creature2015Oval
+    back_border: PlaneswalkerUnknown2
   - name: Ledger Shredder
     quantity: 1
-    scryfall_uuid: 4a57efa1-dc87-44e0-b3a4-f2aa74128dd2
+    scryfall_uuid: 31b1bf08-aba1-4197-8afe-05c1fc783307
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015FullArtOval
     back_border: None
   - name: Moon-Circuit Hacker
     quantity: 1
@@ -434,19 +434,19 @@ cards:
     back_border: None
   - name: Ninja of the Deep Hours
     quantity: 1
-    scryfall_uuid: e2be3536-71c5-48f7-b74d-26e1af6fe72e
+    scryfall_uuid: 6394b9e1-674e-4eda-ad0b-206cdbb5bf5e
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Sea Gate Stormcaller
     quantity: 1
-    scryfall_uuid: 7023453e-f74c-4e58-90f3-ed00e4e70d17
+    scryfall_uuid: 17b79895-30ac-4bb4-bbe3-033a0dfcf1d6
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015FullArtOval
     back_border: None
   - name: Snapcaster Mage
     quantity: 1
