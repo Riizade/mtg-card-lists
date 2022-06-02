@@ -1,0 +1,4331 @@
+---
+cards:
+  - name: Solitude
+    quantity: 1
+    scryfall_uuid: febad44a-eaf0-4122-87c5-a12d17f28392
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureSuperFullArtOval
+    back_border: None
+  - name: Esper Sentinel
+    quantity: 1
+    scryfall_uuid: f3537373-ef54-4578-9d05-6216420ee349
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+  - name: Giver of Runes
+    quantity: 1
+    scryfall_uuid: 9b8575dc-17aa-49c6-923e-6a48f3d75e93
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+  - name: Thraben Inspector
+    quantity: 1
+    scryfall_uuid: d140c3b7-ca78-483d-baeb-307b624fea8b
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+  - name: "Anafenza, Kin-Tree Spirit"
+    quantity: 1
+    scryfall_uuid: 55611f05-10cf-42d0-b93e-7f0c0c852a06
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+  - name: Ethersworn Canonist
+    quantity: 1
+    scryfall_uuid: abc8e0f8-fdb9-4f24-a3e3-439f6cc3ebdc
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+  - name: Ingenious Smith
+    quantity: 1
+    scryfall_uuid: 2ad29773-7c1b-410d-9f69-7aa751f6ebca
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+  - name: Kor Skyfisher
+    quantity: 1
+    scryfall_uuid: d7501662-1216-4e08-bd2b-e0a459057942
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+  - name: Lion Sash
+    quantity: 1
+    scryfall_uuid: 3e1766e9-2fa7-4446-a255-7beea1467ece
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+  - name: Luminarch Aspirant
+    quantity: 1
+    scryfall_uuid: ebe9427d-068f-487c-9263-b40366a164bc
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+  - name: Oswald Fiddlebender
+    quantity: 1
+    scryfall_uuid: bba1650f-eddf-49a9-820e-489cb8d5b6fa
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+  - name: Spirited Companion
+    quantity: 1
+    scryfall_uuid: 5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+  - name: Stoneforge Mystic
+    quantity: 1
+    scryfall_uuid: eb49805c-8546-463d-b78c-f4ea109851b4
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureSuperFullArtOval
+    back_border: None
+  - name: "Thalia, Guardian of Thraben"
+    quantity: 1
+    scryfall_uuid: b05031dc-f99c-49d3-9a20-3453587d8dea
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+  - name: Vizier of Remedies
+    quantity: 1
+    scryfall_uuid: 36ab760e-93e0-4dbc-aaa1-02316f62ed3f
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+  - name: Wall of Omens
+    quantity: 1
+    scryfall_uuid: 0db4b34f-2d60-4ff3-8ef7-9cedb9b71cdc
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+  - name: Whitemane Lion
+    quantity: 1
+    scryfall_uuid: 27394079-924a-4fdb-8be2-f853193eca80
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+  - name: Blade Splicer
+    quantity: 1
+    scryfall_uuid: 277bc4e5-f43a-4f1e-a7e9-11796e78fcdf
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+  - name: Bygone Bishop
+    quantity: 1
+    scryfall_uuid: 3883a621-b226-465f-bcc6-73adf2050514
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+  - name: Digsite Engineer
+    quantity: 1
+    scryfall_uuid: 0050be51-8c4e-4b97-b171-ede5fadfd141
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+  - name: "Losheel, Clockwork Scholar"
+    quantity: 1
+    scryfall_uuid: da01e447-ac5b-447a-b94c-6db3320d196f
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryFullArtOval
+    back_border: None
+  - name: Mirror Entity
+    quantity: 1
+    scryfall_uuid: bf67358d-e26d-461c-ab12-9626e311c5b1
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+  - name: Ranger-Captain of Eos
+    quantity: 1
+    scryfall_uuid: af3928b4-813a-4120-8799-de34235d60ac
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+  - name: Recruiter of the Guard
+    quantity: 1
+    scryfall_uuid: bb9ad57f-cca2-4717-a951-cbe3c7782efe
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+  - name: Skyclave Apparition
+    quantity: 1
+    scryfall_uuid: bc4b938f-a600-4d10-8030-ed60cf6ade56
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+  - name: Stonecloaker
+    quantity: 1
+    scryfall_uuid: c5a41a4f-aa85-44cd-8238-02894ff83223
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+  - name: Welcoming Vampire
+    quantity: 1
+    scryfall_uuid: d8f69cea-823c-482b-a605-8138b3d950e6
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+  - name: Restoration Angel
+    quantity: 1
+    scryfall_uuid: b958bcdd-d0ea-4ae0-9dd0-e6de5cf74128
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+  - name: "Teshar, Ancestor's Apostle"
+    quantity: 1
+    scryfall_uuid: c1f5dd1b-bc42-44a7-aabf-b1b9a5db584d
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+  - name: Enlightened Tutor
+    quantity: 1
+    scryfall_uuid: e940fd9f-f1f5-455e-b141-b70dde6cb89d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+  - name: Ephemerate
+    quantity: 1
+    scryfall_uuid: d562bd6e-6e13-4309-bf80-3c10570741bf
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+  - name: Mana Tithe
+    quantity: 1
+    scryfall_uuid: 9ae707d5-d81d-4320-b947-6016dc188898
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+  - name: March of Otherworldly Light
+    quantity: 1
+    scryfall_uuid: 39247fde-138b-4bee-92e7-76464ece848f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Path to Exile
+    quantity: 1
+    scryfall_uuid: 30233158-01b4-4f14-b7d2-d0377273f6c3
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Swords to Plowshares
+    quantity: 1
+    scryfall_uuid: e95a352d-187f-4d8d-a6bb-4188da756b7c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Brought Back
+    quantity: 1
+    scryfall_uuid: aecdc315-95e5-450c-bedc-998eea46cf8c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Rally the Ancestors
+    quantity: 1
+    scryfall_uuid: 85f6cdd6-725d-4fa2-a783-7293c50a0cf2
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Second Sunrise
+    quantity: 1
+    scryfall_uuid: ec15714b-3853-47c6-848f-3df3a735548c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Faith's Reward"
+    quantity: 1
+    scryfall_uuid: fa19fe94-0302-4d08-9821-fa0db722048a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Oust
+    quantity: 1
+    scryfall_uuid: cbe02056-74b5-4e73-8af6-5d7bf3064146
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Prismatic Ending
+    quantity: 1
+    scryfall_uuid: 4eaa24a9-eece-4067-b7e2-6bc8993cea5a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Sevinne's Reclamation"
+    quantity: 1
+    scryfall_uuid: 7e68f4df-88ce-4e09-a03c-7edf40bff167
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Portable Hole
+    quantity: 1
+    scryfall_uuid: 80fca8c0-ae3e-439e-b202-228b9f360e9a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Swift Reconfiguration
+    quantity: 1
+    scryfall_uuid: 975dcfab-0281-4fee-92aa-021ea6c524c7
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Michiko's Reign of Truth"
+    quantity: 1
+    scryfall_uuid: 74f12c23-5c15-4ae6-8f4d-c5e6c1878817
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Enduring Renewal
+    quantity: 1
+    scryfall_uuid: 57a966e3-c9ba-4105-a36b-54ca70ba9b77
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Faerie Seer
+    quantity: 1
+    scryfall_uuid: 3989e920-05df-4b30-9ec3-e6ecaa436fce
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Fatestitcher
+    quantity: 1
+    scryfall_uuid: 7e4becff-8280-4e29-a370-bf82fb6734d5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Shrieking Drake
+    quantity: 1
+    scryfall_uuid: dae31023-2649-4f37-b1ec-d9f650d53f09
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Thought Monitor
+    quantity: 1
+    scryfall_uuid: 996c1952-8d10-4296-8960-ff8993833649
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Thousand-Faced Shadow
+    quantity: 1
+    scryfall_uuid: a48c2751-fd12-42f2-b8c1-eaf78c5e29eb
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Jace, Vryn's Prodigy"
+    quantity: 1
+    scryfall_uuid: e7b5705f-dc56-41af-a781-8a41aaa7c5b8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ledger Shredder
+    quantity: 1
+    scryfall_uuid: 4a57efa1-dc87-44e0-b3a4-f2aa74128dd2
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Moon-Circuit Hacker
+    quantity: 1
+    scryfall_uuid: 75c43923-7280-4ccb-810b-e8c38dd8a26f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ninja of the Deep Hours
+    quantity: 1
+    scryfall_uuid: e2be3536-71c5-48f7-b74d-26e1af6fe72e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Sea Gate Stormcaller
+    quantity: 1
+    scryfall_uuid: 7023453e-f74c-4e58-90f3-ed00e4e70d17
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Snapcaster Mage
+    quantity: 1
+    scryfall_uuid: 12917e60-cea1-460b-b3f1-8d47cc24afdc
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Spellstutter Sprite
+    quantity: 1
+    scryfall_uuid: 9040f50c-f161-47a1-a1eb-440ac72ce937
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Thassa's Oracle"
+    quantity: 1
+    scryfall_uuid: 726e8b29-13e9-4138-b6a9-d2a0d8188d1c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Thieving Skydiver
+    quantity: 1
+    scryfall_uuid: f76d3424-1098-4803-bb37-eb11af170d3f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Thing in the Ice
+    quantity: 1
+    scryfall_uuid: 359d1b13-6156-43b0-a9a7-6bfff36c1a91
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Watcher for Tomorrow
+    quantity: 1
+    scryfall_uuid: dab2899e-0a3f-48ea-b521-2b526ba63c4d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Emry, Lurker of the Loch"
+    quantity: 1
+    scryfall_uuid: d660ced3-6988-4cb8-a2c1-c603012855a8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Master of Etherium
+    quantity: 1
+    scryfall_uuid: fd0e1726-8af7-4168-8ee1-d0de26af2f90
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Sai, Master Thopterist"
+    quantity: 1
+    scryfall_uuid: ef888704-0b29-48c5-955c-356c0caf6516
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Spellseeker
+    quantity: 1
+    scryfall_uuid: 5cda8633-2661-4fa7-81b0-3ae535619a3c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Vendilion Clique
+    quantity: 1
+    scryfall_uuid: 284c0a94-f0e5-4e49-9f45-002057bd3c33
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Urza, Lord High Artificer"
+    quantity: 1
+    scryfall_uuid: 86d744cd-225c-4279-898a-858dc316cf7f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Force of Negation
+    quantity: 1
+    scryfall_uuid: b769ba9e-2ac8-48a9-9f45-23a4ccd0cb96
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Force of Will
+    quantity: 1
+    scryfall_uuid: ebc01ab4-d89a-4d25-bf54-6aed33772f4b
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Gush
+    quantity: 1
+    scryfall_uuid: 5a692b6e-0606-40cf-b00f-b4569826bbac
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ancestral Recall
+    quantity: 1
+    scryfall_uuid: 961d3fd1-0ddc-47bf-8b7b-201b812da0f5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Brainstorm
+    quantity: 1
+    scryfall_uuid: 82a5c5d4-1a3e-4a3c-bf77-1099836e2f04
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Consider
+    quantity: 1
+    scryfall_uuid: 0b3f40a0-5f58-4157-aed9-b1a52e922c3c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Force Spike
+    quantity: 1
+    scryfall_uuid: 2a8a6461-b71a-476f-8053-87f6d2384408
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: High Tide
+    quantity: 1
+    scryfall_uuid: c1368397-a667-4d13-bd92-ecc203f6e726
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mystical Tutor
+    quantity: 1
+    scryfall_uuid: 9264ecb7-bfc0-495d-aaaa-829045ea858f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Occult Epiphany
+    quantity: 1
+    scryfall_uuid: 6920c895-bc98-4871-a53f-219fa27a74e5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Opt
+    quantity: 1
+    scryfall_uuid: 6e2ff7a5-ddd4-4581-93ea-2069a2d0dedf
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Repeal
+    quantity: 1
+    scryfall_uuid: db5f59ca-6125-45ca-a9db-1962be003741
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Spell Pierce
+    quantity: 1
+    scryfall_uuid: eef1f68a-b27c-4e81-9a3c-dccb86771bec
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Spell Snare
+    quantity: 1
+    scryfall_uuid: 72122836-a2f3-4001-9f08-93a7bf011ab1
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Thought Scour
+    quantity: 1
+    scryfall_uuid: 6fa48ee0-0783-4952-87da-5de28b5e600c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Brain Freeze
+    quantity: 1
+    scryfall_uuid: d33ff8fc-b2b7-4cd9-8724-b926459b519d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Brazen Borrower
+    quantity: 1
+    scryfall_uuid: 5cb72f66-c779-4e29-a6f6-45c31fb57aba
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Counterspell
+    quantity: 1
+    scryfall_uuid: 500e6211-c101-43f1-a03a-1750f762deaf
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Daze
+    quantity: 1
+    scryfall_uuid: bbac85b3-1b40-49c7-8f79-bde83d4a0791
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Dig Through Time
+    quantity: 1
+    scryfall_uuid: 01cd4184-93ce-4005-b6d1-140afa3dd429
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Impulse
+    quantity: 1
+    scryfall_uuid: 0c4abde5-4f8a-4ab0-b917-01da0f560711
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mana Drain
+    quantity: 1
+    scryfall_uuid: 021a63ea-7473-4f1a-89bd-970cf7fb2a54
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mana Leak
+    quantity: 1
+    scryfall_uuid: b434b6a3-ee92-451e-8fab-bbc41a70e7d1
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Memory Lapse
+    quantity: 1
+    scryfall_uuid: 1fefc748-8426-4806-9f1b-d20361793d42
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Miscalculation
+    quantity: 1
+    scryfall_uuid: e5031fb3-ec31-4ab3-8946-e28a27286883
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Remand
+    quantity: 1
+    scryfall_uuid: 581f3780-c480-48c6-b15c-1618f2feccb9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Snap
+    quantity: 1
+    scryfall_uuid: a3b42202-548e-46f2-90a6-6f952315d157
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Frantic Search
+    quantity: 1
+    scryfall_uuid: b8a6d5a5-ea8a-4d13-a8a6-11587f1bde44
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Paradoxical Outcome
+    quantity: 1
+    scryfall_uuid: 17e50157-bf49-4c5f-9b8a-bf73484e63a5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Turnabout
+    quantity: 1
+    scryfall_uuid: 8497ab30-02e9-47a7-8e15-c6ae98394fb5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Hard Evidence
+    quantity: 1
+    scryfall_uuid: 501599d6-1072-4124-b05d-01f96de153f3
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ponder
+    quantity: 1
+    scryfall_uuid: 7b0d4d01-9044-4b68-8b55-1b27ff0ffa75
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Preordain
+    quantity: 1
+    scryfall_uuid: d10b9be3-d4ff-4e3c-b0d5-5ab2c4e6d684
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Serum Visions
+    quantity: 1
+    scryfall_uuid: 6ca3457c-4924-4824-8f32-7f4a12d2e2ea
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Treasure Cruise
+    quantity: 1
+    scryfall_uuid: 45b77501-0844-472c-8d3d-19fcf16239bf
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Chart a Course
+    quantity: 1
+    scryfall_uuid: 98f091ee-70c5-4878-9b11-43df85e1d5de
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Deep Analysis
+    quantity: 1
+    scryfall_uuid: f0fdd8b8-03d0-4a4d-ae9e-a43c2cf90c00
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Time Walk
+    quantity: 1
+    scryfall_uuid: 54992fda-45a9-4ed1-b380-34d167feec90
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Echo of Eons
+    quantity: 1
+    scryfall_uuid: ff590af2-2d6c-4f16-a9b8-1a6dab6e9ad5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Timetwister
+    quantity: 1
+    scryfall_uuid: 6912ce0b-87cc-4c97-81e1-a66088b5f154
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Tinker
+    quantity: 1
+    scryfall_uuid: 0e1374a3-0465-4edb-b63e-22c8baaad864
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Mind's Desire"
+    quantity: 1
+    scryfall_uuid: 17ef3058-46b8-4ec4-950f-c721919c4ac1
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Time Spiral
+    quantity: 1
+    scryfall_uuid: 641b21e1-9188-4bc3-96e8-cda2acbc5ed5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Intruder Alarm
+    quantity: 1
+    scryfall_uuid: 8d62468e-ed9d-4932-bbbd-103b33b98b25
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Bloodsoaked Champion
+    quantity: 1
+    scryfall_uuid: fb4a63e6-2e00-44ee-b8a2-6f2bba66b457
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Carrion Feeder
+    quantity: 1
+    scryfall_uuid: 3392eec6-c4cb-4c48-b291-4ea8755a4e1c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Cauldron Familiar
+    quantity: 1
+    scryfall_uuid: 9a539a23-8383-4525-82dd-acfe1d219fe9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Changeling Outcast
+    quantity: 1
+    scryfall_uuid: 08151d00-513a-4957-aa16-01c0f0245112
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Cryptbreaker
+    quantity: 1
+    scryfall_uuid: 629e37d1-c0f3-44f2-926e-41eb3687c1d9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Disciple of the Vault
+    quantity: 1
+    scryfall_uuid: 4c539843-4e3f-47a7-92e1-412eaaa2d9c5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Gravecrawler
+    quantity: 1
+    scryfall_uuid: c1a6d1c9-7779-4165-ad82-f7c4c5fe529c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Nested Shambler
+    quantity: 1
+    scryfall_uuid: ba0944fe-243a-4688-ac11-4f0a97879c4a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Putrid Imp
+    quantity: 1
+    scryfall_uuid: 47a929a4-b861-432c-a2f3-3125f8a2665b
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Shambling Ghast
+    quantity: 1
+    scryfall_uuid: d96198a7-dd19-4940-bf8f-23135011fc84
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Stitcher's Supplier"
+    quantity: 1
+    scryfall_uuid: 2b737126-50b5-4678-91bf-197b64086fe4
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Viscera Seer
+    quantity: 1
+    scryfall_uuid: d49203dd-89b6-4e91-b3ff-5f9f5ce981f8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Blood Artist
+    quantity: 1
+    scryfall_uuid: 877558c4-f633-4510-97db-f1205a080ecb
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Bloodghast
+    quantity: 1
+    scryfall_uuid: 87089d28-46a7-4247-a784-c34b9f822172
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Dark Confidant
+    quantity: 1
+    scryfall_uuid: dd3b4ad5-6687-400e-b5c1-a04f577a2415
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Jadar, Ghoulcaller of Nephalia"
+    quantity: 1
+    scryfall_uuid: ff971ba7-68b8-482a-9cb1-741f6893550c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Kitesail Freebooter
+    quantity: 1
+    scryfall_uuid: 88496096-fd9a-451a-85d9-31ccc3580623
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mesmeric Fiend
+    quantity: 1
+    scryfall_uuid: 864930ce-7c56-4ad2-9b90-57b10e5a0842
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Miasmic Mummy
+    quantity: 1
+    scryfall_uuid: 47ef9e66-678c-4e8d-9ca7-3f2b72b9468c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Nether Traitor
+    quantity: 1
+    scryfall_uuid: 911d2271-8998-4193-9d1a-1768c5dfaaad
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Oona's Prowler"
+    quantity: 1
+    scryfall_uuid: 9675b8ea-47f9-440e-9535-de879da53f76
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Priest of Forgotten Gods
+    quantity: 1
+    scryfall_uuid: 036379e2-9248-4d67-8c95-d38e8dab11de
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Putrid Goblin
+    quantity: 1
+    scryfall_uuid: f6acdc51-4f02-4c35-b630-2b6bdc5c2081
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Relentless Dead
+    quantity: 1
+    scryfall_uuid: 0c4b091e-3f61-4877-86af-2cf21282af16
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Rotting Rats
+    quantity: 1
+    scryfall_uuid: 3895f0ce-ef97-4188-8b86-d0cc7067aacd
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Scourge of Nel Toth
+    quantity: 1
+    scryfall_uuid: fc0647d4-ec7a-4c92-bf54-3a17e2bb0c23
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Undead Augur
+    quantity: 1
+    scryfall_uuid: 9c3baad6-d087-436f-a9f4-c138639e3422
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Undead Butler
+    quantity: 1
+    scryfall_uuid: 57c485c7-bf67-444d-ac07-fbe659716dcd
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Voldaren Bloodcaster
+    quantity: 1
+    scryfall_uuid: 995a53e1-61ca-4635-96b0-c6f52c46da04
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Zulaport Cutthroat
+    quantity: 1
+    scryfall_uuid: bc8a6636-eab2-4aee-bd55-4d62c2e2e266
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Headless Rider
+    quantity: 1
+    scryfall_uuid: 8804973b-b733-417e-9bee-828efbcb4453
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Liliana's Standard Bearer"
+    quantity: 1
+    scryfall_uuid: 4f6367ab-f9a8-43ff-b9f0-056aac717424
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Midnight Reaper
+    quantity: 1
+    scryfall_uuid: ce14d37a-1f25-44e6-a6e5-c91851c887c5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ophiomancer
+    quantity: 1
+    scryfall_uuid: 66d80dd1-b944-4cb2-8578-b4dbcabbbc1e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Pitiless Plunderer
+    quantity: 1
+    scryfall_uuid: c87ebffe-5907-427b-9f9b-7c36a12b4a03
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Yawgmoth, Thran Physician"
+    quantity: 1
+    scryfall_uuid: 81564970-23ad-41a3-b5e0-21bdf13f6248
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Snuff Out
+    quantity: 1
+    scryfall_uuid: db8b3560-4940-40cc-9797-f909dcb1519b
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Dark Ritual
+    quantity: 1
+    scryfall_uuid: 06df3f4b-3d94-4792-9460-485d2230c0e0
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Darkblast
+    quantity: 1
+    scryfall_uuid: 6a01bf1a-5868-4338-bf16-c35437e9bc2f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Disfigure
+    quantity: 1
+    scryfall_uuid: 099b46e0-53cb-4a1a-9a07-b34dd6d13ecf
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Fatal Push
+    quantity: 1
+    scryfall_uuid: b5e81649-9954-424c-89d1-f87d73b66047
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Vampiric Tutor
+    quantity: 1
+    scryfall_uuid: d8337172-e15d-4e09-b3de-dc7b5bf006a7
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Cabal Ritual
+    quantity: 1
+    scryfall_uuid: a5d85875-22da-4054-ae42-e85b472a6d5d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Infernal Grasp
+    quantity: 1
+    scryfall_uuid: 17824929-f131-4b8d-addb-66c25323155e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Lethal Scheme
+    quantity: 1
+    scryfall_uuid: 9b1e7289-6681-4b32-8ee6-035d24cc0263
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Bloodchief's Thirst"
+    quantity: 1
+    scryfall_uuid: 059e8447-6b1c-4651-a734-a8fea2cbf7b2
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Bone Shards
+    quantity: 1
+    scryfall_uuid: 84aa7067-1422-461b-893d-4d537e9384d1
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Cabal Therapy
+    quantity: 1
+    scryfall_uuid: 0a5df970-c6ba-4824-b8ba-67244aec2b82
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Divest
+    quantity: 1
+    scryfall_uuid: c6619810-7933-4844-8556-2a575ed7f18a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Dread Fugue
+    quantity: 1
+    scryfall_uuid: ef8a7485-1630-40f4-8e70-3abd297e8983
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Duress
+    quantity: 1
+    scryfall_uuid: 11e96127-83e2-42e2-9799-998b1408d444
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Inquisition of Kozilek
+    quantity: 1
+    scryfall_uuid: a6af6cee-a60a-4953-8e22-c3bddc435619
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Raven's Crime"
+    quantity: 1
+    scryfall_uuid: 7ced5797-5de0-43ca-9dc9-e48912333a70
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Thoughtseize
+    quantity: 1
+    scryfall_uuid: 6fff168c-6a0f-473f-86db-8cc8f619fd58
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Collective Brutality
+    quantity: 1
+    scryfall_uuid: fe8ee6b7-5e1f-47bf-9624-328be148f38d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Demonic Tutor
+    quantity: 1
+    scryfall_uuid: c8435923-d3eb-4366-a0d5-edf538f9f261
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Diabolic Intent
+    quantity: 1
+    scryfall_uuid: 76d1b5c5-cc47-465f-8549-4fd1ca4280df
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Night's Whisper"
+    quantity: 1
+    scryfall_uuid: 930186b0-ac25-4ad1-9a5c-4051fa04700b
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Yawgmoth's Will"
+    quantity: 1
+    scryfall_uuid: efda91fa-03b2-4fb4-ae07-b45f6c6d3eab
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Tendrils of Agony
+    quantity: 1
+    scryfall_uuid: 1541b593-a7f1-4e6b-aff6-d6341cf8fec5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Wishclaw Talisman
+    quantity: 1
+    scryfall_uuid: f7a58088-9765-4249-9957-469b06a6e907
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Bridge from Below
+    quantity: 1
+    scryfall_uuid: 3faaa657-8b02-41a9-8a99-31a223d2caa5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Bitterblossom
+    quantity: 1
+    scryfall_uuid: fc0d11d3-4d55-43a4-b59d-acc41aa671c5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: The Meathook Massacre
+    quantity: 1
+    scryfall_uuid: 0227e3cc-3d75-4e62-8ee8-deaa1d5db9d1
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Anger
+    quantity: 1
+    scryfall_uuid: dbbf7a16-8d04-4886-afab-51c6bf150e90
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Blazing Rootwalla
+    quantity: 1
+    scryfall_uuid: 4404fc9c-ef02-479c-9638-0cc163f0b48f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Bomat Courier
+    quantity: 1
+    scryfall_uuid: e7fb3cd7-cec6-4c93-8de6-1b074320052c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Dragon's Rage Channeler"
+    quantity: 1
+    scryfall_uuid: 48b69303-1d4d-4dca-9a63-21b55c2055e4
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Flameblade Adept
+    quantity: 1
+    scryfall_uuid: f974d05a-3b31-4661-af18-58d87b76f19e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Goblin Welder
+    quantity: 1
+    scryfall_uuid: 324886ea-65d1-40ee-a8cb-eaaf922d2382
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Greater Gargadon
+    quantity: 1
+    scryfall_uuid: 653ddfa0-2088-4503-a3ab-b0f1d55d8351
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Grim Lavamancer
+    quantity: 1
+    scryfall_uuid: 5dd72697-24be-42c7-a6d9-a837bdbd4662
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Mons's Goblin Waiters"
+    quantity: 1
+    scryfall_uuid: ae733007-3089-43fc-a14d-7c1919554923
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Rabbit Battery
+    quantity: 1
+    scryfall_uuid: 5d33a5b7-797b-4079-8d62-edd124c0fb5a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Conspiracy Theorist
+    quantity: 1
+    scryfall_uuid: 52d3509c-8d67-4c5e-83bf-1a67f87589b9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Dockside Extortionist
+    quantity: 1
+    scryfall_uuid: 571bc9eb-8d13-4008-86b5-2e348a326d58
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Dreadhorde Arcanist
+    quantity: 1
+    scryfall_uuid: 27933adb-9c7a-4248-9908-f01e6a6bf12c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Goblin Engineer
+    quantity: 1
+    scryfall_uuid: a55c4d47-5252-40af-961d-c08bc688028a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Krark, the Thumbless"
+    quantity: 1
+    scryfall_uuid: 24614006-d99f-44b6-8ec1-29b48a1713d0
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Magmatic Channeler
+    quantity: 1
+    scryfall_uuid: 8a2e3b19-8da8-47e0-8495-3000483a6fcf
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ox of Agonas
+    quantity: 1
+    scryfall_uuid: ee6a7856-035d-4dee-a0c5-04e71b0fd943
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Young Pyromancer
+    quantity: 1
+    scryfall_uuid: 9c1f44d0-7fb2-40f5-93a9-1a465372dd82
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Anax, Hardened in the Forge"
+    quantity: 1
+    scryfall_uuid: d47c49b9-bba2-4c1d-af2c-b0b79e0ae14d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Anje's Ravager"
+    quantity: 1
+    scryfall_uuid: 4230560e-51b2-459d-86b9-8509a8b5b99d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Birgi, God of Storytelling"
+    quantity: 1
+    scryfall_uuid: 6894b688-4966-4277-8e11-d3c91042180c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Dualcaster Mage
+    quantity: 1
+    scryfall_uuid: ea4814b8-9aea-4e44-aec1-d585473f5d1c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Gadrak, the Crown-Scourge"
+    quantity: 1
+    scryfall_uuid: 44b83bb7-00c8-4078-b27f-42a830a544b5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Glint-Horn Buccaneer
+    quantity: 1
+    scryfall_uuid: 77ebcca3-fc2c-4a99-b637-110080d5573d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Imperial Recruiter
+    quantity: 1
+    scryfall_uuid: ce0dbf20-bb76-4f4b-960f-68bbb99bde33
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Seasoned Pyromancer
+    quantity: 1
+    scryfall_uuid: 2e139ad1-1079-49e9-babd-6399c44ad333
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Squee, Goblin Nabob"
+    quantity: 1
+    scryfall_uuid: 4ba8325a-1203-4125-9111-94d9e2b1f14b
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ardent Elementalist
+    quantity: 1
+    scryfall_uuid: f58592f7-1df5-428d-9dde-e6acd9a5d1d5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Chandra, Acolyte of Flame"
+    quantity: 1
+    scryfall_uuid: c26f5f1e-bc1b-4efb-85d0-f62e08ebba1b
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Burst Lightning
+    quantity: 1
+    scryfall_uuid: 0f350255-930a-41da-a58b-55beb66da7bd
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Galvanic Blast
+    quantity: 1
+    scryfall_uuid: cf528b2b-fb72-4751-9a1c-ad3f9015a1a1
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Lava Dart
+    quantity: 1
+    scryfall_uuid: 865bb1d3-5b7d-40e9-87cc-96be9524a105
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Lightning Bolt
+    quantity: 1
+    scryfall_uuid: 435589bb-27c6-4a6d-9d63-394d5092b9d8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Tarfire
+    quantity: 1
+    scryfall_uuid: d13a898e-6a97-4fd9-980e-3bfd8d755386
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Unholy Heat
+    quantity: 1
+    scryfall_uuid: 2b73d294-6ab1-4051-9b0f-d8e335d37674
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Abrade
+    quantity: 1
+    scryfall_uuid: 61ada5ce-3a58-4da9-aff2-93a61411dd64
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Desperate Ritual
+    quantity: 1
+    scryfall_uuid: 3825b85d-07df-43b9-a8d8-930863262d83
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Incinerate
+    quantity: 1
+    scryfall_uuid: c92b3bbc-9bdd-4b55-8625-a3dbd2abd71d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Increasing Vengeance
+    quantity: 1
+    scryfall_uuid: 6ef32c03-14f5-4ee2-af3a-4cbee45cd152
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Punishing Fire
+    quantity: 1
+    scryfall_uuid: 92565f48-b74a-4769-abfb-cfe0d6d67fb7
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Thrill of Possibility
+    quantity: 1
+    scryfall_uuid: 8a38a0c3-0e1d-487d-99c8-4504d327c64d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Blast from the Past
+    quantity: 1
+    scryfall_uuid: a784dde5-cfce-464f-a134-8894ba3faf5b
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Seething Song
+    quantity: 1
+    scryfall_uuid: f493ce26-005c-4ddc-80f0-47bea4fd013a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Banefire
+    quantity: 1
+    scryfall_uuid: 5b012532-1186-4dc8-9d42-867e418b0280
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Burning Inquiry
+    quantity: 1
+    scryfall_uuid: 5b5f03d2-608c-4fae-9a05-1695e277adf8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Chain Lightning
+    quantity: 1
+    scryfall_uuid: b5883762-ca0a-4932-8d2a-41a45796a5f8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Conflagrate
+    quantity: 1
+    scryfall_uuid: b782ffb4-3c9d-4d5c-a927-8988166c2d94
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Faithless Looting
+    quantity: 1
+    scryfall_uuid: 6b79cc4b-55a1-4030-aedb-1840bf0b9794
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Firebolt
+    quantity: 1
+    scryfall_uuid: 5ea4db47-77ae-4362-83f2-4bf5e205a1b7
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Gamble
+    quantity: 1
+    scryfall_uuid: fa613b38-988c-48b5-99a0-5a11acfc76e4
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Magmatic Insight
+    quantity: 1
+    scryfall_uuid: f00192e0-439d-43b2-882c-90a2d52103f8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Rite of Flame
+    quantity: 1
+    scryfall_uuid: 10548126-2bac-435d-b7ee-cbfea97a40ea
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Cathartic Reunion
+    quantity: 1
+    scryfall_uuid: 8c1a02f9-3ce7-46e9-8d0e-0d491bb13012
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Finale of Promise
+    quantity: 1
+    scryfall_uuid: 0073802c-2758-49e7-8b1f-8113704ed8a3
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Reckless Impulse
+    quantity: 1
+    scryfall_uuid: 6943c07f-ab0d-4f5a-bbe9-c0a83dc98546
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Bonus Round
+    quantity: 1
+    scryfall_uuid: e21aa266-4264-4e02-9403-02930e641573
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Wheel of Fortune
+    quantity: 1
+    scryfall_uuid: 4407fb95-0ed2-4c95-91b9-09eb52bf537e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Empty the Warrens
+    quantity: 1
+    scryfall_uuid: 952bb27c-c58a-478a-b637-eb4f7e1e0ab4
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Fiery Confluence
+    quantity: 1
+    scryfall_uuid: 819a513c-3be6-4bdc-8ba6-1f7326a8f3ea
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Past in Flames
+    quantity: 1
+    scryfall_uuid: e655061a-8071-4b7b-b993-27f9ea360f7c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Experimental Synthesizer
+    quantity: 1
+    scryfall_uuid: c47931c9-685d-4b83-8299-bc347224b4e8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Molten Vortex
+    quantity: 1
+    scryfall_uuid: d99fd073-c249-4cd2-9d71-be417c88c493
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Goblin Bombardment
+    quantity: 1
+    scryfall_uuid: e262f55e-9239-4a97-a19e-9b08fb34502e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Makeshift Munitions
+    quantity: 1
+    scryfall_uuid: 19d1ad9f-e217-49fb-8b27-025ca133b6c9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Underworld Breach
+    quantity: 1
+    scryfall_uuid: 0e51d796-7279-4c06-87f0-37adbdaa41df
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Valakut Exploration
+    quantity: 1
+    scryfall_uuid: a6baa9ab-a187-44e2-9417-51913f42b2d7
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Basking Rootwalla
+    quantity: 1
+    scryfall_uuid: 8d17f9d2-0d1c-461c-9c05-5edb01e0aecb
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Endurance
+    quantity: 1
+    scryfall_uuid: 6b7d9545-04f5-49b9-91f6-158e95e22cb9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Vengevine
+    quantity: 1
+    scryfall_uuid: 956238ab-52ff-4787-aebc-efd13b6a2468
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Allosaurus Shepherd
+    quantity: 1
+    scryfall_uuid: 0ee4a931-5d61-49ba-affc-f022263938ca
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Arbor Elf
+    quantity: 1
+    scryfall_uuid: 6d32a4ed-6b43-4473-91ec-08cd5414f2f0
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Arboreal Grazer
+    quantity: 1
+    scryfall_uuid: c4a5f86f-44a8-4735-909a-770586d33a15
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Avacyn's Pilgrim"
+    quantity: 1
+    scryfall_uuid: 7eb39e97-53c2-4df0-9fb3-a3d6a24ec41f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Birchlore Rangers
+    quantity: 1
+    scryfall_uuid: 8ce3a3a1-3569-4909-a604-f78d4888781e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Birds of Paradise
+    quantity: 1
+    scryfall_uuid: 44060205-8a5c-4f6d-8190-e65d5250935a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Boreal Druid
+    quantity: 1
+    scryfall_uuid: f656c45c-60f8-4588-9f18-67e7a5e2ae05
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Elves of Deep Shadow
+    quantity: 1
+    scryfall_uuid: 04cad282-4a3d-4688-8607-79d0bdd0f29e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Elvish Mystic
+    quantity: 1
+    scryfall_uuid: deb5ca6a-f91d-443d-ad84-6fe1e80bfb51
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Elvish Reclaimer
+    quantity: 1
+    scryfall_uuid: dbd4accf-8957-4afa-b2a7-a7779dc4d0d3
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Fyndhorn Elves
+    quantity: 1
+    scryfall_uuid: ab107a7f-cafc-44a7-a58c-4d83acf8f99e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Gilded Goose
+    quantity: 1
+    scryfall_uuid: ba8567d2-38ec-47da-a38b-d2d627d44089
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Heritage Druid
+    quantity: 1
+    scryfall_uuid: 57948c65-4324-42bc-97ae-7cc700eb3817
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ignoble Hierarch
+    quantity: 1
+    scryfall_uuid: 3139cce8-3467-4c50-add2-5b78fb33b90a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Joraga Treespeaker
+    quantity: 1
+    scryfall_uuid: 1132218d-56cd-441e-9006-df3c50344491
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Llanowar Elves
+    quantity: 1
+    scryfall_uuid: 26435a65-56a6-4e65-b504-a15d5bbc8696
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Nettle Sentinel
+    quantity: 1
+    scryfall_uuid: 193c3ed7-975e-4249-9c2f-74b7cd68f219
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Noble Hierarch
+    quantity: 1
+    scryfall_uuid: 9da80473-02d1-4b6e-8b67-28b3b8a5928b
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Quirion Ranger
+    quantity: 1
+    scryfall_uuid: a7a64413-ab7b-4f0d-8e9a-3d1fbe66a99f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Sylvan Safekeeper
+    quantity: 1
+    scryfall_uuid: 6652d9bc-4916-4b90-9c6b-55dc382e7ee3
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Veteran Explorer
+    quantity: 1
+    scryfall_uuid: 31e93641-3370-46e4-8940-af09b33024cb
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Wirewood Symbiote
+    quantity: 1
+    scryfall_uuid: 76a9bcfc-a567-4d5d-ad2c-31ba2686edff
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Devoted Druid
+    quantity: 1
+    scryfall_uuid: 56f7c91c-5075-43b7-890d-a49b4a87f9df
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Elvish Visionary
+    quantity: 1
+    scryfall_uuid: faccfa5f-4d89-4a86-92d7-36cb5a16c5c9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Elvish Warmaster
+    quantity: 1
+    scryfall_uuid: 32bd6e06-8971-4134-9ca4-5300a9022d85
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Fauna Shaman
+    quantity: 1
+    scryfall_uuid: c685e4c3-eb7b-4b9e-9676-395d69d80974
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Lotus Cobra
+    quantity: 1
+    scryfall_uuid: 427cd50c-252d-4541-a76b-9d246798f979
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Masked Vandal
+    quantity: 1
+    scryfall_uuid: 2ace8e69-7550-4c40-bf63-59cb95603391
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Melira, Sylvok Outcast"
+    quantity: 1
+    scryfall_uuid: e83851a1-e4e8-49ec-af5c-4efe86fa51ad
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Priest of Titania
+    quantity: 1
+    scryfall_uuid: c827f3d3-d2f1-4d46-98d8-c6acff1e44ee
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Prosperous Innkeeper
+    quantity: 1
+    scryfall_uuid: ea414698-5f87-461b-b1b2-b317b929280f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Rofellos, Llanowar Emissary"
+    quantity: 1
+    scryfall_uuid: 6aa5cc65-f8f1-4f6f-8b4e-2fedccbda684
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Satyr Wayfinder
+    quantity: 1
+    scryfall_uuid: 13c5a1ce-932a-4b3d-8b86-ed920e646afc
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Scryb Ranger
+    quantity: 1
+    scryfall_uuid: 885c122a-d350-420f-ba7b-4523a28e48a6
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Augur of Autumn
+    quantity: 1
+    scryfall_uuid: 8b53f6f5-f31b-4b0f-9b04-a72a96101223
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Caller of the Claw
+    quantity: 1
+    scryfall_uuid: 917c5e37-c15e-4260-b380-f1c73df2bf41
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Chatterfang, Squirrel General"
+    quantity: 1
+    scryfall_uuid: 57b819b7-c193-446d-b7cf-75a09e1d58a4
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Circle of Dreams Druid
+    quantity: 1
+    scryfall_uuid: be6fdec0-a2c4-4da2-ae14-961185eaee66
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Courser of Kruphix
+    quantity: 1
+    scryfall_uuid: fb9166a0-9ec0-4c5f-a278-1d4db041c0e9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Elvish Archdruid
+    quantity: 1
+    scryfall_uuid: 9f44dfb7-f246-4c01-b66c-885e1a54cc96
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Eternal Witness
+    quantity: 1
+    scryfall_uuid: d19ad62d-580e-4453-ba03-e59e660f0069
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Llanowar Visionary
+    quantity: 1
+    scryfall_uuid: d6e23afa-7e08-4049-baf0-d4d0134ba2c8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ramunap Excavator
+    quantity: 1
+    scryfall_uuid: fdf52db1-7a5e-42ae-9bc2-ee4f3a460aa1
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Reclamation Sage
+    quantity: 1
+    scryfall_uuid: b800bb44-3594-4fb7-b007-10732632b51a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Tireless Tracker
+    quantity: 1
+    scryfall_uuid: 262331f4-5e9c-4019-8ab8-3a97a2a6f1e6
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Titania, Protector of Argoth"
+    quantity: 1
+    scryfall_uuid: 6f15ca0c-1128-485e-b9ca-69ce0e6a0b4e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Craterhoof Behemoth
+    quantity: 1
+    scryfall_uuid: 44afd414-cc69-4888-ba12-7ea87e60b1f7
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Crop Rotation
+    quantity: 1
+    scryfall_uuid: 0f8b6160-84cc-4052-8c19-6184a72c16a6
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Collected Company
+    quantity: 1
+    scryfall_uuid: a6a13554-22d3-40e3-bf70-63ff939bc434
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Glimpse of Nature
+    quantity: 1
+    scryfall_uuid: 1ddcd76b-a7a1-4ae6-bf4a-f929c6574bdc
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Green Sun's Zenith"
+    quantity: 1
+    scryfall_uuid: 01794178-cf41-454c-ac37-1d8b18e42db2
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Chatterstorm
+    quantity: 1
+    scryfall_uuid: b34f0ac1-6894-4761-b62c-b85d927acf09
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Finale of Devastation
+    quantity: 1
+    scryfall_uuid: 09c2da24-2ad7-4c72-944e-84aa919ded67
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Life from the Loam
+    quantity: 1
+    scryfall_uuid: b57d97cf-2252-47f3-9eff-6003626bc900
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Pest Infestation
+    quantity: 1
+    scryfall_uuid: 4720b4f2-e6af-4223-9250-a0ed21ed5693
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Exploration
+    quantity: 1
+    scryfall_uuid: 2b20d3e1-62ef-44db-8109-a33d4fa3e7f1
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Fastbond
+    quantity: 1
+    scryfall_uuid: daf43523-558c-4701-9fa3-5d1ceb82a006
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Earthcraft
+    quantity: 1
+    scryfall_uuid: 9dda7531-82a1-4f49-8858-601ddbc6e2bc
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ineffable Blessing
+    quantity: 1
+    scryfall_uuid: 962272f8-7cea-4766-9980-da99a503ca6d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Survival of the Fittest
+    quantity: 1
+    scryfall_uuid: 5f5bc993-3a27-476f-97db-0992646e88dc
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Fecundity
+    quantity: 1
+    scryfall_uuid: 26c69966-d413-49e5-bfe4-d8ad3447962f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ulvenwald Mysteries
+    quantity: 1
+    scryfall_uuid: fd02c995-0a77-460c-9fa3-34f74b14b119
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Aluren
+    quantity: 1
+    scryfall_uuid: 268403bc-733d-446e-a7c1-abc957c42bc2
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Scheming Fence
+    quantity: 1
+    scryfall_uuid: af7ef030-7bae-4820-b51a-8fad57a8ff2f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Reflector Mage
+    quantity: 1
+    scryfall_uuid: 9473fe01-83f6-4432-ab01-f7953d2ca904
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Soulherder
+    quantity: 1
+    scryfall_uuid: 4d3d9043-9d23-469e-a146-debef3cde7de
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Spell Queller
+    quantity: 1
+    scryfall_uuid: cf1320b1-3eac-4c5a-9f75-6fdff3cc2639
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Baleful Strix
+    quantity: 1
+    scryfall_uuid: 47ac0f77-1294-4de9-93d1-141a9f314f98
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Oskar, Rubbish Reclaimer"
+    quantity: 1
+    scryfall_uuid: ac13a687-4053-494a-9198-cee65045cf36
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Kaito Shizuki
+    quantity: 1
+    scryfall_uuid: e106e4cc-f3fc-41bf-ab1c-4ae7c1a0521c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Master of Death
+    quantity: 1
+    scryfall_uuid: b2c398de-b96d-4fa6-89c4-3ce8183dc27e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Yuriko, the Tiger's Shadow"
+    quantity: 1
+    scryfall_uuid: 852508f9-90ea-4889-a4a8-31b28dd3fdab
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ingenious Infiltrator
+    quantity: 1
+    scryfall_uuid: 7efde575-7d5f-4c1a-ae64-99e448fad352
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Asmoranomardicadaistinaculdacar
+    quantity: 1
+    scryfall_uuid: 2879f780-e17f-4e68-931e-6e45f9df28e1
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Juri, Master of the Revue"
+    quantity: 1
+    scryfall_uuid: aec6b2b7-625a-451d-bc0b-4456f5bf2719
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Oni-Cult Anvil
+    quantity: 1
+    scryfall_uuid: c84db1e2-855c-4169-a9cc-a54c73c14e0c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Kolaghan's Command"
+    quantity: 1
+    scryfall_uuid: 5277892b-ed64-4e2f-a267-d31f3599729a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mayhem Devil
+    quantity: 1
+    scryfall_uuid: 17416926-168b-49b3-9231-acbb8f8a1d13
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Murderous Redcap
+    quantity: 1
+    scryfall_uuid: acadf575-2076-4f0c-b66e-994898adf375
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ancient Grudge
+    quantity: 1
+    scryfall_uuid: d08c024a-ccab-487a-b97c-d44616cf3146
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Manamorphose
+    quantity: 1
+    scryfall_uuid: 12ed4051-31c4-4f63-b576-e3761b9d35ae
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Territorial Kavu
+    quantity: 1
+    scryfall_uuid: 2605df98-0b02-4aab-bc36-01e93c693743
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Living Twister
+    quantity: 1
+    scryfall_uuid: c8d92676-a994-4031-834c-6cf7c43bd170
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Rite of Harmony
+    quantity: 1
+    scryfall_uuid: c73ae388-c917-4917-9401-6852a384d274
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Safehold Elite
+    quantity: 1
+    scryfall_uuid: d049f233-7fcb-49cb-897b-a12d57692fe0
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Kitchen Finks
+    quantity: 1
+    scryfall_uuid: a844d537-df73-422d-a154-f1c6b92d0469
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Knight of Autumn
+    quantity: 1
+    scryfall_uuid: e6fa0c99-04d5-4bba-a864-0c8350175e36
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Knight of the Reliquary
+    quantity: 1
+    scryfall_uuid: 76cde4a6-128d-447f-9659-ceb3b345ed33
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Torens, Fist of the Angels"
+    quantity: 1
+    scryfall_uuid: e52fbb3a-f366-4c78-a617-3abbe08c4f47
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Corpse Knight
+    quantity: 1
+    scryfall_uuid: cfbcf6e7-d7cf-4103-85b3-8d9d104587e1
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Cruel Celebrant
+    quantity: 1
+    scryfall_uuid: 9a5c8f08-19f2-4511-9f79-dcc4633eba07
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Damn
+    quantity: 1
+    scryfall_uuid: 23b95b26-0bbf-4fa1-80c1-f621f1a1b947
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Hidden Stockpile
+    quantity: 1
+    scryfall_uuid: 25cd9d58-d957-487b-ad7b-a47ffd21defb
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Tidehollow Sculler
+    quantity: 1
+    scryfall_uuid: 71af4228-093e-4b07-8f9e-e95653da07e4
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Lingering Souls
+    quantity: 1
+    scryfall_uuid: bcf1288a-8e2c-4a69-afcf-af293f66d007
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Lurrus of the Dream-Den
+    quantity: 1
+    scryfall_uuid: 5ad36fb2-c44e-4085-ba0d-54277841ad3a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Expressive Iteration
+    quantity: 1
+    scryfall_uuid: 93e5c7e8-e6bf-4186-8140-d1171fbb8552
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Izzet Charm
+    quantity: 1
+    scryfall_uuid: b8f5032a-bf0d-4a66-b3d4-32b2ec61d308
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Prismari Command
+    quantity: 1
+    scryfall_uuid: 866b7fd4-86e3-4b42-b1ea-33bad0db1f9f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Rielle, the Everwise"
+    quantity: 1
+    scryfall_uuid: 5f03c944-1929-4cb2-a373-d57eefa29ed1
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Saheeli, Sublime Artificer"
+    quantity: 1
+    scryfall_uuid: 5a10b543-d5d4-42a8-9ee8-dada59a2ad7e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Expansion // Explosion
+    quantity: 1
+    scryfall_uuid: e0644c92-4d67-475e-8c8e-0e2c493682fb
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Hogaak, Arisen Necropolis"
+    quantity: 1
+    scryfall_uuid: 0049e68d-0caf-474f-9523-dad343f1250a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Deathrite Shaman
+    quantity: 1
+    scryfall_uuid: 70496f16-c4c0-4c03-beef-454eb4824cd1
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ravenous Squirrel
+    quantity: 1
+    scryfall_uuid: 505b77d0-8651-4b40-a2e9-6dd00ac3c575
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Abrupt Decay
+    quantity: 1
+    scryfall_uuid: 7767428d-a83a-4227-8b2e-95a21459249a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Fiend Artisan
+    quantity: 1
+    scryfall_uuid: 653e706a-5506-4efd-a86b-2a25bb66a2ae
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Squandered Resources
+    quantity: 1
+    scryfall_uuid: fcddbea7-3025-47b1-a597-2d2b2711fb81
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: The Gitrog Monster
+    quantity: 1
+    scryfall_uuid: ae42941c-3f01-4bf4-9528-7b3dc485320f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Coiling Oracle
+    quantity: 1
+    scryfall_uuid: 0c7b0fa1-bfc2-4b15-80ea-47e41a17aa2c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ice-Fang Coatl
+    quantity: 1
+    scryfall_uuid: 6a55cfed-e76c-4ade-ac78-a546e05fe8da
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Lonis, Cryptozoologist"
+    quantity: 1
+    scryfall_uuid: 0286f92c-f153-4035-b31e-b6d05f53ea06
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Shardless Agent
+    quantity: 1
+    scryfall_uuid: d8a9bf68-a07a-4296-823f-072a5df0b5c7
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Slogurk, the Overslime"
+    quantity: 1
+    scryfall_uuid: abc56204-130c-426c-bb01-1b922dc51b50
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Thopter Foundry
+    quantity: 1
+    scryfall_uuid: 42b8d797-b01d-49cf-9818-d84bba17029d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Korvold, Fae-Cursed King"
+    quantity: 1
+    scryfall_uuid: 67629212-a080-4245-8d7d-20d38cc4ad87
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Jeskai Ascendancy
+    quantity: 1
+    scryfall_uuid: a29161fc-b8a2-498e-a949-5fdf9c37e90d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Hangarback Walker
+    quantity: 1
+    scryfall_uuid: c246b845-dfca-47a3-aa56-074d30590320
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Memnite
+    quantity: 1
+    scryfall_uuid: 469cc4e0-49c0-4009-97ea-28e44addec69
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ornithopter
+    quantity: 1
+    scryfall_uuid: 969ebd20-de69-44ba-a0c2-9e2a89480370
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Stonecoil Serpent
+    quantity: 1
+    scryfall_uuid: b34bf7fd-9fe3-43e2-8cfe-7ce7cff08afe
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Walking Ballista
+    quantity: 1
+    scryfall_uuid: 8054efc6-ebb8-4339-9f63-9b1421ac3023
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Gingerbrute
+    quantity: 1
+    scryfall_uuid: f55fe038-c903-4d92-b689-72dd6d041a91
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Hope of Ghirapur
+    quantity: 1
+    scryfall_uuid: 15362204-08c7-459b-b763-069be394b5ac
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Icehide Golem
+    quantity: 1
+    scryfall_uuid: b2671c36-96fa-49e3-90dc-52820b2c8a62
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Signal Pest
+    quantity: 1
+    scryfall_uuid: 5312358c-128f-4bcb-b121-1f7441ae7bc7
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Vault Skirge
+    quantity: 1
+    scryfall_uuid: f254239c-c07a-4c41-98f7-8f4de539c73e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Zabaz, the Glimmerwasp"
+    quantity: 1
+    scryfall_uuid: 5d58a96f-939c-4b9b-a4c2-fb83d896eefb
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Arcbound Ravager
+    quantity: 1
+    scryfall_uuid: eda7bda4-51cf-4648-8489-352d28d591fb
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Containment Construct
+    quantity: 1
+    scryfall_uuid: 520e5505-429b-4da0-b25e-14b8d4e81ce3
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Diamond Lion
+    quantity: 1
+    scryfall_uuid: b4310ee5-a65d-4113-a57c-bb121601e963
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Metallic Mimic
+    quantity: 1
+    scryfall_uuid: b163cbf6-3ac8-4111-b348-b9b5f5dd696a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Monoskelion
+    quantity: 1
+    scryfall_uuid: 4519e358-d822-46f1-8708-397087042a30
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Myr Retriever
+    quantity: 1
+    scryfall_uuid: fd7081d5-1f90-477f-a06e-f0a8679f4f7d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ornithopter of Paradise
+    quantity: 1
+    scryfall_uuid: 23ac45cf-4dc8-47b9-8ca8-e72464f745d6
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Patchwork Automaton
+    quantity: 1
+    scryfall_uuid: 7a4e1580-dd26-4f4b-ac98-3e6fa7b879d5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Perilous Myr
+    quantity: 1
+    scryfall_uuid: 9fda8947-d750-4697-a19d-edfff435cb16
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Phyrexian Revoker
+    quantity: 1
+    scryfall_uuid: 92ede7b6-ee03-4b4f-bc59-1759b02bd5d5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Porcelain Legionnaire
+    quantity: 1
+    scryfall_uuid: 2616aa0e-8413-4e63-877c-bffd5263f552
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Scrapheap Scrounger
+    quantity: 1
+    scryfall_uuid: a7b24a91-0f0a-4c83-9d63-a0583626c4ce
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Spellskite
+    quantity: 1
+    scryfall_uuid: 59cf65d1-15c7-4d45-ae36-85e915fedcc0
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Steel Overseer
+    quantity: 1
+    scryfall_uuid: 6ed61426-e652-4b48-b936-8be9b6b57731
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Academy Manufactor
+    quantity: 1
+    scryfall_uuid: bdb31a63-a4c9-4432-9029-eb5a50c769b4
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Etched Champion
+    quantity: 1
+    scryfall_uuid: 30fe653b-956a-4e0e-981b-37e1a6b08c2c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Junk Diver
+    quantity: 1
+    scryfall_uuid: 2fd4e90a-0b4e-431d-9265-1cd4be8592f0
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Scrap Trawler
+    quantity: 1
+    scryfall_uuid: bf1e1b54-2f97-4d33-807a-99ca38f21777
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Scrapyard Recombiner
+    quantity: 1
+    scryfall_uuid: 8945f5e0-c143-47ca-910e-32ad9ac34487
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Workshop Assistant
+    quantity: 1
+    scryfall_uuid: b8e4b2f1-88a6-42d9-99b3-2eaaf15f034a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Lodestone Golem
+    quantity: 1
+    scryfall_uuid: 9bb0ee6a-852a-4f1e-8f03-40b6d505bc82
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Dismember
+    quantity: 1
+    scryfall_uuid: 3d286cf6-3e16-4941-9326-1818b1e06d69
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Gitaxian Probe
+    quantity: 1
+    scryfall_uuid: cac0774e-1bb3-435c-ad9f-0c5452127810
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Black Lotus
+    quantity: 1
+    scryfall_uuid: 4a2e428c-dd25-484c-bbc8-2d6ce10ef42c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Chrome Mox
+    quantity: 1
+    scryfall_uuid: 90bbc0fa-4810-490d-bda7-a8fd4aaa01c4
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Engineered Explosives
+    quantity: 1
+    scryfall_uuid: 420bf1e9-f2ec-4dff-b540-e64de71e58be
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Lion's Eye Diamond"
+    quantity: 1
+    scryfall_uuid: 63bacc32-d6ba-420c-9b49-299c08e5fb39
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Lotus Bloom
+    quantity: 1
+    scryfall_uuid: b1345e15-1541-4b91-996f-26c58673aa10
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Lotus Petal
+    quantity: 1
+    scryfall_uuid: b2279cb1-089f-4c41-ae96-41837ed57822
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mana Crypt
+    quantity: 1
+    scryfall_uuid: fa16a277-9f1c-4ca8-9b56-fdb59760f85a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Mishra's Bauble"
+    quantity: 1
+    scryfall_uuid: 8a720448-017f-4f4a-9501-678245eaed17
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mox Diamond
+    quantity: 1
+    scryfall_uuid: fadb218d-29e2-42d1-a7a1-1066741d63ad
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mox Emerald
+    quantity: 1
+    scryfall_uuid: aced2c55-7543-4076-bcdd-36c4d649b8ae
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mox Jet
+    quantity: 1
+    scryfall_uuid: 92bcd1ce-19b1-4d78-8b09-95242ca08d76
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mox Opal
+    quantity: 1
+    scryfall_uuid: 658fec97-bb48-4190-866e-a1ba0a373b89
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mox Pearl
+    quantity: 1
+    scryfall_uuid: 8ebe4be7-e12a-4596-a899-fbd5b152e879
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mox Ruby
+    quantity: 1
+    scryfall_uuid: ed1f6c3f-892d-4478-9534-dad50c60b727
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mox Sapphire
+    quantity: 1
+    scryfall_uuid: e12a764e-7cb8-4bd6-93a6-f6d3a8a78243
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Paradise Mantle
+    quantity: 1
+    scryfall_uuid: 19cd6bcc-ca47-47cc-9fe4-c29e9c176485
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Urza's Bauble"
+    quantity: 1
+    scryfall_uuid: 58c9e9a7-e170-4361-b7d5-22fc0771c489
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Zuran Orb
+    quantity: 1
+    scryfall_uuid: 3a9d1082-a862-45d4-9e5e-392e879fead6
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Aether Spellbomb
+    quantity: 1
+    scryfall_uuid: b0644999-1e5d-46b0-8eec-84f953a59609
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Aether Vial
+    quantity: 1
+    scryfall_uuid: d93510d4-7772-4260-b862-6dc096496404
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Arcum's Astrolabe"
+    quantity: 1
+    scryfall_uuid: c2462fdf-a594-47d0-8e10-b55901e350d9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Chromatic Sphere
+    quantity: 1
+    scryfall_uuid: edabc8b2-4413-48e4-8d6f-521b19d839a6
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Chromatic Star
+    quantity: 1
+    scryfall_uuid: c2e8d492-2c67-410b-b556-c157a14c4cec
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Conjurer's Bauble"
+    quantity: 1
+    scryfall_uuid: 2d32960e-d182-455f-8e74-eb11b10050da
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Currency Converter
+    quantity: 1
+    scryfall_uuid: 06ab6802-da97-4ad8-95ee-2362b2c03975
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Mana Vault
+    quantity: 1
+    scryfall_uuid: a748366b-654a-488b-8431-8f44c7e2e0ec
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Pyrite Spellbomb
+    quantity: 1
+    scryfall_uuid: 97b9bab9-12ee-4da5-9d53-d0b82d9279cd
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Retrofitter Foundry
+    quantity: 1
+    scryfall_uuid: 5da578b8-19e6-4068-9336-e7cd33c585f1
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Sensei's Divining Top"
+    quantity: 1
+    scryfall_uuid: 72450f69-9f56-44da-8aed-0edccc6ab142
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Skullclamp
+    quantity: 1
+    scryfall_uuid: d79d2cde-21e1-4540-8b84-8b2cb8b115a8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Sol Ring
+    quantity: 1
+    scryfall_uuid: 2c52c96d-e20f-4025-b759-674b36cf0db3
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Springleaf Drum
+    quantity: 1
+    scryfall_uuid: fa8b09d0-fbd2-4441-9d87-02450412e0db
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Terrarion
+    quantity: 1
+    scryfall_uuid: 9053ce89-71a5-49df-965e-63343dce4755
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: The Underworld Cookbook
+    quantity: 1
+    scryfall_uuid: 4f24504e-b397-4b98-b8e8-8166457f7a2e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Witch's Oven"
+    quantity: 1
+    scryfall_uuid: 04ef8493-d986-45f8-a718-617b028f7ad4
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Altar of Dementia
+    quantity: 1
+    scryfall_uuid: 4f2da99f-3c53-4980-97d6-2158c765aac0
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Cranial Plating
+    quantity: 1
+    scryfall_uuid: a9478c80-621a-4b5c-8ba9-fa790f0619d8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Genesis Chamber
+    quantity: 1
+    scryfall_uuid: f0a66ded-c697-4bab-8abf-464185f32a70
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ichor Wellspring
+    quantity: 1
+    scryfall_uuid: 1ccdb407-ac8f-4736-89d3-ab0d086096ea
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Isochron Scepter
+    quantity: 1
+    scryfall_uuid: aba8afbf-0403-4d19-8602-d722ca9fa986
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ratchet Bomb
+    quantity: 1
+    scryfall_uuid: 0784c211-18d3-460a-aacc-272449a7dbbc
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Smuggler's Copter"
+    quantity: 1
+    scryfall_uuid: 7832abb5-5107-4603-904e-491b221bd3e3
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Spawning Pit
+    quantity: 1
+    scryfall_uuid: 36a3345d-1190-45f4-8191-897b4dcec376
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Sword of the Meek
+    quantity: 1
+    scryfall_uuid: e9f13705-6ede-4c29-a2b4-a082bf69e9c5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Ashnod's Altar"
+    quantity: 1
+    scryfall_uuid: fcb40669-c196-4ed7-aba0-1ef89ec7d1c8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Blasting Station
+    quantity: 1
+    scryfall_uuid: a209ab72-0760-44a9-9631-4c2fddf5ae3b
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Crucible of Worlds
+    quantity: 1
+    scryfall_uuid: 79da06af-8f75-4094-ba8a-ab082b339f8a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Grafted Wargear
+    quantity: 1
+    scryfall_uuid: 5269cfbd-1202-47fe-a12d-d95ff304b335
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Nettlecyst
+    quantity: 1
+    scryfall_uuid: 466df5af-f5ec-45ec-bba0-838cc3f387dd
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Phyrexian Altar
+    quantity: 1
+    scryfall_uuid: 25158cd5-749b-408c-9ab1-0f83e38730f7
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Aetherflux Reservoir
+    quantity: 1
+    scryfall_uuid: 8542d37d-99cd-4b64-a524-94d2b2a4d9c3
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Krark-Clan Ironworks
+    quantity: 1
+    scryfall_uuid: 8b85524c-76dd-46cb-b716-2d954f329bbb
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Batterskull
+    quantity: 1
+    scryfall_uuid: b7f16fdf-a3f5-462d-a64a-789d893b6ef5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Flooded Strand
+    quantity: 1
+    scryfall_uuid: b4e3d844-d3b4-41d8-921d-c1cb3af343f8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Flooded Strand
+    quantity: 1
+    scryfall_uuid: b4e3d844-d3b4-41d8-921d-c1cb3af343f8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Flooded Strand
+    quantity: 1
+    scryfall_uuid: b4e3d844-d3b4-41d8-921d-c1cb3af343f8
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Hallowed Fountain
+    quantity: 1
+    scryfall_uuid: c28aea19-2a39-4934-afda-909e234fa3ba
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Hallowed Fountain
+    quantity: 1
+    scryfall_uuid: c28aea19-2a39-4934-afda-909e234fa3ba
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Tundra
+    quantity: 1
+    scryfall_uuid: 8ef5d61d-2648-4cbc-8083-3f3c6b362825
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Tundra
+    quantity: 1
+    scryfall_uuid: 8ef5d61d-2648-4cbc-8083-3f3c6b362825
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Polluted Delta
+    quantity: 1
+    scryfall_uuid: 0f7585c8-9e21-4eef-afc1-2852de23db2f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Polluted Delta
+    quantity: 1
+    scryfall_uuid: 0f7585c8-9e21-4eef-afc1-2852de23db2f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Polluted Delta
+    quantity: 1
+    scryfall_uuid: 0f7585c8-9e21-4eef-afc1-2852de23db2f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Underground Sea
+    quantity: 1
+    scryfall_uuid: 068bb15a-fc2d-42a2-859b-837b946d23c0
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Underground Sea
+    quantity: 1
+    scryfall_uuid: 068bb15a-fc2d-42a2-859b-837b946d23c0
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Watery Grave
+    quantity: 1
+    scryfall_uuid: 47fde349-010e-4a2e-838e-e924dbeec355
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Watery Grave
+    quantity: 1
+    scryfall_uuid: 47fde349-010e-4a2e-838e-e924dbeec355
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Badlands
+    quantity: 1
+    scryfall_uuid: 268c3e1d-2d75-4504-964a-d185ac599fcd
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Badlands
+    quantity: 1
+    scryfall_uuid: 268c3e1d-2d75-4504-964a-d185ac599fcd
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Blood Crypt
+    quantity: 1
+    scryfall_uuid: f281e16f-0fe1-4095-bd63-0a4479f75c11
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Blood Crypt
+    quantity: 1
+    scryfall_uuid: f281e16f-0fe1-4095-bd63-0a4479f75c11
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Bloodstained Mire
+    quantity: 1
+    scryfall_uuid: 45277efb-de6d-42f1-b84f-680e4441b9f9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Bloodstained Mire
+    quantity: 1
+    scryfall_uuid: 45277efb-de6d-42f1-b84f-680e4441b9f9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Bloodstained Mire
+    quantity: 1
+    scryfall_uuid: 45277efb-de6d-42f1-b84f-680e4441b9f9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Stomping Ground
+    quantity: 1
+    scryfall_uuid: e1b78356-e2e6-4e5a-8ee6-3e5f006eb37c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Stomping Ground
+    quantity: 1
+    scryfall_uuid: e1b78356-e2e6-4e5a-8ee6-3e5f006eb37c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Taiga
+    quantity: 1
+    scryfall_uuid: 352a70b0-cd96-4c6c-9cd5-23a1ac45182d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Taiga
+    quantity: 1
+    scryfall_uuid: 352a70b0-cd96-4c6c-9cd5-23a1ac45182d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Wooded Foothills
+    quantity: 1
+    scryfall_uuid: 2e9c0d02-aeab-4972-b348-20c17361aa25
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Wooded Foothills
+    quantity: 1
+    scryfall_uuid: 2e9c0d02-aeab-4972-b348-20c17361aa25
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Wooded Foothills
+    quantity: 1
+    scryfall_uuid: 2e9c0d02-aeab-4972-b348-20c17361aa25
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Savannah
+    quantity: 1
+    scryfall_uuid: 75e4bacd-5963-49a8-95e3-67341c1f07a9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Savannah
+    quantity: 1
+    scryfall_uuid: 75e4bacd-5963-49a8-95e3-67341c1f07a9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Temple Garden
+    quantity: 1
+    scryfall_uuid: 2b9b0195-beda-403e-bc27-7ae3be9f318c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Temple Garden
+    quantity: 1
+    scryfall_uuid: 2b9b0195-beda-403e-bc27-7ae3be9f318c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Windswept Heath
+    quantity: 1
+    scryfall_uuid: 16f6ba7d-76fd-4f98-a41e-fde9a6f3ab64
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Windswept Heath
+    quantity: 1
+    scryfall_uuid: 16f6ba7d-76fd-4f98-a41e-fde9a6f3ab64
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Windswept Heath
+    quantity: 1
+    scryfall_uuid: 16f6ba7d-76fd-4f98-a41e-fde9a6f3ab64
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Godless Shrine
+    quantity: 1
+    scryfall_uuid: 9e739c7e-cc16-4557-836f-fdec53a7ed8c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Godless Shrine
+    quantity: 1
+    scryfall_uuid: 9e739c7e-cc16-4557-836f-fdec53a7ed8c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Marsh Flats
+    quantity: 1
+    scryfall_uuid: 45026d57-0324-4312-8b86-2e7d4f581ee9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Marsh Flats
+    quantity: 1
+    scryfall_uuid: 45026d57-0324-4312-8b86-2e7d4f581ee9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Marsh Flats
+    quantity: 1
+    scryfall_uuid: 45026d57-0324-4312-8b86-2e7d4f581ee9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Scrubland
+    quantity: 1
+    scryfall_uuid: c6aad9a9-3189-4045-abd1-abf440b307cb
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Scrubland
+    quantity: 1
+    scryfall_uuid: c6aad9a9-3189-4045-abd1-abf440b307cb
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Scalding Tarn
+    quantity: 1
+    scryfall_uuid: 327cf118-cc92-4073-85d0-94d2a0a6989a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Scalding Tarn
+    quantity: 1
+    scryfall_uuid: 327cf118-cc92-4073-85d0-94d2a0a6989a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Scalding Tarn
+    quantity: 1
+    scryfall_uuid: 327cf118-cc92-4073-85d0-94d2a0a6989a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Steam Vents
+    quantity: 1
+    scryfall_uuid: d516b248-c0be-4c49-83ab-393354c33563
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Steam Vents
+    quantity: 1
+    scryfall_uuid: d516b248-c0be-4c49-83ab-393354c33563
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Volcanic Island
+    quantity: 1
+    scryfall_uuid: 0324641d-af55-4c53-b4dc-c8262e967da5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Volcanic Island
+    quantity: 1
+    scryfall_uuid: 0324641d-af55-4c53-b4dc-c8262e967da5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Bayou
+    quantity: 1
+    scryfall_uuid: 61bf5625-e30c-4655-bcad-a7609be1789a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Bayou
+    quantity: 1
+    scryfall_uuid: 61bf5625-e30c-4655-bcad-a7609be1789a
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Overgrown Tomb
+    quantity: 1
+    scryfall_uuid: 1c7d50d6-b63a-4d8c-88fa-1d78ae693a45
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Overgrown Tomb
+    quantity: 1
+    scryfall_uuid: 1c7d50d6-b63a-4d8c-88fa-1d78ae693a45
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Verdant Catacombs
+    quantity: 1
+    scryfall_uuid: 15faa763-b897-4e86-b094-73f3236291a9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Verdant Catacombs
+    quantity: 1
+    scryfall_uuid: 15faa763-b897-4e86-b094-73f3236291a9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Verdant Catacombs
+    quantity: 1
+    scryfall_uuid: 15faa763-b897-4e86-b094-73f3236291a9
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Arid Mesa
+    quantity: 1
+    scryfall_uuid: 64a6c831-18a5-44d1-aac4-afb018bc93c7
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Arid Mesa
+    quantity: 1
+    scryfall_uuid: 64a6c831-18a5-44d1-aac4-afb018bc93c7
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Arid Mesa
+    quantity: 1
+    scryfall_uuid: 64a6c831-18a5-44d1-aac4-afb018bc93c7
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Plateau
+    quantity: 1
+    scryfall_uuid: bb979a96-a57d-4fb5-8ebe-0bd398272abe
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Plateau
+    quantity: 1
+    scryfall_uuid: bb979a96-a57d-4fb5-8ebe-0bd398272abe
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Sacred Foundry
+    quantity: 1
+    scryfall_uuid: c5b1c816-c3db-4ea1-b54c-707d7e9174df
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Sacred Foundry
+    quantity: 1
+    scryfall_uuid: c5b1c816-c3db-4ea1-b54c-707d7e9174df
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Breeding Pool
+    quantity: 1
+    scryfall_uuid: 830eb270-f7aa-4694-8fe1-7c19e148a39f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Breeding Pool
+    quantity: 1
+    scryfall_uuid: 830eb270-f7aa-4694-8fe1-7c19e148a39f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Misty Rainforest
+    quantity: 1
+    scryfall_uuid: f4d3e17b-e610-4bd7-a6d7-e4d8706c665d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Misty Rainforest
+    quantity: 1
+    scryfall_uuid: f4d3e17b-e610-4bd7-a6d7-e4d8706c665d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Misty Rainforest
+    quantity: 1
+    scryfall_uuid: f4d3e17b-e610-4bd7-a6d7-e4d8706c665d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Tropical Island
+    quantity: 1
+    scryfall_uuid: 856bf0ba-e5a5-47eb-9a6a-111935088c31
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Tropical Island
+    quantity: 1
+    scryfall_uuid: 856bf0ba-e5a5-47eb-9a6a-111935088c31
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Spara's Headquarters"
+    quantity: 1
+    scryfall_uuid: 7363f1fb-9af3-4212-921f-d59533faf0e5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Raffine's Tower"
+    quantity: 1
+    scryfall_uuid: eaa23075-d826-4654-9d5e-993c9824593d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Xander's Lounge"
+    quantity: 1
+    scryfall_uuid: 85a9981b-f4f7-47ba-86b7-2358c1a28ff7
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Ziatora's Proving Ground"
+    quantity: 1
+    scryfall_uuid: 49bdba86-21d9-412a-80ea-60cb722ac31c
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Jetmir's Garden"
+    quantity: 1
+    scryfall_uuid: 1c91b8a0-5e79-4de8-b3b8-e6e5aafe2af0
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Savai Triome
+    quantity: 1
+    scryfall_uuid: b3693bf9-51d0-4508-bb9a-6de3ee44daab
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Ketria Triome
+    quantity: 1
+    scryfall_uuid: 549b62df-3a98-4734-92a0-507a20d60b7d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Indatha Triome
+    quantity: 1
+    scryfall_uuid: 2b74bb81-fb9a-40e5-a941-e517430b52f5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Raugrin Triome
+    quantity: 1
+    scryfall_uuid: e4fbc5d6-e345-43cb-bf72-53d89791f6fb
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Zagoth Triome
+    quantity: 1
+    scryfall_uuid: cc520518-2063-4b57-a0d4-10cf62a7175e
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Bazaar of Baghdad
+    quantity: 1
+    scryfall_uuid: ff37b863-f8c4-4584-8cc2-ac0e096e583f
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Boseiju, Who Endures"
+    quantity: 1
+    scryfall_uuid: 2135ac5a-187b-4dc9-8f82-34e8d1603416
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Field of the Dead
+    quantity: 1
+    scryfall_uuid: 470ca3f4-29aa-4c4c-8ff2-8cdd70c69943
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Gaea's Cradle"
+    quantity: 1
+    scryfall_uuid: 3faf2c71-8591-4005-a93f-08441e3bba49
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Grove of the Burnwillows
+    quantity: 1
+    scryfall_uuid: 82fb5274-c11a-465b-b14f-8f35495482e4
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: "Mishra's Workshop"
+    quantity: 1
+    scryfall_uuid: dce700d1-67f8-4232-9009-2753d662b1a5
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Phyrexian Tower
+    quantity: 1
+    scryfall_uuid: deb95b6f-db1d-40bd-8eff-62b6362ab744
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Prismatic Vista
+    quantity: 1
+    scryfall_uuid: 991a1790-a3a2-4def-8848-cc698915a242
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Strip Mine
+    quantity: 1
+    scryfall_uuid: e7880157-7f27-4f1b-9cdc-ab36a6252376
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Tolarian Academy
+    quantity: 1
+    scryfall_uuid: fd99bce1-ce39-464b-8e61-2631eb3ed6f6
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+  - name: Wasteland
+    quantity: 1
+    scryfall_uuid: fd8d3e8a-856d-4c3f-a72f-ec5ea1c2f55d
+    tags: []
+    front: Default
+    back: Default
+    front_border: None
+    back_border: None
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter: HasPaperPrinting
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And
