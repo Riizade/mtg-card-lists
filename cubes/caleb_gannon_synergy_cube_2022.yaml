@@ -6,7 +6,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: CreatureSuperFullArtOval
+    front_border: CreatureBorderlessOval
     back_border: None
   - name: Esper Sentinel
     quantity: 1
@@ -102,7 +102,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: CreatureSuperFullArtOval
+    front_border: CreatureBorderlessOval
     back_border: None
   - name: "Thalia, Guardian of Thraben"
     quantity: 1
@@ -358,7 +358,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: SagaM15
     back_border: Creature
   - name: Enduring Renewal
     quantity: 1
@@ -430,7 +430,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NEOShowcaseNinjaCreatureNonLegendary
     back_border: None
   - name: Ninja of the Deep Hours
     quantity: 1
@@ -450,35 +450,35 @@ cards:
     back_border: None
   - name: Snapcaster Mage
     quantity: 1
-    scryfall_uuid: 12917e60-cea1-460b-b3f1-8d47cc24afdc
+    scryfall_uuid: ee203ede-b9af-4f97-84ca-597debf2efd0
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015FullArtOval
     back_border: None
   - name: Spellstutter Sprite
     quantity: 1
-    scryfall_uuid: 9040f50c-f161-47a1-a1eb-440ac72ce937
+    scryfall_uuid: 650221f7-d935-498b-a9a1-ec23c89fc5f8
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: CreatureBorderlessOval
     back_border: None
   - name: "Thassa's Oracle"
     quantity: 1
-    scryfall_uuid: 726e8b29-13e9-4138-b6a9-d2a0d8188d1c
+    scryfall_uuid: 13d7e352-4d01-4947-a76f-f8a01dd876cc
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015FullArtOval
     back_border: None
   - name: Thieving Skydiver
     quantity: 1
-    scryfall_uuid: f76d3424-1098-4803-bb37-eb11af170d3f
+    scryfall_uuid: f8b3eb41-2351-4dca-becb-7ecb1fcfa14b
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015FullArtOval
     back_border: None
   - name: Thing in the Ice
     quantity: 1
@@ -486,167 +486,167 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
-    back_border: None
+    front_border: Creature2015Oval
+    back_border: Creature
   - name: Watcher for Tomorrow
     quantity: 1
-    scryfall_uuid: dab2899e-0a3f-48ea-b521-2b526ba63c4d
+    scryfall_uuid: 15f01a3c-0a66-48da-a7d2-46260e3b721f
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: "Emry, Lurker of the Loch"
     quantity: 1
-    scryfall_uuid: d660ced3-6988-4cb8-a2c1-c603012855a8
+    scryfall_uuid: 157f343d-8583-4827-a77d-d916e6a5caa1
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: CreatureLegendaryFullArtOval
     back_border: None
   - name: Master of Etherium
     quantity: 1
-    scryfall_uuid: fd0e1726-8af7-4168-8ee1-d0de26af2f90
+    scryfall_uuid: 2c860286-9807-4ab5-b66f-e8696e9e6ac9
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: "Sai, Master Thopterist"
     quantity: 1
-    scryfall_uuid: ef888704-0b29-48c5-955c-356c0caf6516
+    scryfall_uuid: 2beffa94-862d-4cf1-9272-7fe0425a60e7
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: CreatureLegendaryOval
     back_border: None
   - name: Spellseeker
     quantity: 1
-    scryfall_uuid: 5cda8633-2661-4fa7-81b0-3ae535619a3c
+    scryfall_uuid: 74b4c336-5d4c-4bc5-b82a-35084a6ad808
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: Vendilion Clique
     quantity: 1
-    scryfall_uuid: 284c0a94-f0e5-4e49-9f45-002057bd3c33
+    scryfall_uuid: cd702cf1-10ca-4448-9fb1-b6de635e839c
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: "Urza, Lord High Artificer"
     quantity: 1
-    scryfall_uuid: 86d744cd-225c-4279-898a-858dc316cf7f
+    scryfall_uuid: 9e7fb3c0-5159-4d1f-8490-ce4c9a60f567
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: CreatureLegendaryOval
     back_border: None
   - name: Force of Negation
     quantity: 1
-    scryfall_uuid: b769ba9e-2ac8-48a9-9f45-23a4ccd0cb96
+    scryfall_uuid: e9be371c-c688-44ad-ab71-bd4c9f242d58
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Force of Will
     quantity: 1
-    scryfall_uuid: ebc01ab4-d89a-4d25-bf54-6aed33772f4b
+    scryfall_uuid: ec136ce7-bad4-4ebb-ab00-b86de3d209a7
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureBorderlessOval
     back_border: None
   - name: Gush
     quantity: 1
-    scryfall_uuid: 5a692b6e-0606-40cf-b00f-b4569826bbac
+    scryfall_uuid: d4a3a921-3b7f-474c-b8c3-67a1a6ba5cc1
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Ancestral Recall
     quantity: 1
-    scryfall_uuid: 961d3fd1-0ddc-47bf-8b7b-201b812da0f5
+    scryfall_uuid: d392392e-6c36-44e4-a037-2b788a088891
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Brainstorm
     quantity: 1
-    scryfall_uuid: 82a5c5d4-1a3e-4a3c-bf77-1099836e2f04
+    scryfall_uuid: 3cd19bdf-64f1-4c59-920b-1165f3551928
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureSignatureJace
     back_border: None
   - name: Consider
     quantity: 1
-    scryfall_uuid: 0b3f40a0-5f58-4157-aed9-b1a52e922c3c
+    scryfall_uuid: a211d505-4d40-4914-a9da-220770d6ddbc
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Force Spike
     quantity: 1
-    scryfall_uuid: 2a8a6461-b71a-476f-8053-87f6d2384408
+    scryfall_uuid: 97a6c6c9-dd26-4ce7-850f-0b3fc49245bd
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: High Tide
     quantity: 1
-    scryfall_uuid: c1368397-a667-4d13-bd92-ecc203f6e726
+    scryfall_uuid: e4bfe5d1-0914-4c0b-b851-598d0850dc01
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Mystical Tutor
     quantity: 1
-    scryfall_uuid: 9264ecb7-bfc0-495d-aaaa-829045ea858f
+    scryfall_uuid: 7dd7dd7c-872d-44b6-8ce6-0b05c6f98e69
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureSignatureJace
     back_border: None
   - name: Occult Epiphany
     quantity: 1
-    scryfall_uuid: 6920c895-bc98-4871-a53f-219fa27a74e5
+    scryfall_uuid: add661e7-b337-44e4-9614-ca958e20e86f
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureFullArtOval
     back_border: None
   - name: Opt
     quantity: 1
-    scryfall_uuid: 6e2ff7a5-ddd4-4581-93ea-2069a2d0dedf
+    scryfall_uuid: c3669391-8f64-4904-b432-0f0582f30449
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Repeal
     quantity: 1
-    scryfall_uuid: db5f59ca-6125-45ca-a9db-1962be003741
+    scryfall_uuid: 4acaef84-55d1-43dc-b10a-696182e6709b
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Spell Pierce
     quantity: 1
-    scryfall_uuid: eef1f68a-b27c-4e81-9a3c-dccb86771bec
+    scryfall_uuid: 53d4fd57-74b6-42c7-88b1-110e5a8dfc3c
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Spell Snare
     quantity: 1
@@ -654,15 +654,15 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Thought Scour
     quantity: 1
-    scryfall_uuid: 6fa48ee0-0783-4952-87da-5de28b5e600c
+    scryfall_uuid: 18d32e59-54e7-4be0-99b7-261cd433bd03
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Brain Freeze
     quantity: 1
@@ -670,103 +670,103 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureBorderlessOval
     back_border: None
   - name: Brazen Borrower
     quantity: 1
-    scryfall_uuid: 5cb72f66-c779-4e29-a6f6-45c31fb57aba
+    scryfall_uuid: d42a57b2-fbe9-4024-a593-f6dc711a2e9d
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: AdventurePromo
     back_border: None
   - name: Counterspell
     quantity: 1
-    scryfall_uuid: 500e6211-c101-43f1-a03a-1750f762deaf
+    scryfall_uuid: 16b0b5e6-ac30-417b-938a-31cda2f697f8
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureSignatureJace
     back_border: None
   - name: Daze
     quantity: 1
-    scryfall_uuid: bbac85b3-1b40-49c7-8f79-bde83d4a0791
+    scryfall_uuid: f05e9a3e-8a35-4687-85cb-e31b3927a5e2
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Dig Through Time
     quantity: 1
-    scryfall_uuid: 01cd4184-93ce-4005-b6d1-140afa3dd429
+    scryfall_uuid: 06025c01-1d70-4e8d-b030-60a773631b54
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Impulse
     quantity: 1
-    scryfall_uuid: 0c4abde5-4f8a-4ab0-b917-01da0f560711
+    scryfall_uuid: bda887f9-ea83-435e-b9d6-48f979a5fdb7
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Mana Drain
     quantity: 1
-    scryfall_uuid: 021a63ea-7473-4f1a-89bd-970cf7fb2a54
+    scryfall_uuid: e351ec05-8c4d-4631-9dbf-7f85f664770b
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureFullArtOval
     back_border: None
   - name: Mana Leak
     quantity: 1
-    scryfall_uuid: b434b6a3-ee92-451e-8fab-bbc41a70e7d1
+    scryfall_uuid: ea345b5d-3b4b-4b59-876b-bc56fbe8578a
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Memory Lapse
     quantity: 1
-    scryfall_uuid: 1fefc748-8426-4806-9f1b-d20361793d42
+    scryfall_uuid: d0524213-198d-4c9f-a9ba-8906ec841b19
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Miscalculation
     quantity: 1
-    scryfall_uuid: e5031fb3-ec31-4ab3-8946-e28a27286883
+    scryfall_uuid: 4b4956a2-9a39-4152-9c98-70e4b2acfa26
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Remand
     quantity: 1
-    scryfall_uuid: 581f3780-c480-48c6-b15c-1618f2feccb9
+    scryfall_uuid: dc595c63-af05-4c05-80e8-e1a90df26b0f
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Snap
     quantity: 1
-    scryfall_uuid: a3b42202-548e-46f2-90a6-6f952315d157
+    scryfall_uuid: 1959f078-4b7b-4df2-a256-d43b2d97e853
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Frantic Search
     quantity: 1
-    scryfall_uuid: b8a6d5a5-ea8a-4d13-a8a6-11587f1bde44
+    scryfall_uuid: 6e2e5b6e-ca2e-4149-bad6-784f40afa9fb
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureBorderlessOval
     back_border: None
   - name: Paradoxical Outcome
     quantity: 1
@@ -774,7 +774,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Turnabout
     quantity: 1
@@ -782,7 +782,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Hard Evidence
     quantity: 1
@@ -790,63 +790,63 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Ponder
     quantity: 1
-    scryfall_uuid: 7b0d4d01-9044-4b68-8b55-1b27ff0ffa75
+    scryfall_uuid: 84d02bf4-eefd-4916-ab5a-cc16b3e6a186
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureBorderlessOval
     back_border: None
   - name: Preordain
     quantity: 1
-    scryfall_uuid: d10b9be3-d4ff-4e3c-b0d5-5ab2c4e6d684
+    scryfall_uuid: c1ab73a5-6c55-4c30-a965-8adf3dba2ddd
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureFullArtOval
     back_border: None
   - name: Serum Visions
     quantity: 1
-    scryfall_uuid: 6ca3457c-4924-4824-8f32-7f4a12d2e2ea
+    scryfall_uuid: 20296a5b-4e15-4f07-8bce-9a37abb35729
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Treasure Cruise
     quantity: 1
-    scryfall_uuid: 45b77501-0844-472c-8d3d-19fcf16239bf
+    scryfall_uuid: 7a59d4b1-6cf4-44ec-8a96-1bb7094fea21
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Chart a Course
     quantity: 1
-    scryfall_uuid: 98f091ee-70c5-4878-9b11-43df85e1d5de
+    scryfall_uuid: 98291778-2ec2-47e2-ac99-5f8cfbb3cf24
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Deep Analysis
     quantity: 1
-    scryfall_uuid: f0fdd8b8-03d0-4a4d-ae9e-a43c2cf90c00
+    scryfall_uuid: 821cc8b6-eb2e-4441-8d88-c54cb44ab024
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Time Walk
     quantity: 1
-    scryfall_uuid: 54992fda-45a9-4ed1-b380-34d167feec90
+    scryfall_uuid: 319bcff2-3173-40e8-954a-d48fa090e7b5
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Echo of Eons
     quantity: 1
@@ -854,23 +854,23 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Timetwister
     quantity: 1
-    scryfall_uuid: 6912ce0b-87cc-4c97-81e1-a66088b5f154
+    scryfall_uuid: 38dff637-abeb-4c41-9962-148205fee651
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Tinker
     quantity: 1
-    scryfall_uuid: 0e1374a3-0465-4edb-b63e-22c8baaad864
+    scryfall_uuid: 1e2fee55-227b-4373-a3f7-b463f220033f
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: "Mind's Desire"
     quantity: 1
@@ -878,7 +878,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Time Spiral
     quantity: 1
@@ -886,15 +886,15 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Intruder Alarm
     quantity: 1
-    scryfall_uuid: 8d62468e-ed9d-4932-bbbd-103b33b98b25
+    scryfall_uuid: 50093179-2369-49db-a66d-ce3225363f5d
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureBorderlessOval
     back_border: None
   - name: Bloodsoaked Champion
     quantity: 1
@@ -902,15 +902,15 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: Carrion Feeder
     quantity: 1
-    scryfall_uuid: 3392eec6-c4cb-4c48-b291-4ea8755a4e1c
+    scryfall_uuid: 0a19da90-880e-4eca-8cf7-6d7baf090d53
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Cauldron Familiar
     quantity: 1
@@ -918,7 +918,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Changeling Outcast
     quantity: 1
@@ -926,7 +926,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Cryptbreaker
     quantity: 1
@@ -934,7 +934,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: Disciple of the Vault
     quantity: 1
@@ -942,23 +942,23 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Gravecrawler
     quantity: 1
-    scryfall_uuid: c1a6d1c9-7779-4165-ad82-f7c4c5fe529c
+    scryfall_uuid: 3c189fe5-a5f9-4057-bb70-0a88ae3169de
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: Nested Shambler
     quantity: 1
-    scryfall_uuid: ba0944fe-243a-4688-ac11-4f0a97879c4a
+    scryfall_uuid: eb8595c6-5237-4ed1-98e4-8615bb0eb8e1
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Putrid Imp
     quantity: 1
@@ -966,7 +966,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Shambling Ghast
     quantity: 1
@@ -974,7 +974,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: "Stitcher's Supplier"
     quantity: 1
@@ -982,7 +982,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Viscera Seer
     quantity: 1
@@ -990,7 +990,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Blood Artist
     quantity: 1
@@ -998,7 +998,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Bloodghast
     quantity: 1
@@ -1006,15 +1006,15 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: Dark Confidant
     quantity: 1
-    scryfall_uuid: dd3b4ad5-6687-400e-b5c1-a04f577a2415
+    scryfall_uuid: 6c821158-f71a-48f9-b6b4-b0e605f22bec
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: CreatureBorderlessOval
     back_border: None
   - name: "Jadar, Ghoulcaller of Nephalia"
     quantity: 1
@@ -1022,15 +1022,15 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: CreatureLegendaryOval
     back_border: None
   - name: Kitesail Freebooter
     quantity: 1
-    scryfall_uuid: 88496096-fd9a-451a-85d9-31ccc3580623
+    scryfall_uuid: f62fd592-4910-417d-a500-e7029f3d119f
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Mesmeric Fiend
     quantity: 1
@@ -1038,7 +1038,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Miasmic Mummy
     quantity: 1
@@ -1046,15 +1046,15 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Nether Traitor
     quantity: 1
-    scryfall_uuid: 911d2271-8998-4193-9d1a-1768c5dfaaad
+    scryfall_uuid: 8f3482ec-8466-4680-bfdc-e1029c0fbe89
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: "Oona's Prowler"
     quantity: 1
@@ -1062,47 +1062,47 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Priest of Forgotten Gods
     quantity: 1
-    scryfall_uuid: 036379e2-9248-4d67-8c95-d38e8dab11de
+    scryfall_uuid: e3378fe8-3355-48aa-90d4-9cb739200160
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: Putrid Goblin
     quantity: 1
-    scryfall_uuid: f6acdc51-4f02-4c35-b630-2b6bdc5c2081
+    scryfall_uuid: 333406d5-abcc-4629-a33b-395d0662ba1b
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Relentless Dead
     quantity: 1
-    scryfall_uuid: 0c4b091e-3f61-4877-86af-2cf21282af16
+    scryfall_uuid: 2a0d7998-2f3d-43b8-a0be-6ff7e5c83223
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: Rotting Rats
     quantity: 1
-    scryfall_uuid: 3895f0ce-ef97-4188-8b86-d0cc7067aacd
+    scryfall_uuid: 34dea310-8738-4fd9-b790-0361afe1e150
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: BasicHigh
     back_border: None
   - name: Scourge of Nel Toth
     quantity: 1
-    scryfall_uuid: fc0647d4-ec7a-4c92-bf54-3a17e2bb0c23
+    scryfall_uuid: 8b39ee60-c467-4145-8ca7-123eef01791e
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: Undead Augur
     quantity: 1
@@ -1110,47 +1110,47 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Undead Butler
     quantity: 1
-    scryfall_uuid: 57c485c7-bf67-444d-ac07-fbe659716dcd
+    scryfall_uuid: 018612db-2a32-42fd-9d4d-aa4bc62d9b20
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Voldaren Bloodcaster
     quantity: 1
-    scryfall_uuid: 995a53e1-61ca-4635-96b0-c6f52c46da04
+    scryfall_uuid: ca5297a5-bcaa-41fd-a397-e44dc4e00ba3
     tags: []
     front: Default
     back: Default
-    front_border: None
-    back_border: None
+    front_border: Creature2015Oval
+    back_border: Creature
   - name: Zulaport Cutthroat
     quantity: 1
-    scryfall_uuid: bc8a6636-eab2-4aee-bd55-4d62c2e2e266
+    scryfall_uuid: 7a264eb1-9fd4-4cf3-8eff-0def0ccbfbd7
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: Headless Rider
     quantity: 1
-    scryfall_uuid: 8804973b-b733-417e-9bee-828efbcb4453
+    scryfall_uuid: 544d7162-b78f-4a70-86e7-83cec7062039
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015FullArtOval
     back_border: None
   - name: "Liliana's Standard Bearer"
     quantity: 1
-    scryfall_uuid: 4f6367ab-f9a8-43ff-b9f0-056aac717424
+    scryfall_uuid: 3dc48b87-62cb-48f6-8979-e6fb98717b52
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: Midnight Reaper
     quantity: 1
@@ -1158,15 +1158,15 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: Ophiomancer
     quantity: 1
-    scryfall_uuid: 66d80dd1-b944-4cb2-8578-b4dbcabbbc1e
+    scryfall_uuid: 0ef8d3a2-5c6b-41e2-aa7d-81e4a5d04421
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature2015Oval
     back_border: None
   - name: Pitiless Plunderer
     quantity: 1
@@ -1174,63 +1174,63 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Creature
     back_border: None
   - name: "Yawgmoth, Thran Physician"
     quantity: 1
-    scryfall_uuid: 81564970-23ad-41a3-b5e0-21bdf13f6248
+    scryfall_uuid: 8690cbcc-f8fd-41f7-9e28-e61c12b04014
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: CreatureLegendaryOval
     back_border: None
   - name: Snuff Out
     quantity: 1
-    scryfall_uuid: db8b3560-4940-40cc-9797-f909dcb1519b
+    scryfall_uuid: 75bbe89f-09af-494e-b58e-271f64bde4b5
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Dark Ritual
     quantity: 1
-    scryfall_uuid: 06df3f4b-3d94-4792-9460-485d2230c0e0
+    scryfall_uuid: 43c636bd-9071-4212-8e2e-5d6c6f39f3d1
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Darkblast
     quantity: 1
-    scryfall_uuid: 6a01bf1a-5868-4338-bf16-c35437e9bc2f
+    scryfall_uuid: 075fc4cb-49ac-4488-a24d-bc687f027182
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Disfigure
     quantity: 1
-    scryfall_uuid: 099b46e0-53cb-4a1a-9a07-b34dd6d13ecf
+    scryfall_uuid: 18069340-a698-4f75-82cc-cc94fcf82184
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Fatal Push
     quantity: 1
-    scryfall_uuid: b5e81649-9954-424c-89d1-f87d73b66047
+    scryfall_uuid: b9a50516-a20f-4e6e-b4f2-0049b673f942
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureBorderlessOval
     back_border: None
   - name: Vampiric Tutor
     quantity: 1
-    scryfall_uuid: d8337172-e15d-4e09-b3de-dc7b5bf006a7
+    scryfall_uuid: 9e1b4cec-68e0-4259-9be5-565d927017d9
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureFullArtOval
     back_border: None
   - name: Cabal Ritual
     quantity: 1
@@ -1238,7 +1238,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Infernal Grasp
     quantity: 1
@@ -1246,7 +1246,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Lethal Scheme
     quantity: 1
@@ -1254,7 +1254,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureFullArtOval
     back_border: None
   - name: "Bloodchief's Thirst"
     quantity: 1
@@ -1262,55 +1262,55 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Bone Shards
     quantity: 1
-    scryfall_uuid: 84aa7067-1422-461b-893d-4d537e9384d1
+    scryfall_uuid: 1ee98955-4c47-4d45-9377-608dfa755337
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Cabal Therapy
     quantity: 1
-    scryfall_uuid: 0a5df970-c6ba-4824-b8ba-67244aec2b82
+    scryfall_uuid: 2afc9aa7-eaf2-453d-942c-23bf216a1844
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Divest
     quantity: 1
-    scryfall_uuid: c6619810-7933-4844-8556-2a575ed7f18a
+    scryfall_uuid: 4494cb6d-1a99-40b6-96cc-0dc2ddec102f
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Dread Fugue
     quantity: 1
-    scryfall_uuid: ef8a7485-1630-40f4-8e70-3abd297e8983
+    scryfall_uuid: 0ad4c472-b8ce-4ae0-a6f0-726ea74722c5
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Duress
     quantity: 1
-    scryfall_uuid: 11e96127-83e2-42e2-9799-998b1408d444
+    scryfall_uuid: c0a72721-2a4a-4d48-a7b0-2370b90b8619
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Inquisition of Kozilek
     quantity: 1
-    scryfall_uuid: a6af6cee-a60a-4953-8e22-c3bddc435619
+    scryfall_uuid: 56995b84-2307-4955-9c7c-dc4f04acdc07
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: "Raven's Crime"
     quantity: 1
@@ -1318,39 +1318,39 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Thoughtseize
     quantity: 1
-    scryfall_uuid: 6fff168c-6a0f-473f-86db-8cc8f619fd58
+    scryfall_uuid: 95702503-8f2d-46c8-abdb-6edd6c431d19
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureBorderlessOval
     back_border: None
   - name: Collective Brutality
     quantity: 1
-    scryfall_uuid: fe8ee6b7-5e1f-47bf-9624-328be148f38d
+    scryfall_uuid: 59dcf43b-a65f-43e4-a683-437021565f6a
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Demonic Tutor
     quantity: 1
-    scryfall_uuid: c8435923-d3eb-4366-a0d5-edf538f9f261
+    scryfall_uuid: 2d957ecf-93e7-4a32-88bc-4d10feaab4ea
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureFullArtOval
     back_border: None
   - name: Diabolic Intent
     quantity: 1
-    scryfall_uuid: 76d1b5c5-cc47-465f-8549-4fd1ca4280df
+    scryfall_uuid: b58299a8-e674-46de-ae25-c98410e0b445
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: "Night's Whisper"
     quantity: 1
@@ -1358,31 +1358,31 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: "Yawgmoth's Will"
     quantity: 1
-    scryfall_uuid: efda91fa-03b2-4fb4-ae07-b45f6c6d3eab
+    scryfall_uuid: 75d4f6fc-c5cd-416c-aafd-19c2f2c0cd51
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Tendrils of Agony
     quantity: 1
-    scryfall_uuid: 1541b593-a7f1-4e6b-aff6-d6341cf8fec5
+    scryfall_uuid: 22f00439-93b7-4ade-b8c9-9b7ca7e274fb
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature
     back_border: None
   - name: Wishclaw Talisman
     quantity: 1
-    scryfall_uuid: f7a58088-9765-4249-9957-469b06a6e907
+    scryfall_uuid: 9ebcb070-953c-4b47-ad8a-ef207c65053f
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureFullArtOval
     back_border: None
   - name: Bridge from Below
     quantity: 1
@@ -1390,23 +1390,23 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreature2015Oval
     back_border: None
   - name: Bitterblossom
     quantity: 1
-    scryfall_uuid: fc0d11d3-4d55-43a4-b59d-acc41aa671c5
+    scryfall_uuid: 25dd861f-ee63-4d79-b31b-173c9c336426
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureFullArtOval
     back_border: None
   - name: The Meathook Massacre
     quantity: 1
-    scryfall_uuid: 0227e3cc-3d75-4e62-8ee8-deaa1d5db9d1
+    scryfall_uuid: 52593d64-182f-45ff-82c6-fb7649d36736
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: NonCreatureLegendaryFullArtOval
     back_border: None
   - name: Anger
     quantity: 1
