@@ -5,6 +5,7 @@
 1x Stolen by the Fae
 1x Brazen Borrower
 1x Didn't Say Please
+1x Faerie Seer
 1x Scion of Oona
 1x Vendilion Clique
 1x Winged Words
@@ -13,6 +14,8 @@
 1x Mistbind Clique
 1x Sower of Temptation
 1x Faerie Formation
+1x Faerie Vandal
+1x Faerie Artisans
 1x Faerie Conclave
 1x Ash Barrens
 1x Command Tower

@@ -1,6 +1,7 @@
 1x Sanctum of Tranquil Light
 1x Honden of Cleansing Fire
 1x Wrath of God
+1x Go-Shintai of Boundless Vigor
 1x Sanctum of Calm Waters
 1x Sanctum of Stone Fangs
 1x Honden of Infinite Rage
@@ -9,6 +10,8 @@
 1x Kodama's Reach
 1x Sanctum of Fruitful Harvest
 1x Honden of Life's Web
+1x Go-Shintai of Shared Purpose
+1x Go-Shintai of Life's Origin
 1x Sterling Grove
 1x Faeburrow Elder
 1x Sanctum of All

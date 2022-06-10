@@ -1,5 +1,6 @@
 1x Curiosity
 1x Opt
+1x Ophidian Eye
 1x Spectral Sailor
 1x Faerie Vandal
 1x Ominous Seas
@@ -10,9 +11,11 @@
 1x Improbable Alliance
 1x Talisman of Creativity
 1x Beacon Bolt
+1x Wizard Class
 1x The Royal Scions
 1x Crackling Drake
 1x Niv-Mizzet, the Firemind
+1x Tandem Lookout
 1x Ash Barrens
 1x Command Tower
 1x Island
