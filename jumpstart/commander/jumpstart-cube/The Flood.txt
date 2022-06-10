@@ -6,16 +6,19 @@
 1x Grim Affliction
 1x Ichor Rats
 1x Phyrexian Arena
-1x Phyrexian Rager
 1x Yawgmoth, Thran Physician
 1x Caress of Phyrexia
 1x Skithiryx, the Blight Dragon
+1x Hand of the Praetors
 1x Sheoldred, Whispering One
 1x Contagion Clasp
+1x Ichor Rats
 1x Grafted Exoskeleton
+1x Septic Rats
 1x Inkmoth Nexus
 1x Karn's Bastion
 1x Phyrexian Tower
+1x Phyrexian Crusader
 1x Ash Barrens
 1x Command Tower
 1x Swamp

@@ -7,9 +7,12 @@
 1x Exclusion Mage
 1x Frantic Search
 1x Sage of Fables
+1x Winged Words
 1x Windrider Wizard
+1x Archmage Emeritus
 1x Wizard's Retort
 1x Chemister's Insight
+1x Talrand's Invocation
 1x Naru Meha, Master Wizard
 1x Talrand, Sky Summoner
 1x Relic Amulet
