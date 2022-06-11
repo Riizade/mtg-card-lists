@@ -1,0 +1,490 @@
+---
+cards:
+  - name: "Yahenni, Undying Partisan"
+    quantity: 1
+    scryfall_uuid: c37e2466-57c3-453f-aebe-340995f2eca7
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\CommanderLogo.png"
+        transparency: 1.0
+        location:
+          x: 110
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: "Erebos, Bleak-Hearted"
+    quantity: 1
+    scryfall_uuid: 68f3c60d-2fcb-476f-bcc6-eec5879b08ee
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Nightmare Shepherd
+    quantity: 1
+    scryfall_uuid: 210d25be-7766-4994-9ae5-dce945449d98
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Living Death
+    quantity: 1
+    scryfall_uuid: 6e5927ad-9d9d-4870-b1ca-c5c60a748359
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Phyrexian Tower
+    quantity: 1
+    scryfall_uuid: 3097b876-ffb4-4388-beb1-d25d887593b9
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Shriekmaw
+    quantity: 1
+    scryfall_uuid: 18e3ebe5-9350-4781-a30d-4fcad034e7a9
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Fatal Push
+    quantity: 1
+    scryfall_uuid: b9a50516-a20f-4e6e-b4f2-0049b673f942
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Thriving Moor
+    quantity: 1
+    scryfall_uuid: 7faa30a1-ca8c-4462-90ea-8e935cad0a53
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: God-Eternal Bontu
+    quantity: 1
+    scryfall_uuid: 2ae1bb79-a931-4d2e-9cc9-a06862dc5cde
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Fleshbag Marauder
+    quantity: 1
+    scryfall_uuid: 712c8708-cd43-4f1e-b520-ef90cf2ba72d
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Tragic Slip
+    quantity: 1
+    scryfall_uuid: 90b32df0-3961-4428-97a5-ffb91be9febc
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Command Tower
+    quantity: 1
+    scryfall_uuid: 148abd94-e752-4394-abce-21d594318b41
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Skullclamp
+    quantity: 1
+    scryfall_uuid: 8854e9a7-a799-47d0-8662-95aa527d3210
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Ghoulcaller Gisa
+    quantity: 1
+    scryfall_uuid: 779e3944-4342-4151-9963-87e8d41fd2ff
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Midnight Reaper
+    quantity: 1
+    scryfall_uuid: ce14d37a-1f25-44e6-a6e5-c91851c887c5
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Supernatural Stamina
+    quantity: 1
+    scryfall_uuid: ce15ab0b-c70d-4ac0-a6ee-dbd31736ce1f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Ash Barrens
+    quantity: 1
+    scryfall_uuid: 9f4dd417-43fd-4dee-aaf2-80d425bd0191
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Swamp
+    quantity: 8
+    scryfall_uuid: 02cb5cfd-018e-4c5e-bef1-166262aa5f1d
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Grave Pact
+    quantity: 1
+    scryfall_uuid: b88471f6-ccb3-4129-b7a4-62cee65605ef
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Mortician Beetle
+    quantity: 1
+    scryfall_uuid: 978f2a31-1c89-43cb-92f2-195026c9311a
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Dusk Legion Zealot
+    quantity: 1
+    scryfall_uuid: 1908d03c-e8ed-43c7-bcae-194d826a152b
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: "Kokusho, the Evening Star"
+    quantity: 1
+    scryfall_uuid: ab56cedb-1bcd-48a5-8503-a8e324e236ad
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Village Rites
+    quantity: 1
+    scryfall_uuid: da3de5c0-acda-4116-b0c5-eceb2c19cb2d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Ritual Sacrifice.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

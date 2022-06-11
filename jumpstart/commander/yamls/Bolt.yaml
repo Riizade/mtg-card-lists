@@ -1,0 +1,490 @@
+---
+cards:
+  - name: Urabrask the Hidden
+    quantity: 1
+    scryfall_uuid: a86cb092-407a-4a4e-8e3e-359dafc385ea
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\CommanderLogo.png"
+        transparency: 1.0
+        location:
+          x: 110
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Mountain
+    quantity: 8
+    scryfall_uuid: 53fb7b99-9e47-46a6-9c8a-88e28b5197f1
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Goblin Guide
+    quantity: 1
+    scryfall_uuid: 62d2058c-3f20-4566-b366-93a2cbbe682f
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Monastery Swiftspear
+    quantity: 1
+    scryfall_uuid: d4ef14b6-e604-40c3-bf7e-587a192a68bc
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Lightning Greaves
+    quantity: 1
+    scryfall_uuid: 70eab734-875b-4b76-901b-3ac7d2133ad9
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Electrodominance
+    quantity: 1
+    scryfall_uuid: 5c63877b-cdab-4ce4-a1c0-c088eb62a57a
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Robber of the Rich
+    quantity: 1
+    scryfall_uuid: 68b44930-f109-4865-8cd0-735ae5b4299c
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Harsh Mentor
+    quantity: 1
+    scryfall_uuid: 8936bf9d-c973-4bce-b5c2-2a01b7953638
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Combat Celebrant
+    quantity: 1
+    scryfall_uuid: 28b63c3d-2e55-4343-b49a-11fa602ec473
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Ash Barrens
+    quantity: 1
+    scryfall_uuid: 9f4dd417-43fd-4dee-aaf2-80d425bd0191
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Shock
+    quantity: 1
+    scryfall_uuid: 60eeb025-704c-4a82-90b2-f91202ae30d9
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Hanweir Battlements
+    quantity: 1
+    scryfall_uuid: 1d743ad6-6ca2-409a-9773-581cc195dbf2
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Thriving Bluff
+    quantity: 1
+    scryfall_uuid: 15481459-3703-4185-ad27-105d95691e9d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Goldspan Dragon
+    quantity: 1
+    scryfall_uuid: a7cec498-e2ac-4ca0-9aa2-ef98ba634c32
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Lightning Strike
+    quantity: 1
+    scryfall_uuid: 116d6679-2834-4cfe-a848-846c17f1af42
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: "Chandra's Spitfire"
+    quantity: 1
+    scryfall_uuid: 8a857da7-5438-465b-821a-bd5bfd780c69
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Lightning Bolt
+    quantity: 1
+    scryfall_uuid: b14fae63-2e82-49c1-8e62-d84a65f27479
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveJPOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Chain Lightning
+    quantity: 1
+    scryfall_uuid: bfb7fe8e-e348-4bf9-aa71-65f0675147e4
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Rekindling Phoenix
+    quantity: 1
+    scryfall_uuid: daccec32-84c6-4de4-9b00-c497a6ba5de8
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Command Tower
+    quantity: 1
+    scryfall_uuid: 148abd94-e752-4394-abce-21d594318b41
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Searing Spear
+    quantity: 1
+    scryfall_uuid: 44c5f884-d071-40c2-bb2c-925dc2197ea3
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Phoenix of Ash
+    quantity: 1
+    scryfall_uuid: 7d2be6f0-1cc1-4153-bdcf-528d49a474f4
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Lightning Phoenix
+    quantity: 1
+    scryfall_uuid: b52a3f11-6d55-4492-9a2c-c128c09b3d77
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Bolt.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

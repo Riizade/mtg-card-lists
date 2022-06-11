@@ -1,0 +1,470 @@
+---
+cards:
+  - name: "Goreclaw, Terror of Qal Sisma"
+    quantity: 1
+    scryfall_uuid: 36d4574a-3266-4497-b145-fb25820d8a7f
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\CommanderLogo.png"
+        transparency: 1.0
+        location:
+          x: 110
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Lovestruck Beast
+    quantity: 1
+    scryfall_uuid: 341110e5-577d-45ee-bf62-53373a331c87
+    tags: []
+    front: Default
+    back: Default
+    front_border: AdventurePromo
+    back_border: AdventurePromo
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Pelt Collector
+    quantity: 1
+    scryfall_uuid: bee125cb-12b9-4f78-8e1d-6018d9c52275
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Experiment One
+    quantity: 1
+    scryfall_uuid: 62fa3357-05cd-428a-9775-08cdf6462f20
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Strangleroot Geist
+    quantity: 1
+    scryfall_uuid: 70438212-608c-4641-a847-45843186cd82
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Boon Satyr
+    quantity: 1
+    scryfall_uuid: 477a30f3-3cbe-42a5-9fae-fe5885a8cf25
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Prowling Serpopard
+    quantity: 1
+    scryfall_uuid: 92921fc1-11d0-41a9-b9b2-b44fd0913d31
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: "Ghalta, Primal Hunger"
+    quantity: 1
+    scryfall_uuid: c11a7c2e-75e8-432e-84c4-df63e0df0981
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Thriving Grove
+    quantity: 1
+    scryfall_uuid: 0de19659-5b50-4917-b8dd-e030aa72868d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Vines of Vastwood
+    quantity: 1
+    scryfall_uuid: 6203e3d4-8998-41d6-9f7e-b68af0f1f8b5
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Rhonas the Indomitable
+    quantity: 1
+    scryfall_uuid: 453d854c-5092-4e00-a388-499353f246c3
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Hexdrinker
+    quantity: 1
+    scryfall_uuid: 89f5cc05-5d9d-4709-b3c5-a6249c294acc
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Nessian Hornbeetle
+    quantity: 1
+    scryfall_uuid: e1900efd-262a-4eef-a8e8-238801466a88
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Savage Swipe
+    quantity: 1
+    scryfall_uuid: eea7e77c-ede5-41bd-b766-9a76ce691607
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Ash Barrens
+    quantity: 1
+    scryfall_uuid: 9f4dd417-43fd-4dee-aaf2-80d425bd0191
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: "Garruk's Harbinger"
+    quantity: 1
+    scryfall_uuid: 6faee64c-2338-4b01-8e26-7b68539a998b
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Scavenging Ooze
+    quantity: 1
+    scryfall_uuid: ae57dc27-539b-45f2-a18a-ca1f699f645d
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Command Tower
+    quantity: 1
+    scryfall_uuid: 148abd94-e752-4394-abce-21d594318b41
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Lambholt Pacifist
+    quantity: 1
+    scryfall_uuid: 23f3fa96-6276-463e-8033-a64c8f06c933
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Forest
+    quantity: 9
+    scryfall_uuid: 32af9f41-89e2-4e7a-9fec-fffe79cae077
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Kraul Harpooner
+    quantity: 1
+    scryfall_uuid: f6d3c086-9ce4-41c3-8402-2818f1b27192
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Mutagenic Growth
+    quantity: 1
+    scryfall_uuid: 2e0861a2-1858-47af-8154-20a977c2b298
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Beasts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

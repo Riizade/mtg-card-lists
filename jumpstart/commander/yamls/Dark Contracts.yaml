@@ -1,0 +1,470 @@
+---
+cards:
+  - name: "K'rrik, Son of Yawgmoth"
+    quantity: 1
+    scryfall_uuid: a2dc6a50-2a7e-4366-82a7-3c5b5aa2cca6
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\CommanderLogo.png"
+        transparency: 1.0
+        location:
+          x: 110
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Phyrexian Rager
+    quantity: 1
+    scryfall_uuid: bb0d354e-3a63-4dfe-ae6d-5e82cbf419ac
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Thriving Moor
+    quantity: 1
+    scryfall_uuid: 7faa30a1-ca8c-4462-90ea-8e935cad0a53
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Gray Merchant of Asphodel
+    quantity: 1
+    scryfall_uuid: d794d0a4-4041-43c0-aedb-e2a76611a3ea
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Gifted Aetherborn
+    quantity: 1
+    scryfall_uuid: 8644d4d1-8499-40a8-a01f-68172c82bf58
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Spawn of Mayhem
+    quantity: 1
+    scryfall_uuid: 8be01b8d-e0ef-44d1-ac97-39bb5a0e76be
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Phyrexian Delver
+    quantity: 1
+    scryfall_uuid: de66606d-6fe2-4c63-8d27-e808da7d4980
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Boot Nipper
+    quantity: 1
+    scryfall_uuid: cff5a5b8-f823-4429-acd8-c4f34a676cb4
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Vampire Nighthawk
+    quantity: 1
+    scryfall_uuid: 301ff69c-2590-45af-893b-7ac0285e450b
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Priest of the Blood Rite
+    quantity: 1
+    scryfall_uuid: 1a0df50f-59b8-46b6-8bac-6e3f93b9c979
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Snuff Out
+    quantity: 1
+    scryfall_uuid: 75bbe89f-09af-494e-b58e-271f64bde4b5
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Toxic Deluge
+    quantity: 1
+    scryfall_uuid: 73731e45-51bb-4188-a54d-fdaa4bdfaf1f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Swamp
+    quantity: 9
+    scryfall_uuid: 02cb5cfd-018e-4c5e-bef1-166262aa5f1d
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Profane Transfusion
+    quantity: 1
+    scryfall_uuid: c3387cfc-2dbe-409e-bfc7-b399f05a817d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Vault Skirge
+    quantity: 1
+    scryfall_uuid: f254239c-c07a-4c41-98f7-8f4de539c73e
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Font of Agonies
+    quantity: 1
+    scryfall_uuid: d7c02aec-4a89-4ccc-8525-6f979c10d799
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Murderous Rider
+    quantity: 1
+    scryfall_uuid: 49c98e70-e8fe-4fea-b1d0-e7560780fda9
+    tags: []
+    front: Default
+    back: Default
+    front_border: AdventurePromo
+    back_border: AdventurePromo
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Ash Barrens
+    quantity: 1
+    scryfall_uuid: 9f4dd417-43fd-4dee-aaf2-80d425bd0191
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Dismember
+    quantity: 1
+    scryfall_uuid: 03da66e3-a369-4433-a2b8-8625403d34b0
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Command Tower
+    quantity: 1
+    scryfall_uuid: 148abd94-e752-4394-abce-21d594318b41
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Oubliette
+    quantity: 1
+    scryfall_uuid: 96ccfecd-0dab-426a-8897-86c73934d21d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: "Night's Whisper"
+    quantity: 1
+    scryfall_uuid: f415a76e-6b35-442e-a2e1-9e368f550566
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Dark Contracts.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

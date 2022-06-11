@@ -1,0 +1,630 @@
+---
+cards:
+  - name: The First Sliver
+    quantity: 1
+    scryfall_uuid: 06d4fbe1-8a2f-4958-bb85-1a1e5f1e8d87
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\CommanderLogo.png"
+        transparency: 1.0
+        location:
+          x: 110
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Sliver Queen
+    quantity: 1
+    scryfall_uuid: ab68bd00-7151-4a6b-ad98-134ca02d7d59
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Sinew Sliver
+    quantity: 1
+    scryfall_uuid: 000edc61-b3ae-49e3-87f4-0250fa6a4501
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Island
+    quantity: 1
+    scryfall_uuid: acf7b664-3e75-4018-81f6-2a14ab59f258
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Forest
+    quantity: 1
+    scryfall_uuid: 32af9f41-89e2-4e7a-9fec-fffe79cae077
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Hivestone
+    quantity: 1
+    scryfall_uuid: 69e62171-713c-49c0-8e16-b193ff181dcd
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Gemhide Sliver
+    quantity: 1
+    scryfall_uuid: 110887a5-cbfd-431f-9208-06acc4ed2602
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: The World Tree
+    quantity: 1
+    scryfall_uuid: 999fa01b-4e54-4e3e-973d-7af137a53684
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Predatory Sliver
+    quantity: 1
+    scryfall_uuid: a2e37de8-66a1-4afa-aa6f-1151f849dfa8
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Ash Barrens
+    quantity: 1
+    scryfall_uuid: 9f4dd417-43fd-4dee-aaf2-80d425bd0191
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Plains
+    quantity: 1
+    scryfall_uuid: a9891b7b-fc52-470c-9f74-292ae665f378
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Sliver Hive
+    quantity: 1
+    scryfall_uuid: 04541650-6ee7-4825-984e-4794b306c274
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Cloudshredder Sliver
+    quantity: 1
+    scryfall_uuid: 27933191-dad6-43d5-b02e-a94ad8033f2f
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Sliver Legion
+    quantity: 1
+    scryfall_uuid: 87545415-2e27-4841-a3af-7653af2ba6d3
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: City of Brass
+    quantity: 1
+    scryfall_uuid: 2d120ddb-73e7-4dbc-b48c-4a6c74f331c3
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Diffusion Sliver
+    quantity: 1
+    scryfall_uuid: fb110a55-c8f9-4627-82c2-edb10db4f380
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Cryptolith Rite
+    quantity: 1
+    scryfall_uuid: 2910adcd-882a-46af-8236-ca1a9e2c19ab
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Pulmonic Sliver
+    quantity: 1
+    scryfall_uuid: fc4eb560-97a7-4f5f-bf12-1f9e1be63095
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Leeching Sliver
+    quantity: 1
+    scryfall_uuid: 888ca52b-1270-4587-804d-1d08b07d7c5d
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Thriving Grove
+    quantity: 1
+    scryfall_uuid: 0de19659-5b50-4917-b8dd-e030aa72868d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Evolving Wilds
+    quantity: 1
+    scryfall_uuid: bf6069f2-7a32-4cb7-b2ab-ea6b51267cca
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Sliver Hivelord
+    quantity: 1
+    scryfall_uuid: 0a1b117d-f2bf-4bf0-b70c-d45e252e1456
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Necrotic Sliver
+    quantity: 1
+    scryfall_uuid: c0bf9c79-3a66-4c81-b7c7-9b31b4a67e32
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Mountain
+    quantity: 1
+    scryfall_uuid: 53fb7b99-9e47-46a6-9c8a-88e28b5197f1
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Muscle Sliver
+    quantity: 1
+    scryfall_uuid: 510a8590-48f5-40ee-a0c8-77238055a937
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Manaweft Sliver
+    quantity: 1
+    scryfall_uuid: 1216b0b3-4f59-4e81-aaea-1b272e2b7c4e
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Swamp
+    quantity: 1
+    scryfall_uuid: 02cb5cfd-018e-4c5e-bef1-166262aa5f1d
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Heart Sliver
+    quantity: 1
+    scryfall_uuid: 981af400-4293-4b90-9325-8cdc633c4ea8
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Acidic Sliver
+    quantity: 1
+    scryfall_uuid: f2e23d03-9ee4-44c1-88d3-7708ef5b79c9
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Command Tower
+    quantity: 1
+    scryfall_uuid: 148abd94-e752-4394-abce-21d594318b41
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Slivers.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And
