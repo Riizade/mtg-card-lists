@@ -1,29 +1,23 @@
-1x Priest of the Haunted Edge
-1x Relentless Dead
-1x Rime Transfusion
-1x Cemetery Reaper
+1x Gray Merchant of Asphodel
+1x Grim Draugr
+1x Death Baron
+1x Victimize
+2x Shimmerdrift Vale
 1x Chilling Shade
 1x Dead of Winter
-1x Death Baron
-1x Grim Draugr
-1x Victimize
-1x Drag to the Underworld
-1x Draugr Necromancer
-1x Endless Ranks of the Dead
-1x Dread Presence
+1x Rime Transfusion
 1x Hailstorm Valkyrie
-1x Gray Merchant of Asphodel
-1x Tormod, the Desecrator
 1x Archghoul of Thraben
 1x Blood on the Snow
+7x Snow-Covered Swamp
+1x Relentless Dead
+1x Priest of the Haunted Edge
+1x Drag to the Underworld
+1x Endless Ranks of the Dead
+1x Cemetery Reaper
 1x Dark Depths
-1x Scrying Sheets
-2x Shimmerdrift Vale
 1x Command Tower
-1x Snow-Covered Swamp
-1x Snow-Covered Swamp
-1x Snow-Covered Swamp
-1x Snow-Covered Swamp
-1x Snow-Covered Swamp
-1x Snow-Covered Swamp
-1x Snow-Covered Swamp
+1x Draugr Necromancer
+1x Dread Presence
+1x Tormod, the Desecrator
+1x Scrying Sheets

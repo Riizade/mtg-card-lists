@@ -1,30 +1,21 @@
-1x Aspect of Hydra
-1x Hungering Hydra
-1x Ancient Animus
-1x Hooded Hydra
-1x Hydra Omnivore
-1x Inscription of Abundance
 1x Steelbane Hydra
+1x Inscription of Abundance
 1x Voracious Hydra
-1x Hydra's Growth
+10x Forest
+1x Hungering Hydra
+1x Rhonas's Monument
+1x Command Tower
 1x Invigorating Surge
 1x Managorger Hydra
-1x Polukranos, World Eater
-1x Kalonian Hydra
-1x Vastwoof Hydra
-1x Gargos, Vicious Watcher
-1x Rhona's Monument
+1x Vastwood Hydra
 1x Apex Devastator
+1x Hydra's Growth
+1x Ancient Animus
+1x Aspect of Hydra
+1x Kalonian Hydra
+1x Polukranos, World Eater
+1x Hooded Hydra
+1x Hydra Omnivore
 1x Ash Barrens
-1x Command Tower
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
+1x Gargos, Vicious Watcher
 1x Thriving Grove

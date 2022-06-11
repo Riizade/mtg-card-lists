@@ -1,30 +1,23 @@
-1x Fervent Champion
-1x Red Sun's Zenith
-1x Blood Knight
+1x Joust
 1x Bloodsworn Steward
 1x Embereth Shieldbreaker
-1x Joust
+1x Icon of Ancestry
+1x Ogre Errant
+1x Embercleave
+1x Red Sun's Zenith
+1x Syr Carah, the Bold
+1x Sigiled Sword of Valeron
+1x Varchild, Betrayer of Kjeldor
+1x Deathrender
+1x Blood Knight
+1x Skullcrack
+1x Ash Barrens
+8x Mountain
+1x Thriving Bluff
+1x Command Tower
+1x Embereth Paladin
+1x Fervent Champion
+1x Castle Embereth
 1x Rimrock Knight
 1x Bonecrusher Giant
-1x Varchild, Betrayer of Kjeldor
-1x Embereth Paladin
-1x Ogre Errant
-1x Syr Carah, the Bold
-1x Embercleave
-1x Icon of Ancestry
-1x Sigiled Sword of Valeron
 1x Crimson Honor Guard
-1x Deathrender
-1x Skullcrack
-1x Castle Embereth
-1x Ash Barrens
-1x Command Tower
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Thriving Bluff

@@ -1,30 +1,28 @@
-1x Slithermuse
-1x Mulldrifter
-1x Healer of the Glade
-1x Ivy Elemental
-1x Kenrith's Transformation
-1x Leafkin Druid
-1x Fertilid
-1x Overgrowth Elemental
-1x Growth Spiral
-1x Nissa, Steward of Elements
-1x Talisman of Curiosity
-1x Deep-Sea Kraken
-1x Stormsurge Kraken
-1x Risen Reef
-1x Voidslime
-1x Aesi, Tyrant of Gyre Strait
-1x Arixmethes, Slumbering Isle
-1x Parcelbeast
 1x Barkchannel Pathway
-1x Botanical Sanctum
-1x Breeding Pool
-1x Forest
-1x Forest
-1x Hinterland Harbor
+1x Growth Spiral
 1x Ash Barrens
+2x Forest
+1x Nissa, Steward of Elements
+1x Slithermuse
+1x Hinterland Harbor
+1x Aesi, Tyrant of Gyre Strait
+1x Leafkin Druid
 1x Command Tower
-1x Island
-1x Island
+2x Island
 1x Temple of Mystery
 1x Thriving Grove
+1x Risen Reef
+1x Arixmethes, Slumbering Isle
+1x Healer of the Glade
+1x Mulldrifter
+1x Kenrith's Transformation
+1x Fertilid
+1x Parcelbeast
+1x Ivy Elemental
+1x Voidslime
+1x Talisman of Curiosity
+1x Botanical Sanctum
+1x Breeding Pool
+1x Overgrowth Elemental
+1x Deep-Sea Kraken
+1x Stormsurge Kraken

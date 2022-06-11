@@ -1,30 +1,22 @@
-1x Experiment One
-1x Hexdrinker
+1x Lovestruck Beast
 1x Pelt Collector
-1x Kraul Harpooner
-1x Lambholt Pacifist
-1x Nessian Hornbeetle
-1x Scavenging Ooze
+1x Experiment One
 1x Strangleroot Geist
 1x Boon Satyr
-1x Garruk's Harbinger
-1x Lovestruck Beast
 1x Prowling Serpopard
+1x Ghalta, Primal Hunger
+1x Thriving Grove
+1x Vines of Vastwood
 1x Rhonas the Indomitable
 1x Goreclaw, Terror of Qal Sisma
-1x Ghalta, Primal Hunger
-1x Mutagenic Growth
-1x Vines of Vastwood
+1x Hexdrinker
+1x Nessian Hornbeetle
 1x Savage Swipe
 1x Ash Barrens
+1x Garruk's Harbinger
+1x Scavenging Ooze
 1x Command Tower
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Thriving Grove
+1x Lambholt Pacifist
+9x Forest
+1x Kraul Harpooner
+1x Mutagenic Growth

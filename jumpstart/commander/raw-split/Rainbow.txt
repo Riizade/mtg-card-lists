@@ -1,30 +1,30 @@
-1x Scion of Draco
+1x Knight of the Reliquary
+1x Fire // Ice
+1x Bring to Light
+1x Bloodstained Mire
+1x Raugrin Triome
+1x Dreadbore
+1x Deathrite Shaman
+1x Polluted Delta
+1x Command Tower
+1x Ketria Triome
+1x Seraph of the Scales
 1x Time Wipe
 1x Baleful Strix
-1x The Scarab God
-1x Dreadbore
-1x Kolaghan's Command
-1x Bloodbraid Elf
-1x Ravager Wurm
-1x Knight of the Reliquary
-1x Seraph of the Scales
-1x Fire // Ice
-1x Deathrite Shaman
-1x Abrupt Decay
-1x Lightning Helix
-1x Aurelia, Exemplar of Justice
 1x Uro, Titan of Nature's Wrath
-1x Bring to Light
-1x Niv-Mizzet Reborn
-1x Bloodstained Mire
-1x City of Brass
-1x Command Tower
-1x Flooded Strand
-1x Indatha Triome
-1x Ketria Triome
-1x Polluted Delta
-1x Raugrin Triome
-1x Savai Triome
-1x Windswept Heath
 1x Wooded Foothills
+1x Kolaghan's Command
+1x Indatha Triome
+1x Lightning Helix
 1x Zagoth Triome
+1x Bloodbraid Elf
+1x Niv-Mizzet Reborn
+1x Flooded Strand
+1x Windswept Heath
+1x The Scarab God
+1x Abrupt Decay
+1x Aurelia, Exemplar of Justice
+1x Scion of Draco
+1x Savai Triome
+1x City of Brass
+1x Ravager Wurm

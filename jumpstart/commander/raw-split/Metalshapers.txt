@@ -1,31 +1,24 @@
-1x Etherium Sculptor
 1x Thirst for Knowledge
-1x Urza, Lord High Artificer
 1x Thoughtcast
-1x Torrential Gearhulk
-1x Assert Authority
-1x Broodstar
 1x Howling Mine
-1x Steel Overseer
-1x Emry, Lurker of the Loch
-1x Chief of the Foundry
-1x Phyrexian Metamorph
-1x Sai, Master Thopterist
-1x Foundry Inspector
+1x Seat of the Synod
 1x Palladium Myr
 1x Jhoira's Familiar
-1x Karn, Scion of Urza
+1x Thriving Isle
+1x Urza, Lord High Artificer
+1x Phyrexian Metamorph
 1x Thran Dynamo
+1x Etherium Sculptor
+1x Steel Overseer
+1x Broodstar
+1x Chief of the Foundry
+1x Sai, Master Thopterist
+1x Foundry Inspector
+1x Command Tower
 1x Spellskite
+7x Island
+1x Torrential Gearhulk
+1x Karn, Scion of Urza
 1x Darksteel Citadel
 1x Ash Barrens
-1x Command Tower
-1x Island
-1x Island
-1x Island
-1x Island
-1x Island
-1x Island
-1x Island
-1x Seat of the Synod
-1x Thriving Isle
+1x Assert Authority

@@ -1,30 +1,23 @@
-1x Elvish Mystic
-1x Essence Warden
-1x Llanowar Elves
-1x Quirion Ranger
-1x Elvish Visionary
-1x Elvish Warmaster
-1x Wildborn Preserver
-1x Elvish Archdruid
-1x Ezuri, Renegade Leader
-1x Imperious Perfect
 1x Reclamation Sage
-1x Beast Whisperer
-1x Immaculate Magistrate
-1x Lys Alana Huntmaster
-1x Regal Force
+1x Quirion Ranger
 1x Freyalise, Llanowar's Fury
-1x Return of the Wildspeaker
 1x Elvish Promenade
 1x Ash Barrens
-1x Command Tower
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Pendelhaven
+1x Lys Alana Huntmaster
+1x Return of the Wildspeaker
+1x Elvish Warmaster
 1x Thriving Grove
+1x Llanowar Elves
+1x Imperious Perfect
+1x Wildborn Preserver
+1x Elvish Mystic
+1x Essence Warden
+1x Regal Force
+8x Forest
+1x Beast Whisperer
+1x Elvish Visionary
+1x Immaculate Magistrate
+1x Pendelhaven
+1x Command Tower
+1x Ezuri, Renegade Leader
+1x Elvish Archdruid

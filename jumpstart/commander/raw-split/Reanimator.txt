@@ -1,30 +1,23 @@
-1x Stitcher's Supplier
 1x Golgari Thug
-1x Nullpriest of Oblivion
-1x Egon, God of Death
-1x Hunted Nightmare
-1x Rankle, Master of Pranks
-1x Doom Whisperer
-1x Burning-Rune Demon
 1x Grave Titan
-1x Massacre Wurm
-1x Cast Down
-1x Reanimate
-1x Unearth
 1x Collective Brutality
 1x Ransack the Lab
-1x Stitch Together
-1x Buried Alive
-1x Animate Dead
-1x Ash Barrens
-1x Castle Locthwain
-1x Command Tower
-1x Swamp
-1x Swamp
-1x Swamp
-1x Swamp
-1x Swamp
-1x Swamp
-1x Swamp
-1x Swamp
 1x Thriving Moor
+1x Egon, God of Death
+1x Castle Locthwain
+1x Ash Barrens
+1x Buried Alive
+1x Stitcher's Supplier
+1x Rankle, Master of Pranks
+1x Command Tower
+1x Massacre Wurm
+1x Cast Down
+1x Stitch Together
+1x Doom Whisperer
+1x Reanimate
+1x Unearth
+1x Animate Dead
+8x Swamp
+1x Burning-Rune Demon
+1x Hunted Nightmare
+1x Nullpriest of Oblivion

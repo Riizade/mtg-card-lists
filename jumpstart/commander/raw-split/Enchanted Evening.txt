@@ -1,30 +1,22 @@
-1x Keen Sense
+1x Eternal Witness
+1x Predatory Urge
+1x Hydra's Growth
 1x Alpha Authority
+1x Rancor
+1x Ash Barrens
+1x Thriving Grove
+1x Enchantress's Presence
+1x Eidolon of Blossoms
+1x Gaea's Embrace
+1x Ancestral Mask
+1x Yavimaya Enchantress
+1x Arasta of the Endless Web
+1x Command Tower
+1x Helm of the Gods
+1x Setessan Champion
 1x Argothian Enchantress
 1x Destiny Spinner
-1x Ancestral Mask
-1x Enchantress's Presence
-1x Eternal Witness
-1x Hydra's Growth
-1x Setessan Champion
-1x Song of the Dryads
-1x Yavimaya Enchantress
+9x Forest
 1x Nylea, Keen-Eyed
-1x Eidolon of Blossoms
-1x Rancor
-1x Arasta of the Endless Web
-1x Gaea's Embrace
-1x Predatory Urge
-1x Helm of the Gods
-1x Ash Barrens
-1x Command Tower
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Forest
-1x Thriving Grove
+1x Song of the Dryads
+1x Keen Sense

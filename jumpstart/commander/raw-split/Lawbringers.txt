@@ -1,30 +1,22 @@
-1x Authority of the Consuls
-1x Silence
-1x Grand Abolisher
-1x Imposing Sovereign
-1x Suture Priest
-1x Aura of Silence
+1x Elesh Norn, Grand Cenobite
+1x Command Tower
 1x Mentor of the Meek
 1x Prison Realm
-1x Sanctuary Lockdown
-1x Thalia, Heretic Cathar
-1x Thalia, Guardian of Thraben
-1x Hushbringer
-1x Alms Collector
-1x Archon of Emeria
-1x Mangara, the Diplomat
-1x Michiko Konda, Truth Seeker
-1x Smothering Tithe
-1x Elesh Norn, Grand Cenobite
-1x Ash Barrens
-1x Command Tower
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
+1x Grand Abolisher
 1x Thriving Heath
+1x Imposing Sovereign
+1x Hushbringer
+1x Thalia, Heretic Cathar
+1x Michiko Konda, Truth Seeker
+9x Plains
+1x Silence
+1x Ash Barrens
+1x Suture Priest
+1x Alms Collector
+1x Authority of the Consuls
+1x Archon of Emeria
+1x Aura of Silence
+1x Sanctuary Lockdown
+1x Thalia, Guardian of Thraben
+1x Mangara, the Diplomat
+1x Smothering Tithe

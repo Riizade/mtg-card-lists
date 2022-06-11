@@ -1,30 +1,21 @@
-1x Disperse
-1x Silumgar's Scorn
-1x Sky Diamond
-1x Monastery Siege
-1x Neutralize
-1x Warden of Evos Isle
-1x Phantasmal Dragon
-1x Icefall Regent
 1x Keiga, the Tide Star
+1x Disperse
+1x Icefall Regent
+1x Silumgar's Scorn
 1x Shimmer Dragon
-1x Paradise Mantle
-1x Mind Stone
 1x Dragon's Hoard
+1x Ash Barrens
+1x Paradise Mantle
+1x Warden of Evos Isle
+1x Mind Stone
+1x Phantasmal Dragon
+1x Lapis Orb of Dragonkind
+1x Monastery Siege
+1x Sky Diamond
+1x Neutralize
 1x Renari, Merchant of Marvels
 1x Blue Dragon
-1x Lapis Orb of Dragonkind
-1x Steel Hellkite
-1x Ash Barrens
 1x Command Tower
-1x Island
-1x Island
-1x Island
-1x Island
-1x Island
-1x Island
-1x Island
-1x Island
-1x Island
-1x Island
 1x Thriving Isle
+10x Island
+1x Steel Hellkite

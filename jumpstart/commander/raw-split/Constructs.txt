@@ -1,30 +1,30 @@
+1x Glimmervoid
 1x Hangarback Walker
-1x Stonecoil Serpent
-1x Walking Ballista
-1x Arcbound Worker
-1x Zabaz, the Glimmerwasp
-1x Arcbound Ravager
-1x Metallic Mimic
-1x Monoskelion
-1x Steel Overseer
-1x Adaptive Automaton
-1x Scrapyard Recombiner
+1x Karn, Scion of Urza
 1x Myriad Construct
 1x Myr Battlesphere
-1x Karn, Scion of Urza
-1x Ghostfire Blade
-1x Relic of Progenitus
-1x The Ozolith
-1x Ratchet Bomb
-1x Ash Barrens
 1x Blinkmoth Nexus
-1x Buried Ruin
-1x Cave of Temptation
-1x Forge of Heroes
-1x Foundry of the Consuls
-1x Glimmervoid
-1x Karn's Bastion
-1x Power Depot
 1x Ruins of Oran-Rief
-1x Spire of Industry
+1x Steel Overseer
+1x Cave of Temptation
+1x Arcbound Ravager
+1x Walking Ballista
+1x Foundry of the Consuls
+1x Relic of Progenitus
 1x Tyrite Sanctum
+1x Scrapyard Recombiner
+1x Buried Ruin
+1x Metallic Mimic
+1x Zabaz, the Glimmerwasp
+1x Forge of Heroes
+1x Arcbound Worker
+1x Monoskelion
+1x Ratchet Bomb
+1x Adaptive Automaton
+1x Power Depot
+1x Ghostfire Blade
+1x The Ozolith
+1x Ash Barrens
+1x Karn's Bastion
+1x Stonecoil Serpent
+1x Spire of Industry

@@ -1,30 +1,28 @@
-1x Vraska's Finisher
-1x Archetype of Finality
-1x Fynn, the Fangbearer
-1x Bow of Nylea
-1x Skullwinder
-1x Deadly Allure
-1x Talisman of Resilience
-1x Leyline Prowler
-1x Pharika, God of Affliction
-1x Pitiless Gorgon
-1x Poison-Tip Archer
 1x Reaper of the Wilds
-1x Vraska, Swarm's Eminence
 1x Back for More
-1x Acidic Slime
 1x Hooded Blightfang
+1x Skullwinder
+2x Forest
+1x Pitiless Gorgon
+1x Bow of Nylea
+1x Poison-Tip Archer
+1x Archetype of Finality
+1x Pharika, God of Affliction
+1x Talisman of Resilience
+1x Deadly Allure
+1x Acidic Slime
 1x Deathreap Ritual
-1x Gorgon Flail
-1x Blooming Marsh
-1x Darkbore Pathway
-1x Ash Barrens
 1x Command Tower
-1x Forest
-1x Forest
 1x Overgrown Tomb
-1x Swamp
-1x Swamp
 1x Temple of Malady
+1x Blooming Marsh
 1x Thriving Grove
+1x Vraska's Finisher
+1x Darkbore Pathway
+2x Swamp
 1x Woodland Cemetery
+1x Gorgon Flail
+1x Fynn, the Fangbearer
+1x Vraska, Swarm's Eminence
+1x Leyline Prowler
+1x Ash Barrens

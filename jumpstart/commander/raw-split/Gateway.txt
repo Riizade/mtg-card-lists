@@ -1,30 +1,30 @@
-1x Hold the Gates
-1x Guild Summit
-1x Opal Lake Gatekeepers
-1x Ubul Sar Gatekeepers
-1x Gates Ablaze
-1x Open the Gates
-1x Gatecreeper Vine
-1x Greenside Watcher
-1x District Guide
-1x Gatebreaker Ram
-1x Circuitous Route
-1x Saruli Gatekeepers
-1x Gateway Sneak
-1x Archway Angel
-1x Golos, Tireless Pilgrim
-1x Gate Colossus
-1x Maze's End
-1x Basilisk Gate
-1x Baldur's Gate
-1x Gond Gate
-1x Plaza of Harmony
-1x Black Dragon Gate
 1x Citadel Gate
+1x Gatebreaker Ram
+1x Archway Angel
+1x Gate Colossus
+1x Guild Summit
+1x Greenside Watcher
+1x Hold the Gates
+1x Circuitous Route
+1x District Guide
+1x Baldur's Gate
+1x Gatecreeper Vine
+1x Gond Gate
+1x Gruul Guildgate
+1x Plaza of Harmony
+1x Gateway Plaza
+1x Open the Gates
+1x Golos, Tireless Pilgrim
+1x Sea Gate
+1x Gateway Sneak
+1x Maze's End
+1x Ubul Sar Gatekeepers
 1x Cliffgate
 1x Manor Gate
-1x Sea Gate
+1x Opal Lake Gatekeepers
+1x Basilisk Gate
 1x Heap Gate
-1x Gateway Plaza
+1x Black Dragon Gate
+1x Saruli Gatekeepers
+1x Gates Ablaze
 1x Simic Guildgate
-1x Gruul Guildgate

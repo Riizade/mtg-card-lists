@@ -1,30 +1,22 @@
 1x Bonfire of the Damned
-1x Devil's Play
-1x Firebolt
-1x Vexing Devil
+1x Hobblefiend
 1x Fiery Temper
-1x Make Mischief
-1x Sin Prodder
-1x Tibalt, Rakish Instigator
-1x Zurzoth, Chaos Rider
-1x Dance with Devils
+1x Ash Barrens
 1x Hellrider
 1x Wildfire Devils
-1x Diabolical Salvation
-1x Fiendish Duo
+1x Sin Prodder
+1x Vexing Devil
+1x Devil's Play
 1x Bedlam Reveler
-1x Spiteful Prankster
-1x Hobblefiend
-1x Burn Down the House
-1x Ash Barrens
 1x Command Tower
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
+1x Tibalt, Rakish Instigator
+1x Make Mischief
+1x Zurzoth, Chaos Rider
+1x Firebolt
+1x Burn Down the House
+1x Diabolical Salvation
+9x Mountain
+1x Fiendish Duo
+1x Dance with Devils
+1x Spiteful Prankster
 1x Thriving Bluff

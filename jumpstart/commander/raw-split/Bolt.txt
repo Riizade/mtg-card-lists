@@ -1,30 +1,23 @@
-1x Chain Lightning
+8x Mountain
 1x Goblin Guide
-1x Lightning Bolt
 1x Monastery Swiftspear
-1x Shock
-1x Searing Spear
-1x Electrodominance
-1x Lightning Strike
-1x Robber of the Rich
-1x Chandra's Spitfire
-1x Lightning Phoenix
-1x Phoenix of Ash
-1x Rekindling Phoenix
-1x Goldspan Dragon
-1x Combat Celebrant
-1x Urabrask the Hidden
 1x Lightning Greaves
+1x Electrodominance
+1x Robber of the Rich
 1x Harsh Mentor
-1x Hanweir Battlements
+1x Combat Celebrant
 1x Ash Barrens
-1x Command Tower
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
+1x Shock
+1x Hanweir Battlements
 1x Thriving Bluff
+1x Urabrask the Hidden
+1x Goldspan Dragon
+1x Lightning Strike
+1x Chandra's Spitfire
+1x Lightning Bolt
+1x Chain Lightning
+1x Rekindling Phoenix
+1x Command Tower
+1x Searing Spear
+1x Phoenix of Ash
+1x Lightning Phoenix

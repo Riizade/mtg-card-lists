@@ -1,30 +1,22 @@
-1x Banefire
-1x Dragonmaster Outcast
-1x Fireball
-1x Dragonkin Berserker
-1x Dragonlord's Servant
-1x Scorching Dragonfire
-1x Dragonspeaker Shaman
-1x Avaricious Dragon
-1x Leyline Tyrant
-1x Outpost Siege
-1x Demanding Dragon
-1x Goldspan Dragon
-1x Terror of the Peaks
-1x Lathliss, Dragon Queen
-1x Scourge of Valkas
-1x Dragon's Hoard
 1x Minion of the Mighty
+9x Mountain
+1x Fireball
+1x Scorching Dragonfire
+1x Leyline Tyrant
+1x Dragonmaster Outcast
+1x Outpost Siege
+1x Lathliss, Dragon Queen
+1x Dragon's Hoard
+1x Dragonspeaker Shaman
 1x Orb of Dragonkind
+1x Terror of the Peaks
+1x Goldspan Dragon
+1x Scourge of Valkas
 1x Ash Barrens
-1x Command Tower
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
+1x Banefire
+1x Dragonkin Berserker
+1x Avaricious Dragon
 1x Thriving Bluff
+1x Demanding Dragon
+1x Command Tower
+1x Dragonlord's Servant

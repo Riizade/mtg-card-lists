@@ -1,30 +1,22 @@
 1x Phyrexian Reclamation
-1x Vicious Conquistador
-1x Blood Artist
-1x Feast of Blood
-1x Urge to Feed
-1x Vampire Hexmage
-1x Arterial Flow
-1x Bloodthirsty Aerialist
-1x Veinwitch Coven
-1x Captivating Vampire
-1x Sorin, Imperious Bloodlord
-1x Defiant Bloodlord
 1x Vampire Nighthawk
+1x Urge to Feed
+1x Defiant Bloodlord
 1x Vito, Thorn of the Dusk Rose
-1x Exsanguinate
-1x Bloodline Keeper
-1x New Blood
-1x Twilight Prophet
-1x Ash Barrens
 1x Command Tower
-1x Swamp
-1x Swamp
-1x Swamp
-1x Swamp
-1x Swamp
-1x Swamp
-1x Swamp
-1x Swamp
-1x Swamp
+1x Feast of Blood
+1x Veinwitch Coven
+1x Bloodthirsty Aerialist
+1x Sorin, Imperious Bloodlord
+1x Bloodline Keeper
+1x Twilight Prophet
+1x Captivating Vampire
+1x Vicious Conquistador
+1x New Blood
+1x Ash Barrens
+1x Vampire Hexmage
 1x Thriving Moor
+1x Blood Artist
+1x Exsanguinate
+9x Swamp
+1x Arterial Flow

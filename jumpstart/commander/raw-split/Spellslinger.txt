@@ -1,30 +1,23 @@
-1x Baral, Chief of Compliance
-1x Snapcaster Mage
+1x Docent of Perfection
 1x Spellseeker
+1x Ash Barrens
+1x Reality Shift
+1x Ponder
+1x Mystic Sanctuary
+1x Command Tower
+1x Baral, Chief of Compliance
+1x Serum Visions
+1x Into the Roil
 1x Niblis of Frost
 1x Talrand, Sky Summoner
-1x Docent of Perfection
-1x Stormwing Entity
-1x Into the Roil
-1x Mana Leak
 1x Radical Idea
-1x Reality Shift
 1x Remand
 1x Think Twice
 1x Exclude
 1x Gitaxian Probe
-1x Ponder
+1x Snapcaster Mage
 1x Preordain
-1x Serum Visions
-1x Ash Barrens
-1x Command Tower
-1x Island
-1x Island
-1x Island
-1x Island
-1x Island
-1x Island
-1x Island
-1x Island
-1x Mystic Sanctuary
+8x Island
 1x Thriving Isle
+1x Mana Leak
+1x Stormwing Entity

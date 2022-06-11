@@ -1,30 +1,23 @@
-1x Dauntless Bodyguard
-1x Deftblade Elite
-1x Mother of Runes
-1x Student of Warfare
-1x Adanto Vanguard
 1x Anafenza, Kin-Tree Spirit
-1x Glory-Bound Initiate
-1x Knight of Glory
+8x Plains
+1x Adanto Vanguard
+1x Silverblade Paladin
+1x Student of Warfare
+1x Path to Exile
+1x Odric, Lunarch Marshal
+1x Dauntless Bodyguard
 1x Luminarch Aspirant
 1x Porcelain Legionnaire
+1x Thriving Heath
 1x Ranger-Captain of Eos
-1x Silverblade Paladin
-1x Odric, Lunarch Marshal
-1x Sublime Archangel
 1x Baneslayer Angel
-1x Elspeth, Knight-Errant
+1x Knight of Glory
+1x Glory-Bound Initiate
+1x Deftblade Elite
+1x Mother of Runes
+1x Sublime Archangel
 1x Brave the Elements
-1x Path to Exile
 1x Ash Barrens
 1x Castle Ardenvale
+1x Elspeth, Knight-Errant
 1x Command Tower
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Thriving Heath

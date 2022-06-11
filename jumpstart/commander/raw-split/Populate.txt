@@ -1,30 +1,28 @@
-1x Secure the Wastes
-1x Luminarch Ascension
-1x Glorious Anthem
-1x Felidar Retreat
 1x Elspeth, Sun's Champion
 1x Bramble Sovereign
-1x Parallel Lives
-1x Call of the Conclave
-1x Talisman of Unity
-1x Knight of Autumn
-1x Wayfaring Temple
-1x Growing Ranks
-1x Trostani, Selesnya's Voice
-1x Cadira, Caller of the Small
-1x Rhys the Redeemed
-1x Armada Wurm
-1x Sigarda, Heron's Grace
-1x Trostani Discordant
-1x Branchloft Pathway
+1x Luminarch Ascension
 1x Ash Barrens
-1x Command Tower
-1x Forest
-1x Forest
-1x Plains
-1x Plains
-1x Razorverge Thicket
+1x Trostani, Selesnya's Voice
+1x Talisman of Unity
+1x Glorious Anthem
+1x Rhys the Redeemed
+1x Knight of Autumn
+1x Sigarda, Heron's Grace
+2x Forest
 1x Sunpetal Grove
+1x Growing Ranks
+1x Parallel Lives
+1x Trostani Discordant
+1x Secure the Wastes
+1x Razorverge Thicket
 1x Temple Garden
 1x Temple of Plenty
+1x Felidar Retreat
+1x Branchloft Pathway
 1x Thriving Heath
+1x Cadira, Caller of the Small
+1x Wayfaring Temple
+2x Plains
+1x Command Tower
+1x Armada Wurm
+1x Call of the Conclave

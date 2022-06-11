@@ -1,30 +1,22 @@
+1x Vanquisher's Banner
 1x Legion's Landing
-1x Sheltering Light
-1x Skymarcher Aspirant
-1x Adanto Vanguard
-1x Martyr of Dusk
-1x Paladin of Atonement
-1x Paladin of the Bloodstained
-1x Forerunner of the Legion
-1x Mavren Fein, Dusk Apostle
-1x Queen's Commission
-1x Radiant Destiny
 1x Bishop of Binding
+1x Mavren Fein, Dusk Apostle
+1x Sheltering Light
+1x Radiant Destiny
+1x Martyr of Dusk
+1x Paladin of the Bloodstained
+1x Skymarcher Aspirant
+1x Forerunner of the Legion
+1x Famished Paladin
+1x Paladin of Atonement
+1x Adanto Vanguard
+1x Queen's Commission
 1x Conclave Tribunal
+1x Welcoming Vampire
+1x Command Tower
+1x Thriving Heath
 1x Settle the Wreckage
 1x Bishop of Rebirth
-1x Vanquisher's Banner
-1x Welcoming Vampire
-1x Famished Paladin
 1x Ash Barrens
-1x Command Tower
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Thriving Heath
+9x Plains

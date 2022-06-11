@@ -1,30 +1,22 @@
-1x Forge Devil
-1x Magus of the Wheel
-1x Zurzoth, Chaos Rider
-1x Fireflux Squad
-1x Hellrider
-1x Boarding Party
-1x Capricious Efreet
-1x Combustible Gearhulk
-1x Etali, Primal Storm
 1x Tibalt, Rakish Instigator
-1x Lukka, Coppercoat Outcast
+1x Throes of Chaos
 1x Tibalt's Trickery
 1x Chaos Warp
-1x Chef's Kiss
-1x Glimpse of Tomorrow
-1x Wheel of Fate
-1x Throes of Chaos
 1x Whims of the Fates
+1x Magus of the Wheel
+1x Forge Devil
+1x Combustible Gearhulk
 1x Ash Barrens
-1x Command Tower
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
-1x Mountain
+1x Fireflux Squad
+1x Zurzoth, Chaos Rider
+9x Mountain
+1x Boarding Party
 1x Thriving Bluff
+1x Chef's Kiss
+1x Wheel of Fate
+1x Command Tower
+1x Glimpse of Tomorrow
+1x Etali, Primal Storm
+1x Capricious Efreet
+1x Hellrider
+1x Lukka, Coppercoat Outcast

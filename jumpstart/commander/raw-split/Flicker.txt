@@ -1,30 +1,25 @@
-1x Thraben Inspector
-1x Charming Prince
-1x Kor Skyfisher
-1x Wall of Omens
-1x Deadeye Harpooner
-1x Eldrazi Displacer
-1x Flickerwisp
-1x Wispmare
-1x Restoration Angel
-1x Geist-Honored Monk
 1x Reveillark
-1x Linvala, the Preserver
-1x Sun Titan
-1x Ephemerate
-1x Eerie Interlude
-1x Winds of Abandon
-1x Panharmonicon
+1x Thraben Inspector
 1x Oblivion Ring
+1x Charming Prince
+1x Geist-Honored Monk
+1x Panharmonicon
 1x Ash Barrens
 1x Command Tower
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
-1x Plains
 1x Radiant Fountain
-1x Shefet Dunes
-1x Thriving Heath
+1x Ephemerate
+1x Eldrazi Displacer
+6x Plains
 1x Wastes
+1x Kor Skyfisher
+1x Wispmare
+1x Shefet Dunes
+1x Restoration Angel
+1x Linvala, the Preserver
+1x Wall of Omens
+1x Deadeye Harpooner
+1x Thriving Heath
+1x Flickerwisp
+1x Winds of Abandon
+1x Sun Titan
+1x Eerie Interlude
