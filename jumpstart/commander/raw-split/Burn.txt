@@ -1,3 +1,5 @@
+1x Chandra, Torch of Defiance
+1x Syr Carah, the Bold
 1x Chain Lightning
 1x Ash Barrens
 1x Harsh Mentor
@@ -5,7 +7,6 @@
 1x Chandra's Phoenix
 8x Mountain
 1x Gorehorn Minotaurs
-1x Chandra, Torch of Defiance
 1x Guttersnipe
 1x Inferno Titan
 1x Lightning Bolt
@@ -16,7 +17,6 @@
 1x Burst Lightning
 1x Ramunap Ruins
 1x Grim Lavamancer
-1x Syr Carah, the Bold
 1x Thermo-Alchemist
 1x Flame Jab
 1x Thriving Bluff

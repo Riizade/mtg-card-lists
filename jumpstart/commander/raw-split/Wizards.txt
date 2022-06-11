@@ -1,3 +1,4 @@
+1x Naru Meha, Master Wizard
 1x Snapcaster Mage
 1x Exclusion Mage
 1x Sage of Fables
@@ -9,10 +10,9 @@
 1x Relic Amulet
 1x Thriving Isle
 1x Stream of Unconsciousness
-1x Naru Meha, Master Wizard
 1x Winged Words
 1x Frantic Search
-1x Talrand, Sky Summoner
+1x Azami, Lady of Scrolls
 1x Ash Barrens
 1x Command Tower
 9x Island

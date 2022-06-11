@@ -1,3 +1,4 @@
+1x Teysa, Orzhov Scion
 1x Brightclimb Pathway
 1x Concealed Courtyard
 1x Deathpact Angel
@@ -14,7 +15,6 @@
 1x Ministrant of Obligation
 1x Orzhov Enforcer
 1x Elenda, the Dusk Rose
-1x Teysa, Orzhov Scion
 1x Seraph of the Scales
 1x Godless Shrine
 2x Plains

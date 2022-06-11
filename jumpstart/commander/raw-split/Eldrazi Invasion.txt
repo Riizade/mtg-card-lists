@@ -1,3 +1,4 @@
+1x Kozilek, the Great Distortion
 1x Ancient Ziggurat
 1x Void Winnower
 1x Chromatic Orrery
@@ -5,7 +6,6 @@
 1x Matter Reshaper
 1x Fellwar Stone
 1x Artisan of Kozilek
-1x Kozilek, the Great Distortion
 1x Warping Wail
 1x All Is Dust
 1x Ash Barrens

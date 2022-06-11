@@ -1,3 +1,4 @@
+1x Tibalt, Rakish Instigator
 1x Bonfire of the Damned
 1x Hobblefiend
 1x Fiery Temper
@@ -9,7 +10,6 @@
 1x Devil's Play
 1x Bedlam Reveler
 1x Command Tower
-1x Tibalt, Rakish Instigator
 1x Make Mischief
 1x Zurzoth, Chaos Rider
 1x Firebolt

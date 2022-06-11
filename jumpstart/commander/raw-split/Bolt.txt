@@ -1,3 +1,4 @@
+1x Urabrask the Hidden
 8x Mountain
 1x Goblin Guide
 1x Monastery Swiftspear
@@ -10,7 +11,6 @@
 1x Shock
 1x Hanweir Battlements
 1x Thriving Bluff
-1x Urabrask the Hidden
 1x Goldspan Dragon
 1x Lightning Strike
 1x Chandra's Spitfire

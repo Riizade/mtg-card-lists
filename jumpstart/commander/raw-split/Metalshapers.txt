@@ -1,3 +1,4 @@
+1x Urza, Lord High Artificer
 1x Thirst for Knowledge
 1x Thoughtcast
 1x Howling Mine
@@ -5,7 +6,6 @@
 1x Palladium Myr
 1x Jhoira's Familiar
 1x Thriving Isle
-1x Urza, Lord High Artificer
 1x Phyrexian Metamorph
 1x Thran Dynamo
 1x Etherium Sculptor

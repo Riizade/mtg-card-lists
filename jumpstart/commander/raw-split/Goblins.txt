@@ -1,3 +1,4 @@
+1x Krenko, Mob Boss
 1x Goblin Bombardment
 1x Command Tower
 1x Skirk Prospector
@@ -7,7 +8,6 @@
 1x Castle Embereth
 8x Mountain
 1x Goblin Bushwhacker
-1x Krenko, Mob Boss
 1x Thriving Bluff
 1x Siege-Gang Commander
 1x Ash Barrens

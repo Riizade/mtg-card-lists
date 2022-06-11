@@ -1,3 +1,4 @@
+1x Sanctum of All
 1x Sanctum of Tranquil Light
 1x Go-Shintai of Boundless Vigor
 1x Serra's Sanctum
@@ -5,7 +6,6 @@
 1x Plains
 1x Sanctum of Stone Fangs
 1x Honden of Life's Web
-1x Sanctum of All
 1x Honden of Cleansing Fire
 1x Sterling Grove
 1x Go-Shintai of Shared Purpose

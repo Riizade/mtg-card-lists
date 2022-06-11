@@ -1,3 +1,5 @@
+1x Mangara, the Diplomat
+1x Thalia, Guardian of Thraben
 1x Elesh Norn, Grand Cenobite
 1x Command Tower
 1x Mentor of the Meek
@@ -17,6 +19,4 @@
 1x Archon of Emeria
 1x Aura of Silence
 1x Sanctuary Lockdown
-1x Thalia, Guardian of Thraben
-1x Mangara, the Diplomat
 1x Smothering Tithe

@@ -1,3 +1,4 @@
+1x Balan, Wandering Knight
 1x Ardenn, Intrepid Archaeologist
 1x Swiftfoot Boots
 1x Sword of Truth and Justice
@@ -13,7 +14,6 @@
 1x Heliod's Intervention
 1x Oust
 1x Sejiri Steppe
-1x Balan, Wandering Knight
 1x Puresteel Paladin
 1x Batterskull
 1x Thriving Heath

@@ -1,3 +1,5 @@
+1x Aurelia, the Warleader
+1x Aurelia, Exemplar of Justice
 1x Thriving Bluff
 1x Anya, Merciless Angel
 1x Talisman of Conviction
@@ -12,7 +14,6 @@
 1x Basandra, Battle Seraph
 1x Akroma, Angel of Fury
 1x Iroas, God of Victory
-1x Aurelia, Exemplar of Justice
 1x Inspiring Vantage
 1x Ash Barrens
 1x Needleverge Pathway
@@ -23,6 +24,5 @@
 1x Youthful Valkyrie
 1x Angelic Skirmisher
 1x Sacred Foundry
-1x Aurelia, the Warleader
 1x Temple of Triumph
 1x Gisela, Blade of Goldnight

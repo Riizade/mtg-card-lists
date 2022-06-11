@@ -1,3 +1,5 @@
+1x Gargos, Vicious Watcher
+1x Polukranos, World Eater
 1x Steelbane Hydra
 1x Inscription of Abundance
 1x Voracious Hydra
@@ -13,9 +15,7 @@
 1x Ancient Animus
 1x Aspect of Hydra
 1x Kalonian Hydra
-1x Polukranos, World Eater
 1x Hooded Hydra
 1x Hydra Omnivore
 1x Ash Barrens
-1x Gargos, Vicious Watcher
 1x Thriving Grove

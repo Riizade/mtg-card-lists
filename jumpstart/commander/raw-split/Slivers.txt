@@ -1,8 +1,9 @@
+1x The First Sliver
+1x Sliver Queen
 1x Sinew Sliver
 1x Island
 1x Forest
 1x Hivestone
-1x The First Sliver
 1x Gemhide Sliver
 1x The World Tree
 1x Predatory Sliver
@@ -16,7 +17,6 @@
 1x Cryptolith Rite
 1x Pulmonic Sliver
 1x Leeching Sliver
-1x Sliver Queen
 1x Thriving Grove
 1x Evolving Wilds
 1x Sliver Hivelord

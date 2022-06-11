@@ -1,3 +1,4 @@
+1x Golos, Tireless Pilgrim
 1x Citadel Gate
 1x Gatebreaker Ram
 1x Archway Angel
@@ -14,7 +15,6 @@
 1x Plaza of Harmony
 1x Gateway Plaza
 1x Open the Gates
-1x Golos, Tireless Pilgrim
 1x Sea Gate
 1x Gateway Sneak
 1x Maze's End

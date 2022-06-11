@@ -1,3 +1,4 @@
+1x Teferi, Master of Time
 1x Castle Vantress
 1x Ash Barrens
 1x Prohibit
@@ -8,7 +9,6 @@
 1x Command Tower
 1x Pestermite
 1x Essence Scatter
-1x Teferi, Master of Time
 1x Spellstutter Sprite
 1x Opt
 1x Nimble Obstructionist

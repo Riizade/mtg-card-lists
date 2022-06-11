@@ -1,6 +1,8 @@
 1x Skithiryx, the Blight Dragon
+1x Yawgmoth, Thran Physician
 1x Tainted Strike
-2x Ichor Rats
+1x Ichor Rats
+1x Core Prowler
 1x Septic Rats
 1x Karn's Bastion
 1x Sheoldred, Whispering One
@@ -21,4 +23,3 @@
 1x Phyrexian Arena
 1x Grafted Exoskeleton
 1x Death Wind
-1x Yawgmoth, Thran Physician

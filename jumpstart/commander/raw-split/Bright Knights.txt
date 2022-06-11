@@ -1,3 +1,4 @@
+1x Syr Carah, the Bold
 1x Joust
 1x Bloodsworn Steward
 1x Embereth Shieldbreaker
@@ -5,7 +6,6 @@
 1x Ogre Errant
 1x Embercleave
 1x Red Sun's Zenith
-1x Syr Carah, the Bold
 1x Sigiled Sword of Valeron
 1x Varchild, Betrayer of Kjeldor
 1x Deathrender

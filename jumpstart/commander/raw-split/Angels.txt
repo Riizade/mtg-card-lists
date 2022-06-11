@@ -1,3 +1,4 @@
+1x Lyra Dawnbringer
 1x Angelic Overseer
 1x Emeria's Call
 1x Ash Barrens
@@ -15,7 +16,6 @@
 1x Herald of War
 1x Righteous Valkyrie
 1x Archangel Avacyn
-1x Lyra Dawnbringer
 1x Sephara, Sky's Blade
 1x Valkyrie Harbinger
 8x Plains
