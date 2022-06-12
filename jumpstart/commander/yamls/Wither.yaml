@@ -12,7 +12,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -21,7 +21,7 @@ cards:
           x: 51
           y: 51
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\CommanderLogo.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\CommanderLogo.png"
         transparency: 1.0
         location:
           x: 110
@@ -41,7 +41,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -61,7 +61,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -81,7 +81,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -101,7 +101,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -111,17 +111,17 @@ cards:
           y: 51
   - name: Inquisition of Kozilek
     quantity: 1
-    scryfall_uuid: d47df2c2-437d-4b8e-82cc-1707e3efd5b5
+    scryfall_uuid: a6af6cee-a60a-4953-8e22-c3bddc435619
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: MysticalArchiveJPOval
     back_border: None
     commander: false
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -141,7 +141,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -161,7 +161,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -181,7 +181,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -201,7 +201,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -221,7 +221,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -241,7 +241,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -261,7 +261,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -281,7 +281,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -301,7 +301,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -321,7 +321,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -331,17 +331,17 @@ cards:
           y: 51
   - name: Plague Engineer
     quantity: 1
-    scryfall_uuid: efb61c20-84ae-45e7-9e8a-3f254f1b2a76
+    scryfall_uuid: 8f32b0e9-5eb2-4b26-8c06-5d4561f0295d
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature
-    back_border: NonCreature
+    front_border: Creature2015Oval
+    back_border: None
     commander: false
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -361,7 +361,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -381,7 +381,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -401,7 +401,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -421,7 +421,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -441,7 +441,7 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
@@ -461,7 +461,29 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\Wither.png"
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
+        transparency: 1.0
+        location:
+          x: 347
+          y: 980
+        size:
+          x: 51
+          y: 51
+  - name: Jousting Dummy
+    quantity: 1
+    scryfall_uuid: 3d0c95b0-7b63-40e8-92ad-5ae5ffd3c4c1
+    tags: []
+    front:
+      Image: "../../mtg-card-lists/jumpstart/commander/yamls/Wither.png"
+    back:
+      Image: "../../mtg-card-lists/jumpstart/commander/yamls/Wither.png"
+    front_border: None
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks:
+      - watermark:
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\Wither.png"
         transparency: 1.0
         location:
           x: 347
