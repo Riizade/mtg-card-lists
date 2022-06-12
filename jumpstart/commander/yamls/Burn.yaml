@@ -2,11 +2,11 @@
 cards:
   - name: "Chandra, Torch of Defiance"
     quantity: 1
-    scryfall_uuid: e885fd51-dba3-4ee5-acdd-b97238b6c678
+    scryfall_uuid: ff8086cd-b868-4f4e-823e-2635ad7ebc07
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -51,11 +51,11 @@ cards:
           y: 51
   - name: Chain Lightning
     quantity: 1
-    scryfall_uuid: bfb7fe8e-e348-4bf9-aa71-65f0675147e4
+    scryfall_uuid: b7cef88c-0ad6-47c4-b6c8-f989586aa635
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature2015Oval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -191,7 +191,7 @@ cards:
           y: 51
   - name: Guttersnipe
     quantity: 1
-    scryfall_uuid: 2bc0185e-8ba5-423c-a8aa-a55cc1f34cef
+    scryfall_uuid: bbc0f3e7-a287-4624-8266-ca617448fcaa
     tags: []
     front: Default
     back: Default
@@ -231,11 +231,11 @@ cards:
           y: 51
   - name: Lightning Bolt
     quantity: 1
-    scryfall_uuid: 4eaac4fd-95f5-4f38-b593-0101e79a20f9
+    scryfall_uuid: e3285e6b-3e79-4d7c-bf96-d920f973b122
     tags: []
     front: Default
     back: Default
-    front_border: MysticalArchiveENOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -251,7 +251,7 @@ cards:
           y: 51
   - name: "Chandra's Incinerator"
     quantity: 1
-    scryfall_uuid: b906cdb4-6a82-4611-abde-43566f9d01eb
+    scryfall_uuid: ed875705-b7b6-4464-b16f-61629ffed04f
     tags: []
     front: Default
     back: Default

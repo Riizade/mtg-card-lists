@@ -6,7 +6,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: Creature
+    front_border: Creature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -71,11 +71,11 @@ cards:
           y: 51
   - name: Monastery Swiftspear
     quantity: 1
-    scryfall_uuid: d4ef14b6-e604-40c3-bf7e-587a192a68bc
+    scryfall_uuid: bfa31067-78f4-4804-a544-44d2cbaa80c6
     tags: []
     front: Default
     back: Default
-    front_border: Creature2015Oval
+    front_border: Creature
     back_border: None
     commander: false
     sideboard: false
@@ -91,11 +91,11 @@ cards:
           y: 51
   - name: Lightning Greaves
     quantity: 1
-    scryfall_uuid: 70eab734-875b-4b76-901b-3ac7d2133ad9
+    scryfall_uuid: ca483a44-0eaa-4a2c-abef-de1e8f3f3766
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -211,11 +211,11 @@ cards:
           y: 51
   - name: Shock
     quantity: 1
-    scryfall_uuid: 2f4a8702-464b-44fd-b706-8a73dd9b0097
+    scryfall_uuid: efd56707-4a27-4102-a517-ed65436376aa
     tags: []
     front: Default
     back: Default
-    front_border: MysticalArchiveJPOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -331,11 +331,11 @@ cards:
           y: 51
   - name: Lightning Bolt
     quantity: 1
-    scryfall_uuid: 4eaac4fd-95f5-4f38-b593-0101e79a20f9
+    scryfall_uuid: 32a180dd-9641-4546-8940-9b21084f0c71
     tags: []
     front: Default
     back: Default
-    front_border: MysticalArchiveENOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -351,11 +351,11 @@ cards:
           y: 51
   - name: Chain Lightning
     quantity: 1
-    scryfall_uuid: bfb7fe8e-e348-4bf9-aa71-65f0675147e4
+    scryfall_uuid: b7cef88c-0ad6-47c4-b6c8-f989586aa635
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature2015Oval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false

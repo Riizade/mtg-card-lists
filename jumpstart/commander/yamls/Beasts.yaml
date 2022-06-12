@@ -36,7 +36,7 @@ cards:
     front: Default
     back: Default
     front_border: AdventurePromo
-    back_border: AdventurePromo
+    back_border: None
     commander: false
     sideboard: false
     watermarks:
@@ -211,7 +211,7 @@ cards:
           y: 51
   - name: Rhonas the Indomitable
     quantity: 1
-    scryfall_uuid: 453d854c-5092-4e00-a388-499353f246c3
+    scryfall_uuid: 50f23c47-278c-4188-8fb4-ae20a0c423c5
     tags: []
     front: Default
     back: Default
@@ -235,7 +235,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: Creature2015Oval
+    front_border: CreatureLevel2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -311,7 +311,7 @@ cards:
           y: 51
   - name: "Garruk's Harbinger"
     quantity: 1
-    scryfall_uuid: 6faee64c-2338-4b01-8e26-7b68539a998b
+    scryfall_uuid: 9e0fa0b6-5f3f-4669-84e8-2c38c9593d88
     tags: []
     front: Default
     back: Default
@@ -331,7 +331,7 @@ cards:
           y: 51
   - name: Scavenging Ooze
     quantity: 1
-    scryfall_uuid: ae57dc27-539b-45f2-a18a-ca1f699f645d
+    scryfall_uuid: 0a91920a-7de3-4e9b-9cce-ff43ce0157b8
     tags: []
     front: Default
     back: Default

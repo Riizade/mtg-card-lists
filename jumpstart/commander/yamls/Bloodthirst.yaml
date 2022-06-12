@@ -195,7 +195,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -311,7 +311,7 @@ cards:
           y: 51
   - name: Ash Barrens
     quantity: 1
-    scryfall_uuid: 9f4dd417-43fd-4dee-aaf2-80d425bd0191
+    scryfall_uuid: a2803e9d-cb96-44d8-9702-36d9c4d2ee45
     tags: []
     front: Default
     back: Default
