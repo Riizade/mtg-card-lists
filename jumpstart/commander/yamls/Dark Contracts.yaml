@@ -71,7 +71,7 @@ cards:
           y: 51
   - name: Gray Merchant of Asphodel
     quantity: 1
-    scryfall_uuid: d794d0a4-4041-43c0-aedb-e2a76611a3ea
+    scryfall_uuid: 430fcd3e-a70a-4554-9c48-1a1b11d0a95c
     tags: []
     front: Default
     back: Default
@@ -371,11 +371,11 @@ cards:
           y: 51
   - name: Dismember
     quantity: 1
-    scryfall_uuid: 03da66e3-a369-4433-a2b8-8625403d34b0
+    scryfall_uuid: 4ccd8394-cbc9-4346-9b48-f6be447b3e08
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -431,11 +431,11 @@ cards:
           y: 51
   - name: "Night's Whisper"
     quantity: 1
-    scryfall_uuid: f415a76e-6b35-442e-a2e1-9e368f550566
+    scryfall_uuid: e4638720-a55d-4c3b-b57d-2d028db5894d
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false

@@ -31,11 +31,11 @@ cards:
           y: 51
   - name: "Tibalt, Rakish Instigator"
     quantity: 1
-    scryfall_uuid: 1f20a82f-512e-47e7-9813-842cd5db1898
+    scryfall_uuid: 7fcd6cc0-91b5-47ca-8f3d-c25cf26b81d7
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -71,12 +71,12 @@ cards:
           y: 51
   - name: "Tibalt's Trickery"
     quantity: 1
-    scryfall_uuid: 7bcae1d1-f9fd-4d5f-a31d-23c7056f6881
+    scryfall_uuid: 9067f5b3-1685-42b6-b838-3e19f1f6b36e
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature
-    back_border: NonCreature
+    front_border: NonCreatureFullArtOval
+    back_border: None
     commander: false
     sideboard: false
     watermarks:
@@ -91,11 +91,11 @@ cards:
           y: 51
   - name: Chaos Warp
     quantity: 1
-    scryfall_uuid: 6d0a3996-5a03-481b-9bda-15c6f6e5f9c4
+    scryfall_uuid: 2b3e8885-badd-4222-9b46-5a95678cfa45
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -171,7 +171,7 @@ cards:
           y: 51
   - name: Combustible Gearhulk
     quantity: 1
-    scryfall_uuid: 57166f39-44b2-47ec-a4cb-39d3f7ffd5e0
+    scryfall_uuid: a861f50c-8152-4cf6-bb17-3efcfac3be9b
     tags: []
     front: Default
     back: Default

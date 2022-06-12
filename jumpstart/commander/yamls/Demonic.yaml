@@ -231,7 +231,7 @@ cards:
           y: 51
   - name: "Arguel's Blood Fast"
     quantity: 1
-    scryfall_uuid: d78cd000-3908-446d-b155-dd8af3d8f166
+    scryfall_uuid: c4ac7570-e74e-4081-ac53-cf41e695b7eb
     tags: []
     front: Default
     back: Default

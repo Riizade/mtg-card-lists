@@ -2,11 +2,11 @@
 cards:
   - name: "Tibalt, Rakish Instigator"
     quantity: 1
-    scryfall_uuid: 1f20a82f-512e-47e7-9813-842cd5db1898
+    scryfall_uuid: 7fcd6cc0-91b5-47ca-8f3d-c25cf26b81d7
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -371,7 +371,7 @@ cards:
           y: 51
   - name: Fiendish Duo
     quantity: 1
-    scryfall_uuid: 160d705f-48fb-4bff-a677-cdf1c3305080
+    scryfall_uuid: acb3ce9b-ee4f-410a-8db3-e87aeb0a4444
     tags: []
     front: Default
     back: Default

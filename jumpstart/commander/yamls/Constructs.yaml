@@ -51,11 +51,11 @@ cards:
           y: 51
   - name: Hangarback Walker
     quantity: 1
-    scryfall_uuid: 773916fd-060e-4abc-a060-e18768807571
+    scryfall_uuid: c246b845-dfca-47a3-aa56-074d30590320
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -191,7 +191,7 @@ cards:
           y: 51
   - name: Arcbound Ravager
     quantity: 1
-    scryfall_uuid: 6a898fbf-5c73-4a50-8bf5-126051747659
+    scryfall_uuid: eda7bda4-51cf-4648-8489-352d28d591fb
     tags: []
     front: Default
     back: Default
@@ -331,11 +331,11 @@ cards:
           y: 51
   - name: Metallic Mimic
     quantity: 1
-    scryfall_uuid: 23caa9ce-057a-40f6-a9fe-073c60b69fc2
+    scryfall_uuid: 1aa4eba9-9e91-4beb-9296-a18baa73a318
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature2015Oval
     back_border: None
     commander: false
     sideboard: false

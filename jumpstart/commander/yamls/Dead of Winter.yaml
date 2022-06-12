@@ -31,7 +31,7 @@ cards:
           y: 51
   - name: Gray Merchant of Asphodel
     quantity: 1
-    scryfall_uuid: d794d0a4-4041-43c0-aedb-e2a76611a3ea
+    scryfall_uuid: 7c1a7dd8-8034-4f59-a351-33666b26ff5a
     tags: []
     front: Default
     back: Default
@@ -91,7 +91,7 @@ cards:
           y: 51
   - name: Victimize
     quantity: 1
-    scryfall_uuid: b6eaeb18-a7e3-4b7d-b2c2-04a66a5b89d6
+    scryfall_uuid: 95f0f6fa-2415-4278-bf6c-83ea5aea69cf
     tags: []
     front: Default
     back: Default
@@ -251,11 +251,11 @@ cards:
           y: 51
   - name: Snow-Covered Swamp
     quantity: 7
-    scryfall_uuid: f19d95c5-278f-4ad5-99ea-9fcf85520de2
+    scryfall_uuid: 6aa85af8-15f5-4620-8aea-0b45c28372ed
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature2015Oval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
