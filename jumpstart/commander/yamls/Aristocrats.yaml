@@ -75,7 +75,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -211,11 +211,11 @@ cards:
           y: 51
   - name: Claim the Firstborn
     quantity: 1
-    scryfall_uuid: 1fba553e-eca3-453e-8f67-ec7e5c9f3946
+    scryfall_uuid: feaf1e6c-c7d9-4ac7-9aeb-c4b5d61548ec
     tags: []
     front: Default
     back: Default
-    front_border: MysticalArchiveJPOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -231,11 +231,11 @@ cards:
           y: 51
   - name: "Kroxa, Titan of Death's Hunger"
     quantity: 1
-    scryfall_uuid: 050ff430-2ad8-46d0-bfdc-cc7323b87101
+    scryfall_uuid: 6186ca35-4d28-4176-aaff-5b384a688aa6
     tags: []
     front: Default
     back: Default
-    front_border: CreatureLegendaryFullArtOval
+    front_border: CreatureTitanPromoOval
     back_border: None
     commander: false
     sideboard: false
