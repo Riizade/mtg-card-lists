@@ -131,11 +131,11 @@ cards:
           y: 51
   - name: Path to Exile
     quantity: 1
-    scryfall_uuid: 4e2fe951-4820-4555-8cee-621c66ed8620
+    scryfall_uuid: 206fd18a-f263-42cd-a77a-e40ae31a468a
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreatureSignatureGideon
     back_border: None
     commander: false
     sideboard: false
@@ -331,7 +331,7 @@ cards:
           y: 51
   - name: Mother of Runes
     quantity: 1
-    scryfall_uuid: f527010e-d382-4bd5-8de6-0e3898b80deb
+    scryfall_uuid: 8bdb0349-a759-473e-a192-7ca85ef8e515
     tags: []
     front: Default
     back: Default

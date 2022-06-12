@@ -6,7 +6,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: CreatureLegendary
+    front_border: CreatureKLDMDFCPromo
     back_border: None
     commander: false
     sideboard: false
@@ -271,11 +271,11 @@ cards:
           y: 51
   - name: Acidic Slime
     quantity: 1
-    scryfall_uuid: 1e6bd3fa-0d07-4519-b67f-67867ad13c89
+    scryfall_uuid: 33c95f5a-3b59-4103-8464-b43b42f451b3
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature
     back_border: None
     commander: false
     sideboard: false
@@ -511,11 +511,11 @@ cards:
           y: 51
   - name: "Vraska, Swarm's Eminence"
     quantity: 1
-    scryfall_uuid: f2a1df85-9dc9-470b-a0d8-956b63440a20
+    scryfall_uuid: 59ee2974-07e9-4506-903c-457cb7327dd8
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015
     back_border: None
     commander: false
     sideboard: false

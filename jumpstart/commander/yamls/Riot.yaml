@@ -151,11 +151,11 @@ cards:
           y: 51
   - name: "Domri, Anarch of Bolas"
     quantity: 1
-    scryfall_uuid: 4cd69ed9-4c33-4bb5-89a3-fd042d1daa1f
+    scryfall_uuid: c1af9881-e35b-4be2-8716-ea7c6664e22c
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false

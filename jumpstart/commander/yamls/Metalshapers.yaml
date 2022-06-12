@@ -91,11 +91,11 @@ cards:
           y: 51
   - name: Seat of the Synod
     quantity: 1
-    scryfall_uuid: ea58393a-7d69-4f99-90b7-ef6f31e4c80b
+    scryfall_uuid: 1fedc183-2d95-471c-ba78-2169e4df13f8
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -191,7 +191,7 @@ cards:
           y: 51
   - name: Thran Dynamo
     quantity: 1
-    scryfall_uuid: 186a57f5-5806-4373-90a6-0da950a11054
+    scryfall_uuid: 9ec28f97-5f7a-48aa-8c7c-4690cd728eb6
     tags: []
     front: Default
     back: Default
@@ -351,7 +351,7 @@ cards:
           y: 51
   - name: Spellskite
     quantity: 1
-    scryfall_uuid: 9cc7c56d-1a28-477b-b1d1-854b127e1afc
+    scryfall_uuid: aa9bf341-0060-467d-99b3-a5bc7f2270b8
     tags: []
     front: Default
     back: Default
@@ -391,7 +391,7 @@ cards:
           y: 51
   - name: Torrential Gearhulk
     quantity: 1
-    scryfall_uuid: d52868cb-087e-4f91-91bc-455f2e2e7cd7
+    scryfall_uuid: 7892c45c-1b17-4474-82fd-01f6d9a83181
     tags: []
     front: Default
     back: Default
@@ -431,11 +431,11 @@ cards:
           y: 51
   - name: Darksteel Citadel
     quantity: 1
-    scryfall_uuid: cdfafa38-e7db-4a42-99b8-fc65ab41c572
+    scryfall_uuid: bbdbde4e-6868-44e3-9d49-631d41b49a22
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false

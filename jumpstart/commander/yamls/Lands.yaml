@@ -471,11 +471,11 @@ cards:
           y: 51
   - name: "Nissa, Worldwaker"
     quantity: 1
-    scryfall_uuid: 4a37fbca-32db-40cc-9fd3-4764c7fd81e2
+    scryfall_uuid: 07eb2476-488b-4610-8567-f0456601f7fd
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false

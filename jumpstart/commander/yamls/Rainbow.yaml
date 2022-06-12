@@ -51,12 +51,12 @@ cards:
           y: 51
   - name: Fire // Ice
     quantity: 1
-    scryfall_uuid: e244eac9-8b94-4ac9-8dfd-744598148cd3
+    scryfall_uuid: 0e09b054-4d33-4a12-bf2a-9b0009f33044
     tags: []
     front: Default
     back: Default
     front_border: Split5Oval
-    back_border: Split2
+    back_border: None
     commander: false
     sideboard: false
     watermarks:
@@ -131,11 +131,11 @@ cards:
           y: 51
   - name: Dreadbore
     quantity: 1
-    scryfall_uuid: f15bf26b-d9cd-4aa6-a832-793b8631d681
+    scryfall_uuid: 6390e641-0ecd-46ea-b6eb-f7e638d61cfd
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -371,11 +371,11 @@ cards:
           y: 51
   - name: Lightning Helix
     quantity: 1
-    scryfall_uuid: 227ac87a-7196-40d0-ab00-98ebafcca09a
+    scryfall_uuid: 7053b773-a369-45b8-912f-ee66de3a63c6
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false

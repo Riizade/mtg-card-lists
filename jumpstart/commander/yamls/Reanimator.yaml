@@ -6,8 +6,8 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: CreatureLegendaryMDFCOval
-    back_border: NonCreatureLegendaryMDFC
+    front_border: CreatureKLDPromoOval
+    back_border: NonCreatureKLDMDFCPromo
     commander: false
     sideboard: false
     watermarks:

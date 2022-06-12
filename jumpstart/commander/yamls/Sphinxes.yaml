@@ -251,11 +251,11 @@ cards:
           y: 51
   - name: "Alrund's Epiphany"
     quantity: 1
-    scryfall_uuid: 6dd24105-4202-4690-bb62-16d0b9c291c9
+    scryfall_uuid: c94fcb53-a7bd-4a80-a536-9fb0eb24261a
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -411,7 +411,7 @@ cards:
           y: 51
   - name: Intuition
     quantity: 1
-    scryfall_uuid: 3292ac2c-11cf-4fa1-aec5-5ce9a7ba2afb
+    scryfall_uuid: c99f6785-e5a1-4fdc-9fb5-e1a372e7e848
     tags: []
     front: Default
     back: Default

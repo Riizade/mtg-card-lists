@@ -2,7 +2,7 @@
 cards:
   - name: "Daxos, Blessed by the Sun"
     quantity: 1
-    scryfall_uuid: 03970f12-e849-4312-848e-0b03677e20bc
+    scryfall_uuid: f5770e8a-045d-42bc-b6aa-17b89488c9d4
     tags: []
     front: Default
     back: Default
@@ -275,7 +275,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false

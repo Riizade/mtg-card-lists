@@ -391,11 +391,11 @@ cards:
           y: 51
   - name: "Rogue's Passage"
     quantity: 1
-    scryfall_uuid: 61c63f09-c9ab-4926-85de-6199856fff86
+    scryfall_uuid: 6aa3c430-1a41-415d-8736-3541b5b6b4c6
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false

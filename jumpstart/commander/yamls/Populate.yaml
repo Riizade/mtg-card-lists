@@ -31,11 +31,11 @@ cards:
           y: 51
   - name: "Elspeth, Sun's Champion"
     quantity: 1
-    scryfall_uuid: 96f1d11a-084d-4de7-9ed4-33158113520c
+    scryfall_uuid: fd5b1633-c41d-42b1-af1b-4a872077ffbd
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2003
     back_border: None
     commander: false
     sideboard: false

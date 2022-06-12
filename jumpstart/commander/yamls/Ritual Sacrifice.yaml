@@ -31,11 +31,11 @@ cards:
           y: 51
   - name: "Erebos, Bleak-Hearted"
     quantity: 1
-    scryfall_uuid: 68f3c60d-2fcb-476f-bcc6-eec5879b08ee
+    scryfall_uuid: e340df19-b89a-403f-9736-4bd30b65de74
     tags: []
     front: Default
     back: Default
-    front_border: CreatureLegendaryFullArtOval
+    front_border: CreatureLegendaryOval
     back_border: None
     commander: false
     sideboard: false
@@ -91,7 +91,7 @@ cards:
           y: 51
   - name: Phyrexian Tower
     quantity: 1
-    scryfall_uuid: 3097b876-ffb4-4388-beb1-d25d887593b9
+    scryfall_uuid: c25dc997-219f-44e9-9003-384f75a606a3
     tags: []
     front: Default
     back: Default
@@ -171,7 +171,7 @@ cards:
           y: 51
   - name: God-Eternal Bontu
     quantity: 1
-    scryfall_uuid: 2ae1bb79-a931-4d2e-9cc9-a06862dc5cde
+    scryfall_uuid: 3714a135-e2b9-43a7-a2a2-fa5a2e0ac61a
     tags: []
     front: Default
     back: Default
@@ -191,7 +191,7 @@ cards:
           y: 51
   - name: Fleshbag Marauder
     quantity: 1
-    scryfall_uuid: 712c8708-cd43-4f1e-b520-ef90cf2ba72d
+    scryfall_uuid: f86ef3ad-ae51-4182-9f5d-e4fd238b1622
     tags: []
     front: Default
     back: Default
@@ -451,7 +451,7 @@ cards:
           y: 51
   - name: Village Rites
     quantity: 1
-    scryfall_uuid: da3de5c0-acda-4116-b0c5-eceb2c19cb2d
+    scryfall_uuid: 9c0f60a6-b5c8-4704-8b61-94e8fc463e5d
     tags: []
     front: Default
     back: Default

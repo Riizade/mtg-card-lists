@@ -31,11 +31,11 @@ cards:
           y: 51
   - name: Sliver Queen
     quantity: 1
-    scryfall_uuid: ab68bd00-7151-4a6b-ad98-134ca02d7d59
+    scryfall_uuid: 235c0ece-aed0-4120-99cc-5d0e28fa70ab
     tags: []
     front: Default
     back: Default
-    front_border: Creature2003
+    front_border: Creature
     back_border: None
     commander: false
     sideboard: false
@@ -411,7 +411,7 @@ cards:
           y: 51
   - name: Evolving Wilds
     quantity: 1
-    scryfall_uuid: bf6069f2-7a32-4cb7-b2ab-ea6b51267cca
+    scryfall_uuid: 6b39e1c7-b175-462e-83ab-dd67abec6bfb
     tags: []
     front: Default
     back: Default

@@ -211,11 +211,11 @@ cards:
           y: 51
   - name: Managorger Hydra
     quantity: 1
-    scryfall_uuid: 11944685-56b1-42e4-b9b8-fc468c81e9a6
+    scryfall_uuid: 1a08e5ab-1ff9-4470-ab28-fea19bb79845
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature2015Oval
     back_border: None
     commander: false
     sideboard: false

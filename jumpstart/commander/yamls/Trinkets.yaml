@@ -31,7 +31,7 @@ cards:
           y: 51
   - name: "Urza's Bauble"
     quantity: 1
-    scryfall_uuid: 876c1811-990c-41ca-874f-fd0512b59d06
+    scryfall_uuid: 58c9e9a7-e170-4361-b7d5-22fc0771c489
     tags: []
     front: Default
     back: Default
@@ -351,11 +351,11 @@ cards:
           y: 51
   - name: Snow-Covered Island
     quantity: 8
-    scryfall_uuid: 8af8122a-2943-4507-a93a-564fe63a035b
+    scryfall_uuid: 0dcf8c0a-cf91-42a0-a54e-da5e7c697ee3
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature2015Oval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -411,11 +411,11 @@ cards:
           y: 51
   - name: Darksteel Citadel
     quantity: 1
-    scryfall_uuid: cdfafa38-e7db-4a42-99b8-fc65ab41c572
+    scryfall_uuid: d61ecc3f-8c76-43e6-8f16-4863b2ea25fb
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false

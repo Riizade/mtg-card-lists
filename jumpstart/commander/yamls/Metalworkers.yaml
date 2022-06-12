@@ -2,7 +2,7 @@
 cards:
   - name: "Karn, Silver Golem"
     quantity: 1
-    scryfall_uuid: 80685f47-43f3-4fb9-a7ec-5d073aae9cdb
+    scryfall_uuid: 18fb9c27-0027-4b77-87bf-af0d0bd2278b
     tags: []
     front: Default
     back: Default
@@ -51,11 +51,11 @@ cards:
           y: 51
   - name: "Inventors' Fair"
     quantity: 1
-    scryfall_uuid: f917de1f-76f1-4859-a9f3-bcda6a9ca130
+    scryfall_uuid: a4ba795a-8a08-4853-a7ca-cf3883a6f667
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureLegendary
+    front_border: NonCreature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -211,11 +211,11 @@ cards:
           y: 51
   - name: Mox Opal
     quantity: 1
-    scryfall_uuid: 547e3aa5-d88a-4418-ab9d-dd65385f031b
+    scryfall_uuid: 522b853d-cfd9-466b-a6ff-08b466be2b6f
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureLegendaryOval
+    front_border: NonCreature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -271,7 +271,7 @@ cards:
           y: 51
   - name: Blinkmoth Urn
     quantity: 1
-    scryfall_uuid: 3879faf0-6e39-4275-82f6-7fb5c70fc6ce
+    scryfall_uuid: 1016fb10-82b5-465a-8f33-ec54f9785544
     tags: []
     front: Default
     back: Default
@@ -311,11 +311,11 @@ cards:
           y: 51
   - name: "Karn, the Great Creator"
     quantity: 1
-    scryfall_uuid: 25c0968c-1377-447b-bede-5a2482d4cd2b
+    scryfall_uuid: 3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -371,7 +371,7 @@ cards:
           y: 51
   - name: Metalworker
     quantity: 1
-    scryfall_uuid: 10f6e07b-36c1-429b-a857-ada8c643556c
+    scryfall_uuid: 2050d414-71c7-4c42-a1ff-4c04068ba7f2
     tags: []
     front: Default
     back: Default

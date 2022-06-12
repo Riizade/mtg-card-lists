@@ -151,7 +151,7 @@ cards:
           y: 51
   - name: "Sheoldred, Whispering One"
     quantity: 1
-    scryfall_uuid: 18206ae6-08e2-4ad2-bc0a-6626a89b9516
+    scryfall_uuid: 8b207a4a-47d1-4905-81d3-455c59bfd7da
     tags: []
     front: Default
     back: Default
@@ -171,7 +171,7 @@ cards:
           y: 51
   - name: Phyrexian Tower
     quantity: 1
-    scryfall_uuid: 3097b876-ffb4-4388-beb1-d25d887593b9
+    scryfall_uuid: c25dc997-219f-44e9-9003-384f75a606a3
     tags: []
     front: Default
     back: Default
@@ -371,11 +371,11 @@ cards:
           y: 51
   - name: Dismember
     quantity: 1
-    scryfall_uuid: 03da66e3-a369-4433-a2b8-8625403d34b0
+    scryfall_uuid: 3d286cf6-3e16-4941-9326-1818b1e06d69
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -431,7 +431,7 @@ cards:
           y: 51
   - name: Contagion Clasp
     quantity: 1
-    scryfall_uuid: 6d1f5bf0-14d8-4b47-8b94-8741d1cc8bd9
+    scryfall_uuid: 7fafcefa-d33c-4d73-b3b7-2930f28b845e
     tags: []
     front: Default
     back: Default

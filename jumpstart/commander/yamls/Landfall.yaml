@@ -51,7 +51,7 @@ cards:
           y: 51
   - name: Migration Path
     quantity: 1
-    scryfall_uuid: 363428be-0f89-4de5-a804-93172da4d99f
+    scryfall_uuid: d345ca63-16a3-4988-93f5-d0e00e8d6ab0
     tags: []
     front: Default
     back: Default
@@ -111,11 +111,11 @@ cards:
           y: 51
   - name: Acidic Slime
     quantity: 1
-    scryfall_uuid: 1e6bd3fa-0d07-4519-b67f-67867ad13c89
+    scryfall_uuid: c672b34d-066e-40e6-a499-3ab68ea6514c
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature
     back_border: None
     commander: false
     sideboard: false
@@ -231,7 +231,7 @@ cards:
           y: 51
   - name: Evolving Wilds
     quantity: 1
-    scryfall_uuid: bf6069f2-7a32-4cb7-b2ab-ea6b51267cca
+    scryfall_uuid: 8e3d6745-8904-4905-a98f-d43f18b51d6d
     tags: []
     front: Default
     back: Default
@@ -331,7 +331,7 @@ cards:
           y: 51
   - name: Migratory Greathorn
     quantity: 1
-    scryfall_uuid: 1e31f56d-bf75-4e14-94de-5c77193abf3a
+    scryfall_uuid: 6a2a287b-b83f-444f-84f7-e388beb616c2
     tags: []
     front: Default
     back: Default
