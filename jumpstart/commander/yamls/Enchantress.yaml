@@ -6,7 +6,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: CreatureLegendaryFullArtOval
+    front_border: CreatureLegendaryOval
     back_border: None
     commander: false
     sideboard: false

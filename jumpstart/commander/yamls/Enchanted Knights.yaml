@@ -211,7 +211,7 @@ cards:
           y: 51
   - name: "Ardenn, Intrepid Archaeologist"
     quantity: 1
-    scryfall_uuid: 6eb712a0-b648-460b-8d3d-7d920ed11a8c
+    scryfall_uuid: 728b802c-969b-4865-b7a0-871c585d097a
     tags: []
     front: Default
     back: Default
@@ -291,11 +291,11 @@ cards:
           y: 51
   - name: "Heliod's Pilgrim"
     quantity: 1
-    scryfall_uuid: 1a1e5ad3-00fa-4b6b-a0a3-d52fcbe897ac
+    scryfall_uuid: 753dd235-55d3-4124-9b43-74517534bd87
     tags: []
     front: Default
     back: Default
-    front_border: Creature2015Oval
+    front_border: Creature
     back_border: None
     commander: false
     sideboard: false

@@ -71,7 +71,7 @@ cards:
           y: 51
   - name: Guttersnipe
     quantity: 1
-    scryfall_uuid: 2bc0185e-8ba5-423c-a8aa-a55cc1f34cef
+    scryfall_uuid: bbc0f3e7-a287-4624-8266-ca617448fcaa
     tags: []
     front: Default
     back: Default
@@ -131,11 +131,11 @@ cards:
           y: 51
   - name: Shock
     quantity: 1
-    scryfall_uuid: 2f4a8702-464b-44fd-b706-8a73dd9b0097
+    scryfall_uuid: efd56707-4a27-4102-a517-ed65436376aa
     tags: []
     front: Default
     back: Default
-    front_border: MysticalArchiveJPOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -431,11 +431,11 @@ cards:
           y: 51
   - name: Abrade
     quantity: 1
-    scryfall_uuid: 61ada5ce-3a58-4da9-aff2-93a61411dd64
+    scryfall_uuid: 4f984662-8fe0-42eb-8031-89c80315dede
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature
+    front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
     sideboard: false

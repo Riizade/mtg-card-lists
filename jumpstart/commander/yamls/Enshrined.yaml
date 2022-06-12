@@ -291,7 +291,7 @@ cards:
           y: 51
   - name: Wrath of God
     quantity: 1
-    scryfall_uuid: caff117f-844b-4d11-a104-930d7f238114
+    scryfall_uuid: 2d9b12cc-f616-4b52-91eb-a430e70f9251
     tags: []
     front: Default
     back: Default
@@ -331,7 +331,7 @@ cards:
           y: 51
   - name: Evolving Wilds
     quantity: 1
-    scryfall_uuid: bf6069f2-7a32-4cb7-b2ab-ea6b51267cca
+    scryfall_uuid: 62df0466-3bb4-423c-aae8-412205fb9f14
     tags: []
     front: Default
     back: Default
@@ -451,11 +451,11 @@ cards:
           y: 51
   - name: Mana Confluence
     quantity: 1
-    scryfall_uuid: fa4b80b1-fc8d-4da6-964a-3b85451c3049
+    scryfall_uuid: 504a69eb-3c2d-4bb1-b117-252b15acf0c2
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -515,7 +515,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature
+    front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
     sideboard: false
@@ -571,7 +571,7 @@ cards:
           y: 51
   - name: Chromatic Lantern
     quantity: 1
-    scryfall_uuid: 97594249-704b-4ef2-a86a-d1442d0fe689
+    scryfall_uuid: c7970aee-494f-45c1-9842-04632ad27313
     tags: []
     front: Default
     back: Default

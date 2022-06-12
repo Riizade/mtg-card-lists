@@ -2,11 +2,11 @@
 cards:
   - name: "Lathliss, Dragon Queen"
     quantity: 1
-    scryfall_uuid: 17373240-6edf-4b51-a6a8-7fe4f718a51e
+    scryfall_uuid: d3bbaa00-71c3-4470-9576-cf724ae9d0fb
     tags: []
     front: Default
     back: Default
-    front_border: CreatureLegendary
+    front_border: CreatureLegendaryOval
     back_border: None
     commander: false
     sideboard: false
@@ -31,7 +31,7 @@ cards:
           y: 51
   - name: Minion of the Mighty
     quantity: 1
-    scryfall_uuid: 720e763a-ba7d-4e32-a5f1-87a457b12db2
+    scryfall_uuid: 379bbd15-e41a-4794-a24c-7290c4fb8390
     tags: []
     front: Default
     back: Default

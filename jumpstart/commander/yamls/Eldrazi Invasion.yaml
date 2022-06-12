@@ -51,11 +51,11 @@ cards:
           y: 51
   - name: Void Winnower
     quantity: 1
-    scryfall_uuid: 1e5ef9cd-ee4d-4cbe-a07d-89f9322e5362
+    scryfall_uuid: 8cbedb0a-34ca-4d42-bb43-cbea0f3c6d02
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -191,7 +191,7 @@ cards:
           y: 51
   - name: All Is Dust
     quantity: 1
-    scryfall_uuid: 2bc7280c-8136-4ac3-b2d6-6679e13b0470
+    scryfall_uuid: c0c9f6dd-308e-4c91-8bcc-975d273a0a33
     tags: []
     front: Default
     back: Default

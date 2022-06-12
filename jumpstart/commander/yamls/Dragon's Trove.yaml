@@ -291,7 +291,7 @@ cards:
           y: 51
   - name: Sky Diamond
     quantity: 1
-    scryfall_uuid: 32b21297-be34-445e-8a5a-6c297ab0ee77
+    scryfall_uuid: d47abfb2-9bcf-485c-9bd4-2c09b714eb32
     tags: []
     front: Default
     back: Default
@@ -335,7 +335,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: Creature
+    front_border: CreatureBorderless
     back_border: None
     commander: false
     sideboard: false

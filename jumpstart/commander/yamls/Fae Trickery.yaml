@@ -2,11 +2,11 @@
 cards:
   - name: Vendilion Clique
     quantity: 1
-    scryfall_uuid: 74ebe58d-0f94-47f7-b17b-0d9492b931d5
+    scryfall_uuid: cd702cf1-10ca-4448-9fb1-b6de635e839c
     tags: []
     front: Default
     back: Default
-    front_border: CreatureLegendaryOval
+    front_border: Creature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -296,7 +296,7 @@ cards:
     front: Default
     back: Default
     front_border: AdventurePromo
-    back_border: AdventurePromo
+    back_border: None
     commander: false
     sideboard: false
     watermarks:
@@ -331,11 +331,11 @@ cards:
           y: 51
   - name: Spellstutter Sprite
     quantity: 1
-    scryfall_uuid: 650221f7-d935-498b-a9a1-ec23c89fc5f8
+    scryfall_uuid: 81fa2e36-f89b-42f9-946e-e2ca2b2ad75f
     tags: []
     front: Default
     back: Default
-    front_border: Creature2015Oval
+    front_border: Creature2003
     back_border: None
     commander: false
     sideboard: false
@@ -351,11 +351,11 @@ cards:
           y: 51
   - name: Mistbind Clique
     quantity: 1
-    scryfall_uuid: 3a8acace-57fb-4759-b15e-f4a8be1d13eb
+    scryfall_uuid: cfc421e2-0dd4-4bdf-b5f5-a60c4b0df63b
     tags: []
     front: Default
     back: Default
-    front_border: Creature2015Oval
+    front_border: Creature2003
     back_border: None
     commander: false
     sideboard: false
@@ -411,7 +411,7 @@ cards:
           y: 51
   - name: Glen Elendra Archmage
     quantity: 1
-    scryfall_uuid: 6f9c1419-aa54-4dd3-8d7d-4e2f60e7f581
+    scryfall_uuid: bd9af767-42da-46c7-a2b8-3957b2e3063f
     tags: []
     front: Default
     back: Default

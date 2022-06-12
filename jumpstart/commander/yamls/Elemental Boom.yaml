@@ -51,11 +51,11 @@ cards:
           y: 51
   - name: Growth Spiral
     quantity: 1
-    scryfall_uuid: ae9f9b3d-d463-4bc6-b822-872a1f8867c8
+    scryfall_uuid: 5c0f0add-4ed5-4146-972f-ece8a19e567d
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -115,7 +115,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -331,7 +331,7 @@ cards:
           y: 51
   - name: Mulldrifter
     quantity: 1
-    scryfall_uuid: 0f0e6ff7-eed1-4965-813f-00d92fb48a1e
+    scryfall_uuid: d7e282a2-d258-4c23-852c-6b0f10ae1962
     tags: []
     front: Default
     back: Default
@@ -391,7 +391,7 @@ cards:
           y: 51
   - name: Parcelbeast
     quantity: 1
-    scryfall_uuid: 780c0087-f745-4ffa-924c-139d5fde4282
+    scryfall_uuid: 610bb98c-d66a-44cc-92e2-a80d700b59e4
     tags: []
     front: Default
     back: Default
@@ -431,11 +431,11 @@ cards:
           y: 51
   - name: Voidslime
     quantity: 1
-    scryfall_uuid: e640664f-5cc7-4970-b966-6e6e5ae09c5a
+    scryfall_uuid: 7fcdf84e-0156-46ee-81a2-784fe60d6525
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature2015Oval
     back_border: None
     commander: false
     sideboard: false

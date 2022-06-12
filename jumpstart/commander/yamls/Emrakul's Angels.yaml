@@ -91,11 +91,11 @@ cards:
           y: 51
   - name: Ghostly Prison
     quantity: 1
-    scryfall_uuid: 1a43d9e8-3320-4873-b322-b323c792ce5e
+    scryfall_uuid: daeca212-3a70-470e-a934-9cd7e0ebf7eb
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature2015Oval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -291,11 +291,11 @@ cards:
           y: 51
   - name: The Wanderer
     quantity: 1
-    scryfall_uuid: 229e74fc-31b3-42f9-aba3-0028351aca30
+    scryfall_uuid: d0f0e463-9eed-4348-af7c-fde5f0d8188c
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015
     back_border: None
     commander: false
     sideboard: false
@@ -411,7 +411,7 @@ cards:
           y: 51
   - name: Evolving Wilds
     quantity: 1
-    scryfall_uuid: bf6069f2-7a32-4cb7-b2ab-ea6b51267cca
+    scryfall_uuid: 40a2804d-d925-4950-8542-608f6e92387a
     tags: []
     front: Default
     back: Default

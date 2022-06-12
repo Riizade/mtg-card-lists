@@ -2,11 +2,11 @@
 cards:
   - name: "Niv-Mizzet, the Firemind"
     quantity: 1
-    scryfall_uuid: 1531face-701e-4b4b-af47-ddac71c93928
+    scryfall_uuid: 395465b8-f5ed-4668-9e6a-82257150c52c
     tags: []
     front: Default
     back: Default
-    front_border: Creature2003
+    front_border: CreatureLegendaryOval
     back_border: None
     commander: false
     sideboard: false
@@ -31,11 +31,11 @@ cards:
           y: 51
   - name: Opt
     quantity: 1
-    scryfall_uuid: ab59ac4f-2a77-4566-85c0-32666447dcf2
+    scryfall_uuid: 323db259-d35e-467d-9a46-4adcb2fc107c
     tags: []
     front: Default
     back: Default
-    front_border: MysticalArchiveEN
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -51,7 +51,7 @@ cards:
           y: 51
   - name: Talisman of Creativity
     quantity: 1
-    scryfall_uuid: 35805e27-fc26-4eb1-943c-f5b6c2185e03
+    scryfall_uuid: 14a506e4-9a46-4499-a986-eb258e809344
     tags: []
     front: Default
     back: Default
@@ -71,7 +71,7 @@ cards:
           y: 51
   - name: "Chemister's Insight"
     quantity: 1
-    scryfall_uuid: 8ba2b013-a2eb-4712-b6c3-f7d37186368f
+    scryfall_uuid: caef3c0e-cb28-464a-8a50-ce149c06a01e
     tags: []
     front: Default
     back: Default
@@ -131,7 +131,7 @@ cards:
           y: 51
   - name: Improbable Alliance
     quantity: 1
-    scryfall_uuid: eceaa1d6-0d31-4f2d-8ffb-5a4e31712ffa
+    scryfall_uuid: 0461867b-ec35-4d37-a398-5247e06c4afe
     tags: []
     front: Default
     back: Default
@@ -271,11 +271,11 @@ cards:
           y: 51
   - name: Faithless Looting
     quantity: 1
-    scryfall_uuid: 7052a5cd-81b3-40ef-94e0-7c89e9554e33
+    scryfall_uuid: 671c008a-8ff8-42d7-9e03-6d8a9ddace67
     tags: []
     front: Default
     back: Default
-    front_border: MysticalArchiveJPOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false

@@ -6,7 +6,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -31,7 +31,7 @@ cards:
           y: 51
   - name: Reclamation Sage
     quantity: 1
-    scryfall_uuid: cac912bb-f18a-4501-a5c0-aed8cb0a9e43
+    scryfall_uuid: 564e378a-f033-44ca-8295-855382cc838d
     tags: []
     front: Default
     back: Default
@@ -191,7 +191,7 @@ cards:
           y: 51
   - name: Llanowar Elves
     quantity: 1
-    scryfall_uuid: 27a21d19-5631-43f8-817d-51ccb5aa0f05
+    scryfall_uuid: 8bbcfb77-daa1-4ce5-b5f9-48d0a8edbba9
     tags: []
     front: Default
     back: Default
@@ -211,11 +211,11 @@ cards:
           y: 51
   - name: Imperious Perfect
     quantity: 1
-    scryfall_uuid: 084d98ec-9978-4386-972a-4cbddde7109e
+    scryfall_uuid: 2f527ba3-ac8f-4bcc-880a-94ec9623d624
     tags: []
     front: Default
     back: Default
-    front_border: Creature2003
+    front_border: Creature2015Oval
     back_border: None
     commander: false
     sideboard: false
