@@ -151,7 +151,7 @@ cards:
           y: 51
   - name: "Halvar, God of Battle"
     quantity: 1
-    scryfall_uuid: feddb683-a8f8-4def-bd3e-6d630c42cd34
+    scryfall_uuid: 97502411-5c93-434c-b77b-ceb2c32feae7
     tags: []
     front: Default
     back: Default
@@ -411,11 +411,11 @@ cards:
           y: 51
   - name: Swiftfoot Boots
     quantity: 1
-    scryfall_uuid: 2408b216-d383-4212-981e-5bc277c962a9
+    scryfall_uuid: 47803242-f744-445b-b645-e6e72b741589
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature
+    front_border: NonCreature2015Oval
     back_border: None
     commander: false
     sideboard: false

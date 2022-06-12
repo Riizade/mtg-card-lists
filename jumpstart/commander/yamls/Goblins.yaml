@@ -291,11 +291,11 @@ cards:
           y: 51
   - name: Impact Tremors
     quantity: 1
-    scryfall_uuid: ba1ebfa2-7e23-48a3-a9bc-59a24a2c1ed7
+    scryfall_uuid: 56fb4035-197b-4d28-9bf7-bb62c304067e
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -371,7 +371,7 @@ cards:
           y: 51
   - name: Mogg Raider
     quantity: 1
-    scryfall_uuid: 6ab0b7fe-cb6c-49e1-b8f4-e81c31a16ae2
+    scryfall_uuid: 94e9cc0a-c210-4525-8c7f-9c6306cc21b0
     tags: []
     front: Default
     back: Default
@@ -451,7 +451,7 @@ cards:
           y: 51
   - name: Goblin Rabblemaster
     quantity: 1
-    scryfall_uuid: aab03d01-ec92-473d-b983-18cf5f06ff39
+    scryfall_uuid: 80ef4153-256b-47b9-8d2c-262527412588
     tags: []
     front: Default
     back: Default

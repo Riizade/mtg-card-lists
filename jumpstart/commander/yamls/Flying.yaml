@@ -2,7 +2,7 @@
 cards:
   - name: "Kangee, Sky Warden"
     quantity: 1
-    scryfall_uuid: c614a61d-b988-40fb-9172-0f86a0e41997
+    scryfall_uuid: 99988f41-99b4-4423-be5f-9dc4ec7d813b
     tags: []
     front: Default
     back: Default
@@ -71,7 +71,7 @@ cards:
           y: 51
   - name: Talisman of Progress
     quantity: 1
-    scryfall_uuid: e95e5d23-e71c-4dbd-b428-422302ce6440
+    scryfall_uuid: 41ff849e-2439-4690-8aa4-769039b6da4c
     tags: []
     front: Default
     back: Default
@@ -115,7 +115,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: None
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -131,7 +131,7 @@ cards:
           y: 51
   - name: Dreamtail Heron
     quantity: 1
-    scryfall_uuid: 2d1828b1-a6eb-4346-b405-7642e34b3e71
+    scryfall_uuid: ca777d40-736a-4cd6-85c4-5afd52f2fadd
     tags: []
     front: Default
     back: Default
@@ -315,8 +315,8 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureMDFCBorderlessOval
-    back_border: NonCreatureMDFCBorderless
+    front_border: PathwayLandBorderlessOval
+    back_border: PathwayLandBorderless
     commander: false
     sideboard: false
     watermarks:

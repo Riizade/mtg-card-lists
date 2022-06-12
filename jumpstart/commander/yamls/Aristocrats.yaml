@@ -535,8 +535,8 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureMDFCBorderlessOval
-    back_border: NonCreatureMDFCBorderless
+    front_border: PathwayLandBorderlessOval
+    back_border: PathwayLandBorderless
     commander: false
     sideboard: false
     watermarks:

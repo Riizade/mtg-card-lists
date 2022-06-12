@@ -251,11 +251,11 @@ cards:
           y: 51
   - name: Firemane Avenger
     quantity: 1
-    scryfall_uuid: 05607d21-7613-4c28-b81f-995f36ab64f6
+    scryfall_uuid: 9a78e99c-b517-44ff-9291-6c828ac8469f
     tags: []
     front: Default
     back: Default
-    front_border: Creature2003
+    front_border: Creature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -375,8 +375,8 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureMDFCBorderlessOval
-    back_border: NonCreatureMDFCBorderless
+    front_border: PathwayLandBorderlessOval
+    back_border: PathwayLandBorderless
     commander: false
     sideboard: false
     watermarks:
@@ -551,7 +551,7 @@ cards:
           y: 51
   - name: "Gisela, Blade of Goldnight"
     quantity: 1
-    scryfall_uuid: ac2a2178-8e1f-4d64-9711-5b7264632200
+    scryfall_uuid: 365c43c2-1a65-4f6a-860d-39dcb15255c3
     tags: []
     front: Default
     back: Default

@@ -55,8 +55,8 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureMDFCBorderlessOval
-    back_border: NonCreatureMDFCBorderless
+    front_border: PathwayLandBorderlessOval
+    back_border: PathwayLandBorderless
     commander: false
     sideboard: false
     watermarks:
@@ -491,11 +491,11 @@ cards:
           y: 51
   - name: Necrotic Ooze
     quantity: 1
-    scryfall_uuid: 58cbcf51-3824-4ab3-89e3-cdcc1a0c7267
+    scryfall_uuid: 8af2c79f-a151-4628-90fe-c0ff7ccd9c2c
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature2003
     back_border: None
     commander: false
     sideboard: false
