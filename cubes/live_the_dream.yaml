@@ -123,12 +123,12 @@ cards:
     watermarks: []
   - name: Brutal Cathar
     quantity: 1
-    scryfall_uuid: a459833f-8cf4-43c0-9523-eb37de450bc1
+    scryfall_uuid: 0dbac7ce-a6fa-466e-b6ba-173cf2dec98e
     tags: []
     front: Default
     back: Default
-    front_border: CreatureMIDSunDFC
-    back_border: CreatureMIDSunDFC
+    front_border: Creature2015Oval
+    back_border: Creature
     commander: false
     sideboard: false
     watermarks: []
@@ -720,12 +720,12 @@ cards:
     watermarks: []
   - name: Suspicious Stowaway
     quantity: 1
-    scryfall_uuid: 783da534-738e-4507-821f-f30956045646
+    scryfall_uuid: ab17c8fa-4c06-4542-848a-e3f2f9f47c27
     tags: []
     front: Default
     back: Default
-    front_border: CreatureMIDSunDFC
-    back_border: CreatureMIDSunDFC
+    front_border: Creature2015Oval
+    back_border: Creature
     commander: false
     sideboard: false
     watermarks: []
