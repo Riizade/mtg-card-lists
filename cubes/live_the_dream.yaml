@@ -5976,6 +5976,1011 @@ cards:
     commander: false
     sideboard: false
     watermarks: []
+  - name: Thopter
+    quantity: 1
+    scryfall_uuid: fd03a2b9-bfd7-4e1d-b660-e9f945699b78
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 5f3c4810-7359-42b7-905f-4845f6d1daf6
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Human Soldier
+    quantity: 1
+    scryfall_uuid: 5f3c4810-7359-42b7-905f-4845f6d1daf6
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 7ddb9e14-b299-4064-a41b-0fb6b078942e
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Golem
+    quantity: 1
+    scryfall_uuid: 7ddb9e14-b299-4064-a41b-0fb6b078942e
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 1a0cb299-057d-4c39-9d73-3a3512526e4a
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Bird
+    quantity: 1
+    scryfall_uuid: 1a0cb299-057d-4c39-9d73-3a3512526e4a
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: c49e8e79-8673-41c2-a1ad-273c37e27aca
+        side: Front
+    front_border: Creature
+    back_border: CreatureLegendary
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Boo
+    quantity: 1
+    scryfall_uuid: c49e8e79-8673-41c2-a1ad-273c37e27aca
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 3d0b9b88-705e-4df0-8a93-3e240b81355b
+        side: Front
+    front_border: CreatureLegendary
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Elemental
+    quantity: 1
+    scryfall_uuid: 3d0b9b88-705e-4df0-8a93-3e240b81355b
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 7a563df7-7b9d-4692-ab1b-578be1887b62
+        side: Front
+    front_border: Creature
+    back_border: Creature2003
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Soldier
+    quantity: 1
+    scryfall_uuid: 7a563df7-7b9d-4692-ab1b-578be1887b62
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 88452ed7-1065-41c3-94a6-dc41108c45c1
+        side: Front
+    front_border: Creature2003
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Wolf
+    quantity: 1
+    scryfall_uuid: 88452ed7-1065-41c3-94a6-dc41108c45c1
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 277c8c56-11a6-4aff-aaee-b9572cc7c6ef
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Construct
+    quantity: 1
+    scryfall_uuid: 277c8c56-11a6-4aff-aaee-b9572cc7c6ef
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: bf36408d-ed85-497f-8e68-d3a922c388a0
+        side: Front
+    front_border: Creature
+    back_border: NonCreature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Food
+    quantity: 1
+    scryfall_uuid: bf36408d-ed85-497f-8e68-d3a922c388a0
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 6870a2af-80e1-4813-a332-2b1bd789f1c1
+        side: Front
+    front_border: NonCreature
+    back_border: NonCreature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Copy
+    quantity: 1
+    scryfall_uuid: 6870a2af-80e1-4813-a332-2b1bd789f1c1
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 4f5a36e3-0529-44d3-94d0-f1bd0399dc38
+        side: Front
+    front_border: NonCreature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Thopter
+    quantity: 1
+    scryfall_uuid: 4f5a36e3-0529-44d3-94d0-f1bd0399dc38
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 7d13a93a-a43d-4cf5-8300-8341f3b7f1b1
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Human
+    quantity: 1
+    scryfall_uuid: 7d13a93a-a43d-4cf5-8300-8341f3b7f1b1
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 4263a49c-82b7-4f36-899f-11914bf3275a
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Construct
+    quantity: 1
+    scryfall_uuid: 4263a49c-82b7-4f36-899f-11914bf3275a
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 8a73e348-5bf1-4465-978b-3f31408bade9
+        side: Front
+    front_border: Creature
+    back_border: Creature2003
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Zombie
+    quantity: 1
+    scryfall_uuid: 8a73e348-5bf1-4465-978b-3f31408bade9
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: e69b3894-a78f-446b-9777-3c33731aa2ac
+        side: Front
+    front_border: Creature2003
+    back_border: NonCreature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Clue
+    quantity: 1
+    scryfall_uuid: e69b3894-a78f-446b-9777-3c33731aa2ac
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: ebe2f431-75b6-4c3c-a601-15814752ea6c
+        side: Front
+    front_border: NonCreature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Hydra
+    quantity: 1
+    scryfall_uuid: ebe2f431-75b6-4c3c-a601-15814752ea6c
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 83842dfb-e5ea-41dc-91b1-b1dd53e5ecca
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Phyrexian Golem
+    quantity: 1
+    scryfall_uuid: 83842dfb-e5ea-41dc-91b1-b1dd53e5ecca
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 720f3e68-84c0-462e-a0d1-90236ccc494a
+        side: Front
+    front_border: Creature
+    back_border: NonCreature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Treasure
+    quantity: 1
+    scryfall_uuid: 720f3e68-84c0-462e-a0d1-90236ccc494a
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 67457137-64f2-413d-b62e-658b3f1b1043
+        side: Front
+    front_border: NonCreature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Faerie Rogue
+    quantity: 1
+    scryfall_uuid: 67457137-64f2-413d-b62e-658b3f1b1043
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 2e07758f-0d1c-47d9-ba5a-43bc2a7423cd
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Cat
+    quantity: 1
+    scryfall_uuid: 2e07758f-0d1c-47d9-ba5a-43bc2a7423cd
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 06f62ebf-1600-4eaa-a998-3fd7d1ea2f65
+        side: Front
+    front_border: Creature
+    back_border: NonCreature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Copy
+    quantity: 1
+    scryfall_uuid: 06f62ebf-1600-4eaa-a998-3fd7d1ea2f65
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 45907b16-af17-4237-ab38-9d7537fd30e8
+        side: Front
+    front_border: NonCreature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Soldier
+    quantity: 1
+    scryfall_uuid: 45907b16-af17-4237-ab38-9d7537fd30e8
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 977ddd05-1aae-46fc-95ce-866710d1c5c6
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Squirrel
+    quantity: 1
+    scryfall_uuid: 977ddd05-1aae-46fc-95ce-866710d1c5c6
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 95694c03-2b3b-455c-8361-0799c078bf04
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Spirit
+    quantity: 1
+    scryfall_uuid: 95694c03-2b3b-455c-8361-0799c078bf04
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: cf9a289f-cd3f-42a0-9296-8c7cc7d01a91
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Elemental
+    quantity: 1
+    scryfall_uuid: cf9a289f-cd3f-42a0-9296-8c7cc7d01a91
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: e04ca01e-d2ff-45ce-bf6f-9f756808c8fb
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Dragon Illusion
+    quantity: 1
+    scryfall_uuid: e04ca01e-d2ff-45ce-bf6f-9f756808c8fb
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: a6ee0db9-ac89-4ab6-ac2e-8a7527d9ecbd
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Wurm
+    quantity: 1
+    scryfall_uuid: a6ee0db9-ac89-4ab6-ac2e-8a7527d9ecbd
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 14da0d99-9717-47b3-990b-bed6fde78373
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Insect
+    quantity: 1
+    scryfall_uuid: 14da0d99-9717-47b3-990b-bed6fde78373
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 462bb611-5a02-441c-ae8a-911b75436864
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Elemental
+    quantity: 1
+    scryfall_uuid: 462bb611-5a02-441c-ae8a-911b75436864
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 60466c78-155e-442b-8022-795e1e9de8df
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Elemental
+    quantity: 1
+    scryfall_uuid: 60466c78-155e-442b-8022-795e1e9de8df
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 85f212cd-4fc6-42fe-b268-22d8e3b2b7eb
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Construct
+    quantity: 1
+    scryfall_uuid: 85f212cd-4fc6-42fe-b268-22d8e3b2b7eb
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: d0ddbe3e-4a66-494d-9304-7471232549bf
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Pest
+    quantity: 1
+    scryfall_uuid: d0ddbe3e-4a66-494d-9304-7471232549bf
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 364e04d9-9a8a-49df-921c-7a9bf62dc731
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Wolf
+    quantity: 1
+    scryfall_uuid: 364e04d9-9a8a-49df-921c-7a9bf62dc731
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 430ed737-b918-4485-a623-e781c0beb67b
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Soldier
+    quantity: 1
+    scryfall_uuid: 430ed737-b918-4485-a623-e781c0beb67b
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: b9f3042b-784c-4006-9bf1-60a323e60c5c
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Thrull
+    quantity: 1
+    scryfall_uuid: b9f3042b-784c-4006-9bf1-60a323e60c5c
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 124e0b03-d9fb-44f1-9e3c-3462aabdd42e
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Spider
+    quantity: 1
+    scryfall_uuid: 124e0b03-d9fb-44f1-9e3c-3462aabdd42e
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 30d12226-6417-4b98-beb5-89a36c774141
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Shark
+    quantity: 1
+    scryfall_uuid: 30d12226-6417-4b98-beb5-89a36c774141
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 58be6a05-8021-4fca-8e9f-0ebb4769c635
+        side: Front
+    front_border: Creature
+    back_border: Creature2003
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Spirit
+    quantity: 1
+    scryfall_uuid: 58be6a05-8021-4fca-8e9f-0ebb4769c635
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 27b69e52-f394-4863-943b-239e96b5cc95
+        side: Front
+    front_border: Creature2003
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Zombie
+    quantity: 1
+    scryfall_uuid: 27b69e52-f394-4863-943b-239e96b5cc95
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 062043de-a199-408d-8d77-09531ad38b16
+        side: Front
+    front_border: Creature
+    back_border: Creature2003
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Goblin
+    quantity: 1
+    scryfall_uuid: 062043de-a199-408d-8d77-09531ad38b16
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 0affd414-f774-48d1-af9e-bff74e58e1ca
+        side: Front
+    front_border: Creature2003
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Ashaya, the Awoken World"
+    quantity: 1
+    scryfall_uuid: 0affd414-f774-48d1-af9e-bff74e58e1ca
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 78ea4711-a951-4a1b-88cb-f628f97b6164
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Golem
+    quantity: 1
+    scryfall_uuid: 78ea4711-a951-4a1b-88cb-f628f97b6164
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 4fdfb0ba-d086-4e7c-97e0-70d1e8328ded
+        side: Front
+    front_border: Creature
+    back_border: NonCreature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Food
+    quantity: 1
+    scryfall_uuid: 4fdfb0ba-d086-4e7c-97e0-70d1e8328ded
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: ebd12ac1-d1b2-4e22-9a17-8f3964294e35
+        side: Front
+    front_border: NonCreature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Vampire
+    quantity: 1
+    scryfall_uuid: ebd12ac1-d1b2-4e22-9a17-8f3964294e35
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 13e4832d-8530-4b85-b738-51d0c18f28ec
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Snake // Zombie
+    quantity: 1
+    scryfall_uuid: 13e4832d-8530-4b85-b738-51d0c18f28ec
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Rock
+    quantity: 1
+    scryfall_uuid: 661cbde4-9444-4259-b2cf-7c8f9814a071
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: a80e1cab-ff67-459f-ab64-2c340a8e36ac
+        side: Front
+    front_border: NonCreature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Angel of Sanctions
+    quantity: 1
+    scryfall_uuid: a80e1cab-ff67-459f-ab64-2c340a8e36ac
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: de12b41f-abc6-4057-bda2-ea1d5e60321b
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Soldier
+    quantity: 1
+    scryfall_uuid: de12b41f-abc6-4057-bda2-ea1d5e60321b
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 5f2a2483-d21f-4c31-9a36-ed7c5672894b
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Human
+    quantity: 1
+    scryfall_uuid: 5f2a2483-d21f-4c31-9a36-ed7c5672894b
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 0e466a1b-a120-420a-884f-99c6629dcbc7
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Timeless Witness
+    quantity: 1
+    scryfall_uuid: 0e466a1b-a120-420a-884f-99c6629dcbc7
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 7b997fe7-69f3-4ccd-b3a7-ef5e0cb7db46
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Squirrel
+    quantity: 1
+    scryfall_uuid: 7b997fe7-69f3-4ccd-b3a7-ef5e0cb7db46
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: c1424e8d-1f96-44af-9382-c337b6695ddf
+        side: Front
+    front_border: Creature
+    back_border: Creature2003
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Plant
+    quantity: 1
+    scryfall_uuid: c1424e8d-1f96-44af-9382-c337b6695ddf
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: acb271a8-68bb-45e6-9f99-568479e92ea0
+        side: Front
+    front_border: Creature2003
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Angel
+    quantity: 1
+    scryfall_uuid: acb271a8-68bb-45e6-9f99-568479e92ea0
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 458f44dd-83f1-497e-b5d0-e3417eb9dfec
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Elf Druid
+    quantity: 1
+    scryfall_uuid: 458f44dd-83f1-497e-b5d0-e3417eb9dfec
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 367a011d-07c4-4367-af3b-864107e3f5df
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Beast
+    quantity: 1
+    scryfall_uuid: 367a011d-07c4-4367-af3b-864107e3f5df
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 6adb8607-1066-451d-a719-74ad32358278
+        side: Front
+    front_border: Creature
+    back_border: CreatureBorderless
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Zombie
+    quantity: 1
+    scryfall_uuid: 6adb8607-1066-451d-a719-74ad32358278
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 8676704a-419e-4a00-a052-bca2ad34ecae
+        side: Front
+    front_border: CreatureBorderless
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Elemental
+    quantity: 1
+    scryfall_uuid: 8676704a-419e-4a00-a052-bca2ad34ecae
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 2300635e-7771-4676-a5a5-29a9d8f49f1a
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Illusion
+    quantity: 1
+    scryfall_uuid: 2300635e-7771-4676-a5a5-29a9d8f49f1a
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 44b4dbfa-2d32-4232-9518-b85df3df708b
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Soldier
+    quantity: 1
+    scryfall_uuid: 44b4dbfa-2d32-4232-9518-b85df3df708b
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 60842b1a-6ae7-4b3b-a23f-0d94a3d89884
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Servo
+    quantity: 1
+    scryfall_uuid: 60842b1a-6ae7-4b3b-a23f-0d94a3d89884
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 94e4345b-61b1-4026-a01c-c9f2036c5c8a
+        side: Front
+    front_border: Creature
+    back_border: CreatureBorderless
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Treefolk
+    quantity: 1
+    scryfall_uuid: 94e4345b-61b1-4026-a01c-c9f2036c5c8a
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 0419a202-6e32-4f0a-a032-72f6c00cae5e
+        side: Front
+    front_border: CreatureBorderless
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Knight Ally
+    quantity: 1
+    scryfall_uuid: 0419a202-6e32-4f0a-a032-72f6c00cae5e
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 2daf6591-606e-4a36-b279-02aad7e1110c
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Beast
+    quantity: 1
+    scryfall_uuid: 2daf6591-606e-4a36-b279-02aad7e1110c
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: b68e816f-f9ac-435b-ad0b-ceedbe72447a
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Wurm
+    quantity: 1
+    scryfall_uuid: b68e816f-f9ac-435b-ad0b-ceedbe72447a
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: a4ca03f7-3442-4256-a830-fc2cbcd356db
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Myr
+    quantity: 1
+    scryfall_uuid: a4ca03f7-3442-4256-a830-fc2cbcd356db
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: b3ce1236-ec2f-4cd1-9701-ba6ead74c220
+        side: Front
+    front_border: Creature
+    back_border: NonCreature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Replicated Ring
+    quantity: 1
+    scryfall_uuid: b3ce1236-ec2f-4cd1-9701-ba6ead74c220
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: c7ba6540-3743-445c-99bf-feb5af2fd56d
+        side: Front
+    front_border: NonCreature
+    back_border: NonCreature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Copy
+    quantity: 1
+    scryfall_uuid: c7ba6540-3743-445c-99bf-feb5af2fd56d
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: f36559a1-6fe9-451f-b1a5-5baa9e9301fa
+        side: Front
+    front_border: NonCreature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Wolf
+    quantity: 1
+    scryfall_uuid: f36559a1-6fe9-451f-b1a5-5baa9e9301fa
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: efbc2ca1-4aad-4dfa-9eab-e783f5802078
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Devil
+    quantity: 1
+    scryfall_uuid: efbc2ca1-4aad-4dfa-9eab-e783f5802078
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 1fafa701-b509-4050-a994-ec4258a3ea95
+        side: Front
+    front_border: Creature
+    back_border: Creature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Beast
+    quantity: 1
+    scryfall_uuid: 1fafa701-b509-4050-a994-ec4258a3ea95
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: 51d7dc49-7116-489b-a719-7b293a513cdc
+        side: Front
+    front_border: Creature
+    back_border: NonCreature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Copy
+    quantity: 1
+    scryfall_uuid: 51d7dc49-7116-489b-a719-7b293a513cdc
+    tags: []
+    front: Default
+    back:
+      Art:
+        scryfall_uuid: d1dfd9b9-8214-4e20-b1c9-48c9f7276883
+        side: Front
+    front_border: NonCreature
+    back_border: NonCreature
+    commander: false
+    sideboard: false
+    watermarks: []
 settings:
   default_back_uri: "./art/backs/black.png"
   nonbasic_art_filter:
