@@ -6991,7 +6991,7 @@ cards:
     sideboard: false
     watermarks: []
 settings:
-  default_back_uri: "./art/backs/black.png"
+  default_back_uri: "./art/backs/synergy_cube.png"
   nonbasic_art_filter:
     Subfilter:
       clauses:
