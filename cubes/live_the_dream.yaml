@@ -489,9 +489,12 @@ cards:
     scryfall_uuid: 7be5092f-cd24-4aea-824e-67b9767019b2
     tags: []
     front: Default
-    back: Default
+    back:
+      Art:
+        scryfall_uuid: f704397a-c180-44ae-9e4e-90180556b87b
+        side: Front
     front_border: MysticalArchiveENOval
-    back_border: None
+    back_border: MysticalArchiveJPOval
     commander: false
     sideboard: false
     watermarks: []
@@ -1083,9 +1086,12 @@ cards:
     scryfall_uuid: f7a0c25a-8760-44ea-a418-fcd4a9761632
     tags: []
     front: Default
-    back: Default
+    back:
+      Art:
+        scryfall_uuid: 7949ab59-cd09-4500-a323-5ba05392623f
+        side: Front
     front_border: MysticalArchiveEN
-    back_border: None
+    back_border: MysticalArchiveJP
     commander: false
     sideboard: false
     watermarks: []
@@ -1853,9 +1859,12 @@ cards:
     scryfall_uuid: 57b7f7bd-6db3-4716-b1c3-015b0a6d37e3
     tags: []
     front: Default
-    back: Default
+    back:
+      Art:
+        scryfall_uuid: f31b98f3-acc0-4113-8f70-86bf2d36b9c1
+        side: Front
     front_border: MysticalArchiveEN
-    back_border: None
+    back_border: MysticalArchiveJP
     commander: false
     sideboard: false
     watermarks: []
@@ -2436,9 +2445,12 @@ cards:
     scryfall_uuid: 4eaac4fd-95f5-4f38-b593-0101e79a20f9
     tags: []
     front: Default
-    back: Default
+    back:
+      Art:
+        scryfall_uuid: b14fae63-2e82-49c1-8e62-d84a65f27479
+        side: Front
     front_border: MysticalArchiveENOval
-    back_border: None
+    back_border: MysticalArchiveJPOval
     commander: false
     sideboard: false
     watermarks: []
@@ -2480,9 +2492,12 @@ cards:
     scryfall_uuid: 78ba24c2-73c3-4630-bb8e-7431e5b3aebd
     tags: []
     front: Default
-    back: Default
+    back:
+      Art:
+        scryfall_uuid: 05123ba5-7e35-4d3f-8354-e784ce8f1b98
+        side: Front
     front_border: MysticalArchiveEN
-    back_border: None
+    back_border: MysticalArchiveJP
     commander: false
     sideboard: false
     watermarks: []
@@ -2502,9 +2517,12 @@ cards:
     scryfall_uuid: b429172f-2182-49dd-b6f6-e5e09493628d
     tags: []
     front: Default
-    back: Default
+    back:
+      Art:
+        scryfall_uuid: 7052a5cd-81b3-40ef-94e0-7c89e9554e33
+        side: Front
     front_border: MysticalArchiveENOval
-    back_border: None
+    back_border: MysticalArchiveJPOval
     commander: false
     sideboard: false
     watermarks: []
@@ -2601,9 +2619,12 @@ cards:
     scryfall_uuid: 89978bd5-8222-4052-9625-3a5db81baa27
     tags: []
     front: Default
-    back: Default
+    back:
+      Art:
+        scryfall_uuid: 63e25534-2bc3-4813-ae63-63cadfe36df6
+        side: Front
     front_border: MysticalArchiveENOval
-    back_border: None
+    back_border: MysticalArchiveJPOval
     commander: false
     sideboard: false
     watermarks: []
@@ -3800,9 +3821,12 @@ cards:
     scryfall_uuid: c2743ca3-8b4a-429a-9f9b-090d632b6601
     tags: []
     front: Default
-    back: Default
-    front_border: NonCreatureBorderlessOval
-    back_border: None
+    back:
+      Art:
+        scryfall_uuid: f3e0de9d-de5b-4a95-95af-aef4cc546a94
+        side: Front
+    front_border: MysticalArchiveENOval
+    back_border: MysticalArchiveJPOval
     commander: false
     sideboard: false
     watermarks: []
@@ -3899,9 +3923,12 @@ cards:
     scryfall_uuid: 08a4d142-b98b-4027-94cb-314f67fb1d4a
     tags: []
     front: Default
-    back: Default
-    front_border: NonCreatureBorderlessOval
-    back_border: None
+    back:
+      Art:
+        scryfall_uuid: 8212125e-1742-41db-a7e9-32df59441f4e
+        side: Front
+    front_border: MysticalArchiveENOval
+    back_border: MysticalArchiveJPOval
     commander: false
     sideboard: false
     watermarks: []
@@ -4097,9 +4124,12 @@ cards:
     scryfall_uuid: 227ac87a-7196-40d0-ab00-98ebafcca09a
     tags: []
     front: Default
-    back: Default
-    front_border: NonCreatureBorderlessOval
-    back_border: None
+    back:
+      Art:
+        scryfall_uuid: 47eb569f-9f8d-4856-acf9-f8e87baa19d0
+        side: Front
+    front_border: MysticalArchiveENOval
+    back_border: MysticalArchiveJPOval
     commander: false
     sideboard: false
     watermarks: []
@@ -4185,9 +4215,12 @@ cards:
     scryfall_uuid: ae9f9b3d-d463-4bc6-b822-872a1f8867c8
     tags: []
     front: Default
-    back: Default
-    front_border: NonCreatureBorderlessOval
-    back_border: None
+    back:
+      Art:
+        scryfall_uuid: ffea9e1d-10e1-458b-afba-e33ce9695322
+        side: Front
+    front_border: MysticalArchiveENOval
+    back_border: MysticalArchiveJPOval
     commander: false
     sideboard: false
     watermarks: []
@@ -4790,9 +4823,12 @@ cards:
     scryfall_uuid: 05e5dbfd-84cf-4fe1-850f-3d2965ed3120
     tags: []
     front: Default
-    back: Default
-    front_border: NonCreatureBorderlessOval
-    back_border: None
+    back:
+      Art:
+        scryfall_uuid: 6de53b7d-f2de-47aa-b5d4-9427c12484b0
+        side: Front
+    front_border: MysticalArchiveENOval
+    back_border: MysticalArchiveJPOval
     commander: false
     sideboard: false
     watermarks: []
