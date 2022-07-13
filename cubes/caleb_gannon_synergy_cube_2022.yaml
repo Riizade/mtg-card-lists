@@ -2514,7 +2514,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature2015Oval
+    front_border: NonCreatureSignatureChandra
     back_border: None
     commander: false
     sideboard: false
@@ -2591,7 +2591,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature2015Oval
+    front_border: NonCreatureSignatureChandra
     back_border: None
     commander: false
     sideboard: false
@@ -2602,7 +2602,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature2015Oval
+    front_border: NonCreatureSignatureChandra
     back_border: None
     commander: false
     sideboard: false
@@ -2697,11 +2697,11 @@ cards:
     watermarks: []
   - name: Vengevine
     quantity: 1
-    scryfall_uuid: db7bb5f3-3488-442f-a0e6-92d93f9e7231
+    scryfall_uuid: 99556953-8425-4052-957a-dd28a42e2f44
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature2015FullArtOval
     back_border: None
     commander: false
     sideboard: false
@@ -2807,7 +2807,7 @@ cards:
     watermarks: []
   - name: Fyndhorn Elves
     quantity: 1
-    scryfall_uuid: ec8bf526-1260-40a1-b007-10ff9340f10b
+    scryfall_uuid: 450744cf-7eba-491b-97b0-ca80c6368bbb
     tags: []
     front: Default
     back: Default
@@ -2840,7 +2840,7 @@ cards:
     watermarks: []
   - name: Ignoble Hierarch
     quantity: 1
-    scryfall_uuid: 3139cce8-3467-4c50-add2-5b78fb33b90a
+    scryfall_uuid: aba51852-af8f-49d8-8fb6-22d52a1742b8
     tags: []
     front: Default
     back: Default
@@ -2851,18 +2851,18 @@ cards:
     watermarks: []
   - name: Joraga Treespeaker
     quantity: 1
-    scryfall_uuid: de6b6d2d-c2b0-421b-aad6-41e80d325fff
+    scryfall_uuid: 1132218d-56cd-441e-9006-df3c50344491
     tags: []
     front: Default
     back: Default
-    front_border: Creature2003
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Llanowar Elves
     quantity: 1
-    scryfall_uuid: 27a21d19-5631-43f8-817d-51ccb5aa0f05
+    scryfall_uuid: 1f8a1386-77ca-46ae-8987-aaed435556ea
     tags: []
     front: Default
     back: Default
@@ -3027,7 +3027,7 @@ cards:
     watermarks: []
   - name: Prosperous Innkeeper
     quantity: 1
-    scryfall_uuid: ea414698-5f87-461b-b1b2-b317b929280f
+    scryfall_uuid: 096d3c0c-98e2-4cfc-a6e1-fddb0359c63f
     tags: []
     front: Default
     back: Default
@@ -3159,7 +3159,7 @@ cards:
     watermarks: []
   - name: Reclamation Sage
     quantity: 1
-    scryfall_uuid: cac912bb-f18a-4501-a5c0-aed8cb0a9e43
+    scryfall_uuid: 1c4a25f0-2929-4404-9ce5-bcd4715f90a5
     tags: []
     front: Default
     back: Default
@@ -3192,7 +3192,7 @@ cards:
     watermarks: []
   - name: Craterhoof Behemoth
     quantity: 1
-    scryfall_uuid: 640be32d-dcc8-408a-b8a6-077472f1e70b
+    scryfall_uuid: 44afd414-cc69-4888-ba12-7ea87e60b1f7
     tags: []
     front: Default
     back: Default
@@ -3313,7 +3313,7 @@ cards:
     watermarks: []
   - name: Fastbond
     quantity: 1
-    scryfall_uuid: 9ded52aa-67a2-4476-a278-1eea936b3248
+    scryfall_uuid: 6151b583-3aa7-4be8-9d05-d5e53f19c6c9
     tags: []
     front: Default
     back: Default
@@ -3467,7 +3467,7 @@ cards:
     watermarks: []
   - name: "Yuriko, the Tiger's Shadow"
     quantity: 1
-    scryfall_uuid: 7af7847e-82e6-45ed-834d-6f3bcba44017
+    scryfall_uuid: 3bd81ae6-e628-447a-a36b-597e63ede295
     tags: []
     front: Default
     back: Default
@@ -3654,18 +3654,18 @@ cards:
     watermarks: []
   - name: "Torens, Fist of the Angels"
     quantity: 1
-    scryfall_uuid: 162a3448-34fd-4de6-a6b4-f6d636eead8c
+    scryfall_uuid: bd111dc9-b8de-4e92-a63d-75a961b2db3b
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: CreatureLegendaryOval
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Corpse Knight
     quantity: 1
-    scryfall_uuid: 42e1033b-383e-49b4-875f-ccdc94e08c9d
+    scryfall_uuid: 8b45117b-8369-48fc-8e5d-8986e662d123
     tags: []
     front: Default
     back: Default
@@ -3786,11 +3786,11 @@ cards:
     watermarks: []
   - name: "Saheeli, Sublime Artificer"
     quantity: 1
-    scryfall_uuid: c8bbc692-8d2e-4487-bd19-1a5c78fd3d53
+    scryfall_uuid: 5a10b543-d5d4-42a8-9ee8-dada59a2ad7e
     tags: []
     front: Default
     back: Default
-    front_border: Planeswalker2015Oval
+    front_border: Planeswalker2015
     back_border: None
     commander: false
     sideboard: false
@@ -3802,7 +3802,7 @@ cards:
     front: Default
     back: Default
     front_border: Split5Oval
-    back_border: Split2
+    back_border: None
     commander: false
     sideboard: false
     watermarks: []
@@ -3830,7 +3830,7 @@ cards:
     watermarks: []
   - name: Ravenous Squirrel
     quantity: 1
-    scryfall_uuid: 505b77d0-8651-4b40-a2e9-6dd00ac3c575
+    scryfall_uuid: 9f44a15c-1bb4-4fb8-88a0-e4d3f2dee1b4
     tags: []
     front: Default
     back: Default
@@ -3885,7 +3885,7 @@ cards:
     watermarks: []
   - name: Coiling Oracle
     quantity: 1
-    scryfall_uuid: 46ddfce6-5b8c-4ce1-a329-6a4a4576ca9c
+    scryfall_uuid: b55743ca-f25f-4e03-bad5-ca0d77b133b8
     tags: []
     front: Default
     back: Default
@@ -3907,7 +3907,7 @@ cards:
     watermarks: []
   - name: "Lonis, Cryptozoologist"
     quantity: 1
-    scryfall_uuid: a6baff7b-bdfe-4b64-802d-f73c455dac35
+    scryfall_uuid: 5dfd08da-6717-49ee-94ba-2562224f5baa
     tags: []
     front: Default
     back: Default
@@ -3929,7 +3929,7 @@ cards:
     watermarks: []
   - name: "Slogurk, the Overslime"
     quantity: 1
-    scryfall_uuid: b27a03a8-df78-43fb-a811-478be5983e91
+    scryfall_uuid: f94e888b-6eeb-4ef3-ab21-5ed2bf0036a3
     tags: []
     front: Default
     back: Default
@@ -3940,12 +3940,12 @@ cards:
     watermarks: []
   - name: Beck // Call
     quantity: 1
-    scryfall_uuid: 66b3f745-055b-4338-b6f0-7b7281d63afd
+    scryfall_uuid: a01d6540-9eaf-4e08-a62d-682551ee78e9
     tags: []
     front: Default
     back: Default
-    front_border: Split2
-    back_border: Split2
+    front_border: Split6
+    back_border: None
     commander: false
     sideboard: false
     watermarks: []
@@ -3984,11 +3984,11 @@ cards:
     watermarks: []
   - name: Hangarback Walker
     quantity: 1
-    scryfall_uuid: 773916fd-060e-4abc-a060-e18768807571
+    scryfall_uuid: c246b845-dfca-47a3-aa56-074d30590320
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -4006,7 +4006,7 @@ cards:
     watermarks: []
   - name: Ornithopter
     quantity: 1
-    scryfall_uuid: dd789709-6613-4688-9272-6d5624140053
+    scryfall_uuid: 01d0d061-e57a-4fe4-9e46-e4f369e564b3
     tags: []
     front: Default
     back: Default
@@ -4094,7 +4094,7 @@ cards:
     watermarks: []
   - name: Arcbound Ravager
     quantity: 1
-    scryfall_uuid: 6a898fbf-5c73-4a50-8bf5-126051747659
+    scryfall_uuid: eda7bda4-51cf-4648-8489-352d28d591fb
     tags: []
     front: Default
     back: Default
@@ -4116,11 +4116,11 @@ cards:
     watermarks: []
   - name: Metallic Mimic
     quantity: 1
-    scryfall_uuid: 23caa9ce-057a-40f6-a9fe-073c60b69fc2
+    scryfall_uuid: 1aa4eba9-9e91-4beb-9296-a18baa73a318
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -4215,7 +4215,7 @@ cards:
     watermarks: []
   - name: Spellskite
     quantity: 1
-    scryfall_uuid: 9cc7c56d-1a28-477b-b1d1-854b127e1afc
+    scryfall_uuid: ed085430-d12e-43e0-a374-53215fcdf151
     tags: []
     front: Default
     back: Default
@@ -4314,18 +4314,18 @@ cards:
     watermarks: []
   - name: Dismember
     quantity: 1
-    scryfall_uuid: 03da66e3-a369-4433-a2b8-8625403d34b0
+    scryfall_uuid: 4ccd8394-cbc9-4346-9b48-f6be447b3e08
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Gitaxian Probe
     quantity: 1
-    scryfall_uuid: b511dd44-4c2c-45be-a35b-61524d7a5761
+    scryfall_uuid: 995486ce-58bb-4753-a812-0ca73ef1a235
     tags: []
     front: Default
     back: Default
@@ -4347,11 +4347,11 @@ cards:
     watermarks: []
   - name: Chrome Mox
     quantity: 1
-    scryfall_uuid: 0e94d334-e043-42f2-ba5c-be497d82f2c8
+    scryfall_uuid: 90bbc0fa-4810-490d-bda7-a8fd4aaa01c4
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -4402,11 +4402,11 @@ cards:
     watermarks: []
   - name: Mana Crypt
     quantity: 1
-    scryfall_uuid: 6d7cd274-ed83-475a-9b4f-adb9c780a6f4
+    scryfall_uuid: 480c2b30-c2c2-4b8b-ae0f-9f03732f92a1
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -4457,11 +4457,11 @@ cards:
     watermarks: []
   - name: Mox Opal
     quantity: 1
-    scryfall_uuid: 547e3aa5-d88a-4418-ab9d-dd65385f031b
+    scryfall_uuid: 522b853d-cfd9-466b-a6ff-08b466be2b6f
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureLegendaryOval
+    front_border: NonCreature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -4644,11 +4644,11 @@ cards:
     watermarks: []
   - name: Sol Ring
     quantity: 1
-    scryfall_uuid: e3b2235b-6c18-436e-9d80-4a82ce0cac14
+    scryfall_uuid: 286bea73-8ad8-4423-8a7c-8497420fdb54
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -4919,11 +4919,11 @@ cards:
     watermarks: []
   - name: Batterskull
     quantity: 1
-    scryfall_uuid: 2abc5ac8-b944-4b71-b022-c78183eb92c3
+    scryfall_uuid: b7f16fdf-a3f5-462d-a64a-789d893b6ef5
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -5337,33 +5337,33 @@ cards:
     watermarks: []
   - name: Marsh Flats
     quantity: 1
-    scryfall_uuid: 4e8397e6-d13a-4996-8fde-b8a9895de287
+    scryfall_uuid: 9e1e76a2-ec37-4fd8-8185-f98f675ff0cb
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Marsh Flats
     quantity: 1
-    scryfall_uuid: 4e8397e6-d13a-4996-8fde-b8a9895de287
+    scryfall_uuid: 9e1e76a2-ec37-4fd8-8185-f98f675ff0cb
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Marsh Flats
     quantity: 1
-    scryfall_uuid: 4e8397e6-d13a-4996-8fde-b8a9895de287
+    scryfall_uuid: 9e1e76a2-ec37-4fd8-8185-f98f675ff0cb
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
@@ -5392,33 +5392,33 @@ cards:
     watermarks: []
   - name: Scalding Tarn
     quantity: 1
-    scryfall_uuid: 229ecfc9-8d6b-4fdb-9001-64dc3e4e7a3f
+    scryfall_uuid: 48f0a970-452a-405f-bd4d-ac4d2e89ab40
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Scalding Tarn
     quantity: 1
-    scryfall_uuid: 229ecfc9-8d6b-4fdb-9001-64dc3e4e7a3f
+    scryfall_uuid: 48f0a970-452a-405f-bd4d-ac4d2e89ab40
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Scalding Tarn
     quantity: 1
-    scryfall_uuid: 229ecfc9-8d6b-4fdb-9001-64dc3e4e7a3f
+    scryfall_uuid: 48f0a970-452a-405f-bd4d-ac4d2e89ab40
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
@@ -5513,66 +5513,66 @@ cards:
     watermarks: []
   - name: Verdant Catacombs
     quantity: 1
-    scryfall_uuid: c7057b04-e22f-4e33-9f08-b9fbd2e54bf5
+    scryfall_uuid: efd97080-c5c7-47db-b605-8bdd06c2dd5a
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Verdant Catacombs
     quantity: 1
-    scryfall_uuid: c7057b04-e22f-4e33-9f08-b9fbd2e54bf5
+    scryfall_uuid: efd97080-c5c7-47db-b605-8bdd06c2dd5a
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Verdant Catacombs
     quantity: 1
-    scryfall_uuid: c7057b04-e22f-4e33-9f08-b9fbd2e54bf5
+    scryfall_uuid: efd97080-c5c7-47db-b605-8bdd06c2dd5a
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Arid Mesa
     quantity: 1
-    scryfall_uuid: 54ced5cf-b51a-4dab-97f7-50fb18e5c463
+    scryfall_uuid: 245e16ae-4514-42fa-b409-2c3ae084436c
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Arid Mesa
     quantity: 1
-    scryfall_uuid: 54ced5cf-b51a-4dab-97f7-50fb18e5c463
+    scryfall_uuid: 245e16ae-4514-42fa-b409-2c3ae084436c
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Arid Mesa
     quantity: 1
-    scryfall_uuid: 54ced5cf-b51a-4dab-97f7-50fb18e5c463
+    scryfall_uuid: 245e16ae-4514-42fa-b409-2c3ae084436c
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
@@ -5645,33 +5645,33 @@ cards:
     watermarks: []
   - name: Misty Rainforest
     quantity: 1
-    scryfall_uuid: 23d8e67a-5150-4782-98d1-da2ca79607ad
+    scryfall_uuid: 6d14bd1a-068e-4338-8014-d5271cb2fe4d
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Misty Rainforest
     quantity: 1
-    scryfall_uuid: 23d8e67a-5150-4782-98d1-da2ca79607ad
+    scryfall_uuid: 6d14bd1a-068e-4338-8014-d5271cb2fe4d
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Misty Rainforest
     quantity: 1
-    scryfall_uuid: 23d8e67a-5150-4782-98d1-da2ca79607ad
+    scryfall_uuid: 6d14bd1a-068e-4338-8014-d5271cb2fe4d
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureFullArtOval
+    front_border: LandZendikarExpedition
     back_border: None
     commander: false
     sideboard: false
@@ -5821,11 +5821,11 @@ cards:
     watermarks: []
   - name: "Boseiju, Who Endures"
     quantity: 1
-    scryfall_uuid: 0055ea30-20fb-4324-a632-8fed87628f05
+    scryfall_uuid: 2488a80b-6882-4b59-8232-f02f800204a9
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureLegendaryOval
+    front_border: NonCreatureLegendaryFullArtOval
     back_border: None
     commander: false
     sideboard: false
@@ -5876,7 +5876,7 @@ cards:
     watermarks: []
   - name: Phyrexian Tower
     quantity: 1
-    scryfall_uuid: 3097b876-ffb4-4388-beb1-d25d887593b9
+    scryfall_uuid: c25dc997-219f-44e9-9003-384f75a606a3
     tags: []
     front: Default
     back: Default
