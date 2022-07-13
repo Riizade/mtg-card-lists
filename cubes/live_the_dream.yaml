@@ -7,7 +7,7 @@ cards:
     front: Default
     back: Default
     front_border: AdventurePromoOval
-    back_border: AdventurePromo
+    back_border: None
     commander: false
     sideboard: false
     watermarks: []
@@ -266,18 +266,18 @@ cards:
     watermarks: []
   - name: Luminous Broodmoth
     quantity: 1
-    scryfall_uuid: 4d393cc4-0e6b-44fe-a74a-822c52678ec9
+    scryfall_uuid: 0535c823-f6e9-4a2f-8adf-f69b6f0fea1f
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature2015FullArtOval
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Restoration Angel
     quantity: 1
-    scryfall_uuid: 38befc96-938e-4b7f-97da-ed67ccd8900b
+    scryfall_uuid: b958bcdd-d0ea-4ae0-9dd0-e6de5cf74128
     tags: []
     front: Default
     back: Default
@@ -343,7 +343,7 @@ cards:
     watermarks: []
   - name: God-Eternal Oketra
     quantity: 1
-    scryfall_uuid: 5b13ba5a-f4b0-420a-9e4f-a65e57721fa4
+    scryfall_uuid: df70f155-2336-421c-8a9d-69772d2b51a8
     tags: []
     front: Default
     back: Default
@@ -552,7 +552,7 @@ cards:
     watermarks: []
   - name: Late to Dinner
     quantity: 1
-    scryfall_uuid: 445a4587-b8cd-4846-9d00-bb882766cf08
+    scryfall_uuid: 6633cab9-23f9-474e-96f1-ca7c0c67691c
     tags: []
     front: Default
     back: Default
@@ -673,22 +673,22 @@ cards:
     watermarks: []
   - name: "Fblthp, the Lost"
     quantity: 1
-    scryfall_uuid: 0b168b85-323c-4d95-80a5-851988522606
+    scryfall_uuid: 52558748-6893-4c72-a9e2-e87d31796b59
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: CreatureLegendaryOval
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: "Jacob Hauken, Inspector"
     quantity: 1
-    scryfall_uuid: c0f0004e-ee4c-4372-be5d-a5102f45210e
+    scryfall_uuid: 6b4529c3-8edb-4909-b910-806450a39d2e
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: CreatureLegendaryOval
     back_border: NonCreatureLegendary
     commander: false
     sideboard: false
@@ -849,11 +849,11 @@ cards:
     watermarks: []
   - name: "Thassa, Deep-Dwelling"
     quantity: 1
-    scryfall_uuid: 27b52628-de05-4ec1-9978-e998cf17bb26
+    scryfall_uuid: c83ed3e0-82d0-4410-a6ca-b0f923eadf83
     tags: []
     front: Default
     back: Default
-    front_border: CreatureLegendaryFullArtOval
+    front_border: CreatureLegendaryOval
     back_border: None
     commander: false
     sideboard: false
@@ -915,7 +915,7 @@ cards:
     watermarks: []
   - name: "Lier, Disciple of the Drowned"
     quantity: 1
-    scryfall_uuid: 9d67b9ec-7f53-4df6-b2cc-afd7efda6bb4
+    scryfall_uuid: 78fb8900-d28d-4e33-96a7-66fcbc117adf
     tags: []
     front: Default
     back: Default
@@ -926,7 +926,7 @@ cards:
     watermarks: []
   - name: Mind Flayer
     quantity: 1
-    scryfall_uuid: 5cc1142e-ccf6-42bb-9d56-d74344ce8f97
+    scryfall_uuid: c29ac797-a186-4224-94e1-9bb9dca4b029
     tags: []
     front: Default
     back: Default
@@ -981,11 +981,11 @@ cards:
     watermarks: []
   - name: "Gyruda, Doom of Depths"
     quantity: 1
-    scryfall_uuid: 206739b3-9b6a-4855-a2c3-721879bdbfb7
+    scryfall_uuid: 0d59bf12-f898-40ad-a8a9-2f31f733cf15
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: CreatureLegendaryFullArtOval
     back_border: None
     commander: false
     sideboard: false
@@ -1014,11 +1014,11 @@ cards:
     watermarks: []
   - name: "Kiora, Behemoth Beckoner"
     quantity: 1
-    scryfall_uuid: c4cf8664-a29d-4d64-af14-7c2002488ba2
+    scryfall_uuid: 7a61b1a6-a75f-47b0-b215-de9708b6d773
     tags: []
     front: Default
     back: Default
-    front_border: Planeswalker2015Oval
+    front_border: Planeswalker2015
     back_border: None
     commander: false
     sideboard: false
@@ -1084,7 +1084,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature
+    front_border: MysticalArchiveEN
     back_border: None
     commander: false
     sideboard: false
@@ -1140,7 +1140,7 @@ cards:
     front: Default
     back: Default
     front_border: SplitAftermathOval
-    back_border: Split2
+    back_border: None
     commander: false
     sideboard: false
     watermarks: []
@@ -1404,7 +1404,7 @@ cards:
     front: Default
     back: Default
     front_border: NonCreature
-    back_border: NonCreature
+    back_border: None
     commander: false
     sideboard: false
     watermarks: []
@@ -1421,12 +1421,12 @@ cards:
     watermarks: []
   - name: "Valki, God of Lies"
     quantity: 1
-    scryfall_uuid: 86528590-6ff1-4dfa-adf2-6de05ff7b89c
+    scryfall_uuid: ea7e4c65-b4c4-4795-9475-3cba71c50ea5
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
-    back_border: PlaneswalkerBorderless
+    front_border: CreatureLegendaryMDFCOval
+    back_border: Planeswalker2015
     commander: false
     sideboard: false
     watermarks: []
@@ -1443,7 +1443,7 @@ cards:
     watermarks: []
   - name: "Liliana, Heretical Healer"
     quantity: 1
-    scryfall_uuid: d8b718d8-fca3-4b3e-9448-6067c8656a9a
+    scryfall_uuid: 9f25e1cf-eeb4-458d-8fb2-b3a2f86bdd54
     tags: []
     front: Default
     back: Default
@@ -1470,7 +1470,7 @@ cards:
     front: Default
     back: Default
     front_border: AdventurePromoOval
-    back_border: AdventurePromo
+    back_border: None
     commander: false
     sideboard: false
     watermarks: []
@@ -1531,7 +1531,7 @@ cards:
     watermarks: []
   - name: "Gisa, Glorious Resurrector"
     quantity: 1
-    scryfall_uuid: 7473f95a-b004-41ad-9729-0242c8b2a5ee
+    scryfall_uuid: 63461076-a13d-488d-bd82-ceac441341c8
     tags: []
     front: Default
     back: Default
@@ -1564,12 +1564,12 @@ cards:
     watermarks: []
   - name: Henrika Domnathi
     quantity: 1
-    scryfall_uuid: aafe47a8-0223-4c0b-b6ce-e25446a07c96
+    scryfall_uuid: 946ca338-5f43-4cff-bd93-1b28449c5fdc
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
-    back_border: CreatureBorderless
+    front_border: CreatureLegendaryOval
+    back_border: CreatureLegendary
     commander: false
     sideboard: false
     watermarks: []
@@ -1608,11 +1608,11 @@ cards:
     watermarks: []
   - name: Ravenous Chupacabra
     quantity: 1
-    scryfall_uuid: 9e2af348-e768-44ca-b847-d541a0b0e6e0
+    scryfall_uuid: 02551196-ecea-472f-9547-3c9658d0489e
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature
     back_border: None
     commander: false
     sideboard: false
@@ -1663,7 +1663,7 @@ cards:
     watermarks: []
   - name: "Tergrid, God of Fright"
     quantity: 1
-    scryfall_uuid: 9ff4efdf-c0bb-443a-a100-2f3850571e91
+    scryfall_uuid: 14dc88ee-bba9-4625-af0d-89f3762a0ead
     tags: []
     front: Default
     back: Default
@@ -1707,7 +1707,7 @@ cards:
     watermarks: []
   - name: Archon of Cruelty
     quantity: 1
-    scryfall_uuid: c38d9873-f4e9-418f-aee8-8623b2576f6c
+    scryfall_uuid: 1be9d9a4-d7ee-4854-abc2-85cabf993ec9
     tags: []
     front: Default
     back: Default
@@ -1751,11 +1751,11 @@ cards:
     watermarks: []
   - name: "Liliana, Death's Majesty"
     quantity: 1
-    scryfall_uuid: e7fe57c2-68c6-44c9-ac2b-9d531c0d000c
+    scryfall_uuid: bdcaf0f0-3681-463c-b132-58056156bc6a
     tags: []
     front: Default
     back: Default
-    front_border: PlaneswalkerBorderlessOval
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -1784,7 +1784,7 @@ cards:
     watermarks: []
   - name: "Liliana, Dreadhorde General"
     quantity: 1
-    scryfall_uuid: 06bcf9ac-f0f7-405b-960b-ebf15b2640a7
+    scryfall_uuid: d75ebba8-34ca-47a0-bf13-8318ad73b343
     tags: []
     front: Default
     back: Default
@@ -1854,7 +1854,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature
+    front_border: MysticalArchiveEN
     back_border: None
     commander: false
     sideboard: false
@@ -1954,7 +1954,7 @@ cards:
     front: Default
     back: Default
     front_border: Split2
-    back_border: Split2
+    back_border: None
     commander: false
     sideboard: false
     watermarks: []
@@ -2004,7 +2004,7 @@ cards:
     watermarks: []
   - name: Flametongue Yearling
     quantity: 1
-    scryfall_uuid: e4d35091-c272-4679-aa20-7889e9cdcd41
+    scryfall_uuid: 33ab05b5-d6f5-439c-9aed-1a58ceb282ad
     tags: []
     front: Default
     back: Default
@@ -2026,7 +2026,7 @@ cards:
     watermarks: []
   - name: "Magda, Brazen Outlaw"
     quantity: 1
-    scryfall_uuid: ab551f0e-7a9c-4c99-b199-042ab018dd9a
+    scryfall_uuid: 079e6263-e54c-4899-a336-5315909b9322
     tags: []
     front: Default
     back: Default
@@ -2125,7 +2125,7 @@ cards:
     watermarks: []
   - name: "Toggo, Goblin Weaponsmith"
     quantity: 1
-    scryfall_uuid: 16a097ba-6242-4a28-a6f1-72a5b3ec3a8f
+    scryfall_uuid: 1a05b3e2-259e-4fce-92ee-c00660e22ae7
     tags: []
     front: Default
     back: Default
@@ -2147,7 +2147,7 @@ cards:
     watermarks: []
   - name: "Delina, Wild Mage"
     quantity: 1
-    scryfall_uuid: c4f1dc68-868b-4f3f-b10a-62842d88edc4
+    scryfall_uuid: e87459aa-af8f-4bd2-a310-151353083a2e
     tags: []
     front: Default
     back: Default
@@ -2180,11 +2180,11 @@ cards:
     watermarks: []
   - name: Ill-Tempered Loner
     quantity: 1
-    scryfall_uuid: 4a1ce3cd-380a-4ecc-b837-7ffeaccd5c91
+    scryfall_uuid: f3d1e90b-0c99-46da-b4f6-4b7be27dbd5c
     tags: []
     front: Default
     back: Default
-    front_border: Creature2015FullArtOval
+    front_border: Creature2015Oval
     back_border: Creature
     commander: false
     sideboard: false
@@ -2246,7 +2246,7 @@ cards:
     watermarks: []
   - name: "Toralf, God of Fury"
     quantity: 1
-    scryfall_uuid: 5af80f3b-229d-43f8-976e-50bee70b32e7
+    scryfall_uuid: 22a6a5f1-1405-4efb-af3e-e1f58d664e99
     tags: []
     front: Default
     back: Default
@@ -2323,11 +2323,11 @@ cards:
     watermarks: []
   - name: "Ilharg, the Raze-Boar"
     quantity: 1
-    scryfall_uuid: ad3af587-d08d-4ae0-9599-390ade85c735
+    scryfall_uuid: c0109b60-09aa-4a03-92e7-0c651d976d51
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: CreatureLegendaryOval
     back_border: None
     commander: false
     sideboard: false
@@ -2444,7 +2444,7 @@ cards:
     watermarks: []
   - name: Abrade
     quantity: 1
-    scryfall_uuid: 61ada5ce-3a58-4da9-aff2-93a61411dd64
+    scryfall_uuid: 24da9431-7e52-44f5-bc18-2f2d8a4ca81e
     tags: []
     front: Default
     back: Default
@@ -2481,7 +2481,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature
+    front_border: MysticalArchiveEN
     back_border: None
     commander: false
     sideboard: false
@@ -2503,7 +2503,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: MysticalArchiveENOval
     back_border: None
     commander: false
     sideboard: false
@@ -2576,12 +2576,12 @@ cards:
     watermarks: []
   - name: Cut // Ribbons
     quantity: 1
-    scryfall_uuid: 94f09def-15df-4f74-9727-e5d3138bf19e
+    scryfall_uuid: c6f61e2b-e93b-4dda-95cf-9d0ff198c0a6
     tags: []
     front: Default
     back: Default
     front_border: SplitAftermathOval
-    back_border: Split2
+    back_border: None
     commander: false
     sideboard: false
     watermarks: []
@@ -2602,7 +2602,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: MysticalArchiveENOval
     back_border: None
     commander: false
     sideboard: false
@@ -2631,11 +2631,11 @@ cards:
     watermarks: []
   - name: Blasphemous Act
     quantity: 1
-    scryfall_uuid: 4a184a4a-2c8c-4a10-9b26-a174859fa1e8
+    scryfall_uuid: b8ddab6f-0d13-4ec7-908d-54edb09b5727
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
     sideboard: false
@@ -2697,7 +2697,7 @@ cards:
     watermarks: []
   - name: Ignoble Hierarch
     quantity: 1
-    scryfall_uuid: 3139cce8-3467-4c50-add2-5b78fb33b90a
+    scryfall_uuid: aba51852-af8f-49d8-8fb6-22d52a1742b8
     tags: []
     front: Default
     back: Default
@@ -2840,7 +2840,7 @@ cards:
     watermarks: []
   - name: Llanowar Visionary
     quantity: 1
-    scryfall_uuid: 880c9523-717e-4903-a09e-d6c47614383d
+    scryfall_uuid: d6e23afa-7e08-4049-baf0-d4d0134ba2c8
     tags: []
     front: Default
     back: Default
@@ -2862,7 +2862,7 @@ cards:
     watermarks: []
   - name: Reclamation Sage
     quantity: 1
-    scryfall_uuid: cac912bb-f18a-4501-a5c0-aed8cb0a9e43
+    scryfall_uuid: 2951026c-69bb-4ffc-a24f-b0795a12aa79
     tags: []
     front: Default
     back: Default
@@ -2983,18 +2983,18 @@ cards:
     watermarks: []
   - name: Oracle of Mul Daya
     quantity: 1
-    scryfall_uuid: 68dce077-4ecd-406a-9052-05d5485ffa6f
+    scryfall_uuid: 5de097e5-e960-4404-a370-defe93ce892f
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature2015Oval
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: Timeless Witness
     quantity: 1
-    scryfall_uuid: 8a0f47b0-2254-4df2-b3dc-74c1d3811d2f
+    scryfall_uuid: f22c07e2-91d2-4edb-bd2b-cca6d4cefcc9
     tags: []
     front: Default
     back: Default
@@ -3005,7 +3005,7 @@ cards:
     watermarks: []
   - name: "Toski, Bearer of Secrets"
     quantity: 1
-    scryfall_uuid: 08eb31f3-7686-4d6b-a0e4-5d6ece6fba82
+    scryfall_uuid: f9e79b59-94c8-4697-bf88-f0a0433170f5
     tags: []
     front: Default
     back: Default
@@ -3082,7 +3082,7 @@ cards:
     watermarks: []
   - name: "Vorinclex, Monstrous Raider"
     quantity: 1
-    scryfall_uuid: f6db03ef-db89-43c4-89b4-d48e0620e101
+    scryfall_uuid: 92613468-205e-488b-930d-11908477e9f8
     tags: []
     front: Default
     back: Default
@@ -3280,7 +3280,7 @@ cards:
     watermarks: []
   - name: "Esika's Chariot"
     quantity: 1
-    scryfall_uuid: 57a7d7e5-428d-4f42-8f13-9908fc65dcb4
+    scryfall_uuid: a87606cc-fbf0-4e2c-9798-f1c935d0573d
     tags: []
     front: Default
     back: Default
@@ -3456,7 +3456,7 @@ cards:
     watermarks: []
   - name: "Yuriko, the Tiger's Shadow"
     quantity: 1
-    scryfall_uuid: 7af7847e-82e6-45ed-834d-6f3bcba44017
+    scryfall_uuid: 6e4ef5bf-f055-4f0a-b1f4-263081f39104
     tags: []
     front: Default
     back: Default
@@ -3577,11 +3577,11 @@ cards:
     watermarks: []
   - name: "Angrath, the Flame-Chained"
     quantity: 1
-    scryfall_uuid: ba48c787-a444-4e15-bab7-39994a6e23e7
+    scryfall_uuid: a4d76d03-4fcf-42f8-8c2e-ad6b03d58677
     tags: []
     front: Default
     back: Default
-    front_border: PlaneswalkerBorderlessOval
+    front_border: Planeswalker2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -3599,18 +3599,18 @@ cards:
     watermarks: []
   - name: "Olivia, Crimson Bride"
     quantity: 1
-    scryfall_uuid: 0d5552d3-6860-42e5-8a13-1d36dce77322
+    scryfall_uuid: 301dacc9-ef92-4515-b907-a70d6c3fd73e
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: CreatureLegendaryOval
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: "Domri, Anarch of Bolas"
     quantity: 1
-    scryfall_uuid: 4cd69ed9-4c33-4bb5-89a3-fd042d1daa1f
+    scryfall_uuid: c1af9881-e35b-4be2-8716-ea7c6664e22c
     tags: []
     front: Default
     back: Default
@@ -3632,7 +3632,7 @@ cards:
     watermarks: []
   - name: "Halana and Alena, Partners"
     quantity: 1
-    scryfall_uuid: 87684bef-8ef9-4709-a50e-fa5ff2f67acc
+    scryfall_uuid: 608fa232-f5fe-4c58-9efe-fb780f454b19
     tags: []
     front: Default
     back: Default
@@ -3742,18 +3742,18 @@ cards:
     watermarks: []
   - name: "Torens, Fist of the Angels"
     quantity: 1
-    scryfall_uuid: 162a3448-34fd-4de6-a6b4-f6d636eead8c
+    scryfall_uuid: bd111dc9-b8de-4e92-a63d-75a961b2db3b
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: CreatureLegendaryOval
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: "Ajani, the Greathearted"
     quantity: 1
-    scryfall_uuid: 00b33e71-ef08-4aeb-bca2-a2a4a43c2e0d
+    scryfall_uuid: 6cc78151-8cb0-4521-9674-fb0c67e24a17
     tags: []
     front: Default
     back: Default
@@ -3808,7 +3808,7 @@ cards:
     watermarks: []
   - name: Priest of Fell Rites
     quantity: 1
-    scryfall_uuid: 96a63c64-bbf4-46cc-bffe-0992bea502cc
+    scryfall_uuid: d116329d-6de7-402c-821d-e9aeba9ad2b1
     tags: []
     front: Default
     back: Default
@@ -3819,11 +3819,11 @@ cards:
     watermarks: []
   - name: Anguished Unmaking
     quantity: 1
-    scryfall_uuid: bbd79be1-3e84-41a3-89ae-b1132cb31ed9
+    scryfall_uuid: fa7a04aa-fd0b-4777-bdfb-8419fee3fbf3
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -3929,7 +3929,7 @@ cards:
     watermarks: []
   - name: "Ral, Storm Conduit"
     quantity: 1
-    scryfall_uuid: 828289fa-6335-43c3-9d42-1c0199b9af67
+    scryfall_uuid: 678ce3bf-152d-45ca-87ae-ad46c921328b
     tags: []
     front: Default
     back: Default
@@ -3978,7 +3978,7 @@ cards:
     front: Default
     back: Default
     front_border: Split5Oval
-    back_border: Split2
+    back_border: None
     commander: false
     sideboard: false
     watermarks: []
@@ -4088,7 +4088,7 @@ cards:
     front: Default
     back: Default
     front_border: Split5Oval
-    back_border: Split2
+    back_border: None
     commander: false
     sideboard: false
     watermarks: []
@@ -4127,7 +4127,7 @@ cards:
     watermarks: []
   - name: General Ferrous Rokiric
     quantity: 1
-    scryfall_uuid: b0a0636e-cf3c-4bf2-8d01-b830bed999ef
+    scryfall_uuid: 600dca0f-5964-45e7-86df-f16a5b4a0106
     tags: []
     front: Default
     back: Default
@@ -4380,7 +4380,7 @@ cards:
     watermarks: []
   - name: "Minsc, Beloved Ranger"
     quantity: 1
-    scryfall_uuid: 034f75c7-bb57-426a-8e3f-4b7f0110f02b
+    scryfall_uuid: 72405607-a60e-42af-b523-64008d3f89b9
     tags: []
     front: Default
     back: Default
@@ -4424,11 +4424,11 @@ cards:
     watermarks: []
   - name: Maelstrom Wanderer
     quantity: 1
-    scryfall_uuid: d5a75062-b5e3-4942-af64-12f43101c294
+    scryfall_uuid: 98aeab2a-69b5-4b4f-9de4-5401d01c26e2
     tags: []
     front: Default
     back: Default
-    front_border: CreatureLegendaryOval
+    front_border: Creature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -4468,7 +4468,7 @@ cards:
     watermarks: []
   - name: Villainous Wealth
     quantity: 1
-    scryfall_uuid: 8663bcef-df55-4765-b8a6-7afd1e09c32d
+    scryfall_uuid: 59836c11-142b-4a19-bcbd-21b3464da71a
     tags: []
     front: Default
     back: Default
@@ -4501,7 +4501,7 @@ cards:
     watermarks: []
   - name: "Omnath, Locus of Creation"
     quantity: 1
-    scryfall_uuid: 9b5bc5d7-c0f8-4632-adb7-dd3b75a3d87d
+    scryfall_uuid: 4e4fb50c-a81f-44d3-93c5-fa9a0b37f617
     tags: []
     front: Default
     back: Default
@@ -4512,7 +4512,7 @@ cards:
     watermarks: []
   - name: "Esika, God of the Tree"
     quantity: 1
-    scryfall_uuid: ced8571a-24e1-45be-8698-3314b663940a
+    scryfall_uuid: f6cd7465-9dd0-473c-ac5e-dd9e2f22f5f6
     tags: []
     front: Default
     back: Default
@@ -4523,7 +4523,7 @@ cards:
     watermarks: []
   - name: Garth One-Eye
     quantity: 1
-    scryfall_uuid: c92aed86-4786-42c5-a599-7b3178eed478
+    scryfall_uuid: 23774462-9f17-4b50-a2ac-b2edd706bbfe
     tags: []
     front: Default
     back: Default
@@ -4589,11 +4589,11 @@ cards:
     watermarks: []
   - name: Hangarback Walker
     quantity: 1
-    scryfall_uuid: 773916fd-060e-4abc-a060-e18768807571
+    scryfall_uuid: c246b845-dfca-47a3-aa56-074d30590320
     tags: []
     front: Default
     back: Default
-    front_border: CreatureBorderlessOval
+    front_border: Creature2015Oval
     back_border: None
     commander: false
     sideboard: false
@@ -4765,7 +4765,7 @@ cards:
     watermarks: []
   - name: "Ugin, the Ineffable"
     quantity: 1
-    scryfall_uuid: 86395749-e85a-460a-b14d-7228030bde59
+    scryfall_uuid: 7b003521-3da3-41bf-9765-36630653f902
     tags: []
     front: Default
     back: Default
@@ -4776,11 +4776,11 @@ cards:
     watermarks: []
   - name: Dismember
     quantity: 1
-    scryfall_uuid: 03da66e3-a369-4433-a2b8-8625403d34b0
+    scryfall_uuid: 4ccd8394-cbc9-4346-9b48-f6be447b3e08
     tags: []
     front: Default
     back: Default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreature
     back_border: None
     commander: false
     sideboard: false
@@ -5040,7 +5040,7 @@ cards:
     watermarks: []
   - name: Chromatic Lantern
     quantity: 1
-    scryfall_uuid: 97594249-704b-4ef2-a86a-d1442d0fe689
+    scryfall_uuid: c7970aee-494f-45c1-9842-04632ad27313
     tags: []
     front: Default
     back: Default
@@ -5561,7 +5561,7 @@ cards:
     tags: []
     front: Default
     back: Default
-    front_border: NonCreature
+    front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
     sideboard: false
