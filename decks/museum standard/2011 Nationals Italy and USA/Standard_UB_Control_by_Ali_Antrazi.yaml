@@ -1,0 +1,395 @@
+---
+cards:
+  - name: Consecrated Sphinx
+    quantity: 2
+    scryfall_uuid: 09084e38-195a-45d6-a245-1c6d3e86500f
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Grave Titan
+    quantity: 2
+    scryfall_uuid: 8f1a018f-ce08-428b-9be2-937204dd25c2
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureTitanPromoOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Solemn Simulacrum
+    quantity: 3
+    scryfall_uuid: 25eab51a-8dad-4a37-9551-c6bf0dc6ecf5
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Into the Roil
+    quantity: 1
+    scryfall_uuid: f3463be0-df9e-4cb9-a90f-5d9d2ee729e0
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Go for the Throat
+    quantity: 1
+    scryfall_uuid: a1f4bde9-5ce9-42ca-8052-57da311f0688
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Dismember
+    quantity: 1
+    scryfall_uuid: 4cf874b6-5616-4d33-a5e4-4e5a80db1a13
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Consume the Meek
+    quantity: 1
+    scryfall_uuid: c94dcaed-55da-41f4-a61f-2a79ef6c1459
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Doom Blade
+    quantity: 3
+    scryfall_uuid: 7e6c0fe2-a82b-42cb-8629-b9f00b7f08e9
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveENOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mana Leak
+    quantity: 4
+    scryfall_uuid: 0b54b6f3-9ee3-4f6e-bde6-b54fc038a132
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Despise
+    quantity: 1
+    scryfall_uuid: 64216ce3-945e-42d8-9127-cf11c687da67
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Black Sun's Zenith"
+    quantity: 1
+    scryfall_uuid: 90b217bf-9a62-4239-be24-e23c106b8212
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Preordain
+    quantity: 4
+    scryfall_uuid: 1453f92e-df2d-4789-aa1b-a5b5c51567d4
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Inquisition of Kozilek
+    quantity: 4
+    scryfall_uuid: d47df2c2-437d-4b8e-82cc-1707e3efd5b5
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveENOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Liliana Vess
+    quantity: 1
+    scryfall_uuid: 1662fcb1-f142-43ff-b682-6827dea2ff7e
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Karn Liberated
+    quantity: 1
+    scryfall_uuid: 96d1a254-01a8-4590-8878-690c5bfb4a95
+    tags: []
+    front: Default
+    back: Default
+    front_border: PlaneswalkerBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Jace Beleren
+    quantity: 4
+    scryfall_uuid: de8a1c0e-23fc-4d27-925f-cc560548ccba
+    tags: []
+    front: Default
+    back: Default
+    front_border: PlaneswalkerSignatureJace
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mystifying Maze
+    quantity: 1
+    scryfall_uuid: faeeb2f8-0aa1-4f3e-848d-f4233996055b
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Creeping Tar Pit
+    quantity: 4
+    scryfall_uuid: e7d7e102-c52d-4891-a2a2-55fead79dc61
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Tectonic Edge
+    quantity: 4
+    scryfall_uuid: 7c079aa9-e633-4ad0-87c1-79c0421c03dc
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Island
+    quantity: 4
+    scryfall_uuid: acf7b664-3e75-4018-81f6-2a14ab59f258
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Drowned Catacomb
+    quantity: 4
+    scryfall_uuid: 2d3a1881-aa9c-4b0e-8350-e033b0367035
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Darkslick Shores
+    quantity: 4
+    scryfall_uuid: e703a4f0-6aaf-418a-8ef7-f4a0317b7a26
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandZendikarExpedition
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Swamp
+    quantity: 5
+    scryfall_uuid: 02cb5cfd-018e-4c5e-bef1-166262aa5f1d
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Wurmcoil Engine
+    quantity: 1
+    scryfall_uuid: f097accb-28ad-4b22-b615-103c74e07708
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Volition Reins
+    quantity: 1
+    scryfall_uuid: aa8fa025-56e6-4d24-a615-a51b6be937e9
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Surgical Extraction
+    quantity: 1
+    scryfall_uuid: 6e438caf-9373-4de8-b4ac-212f5036e677
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: "Praetor's Grasp"
+    quantity: 1
+    scryfall_uuid: 5c4e9151-d8b7-43f6-ac21-a8760cc04c7a
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Peace Strider
+    quantity: 1
+    scryfall_uuid: 4bc9bd97-f256-4dcd-b2a7-3239d443a0af
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Memoricide
+    quantity: 1
+    scryfall_uuid: acc5b944-a9fe-4a64-bf11-51817a26f22b
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Despise
+    quantity: 1
+    scryfall_uuid: 64216ce3-945e-42d8-9127-cf11c687da67
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: "Black Sun's Zenith"
+    quantity: 1
+    scryfall_uuid: 90b217bf-9a62-4239-be24-e23c106b8212
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Duress
+    quantity: 2
+    scryfall_uuid: 5bb89f3f-f3b0-402d-9f3c-5b4b8a9d1e91
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveEN
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Disfigure
+    quantity: 2
+    scryfall_uuid: 5a3a6be4-c9fa-4154-9e91-22eb939bfc4f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Flashfreeze
+    quantity: 3
+    scryfall_uuid: 81db0226-23de-4180-9926-b61fa910820e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

@@ -1,0 +1,252 @@
+---
+cards:
+  - name: Growth-Chamber Guardian
+    quantity: 4
+    scryfall_uuid: 0f97cdf4-231d-4bd0-af5e-bcb64ce1556c
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Gruul Spellbreaker
+    quantity: 4
+    scryfall_uuid: 326679a2-782d-45a0-9a06-b147ceff3979
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Legion Warboss
+    quantity: 3
+    scryfall_uuid: 5e84cb9c-9876-47a4-aea4-78574321bc36
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Llanowar Elves
+    quantity: 4
+    scryfall_uuid: 581b7327-3215-4a4f-b4ae-d9d4002ba882
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Rekindling Phoenix
+    quantity: 4
+    scryfall_uuid: daccec32-84c6-4de4-9b00-c497a6ba5de8
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Skarrgan Hellkite
+    quantity: 3
+    scryfall_uuid: be941a2e-4eb0-45b3-9da0-834053907a65
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Thorn Lieutenant
+    quantity: 4
+    scryfall_uuid: 0812e942-eb78-48c8-857e-5f0ff1bd777b
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Shock
+    quantity: 4
+    scryfall_uuid: 60eeb025-704c-4a82-90b2-f91202ae30d9
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveEN
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Domri's Ambush"
+    quantity: 3
+    scryfall_uuid: b0dcae59-e9be-45a8-8ed8-5b47309bb716
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Domri, Anarch of Bolas"
+    quantity: 3
+    scryfall_uuid: c1af9881-e35b-4be2-8716-ea7c6664e22c
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Forest
+    quantity: 9
+    scryfall_uuid: 32af9f41-89e2-4e7a-9fec-fffe79cae077
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mountain
+    quantity: 7
+    scryfall_uuid: 53fb7b99-9e47-46a6-9c8a-88e28b5197f1
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Rootbound Crag
+    quantity: 4
+    scryfall_uuid: b6f59e19-9ac1-4f86-893e-5b3364122fc6
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Stomping Ground
+    quantity: 4
+    scryfall_uuid: 4c5e0fa3-63db-4b1e-bc15-dcb0ae80db14
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Collision // Colossus
+    quantity: 2
+    scryfall_uuid: 9bd15da6-2b86-4dba-951d-318c7d9a5dde
+    tags: []
+    front: Default
+    back: Default
+    front_border: Split2
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Dire Fleet Daredevil
+    quantity: 2
+    scryfall_uuid: 28c3c7d7-bf25-4dd7-8fbf-4c8ae6603dd1
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: "Domri, Chaos Bringer"
+    quantity: 2
+    scryfall_uuid: 4bd12cfd-7e99-4b6e-9e6a-05440594462a
+    tags: []
+    front: Default
+    back: Default
+    front_border: PlaneswalkerBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Lava Coil
+    quantity: 4
+    scryfall_uuid: f6135cf4-50c2-4e44-b9b0-96e1187a2200
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Sentinel Totem
+    quantity: 1
+    scryfall_uuid: 0d8097eb-518a-4b8e-8d6a-a139d4ddcc8f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Thrashing Brontodon
+    quantity: 1
+    scryfall_uuid: c6cf27a3-9bcf-475c-a324-7c3af50496dd
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Vivien Reid
+    quantity: 3
+    scryfall_uuid: 33546fba-7f89-4e61-85ac-b128df3cb14d
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

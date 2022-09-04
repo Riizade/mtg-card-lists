@@ -1,0 +1,296 @@
+---
+cards:
+  - name: Hydroid Krasis
+    quantity: 4
+    scryfall_uuid: 801dd9c6-b159-4e1c-af2c-214c1f573633
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Jadelight Ranger
+    quantity: 4
+    scryfall_uuid: 3b945b4d-5240-4779-9187-e3b18903bf59
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Llanowar Elves
+    quantity: 4
+    scryfall_uuid: 73542493-cd0b-4bb7-a5b8-8f889c76e4d6
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Merfolk Branchwalker
+    quantity: 4
+    scryfall_uuid: 2c6f0d4a-4827-47b6-8af6-803949c195f8
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Wildgrowth Walker
+    quantity: 4
+    scryfall_uuid: 52e4c0f8-d5f0-4224-9974-190606911480
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Assassin's Trophy"
+    quantity: 2
+    scryfall_uuid: 906b6e99-128f-4c11-8daf-16099d35b0d4
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Cast Down
+    quantity: 2
+    scryfall_uuid: 21c8426e-476a-45e4-b3a9-841da54d966c
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Command the Dreadhorde
+    quantity: 3
+    scryfall_uuid: de7ec307-45e0-4853-85fe-9ce859b188c2
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Nissa, Who Shakes the World"
+    quantity: 4
+    scryfall_uuid: f857bbe4-5619-4733-a0c7-69700f2ef4f3
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Tamiyo, Collector of Tales"
+    quantity: 3
+    scryfall_uuid: aeae9feb-8153-496c-bb12-8db5e2e089a9
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Vraska, Golgari Queen"
+    quantity: 2
+    scryfall_uuid: 963f641d-aabe-4432-87c5-d8cddf95d8d5
+    tags: []
+    front: Default
+    back: Default
+    front_border: PlaneswalkerBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Breeding Pool
+    quantity: 4
+    scryfall_uuid: 045d22eb-b291-4bbe-b468-32bdf8b6eba6
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Drowned Catacomb
+    quantity: 2
+    scryfall_uuid: 2d3a1881-aa9c-4b0e-8350-e033b0367035
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Forest
+    quantity: 3
+    scryfall_uuid: 32af9f41-89e2-4e7a-9fec-fffe79cae077
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Hinterland Harbor
+    quantity: 3
+    scryfall_uuid: d631d040-51e9-4540-91e7-aeb5ade84090
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Overgrown Tomb
+    quantity: 4
+    scryfall_uuid: b92ca85d-eede-4c7f-b491-f555da1c23eb
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Watery Grave
+    quantity: 4
+    scryfall_uuid: af6d2e24-9467-4aa6-8841-7716d051edf7
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Woodland Cemetery
+    quantity: 4
+    scryfall_uuid: ba05cf47-9823-41f9-b893-321ea89e473e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Cast Down
+    quantity: 1
+    scryfall_uuid: 21c8426e-476a-45e4-b3a9-841da54d966c
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Duress
+    quantity: 3
+    scryfall_uuid: 5bb89f3f-f3b0-402d-9f3c-5b4b8a9d1e91
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveEN
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Negate
+    quantity: 2
+    scryfall_uuid: 5bfe3a17-3349-4fcc-a9b5-418faa55cc43
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveEN
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: "Ob Nixilis's Cruelty"
+    quantity: 2
+    scryfall_uuid: 94db72a8-57f7-4f17-9f09-cae90ef50304
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Ripjaw Raptor
+    quantity: 2
+    scryfall_uuid: f678f9df-45fc-45ce-9c1b-69f70b632fb8
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: The Elderspell
+    quantity: 2
+    scryfall_uuid: a3b16625-7faf-4de6-abf7-d397988e32fb
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Thrashing Brontodon
+    quantity: 3
+    scryfall_uuid: c6cf27a3-9bcf-475c-a324-7c3af50496dd
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

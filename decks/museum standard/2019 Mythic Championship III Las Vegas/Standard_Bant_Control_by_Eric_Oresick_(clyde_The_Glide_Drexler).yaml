@@ -1,0 +1,307 @@
+---
+cards:
+  - name: Frilled Mystic
+    quantity: 2
+    scryfall_uuid: 50595d02-edad-48a6-b10c-6fa859cc88bb
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Hydroid Krasis
+    quantity: 4
+    scryfall_uuid: 801dd9c6-b159-4e1c-af2c-214c1f573633
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Incubation Druid
+    quantity: 4
+    scryfall_uuid: bd3071c4-6269-4c6b-9324-3d2284ec616d
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Llanowar Elves
+    quantity: 4
+    scryfall_uuid: 73542493-cd0b-4bb7-a5b8-8f889c76e4d6
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Paradise Druid
+    quantity: 4
+    scryfall_uuid: 187d5819-6a63-4e4f-98c4-18191c03f164
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Shalai, Voice of Plenty"
+    quantity: 2
+    scryfall_uuid: 882d3475-4fb9-49ad-bc19-e6331428701b
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Entrancing Melody
+    quantity: 2
+    scryfall_uuid: 15732049-7e56-432f-881f-215e45b7a70e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Finale of Glory
+    quantity: 1
+    scryfall_uuid: 4ccacb84-2b8e-40b8-8d53-d1b97bb2971f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mass Manipulation
+    quantity: 3
+    scryfall_uuid: 782760d7-59cc-4d40-a885-6a7980094fee
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Nissa, Who Shakes the World"
+    quantity: 4
+    scryfall_uuid: f857bbe4-5619-4733-a0c7-69700f2ef4f3
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Teferi, Time Raveler"
+    quantity: 4
+    scryfall_uuid: 5cb76266-ae50-4bbc-8f96-d98f309b02d3
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Breeding Pool
+    quantity: 4
+    scryfall_uuid: 19477aca-b8db-4061-9a78-ebb189a9df22
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Forest
+    quantity: 5
+    scryfall_uuid: 32af9f41-89e2-4e7a-9fec-fffe79cae077
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Glacial Fortress
+    quantity: 4
+    scryfall_uuid: cef133d9-26d2-4a1e-8d6a-829f1067c169
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Hallowed Fountain
+    quantity: 4
+    scryfall_uuid: 3eef85b2-3e5f-45e1-b669-ad152e55fa6d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Hinterland Harbor
+    quantity: 4
+    scryfall_uuid: d631d040-51e9-4540-91e7-aeb5ade84090
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Island
+    quantity: 1
+    scryfall_uuid: acf7b664-3e75-4018-81f6-2a14ab59f258
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Temple Garden
+    quantity: 4
+    scryfall_uuid: b1c846f3-142d-43f0-aa9a-8fd5fbd5ada4
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Baffling End
+    quantity: 2
+    scryfall_uuid: 208c6f51-3c00-4fc6-8579-8f57444d0e97
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Deputy of Detention
+    quantity: 2
+    scryfall_uuid: 7e362055-78a1-48fa-a4ef-6cf7e0b21b14
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: "Ixalan's Binding"
+    quantity: 2
+    scryfall_uuid: 5f3c8c31-ceb8-4a2c-beb6-0ff5f7b6ae07
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Lyra Dawnbringer
+    quantity: 1
+    scryfall_uuid: 93be6799-7b9d-44d4-84dc-2961692b5a85
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Negate
+    quantity: 4
+    scryfall_uuid: 5bfe3a17-3349-4fcc-a9b5-418faa55cc43
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveEN
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: The Immortal Sun
+    quantity: 1
+    scryfall_uuid: adeccd88-8dc0-4cc1-943f-27d540d248bb
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Thrashing Brontodon
+    quantity: 2
+    scryfall_uuid: c6cf27a3-9bcf-475c-a324-7c3af50496dd
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: "Tolsimir, Friend to Wolves"
+    quantity: 1
+    scryfall_uuid: f7fce047-49f1-40ae-8410-6501cb0f8201
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

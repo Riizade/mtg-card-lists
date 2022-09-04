@@ -1,0 +1,285 @@
+---
+cards:
+  - name: Avenger of Zendikar
+    quantity: 2
+    scryfall_uuid: 03dea775-bbb3-4e9c-8514-0605b5ad2e8b
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Oracle of Mul Daya
+    quantity: 2
+    scryfall_uuid: 5de097e5-e960-4404-a370-defe93ce892f
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Overgrown Battlement
+    quantity: 4
+    scryfall_uuid: 50974264-b509-4df9-802b-623805a4cbee
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Primeval Titan
+    quantity: 4
+    scryfall_uuid: c3377096-d89c-408f-ab0b-6f96f1b240f6
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureTitanPromoOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Solemn Simulacrum
+    quantity: 3
+    scryfall_uuid: 25eab51a-8dad-4a37-9551-c6bf0dc6ecf5
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Explore
+    quantity: 4
+    scryfall_uuid: 59c33065-1bdd-4257-9e74-1f2aacf063c5
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Green Sun's Zenith"
+    quantity: 4
+    scryfall_uuid: 01794178-cf41-454c-ac37-1d8b18e42db2
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Pyroclasm
+    quantity: 3
+    scryfall_uuid: 8c8f3b5e-71b4-42e0-9ddb-630e3dcf1be7
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Rampant Growth
+    quantity: 4
+    scryfall_uuid: 0442b365-c970-478b-b418-ae02d83ca8e1
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Tumble Magnet
+    quantity: 2
+    scryfall_uuid: 74baa632-d046-401a-9172-1ab6284240bc
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Evolving Wilds
+    quantity: 2
+    scryfall_uuid: 40a2804d-d925-4950-8542-608f6e92387a
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Forest
+    quantity: 5
+    scryfall_uuid: 32af9f41-89e2-4e7a-9fec-fffe79cae077
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mountain
+    quantity: 11
+    scryfall_uuid: 53fb7b99-9e47-46a6-9c8a-88e28b5197f1
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Raging Ravine
+    quantity: 1
+    scryfall_uuid: 54f41726-e0bb-4154-a2db-4b68b50f5032
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Terramorphic Expanse
+    quantity: 4
+    scryfall_uuid: c7daa923-6bd9-4315-a483-840021b745dd
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Valakut, the Molten Pinnacle"
+    quantity: 4
+    scryfall_uuid: c2d07eea-b165-4976-9088-d283ab7cfe72
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandZendikarExpedition
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Verdant Catacombs
+    quantity: 1
+    scryfall_uuid: c7057b04-e22f-4e33-9f08-b9fbd2e54bf5
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Pyroclasm
+    quantity: 1
+    scryfall_uuid: 8c8f3b5e-71b4-42e0-9ddb-630e3dcf1be7
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: "Thrun, the Last Troll"
+    quantity: 2
+    scryfall_uuid: 617b247f-0e75-4815-b1fc-64bdb5239b46
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: "Nature's Claim"
+    quantity: 4
+    scryfall_uuid: 2144f53e-5f3b-4ee4-8b2a-b7cb22fa14ca
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Creeping Corrosion
+    quantity: 1
+    scryfall_uuid: 05d5a7b3-18b6-4b1d-85cc-2253e605390c
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Memoricide
+    quantity: 4
+    scryfall_uuid: acc5b944-a9fe-4a64-bf11-51817a26f22b
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Swamp
+    quantity: 1
+    scryfall_uuid: 02cb5cfd-018e-4c5e-bef1-166262aa5f1d
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Koth of the Hammer
+    quantity: 2
+    scryfall_uuid: dccb325a-6fba-4a6f-af35-dc9e9de996a9
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2003
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

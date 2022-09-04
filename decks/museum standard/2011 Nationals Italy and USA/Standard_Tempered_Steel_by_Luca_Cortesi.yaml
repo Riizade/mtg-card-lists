@@ -1,0 +1,230 @@
+---
+cards:
+  - name: Glint Hawk
+    quantity: 4
+    scryfall_uuid: 284c4710-4183-4743-9c8b-515cc98cbbb8
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Memnite
+    quantity: 4
+    scryfall_uuid: 7b8f6516-3d00-4deb-b852-bcd3b72e49ea
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Ornithopter
+    quantity: 4
+    scryfall_uuid: d8ea447f-3ea4-40ed-9bc8-6e78602be9a1
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Porcelain Legionnaire
+    quantity: 3
+    scryfall_uuid: 2616aa0e-8413-4e63-877c-bffd5263f552
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Signal Pest
+    quantity: 4
+    scryfall_uuid: be065962-f2ed-4ab9-be6b-bfc66d63ff4e
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Steel Overseer
+    quantity: 4
+    scryfall_uuid: 3f1b0b1f-a152-4bc8-923c-1b3a7f151295
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Vault Skirge
+    quantity: 4
+    scryfall_uuid: f254239c-c07a-4c41-98f7-8f4de539c73e
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Dispatch
+    quantity: 4
+    scryfall_uuid: 06bafa7d-1915-487a-96c8-b8aeafed20d4
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Glint Hawk Idol
+    quantity: 3
+    scryfall_uuid: 09c64d2e-1fbf-4858-8fa7-82bf2e41fe1f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mox Opal
+    quantity: 4
+    scryfall_uuid: 547e3aa5-d88a-4418-ab9d-dd65385f031b
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Tempered Steel
+    quantity: 4
+    scryfall_uuid: 956cc7b5-b120-4a98-9509-03047d8acd4a
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Contested War Zone
+    quantity: 3
+    scryfall_uuid: bee9b696-5203-4235-9bdd-f2a389d69813
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Inkmoth Nexus
+    quantity: 4
+    scryfall_uuid: 38c41b06-407e-497a-adb9-a19687fad1e8
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Plains
+    quantity: 11
+    scryfall_uuid: a9891b7b-fc52-470c-9f74-292ae665f378
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Kor Firewalker
+    quantity: 4
+    scryfall_uuid: b3d4cd85-491b-42c7-843a-f103892aa94b
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Spellskite
+    quantity: 3
+    scryfall_uuid: 9cc7c56d-1a28-477b-b1d1-854b127e1afc
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Celestial Purge
+    quantity: 2
+    scryfall_uuid: cd38afd4-d7a4-493d-bdea-72be9a1d9a07
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Revoke Existence
+    quantity: 2
+    scryfall_uuid: 7bd4fc26-8351-4371-948b-f43346c3e771
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Shrine of Loyal Legions
+    quantity: 4
+    scryfall_uuid: ced53428-391d-4b61-83e8-cce297e28de9
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

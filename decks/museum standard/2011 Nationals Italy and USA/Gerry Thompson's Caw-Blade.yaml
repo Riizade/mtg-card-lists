@@ -1,0 +1,318 @@
+---
+cards:
+  - name: Gideon Jura
+    quantity: 3
+    scryfall_uuid: 8532d72a-b2d2-49e1-85ea-35f4c91c6c8d
+    tags: []
+    front: Default
+    back: Default
+    front_border: PlaneswalkerSignatureGideon
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Jace, the Mind Sculptor"
+    quantity: 4
+    scryfall_uuid: ec386bc3-137b-49b5-8380-8daff470f0bc
+    tags: []
+    front: Default
+    back: Default
+    front_border: PlaneswalkerBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Squadron Hawk
+    quantity: 4
+    scryfall_uuid: 9e81806d-5d87-4032-ad94-c2cdeabecdbf
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Stoneforge Mystic
+    quantity: 4
+    scryfall_uuid: eb49805c-8546-463d-b78c-f4ea109851b4
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Day of Judgment
+    quantity: 4
+    scryfall_uuid: 5bf85d00-52cc-4594-b4fd-5ec424210524
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveENOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Preordain
+    quantity: 4
+    scryfall_uuid: bfb3f489-d5b5-4121-a19d-b33c8b6c20ed
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Lightning Bolt
+    quantity: 3
+    scryfall_uuid: 6ab06973-6440-4b12-8947-8c412500fa41
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mana Leak
+    quantity: 2
+    scryfall_uuid: ea345b5d-3b4b-4b59-876b-bc56fbe8578a
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Spell Pierce
+    quantity: 3
+    scryfall_uuid: beb42273-935b-4bda-849e-c163606cf89e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Sword of Body and Mind
+    quantity: 1
+    scryfall_uuid: 5cc0b4eb-8ee9-4213-8194-02e7d63428d3
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Sword of Feast and Famine
+    quantity: 1
+    scryfall_uuid: 0a469d00-1416-48dd-ad91-eb6f3fb4b42b
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Island
+    quantity: 3
+    scryfall_uuid: acf7b664-3e75-4018-81f6-2a14ab59f258
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mountain
+    quantity: 3
+    scryfall_uuid: 53fb7b99-9e47-46a6-9c8a-88e28b5197f1
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Plains
+    quantity: 4
+    scryfall_uuid: a9891b7b-fc52-470c-9f74-292ae665f378
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Arid Mesa
+    quantity: 4
+    scryfall_uuid: 54ced5cf-b51a-4dab-97f7-50fb18e5c463
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Celestial Colonnade
+    quantity: 3
+    scryfall_uuid: 051f18b2-9d16-4831-8f7e-458877b0c1fa
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Evolving Wilds
+    quantity: 2
+    scryfall_uuid: 478c3df6-da4e-48bd-92d5-349bc60d7150
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Glacial Fortress
+    quantity: 2
+    scryfall_uuid: cef133d9-26d2-4a1e-8d6a-829f1067c169
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Scalding Tarn
+    quantity: 3
+    scryfall_uuid: 229ecfc9-8d6b-4fdb-9001-64dc3e4e7a3f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Seachrome Coast
+    quantity: 3
+    scryfall_uuid: fd8a9bf6-07c7-4dde-8c37-4bae64ca10ef
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandZendikarExpedition
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Basilisk Collar
+    quantity: 1
+    scryfall_uuid: 0d85fb76-2ae9-425b-9c5e-2c63471c9599
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Cunning Sparkmage
+    quantity: 4
+    scryfall_uuid: 699842c1-6507-48ee-b98b-3774d1f07c76
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Inferno Titan
+    quantity: 1
+    scryfall_uuid: be293048-1df6-4df4-869c-b3b19534b35b
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureTitanPromoOval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Sun Titan
+    quantity: 1
+    scryfall_uuid: cd7a20a2-4489-42c7-9a39-4e2de95c77e2
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Dispel
+    quantity: 1
+    scryfall_uuid: 72df0898-72a4-444a-83bf-8252bd6ae563
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Divine Offering
+    quantity: 3
+    scryfall_uuid: fe7c7a65-5a96-4986-877b-b34583092bb6
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Flashfreeze
+    quantity: 4
+    scryfall_uuid: 81db0226-23de-4180-9926-b61fa910820e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

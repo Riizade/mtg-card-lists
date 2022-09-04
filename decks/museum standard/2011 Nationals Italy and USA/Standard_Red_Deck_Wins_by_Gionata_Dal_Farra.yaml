@@ -1,0 +1,296 @@
+---
+cards:
+  - name: "Chandra's Phoenix"
+    quantity: 1
+    scryfall_uuid: 1a91cd9b-9a5d-4251-bd6c-41c3ebd6d991
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Furnace Scamp
+    quantity: 3
+    scryfall_uuid: 97538294-058c-47d4-b7a8-4db3753a6628
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Goblin Guide
+    quantity: 4
+    scryfall_uuid: 62d2058c-3f20-4566-b366-93a2cbbe682f
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Grim Lavamancer
+    quantity: 4
+    scryfall_uuid: ee2a0d71-15a2-4061-b5f2-434755094aa4
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Hero of Oxid Ridge
+    quantity: 1
+    scryfall_uuid: 1a516bce-3d2d-4e0f-afc7-27be3d88848c
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Immolating Souleater
+    quantity: 1
+    scryfall_uuid: abbaf916-067d-4834-a55c-b400fe0d8c1f
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Stormblood Berserker
+    quantity: 4
+    scryfall_uuid: 651e0c74-9103-471f-838b-b4bc29c1ae9c
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Act of Aggression
+    quantity: 1
+    scryfall_uuid: 8d34c3aa-7d74-4a8b-898c-cb62b1f05989
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Dismember
+    quantity: 1
+    scryfall_uuid: 4cf874b6-5616-4d33-a5e4-4e5a80db1a13
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Incinerate
+    quantity: 4
+    scryfall_uuid: f23dff46-e040-4cba-890a-97c2899701f2
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Lightning Bolt
+    quantity: 4
+    scryfall_uuid: 6fb94c1b-8002-4d79-add0-c4dfef9019ee
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Searing Blaze
+    quantity: 4
+    scryfall_uuid: f659d464-13dd-49e2-a842-098dcba49659
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Staggershock
+    quantity: 2
+    scryfall_uuid: c0dbe348-8bb7-401e-87d6-11b382c84553
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Shrine of Burning Rage
+    quantity: 3
+    scryfall_uuid: d1a8afef-fa50-4aeb-94de-a4d90b1e5631
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Arid Mesa
+    quantity: 4
+    scryfall_uuid: 54ced5cf-b51a-4dab-97f7-50fb18e5c463
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mountain
+    quantity: 10
+    scryfall_uuid: 53fb7b99-9e47-46a6-9c8a-88e28b5197f1
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Scalding Tarn
+    quantity: 4
+    scryfall_uuid: 229ecfc9-8d6b-4fdb-9001-64dc3e4e7a3f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Teetering Peaks
+    quantity: 4
+    scryfall_uuid: ce85799d-f8f1-43d6-b8f5-0759723ebd1a
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Koth of the Hammer
+    quantity: 1
+    scryfall_uuid: dccb325a-6fba-4a6f-af35-dc9e9de996a9
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Dismember
+    quantity: 3
+    scryfall_uuid: 4cf874b6-5616-4d33-a5e4-4e5a80db1a13
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Manic Vandal
+    quantity: 3
+    scryfall_uuid: 985a5866-8c62-46af-a0c0-e69d01d87f4f
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Combust
+    quantity: 3
+    scryfall_uuid: a0acedb1-874c-48ea-820d-f1b1f8cb2553
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Arc Trail
+    quantity: 2
+    scryfall_uuid: 7c093cb4-e4f8-4059-b6bf-6ab1ae81fedc
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Mark of Mutiny
+    quantity: 2
+    scryfall_uuid: c0794a98-e80e-4485-8bf7-7398818c60fa
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Ratchet Bomb
+    quantity: 2
+    scryfall_uuid: d5bd85da-9aba-46ea-9c10-617bec99a2f5
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

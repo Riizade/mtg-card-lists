@@ -1,0 +1,208 @@
+---
+cards:
+  - name: Mountain
+    quantity: 20
+    scryfall_uuid: 53fb7b99-9e47-46a6-9c8a-88e28b5197f1
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Chandra, Fire Artisan"
+    quantity: 1
+    scryfall_uuid: d21a7b23-8827-49f2-ade4-75a602d17743
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Experimental Frenzy
+    quantity: 4
+    scryfall_uuid: 4b8f32e2-5dc8-4f1b-8a69-d3ae06378ed8
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Light Up the Stage
+    quantity: 4
+    scryfall_uuid: 351de611-2162-4d3e-9080-ad29fb300243
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Wizard's Lightning"
+    quantity: 3
+    scryfall_uuid: 59bf371a-164c-4db8-9207-197c2e7c3c10
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Shock
+    quantity: 4
+    scryfall_uuid: 60eeb025-704c-4a82-90b2-f91202ae30d9
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveEN
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Lightning Strike
+    quantity: 4
+    scryfall_uuid: 116d6679-2834-4cfe-a848-846c17f1af42
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Viashino Pyromancer
+    quantity: 4
+    scryfall_uuid: a82fdb2f-b199-44ff-9615-90fc074cb8b0
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Runaway Steam-Kin
+    quantity: 4
+    scryfall_uuid: d8c9c111-fbc7-44e1-94bd-1ca164370623
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Goblin Chainwhirler
+    quantity: 4
+    scryfall_uuid: 8bdb2883-3cfd-4fb0-9f99-6a57277f7fe4
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Ghitu Lavarunner
+    quantity: 4
+    scryfall_uuid: 040ba7c4-c890-45b3-98cd-aa4ab7970e0a
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Fanatical Firebrand
+    quantity: 4
+    scryfall_uuid: 05469d01-0d2b-47b9-8a69-16cf0c3d43f8
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Treasure Map
+    quantity: 3
+    scryfall_uuid: 1f6213d9-c65d-48da-a501-279db5f31d6a
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: NonCreature
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Legion Warboss
+    quantity: 2
+    scryfall_uuid: 5e84cb9c-9876-47a4-aea4-78574321bc36
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Lava Coil
+    quantity: 4
+    scryfall_uuid: f6135cf4-50c2-4e44-b9b0-96e1187a2200
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Fight with Fire
+    quantity: 2
+    scryfall_uuid: 72c94d7a-cad7-438f-bc96-e6a7158ab0e6
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Dire Fleet Daredevil
+    quantity: 4
+    scryfall_uuid: 28c3c7d7-bf25-4dd7-8fbf-4c8ae6603dd1
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

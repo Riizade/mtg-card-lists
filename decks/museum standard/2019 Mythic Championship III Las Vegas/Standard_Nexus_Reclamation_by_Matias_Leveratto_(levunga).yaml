@@ -1,0 +1,307 @@
+---
+cards:
+  - name: Blink of an Eye
+    quantity: 1
+    scryfall_uuid: ab830392-4d7e-4b45-93cf-35ed1e935228
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Chemister's Insight"
+    quantity: 3
+    scryfall_uuid: 8ba2b013-a2eb-4712-b6c3-f7d37186368f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Growth Spiral
+    quantity: 4
+    scryfall_uuid: ae9f9b3d-d463-4bc6-b822-872a1f8867c8
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveENOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Nexus of Fate
+    quantity: 4
+    scryfall_uuid: f163cfbf-6df6-4af5-9fe4-23b0d511586a
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Opt
+    quantity: 4
+    scryfall_uuid: ab59ac4f-2a77-4566-85c0-32666447dcf2
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveEN
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Root Snare
+    quantity: 4
+    scryfall_uuid: 5f38b1a2-3f85-4dcd-b90d-bb049651b8b7
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Callous Dismissal
+    quantity: 1
+    scryfall_uuid: 66cef326-339c-49e5-9905-21a1603a46ae
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Search for Azcanta
+    quantity: 3
+    scryfall_uuid: 1056ab38-416c-450b-9e99-1a3eefc39f32
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: NonCreature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Wilderness Reclamation
+    quantity: 4
+    scryfall_uuid: 94a28102-dfbe-49e9-b64f-52b552afac1b
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Narset, Parter of Veils"
+    quantity: 2
+    scryfall_uuid: 8c39f9b4-02b9-4d44-b8d6-4fd02ebbb0c5
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2015
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Nissa, Who Shakes the World"
+    quantity: 1
+    scryfall_uuid: f857bbe4-5619-4733-a0c7-69700f2ef4f3
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Tamiyo, Collector of Tales"
+    quantity: 3
+    scryfall_uuid: aeae9feb-8153-496c-bb12-8db5e2e089a9
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Blast Zone
+    quantity: 3
+    scryfall_uuid: a5d05ff7-78d4-45d9-8fd7-ec0468528ac7
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Breeding Pool
+    quantity: 4
+    scryfall_uuid: 045d22eb-b291-4bbe-b468-32bdf8b6eba6
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Forest
+    quantity: 5
+    scryfall_uuid: 32af9f41-89e2-4e7a-9fec-fffe79cae077
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Hinterland Harbor
+    quantity: 4
+    scryfall_uuid: d631d040-51e9-4540-91e7-aeb5ade84090
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Island
+    quantity: 5
+    scryfall_uuid: acf7b664-3e75-4018-81f6-2a14ab59f258
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Memorial to Genius
+    quantity: 3
+    scryfall_uuid: 1d96dd97-ce88-4576-8261-c7866a06275d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mobilized District
+    quantity: 1
+    scryfall_uuid: 214792e9-a172-4547-b148-b9b368cb3432
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Simic Guildgate
+    quantity: 1
+    scryfall_uuid: d93f0124-eb83-4261-8ad2-5590155274a4
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Nissa, Who Shakes the World"
+    quantity: 1
+    scryfall_uuid: f857bbe4-5619-4733-a0c7-69700f2ef4f3
+    tags: []
+    front: Default
+    back: Default
+    front_border: Planeswalker2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Biogenic Ooze
+    quantity: 3
+    scryfall_uuid: 6f11029a-b24d-4248-834f-b852b56857f6
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Bond of Flourishing
+    quantity: 2
+    scryfall_uuid: df901fdc-8672-44f5-ade5-7c4e0b5c5d81
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Crushing Canopy
+    quantity: 2
+    scryfall_uuid: eae67d98-5167-442b-8586-0b2bcb0c56eb
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Negate
+    quantity: 3
+    scryfall_uuid: 5bfe3a17-3349-4fcc-a9b5-418faa55cc43
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveEN
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Paradise Druid
+    quantity: 4
+    scryfall_uuid: 187d5819-6a63-4e4f-98c4-18191c03f164
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And

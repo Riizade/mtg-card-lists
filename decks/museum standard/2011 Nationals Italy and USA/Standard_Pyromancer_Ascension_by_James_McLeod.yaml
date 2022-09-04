@@ -1,0 +1,263 @@
+---
+cards:
+  - name: Burst Lightning
+    quantity: 4
+    scryfall_uuid: 416943f1-8416-4e3b-961f-b38df3986058
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Into the Roil
+    quantity: 4
+    scryfall_uuid: f3463be0-df9e-4cb9-a90f-5d9d2ee729e0
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Lightning Bolt
+    quantity: 4
+    scryfall_uuid: 6ab06973-6440-4b12-8947-8c412500fa41
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mana Leak
+    quantity: 4
+    scryfall_uuid: 0b54b6f3-9ee3-4f6e-bde6-b54fc038a132
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Foresee
+    quantity: 2
+    scryfall_uuid: 2ecf2ee8-6b93-4757-89c4-f1e76509a217
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Gitaxian Probe
+    quantity: 4
+    scryfall_uuid: b511dd44-4c2c-45be-a35b-61524d7a5761
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Ponder
+    quantity: 4
+    scryfall_uuid: 84d02bf4-eefd-4916-ab5a-cc16b3e6a186
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Preordain
+    quantity: 4
+    scryfall_uuid: 78d22ece-0cb1-4faf-a871-995449c1a41f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: See Beyond
+    quantity: 4
+    scryfall_uuid: 6f3b8171-8bf0-40eb-8ea1-9519b9d9425d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Pyromancer Ascension
+    quantity: 4
+    scryfall_uuid: aeffd6f6-0fee-4afc-9256-04099d9d41aa
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureSignatureChandra
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Arid Mesa
+    quantity: 1
+    scryfall_uuid: 54ced5cf-b51a-4dab-97f7-50fb18e5c463
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Halimar Depths
+    quantity: 3
+    scryfall_uuid: 36a04300-764b-4faf-ad46-7516360c9516
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Island
+    quantity: 7
+    scryfall_uuid: acf7b664-3e75-4018-81f6-2a14ab59f258
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Misty Rainforest
+    quantity: 2
+    scryfall_uuid: 23d8e67a-5150-4782-98d1-da2ca79607ad
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mountain
+    quantity: 5
+    scryfall_uuid: 53fb7b99-9e47-46a6-9c8a-88e28b5197f1
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Scalding Tarn
+    quantity: 4
+    scryfall_uuid: 229ecfc9-8d6b-4fdb-9001-64dc3e4e7a3f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Consecrated Sphinx
+    quantity: 2
+    scryfall_uuid: 09084e38-195a-45d6-a245-1c6d3e86500f
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Spellskite
+    quantity: 2
+    scryfall_uuid: e9151465-4d98-419e-8cd0-b18ef5716507
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Flashfreeze
+    quantity: 3
+    scryfall_uuid: 81db0226-23de-4180-9926-b61fa910820e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Mental Misstep
+    quantity: 3
+    scryfall_uuid: 61e9c6df-1c84-4eab-9076-a4feb6347c10
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Twisted Image
+    quantity: 1
+    scryfall_uuid: 60c38f83-32af-4819-b259-a986860f484a
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+  - name: Pyroclasm
+    quantity: 4
+    scryfall_uuid: 8c8f3b5e-71b4-42e0-9ddb-630e3dcf1be7
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: true
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+      join: And
