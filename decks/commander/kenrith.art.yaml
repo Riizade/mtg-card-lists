@@ -1,0 +1,1131 @@
+---
+cards:
+  - name: "Kenrith, the Returned King"
+    quantity: 1
+    scryfall_uuid: 0e259db1-14db-4314-998c-6a076a28d8cb
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendary
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Anguished Unmaking
+    quantity: 1
+    scryfall_uuid: fa7a04aa-fd0b-4777-bdfb-8419fee3fbf3
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Arachnogenesis
+    quantity: 1
+    scryfall_uuid: ef8d3b29-ab35-4c61-82b8-bb5d481c738a
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Arcane Denial
+    quantity: 1
+    scryfall_uuid: 25532c00-d4c0-4f49-b306-6991e49d3c4c
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Arcane Signet
+    quantity: 1
+    scryfall_uuid: 1836b8a6-c616-4793-933b-b38296d70e72
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderless
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Arid Mesa
+    quantity: 1
+    scryfall_uuid: 54ced5cf-b51a-4dab-97f7-50fb18e5c463
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Assassin's Trophy"
+    quantity: 1
+    scryfall_uuid: aeb63464-d06b-4626-a57a-1e393ef04a58
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Badlands
+    quantity: 1
+    scryfall_uuid: 644aba21-1fa7-4483-b9bf-56c5fe4d8975
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Bayou
+    quantity: 1
+    scryfall_uuid: c2988d9d-7c56-4daa-8609-ea249c18134f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Beast Within
+    quantity: 1
+    scryfall_uuid: c6a30538-8a7b-425e-a9ae-562e527151ec
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Bladegriff Prototype
+    quantity: 1
+    scryfall_uuid: 10d90634-df3f-470b-aa1e-833a3b7b42f5
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Bloodstained Mire
+    quantity: 1
+    scryfall_uuid: ed7bcbf1-9045-4810-93fa-9918c45856ca
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandZendikarExpedition
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Boros Charm
+    quantity: 1
+    scryfall_uuid: 607d5bb1-001a-451a-8021-434f7c0eda93
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Breeding Pool
+    quantity: 1
+    scryfall_uuid: 830eb270-f7aa-4694-8fe1-7c19e148a39f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Chaos Warp
+    quantity: 1
+    scryfall_uuid: 6d0a3996-5a03-481b-9bda-15c6f6e5f9c4
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveENOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Chromatic Lantern
+    quantity: 1
+    scryfall_uuid: c7970aee-494f-45c1-9842-04632ad27313
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: City of Brass
+    quantity: 1
+    scryfall_uuid: 869ec7dc-dbf5-4ed4-a368-328da384ecae
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Clackbridge Troll
+    quantity: 1
+    scryfall_uuid: 0cfe592d-7733-4f26-a395-3042817cc831
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Command Tower
+    quantity: 1
+    scryfall_uuid: 6576ee65-45e4-4291-a10a-8631366f0e8f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Dowsing Dagger
+    quantity: 1
+    scryfall_uuid: c5c10ebb-3a56-4ea2-813f-f56cf9aaaed2
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: NonCreature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Druid of Purification
+    quantity: 1
+    scryfall_uuid: 047417fa-1251-41b9-96d3-ffd858cc4f28
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Edric, Spymaster of Trest"
+    quantity: 1
+    scryfall_uuid: 2183cfb3-6bf5-4fbc-b535-a42ba954e8a3
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Endless Detour
+    quantity: 1
+    scryfall_uuid: e55503d2-1b32-43cf-95c6-a4a61047a4dc
+    tags: []
+    front: Default
+    back: Default
+    front_border: SNCNonEtchedShowcaseNonCreatureOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Excavation Technique
+    quantity: 1
+    scryfall_uuid: 38435284-52f8-45e6-a6f2-595eb974886e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Exotic Orchard
+    quantity: 1
+    scryfall_uuid: b45cbc0e-3f5c-4f27-9463-3cffb0f63e3c
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Fact or Fiction
+    quantity: 1
+    scryfall_uuid: 0983f89c-d6ae-479e-aa2f-b2a0c2997608
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Farseek
+    quantity: 1
+    scryfall_uuid: 14b7c0df-5af2-4a01-86b3-b2ed5d60e613
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Fellwar Stone
+    quantity: 1
+    scryfall_uuid: aa15d3b3-c709-4d9b-a9ec-c8d68f805ebf
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderless
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Flooded Strand
+    quantity: 1
+    scryfall_uuid: acc4115b-4bbb-4bb7-81c6-466130982a9c
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandZendikarExpedition
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Forbidden Orchard
+    quantity: 1
+    scryfall_uuid: 36dd80b6-28ff-488a-bc39-fb661da52e30
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Generous Gift
+    quantity: 1
+    scryfall_uuid: 9e8ca62e-a48c-4381-a100-7061a84d230e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Generous Patron
+    quantity: 1
+    scryfall_uuid: 59ea095b-af0e-4178-b6f4-816abb635fc0
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Guided Passage
+    quantity: 1
+    scryfall_uuid: b66c8ada-82a6-46d9-acd0-b4ff9e1e12bd
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Hallowed Fountain
+    quantity: 1
+    scryfall_uuid: 4a3a4070-18e8-4f5e-bf64-a191ddf3210e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Heroic Intervention
+    quantity: 1
+    scryfall_uuid: cf9fb88e-d13d-46d0-a3c5-da886f43ffb9
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: High Priest of Penance
+    quantity: 1
+    scryfall_uuid: fc264fad-c541-4cc6-8b56-44abf3f1e8a0
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Humble Defector
+    quantity: 1
+    scryfall_uuid: cccce0e4-7f59-4ab8-86e7-1134226ed2de
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Hunted Dragon
+    quantity: 1
+    scryfall_uuid: 351cea54-905e-401b-8627-7c3fd192b772
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Hunted Horror
+    quantity: 1
+    scryfall_uuid: 02f74866-d0ea-42ce-bc44-500219fb73d4
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Hunted Phantasm
+    quantity: 1
+    scryfall_uuid: faec8ab3-80c6-4b8f-a60d-50cc683e66b4
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Hunted Troll
+    quantity: 1
+    scryfall_uuid: ee7c6cf8-4e80-42db-9ac8-5009cb227541
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Indatha Triome
+    quantity: 1
+    scryfall_uuid: 9bf2b208-79c6-4c4c-bf66-871352ed600f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Ingenious Mastery
+    quantity: 1
+    scryfall_uuid: 18b4f3c5-4129-4e4b-98b9-91d2ca33ab7c
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Intellectual Offering
+    quantity: 1
+    scryfall_uuid: 63de9e39-3c16-452f-9f06-4c1298752f57
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Island
+    quantity: 1
+    scryfall_uuid: acf7b664-3e75-4018-81f6-2a14ab59f258
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Jetmir's Garden"
+    quantity: 1
+    scryfall_uuid: e4bb5f59-2a63-421b-94a1-4cbef00f0c7e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Ketria Triome
+    quantity: 1
+    scryfall_uuid: f5b5b9bb-ee9f-4a52-bd74-fd2759c8e3d3
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Loran of the Third Path
+    quantity: 1
+    scryfall_uuid: f35a0fc1-790e-4f47-b756-a6b4b298e299
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mana Confluence
+    quantity: 1
+    scryfall_uuid: 4eafa4f8-3b9b-4e20-97bf-8f547e970752
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Manifold Insights
+    quantity: 1
+    scryfall_uuid: e9c67dc7-dee8-4e62-bf4e-a371f1688975
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Marsh Flats
+    quantity: 1
+    scryfall_uuid: 4e8397e6-d13a-4996-8fde-b8a9895de287
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Master of Ceremonies
+    quantity: 1
+    scryfall_uuid: 85f0efc3-556f-4a8e-8068-286361720543
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Maze of Ith
+    quantity: 1
+    scryfall_uuid: 7286bd95-0d8e-4b1a-b319-052fe2ae1951
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Misty Rainforest
+    quantity: 1
+    scryfall_uuid: 23d8e67a-5150-4782-98d1-da2ca79607ad
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Nature's Lore"
+    quantity: 1
+    scryfall_uuid: 761adafd-0bf5-4bab-95d4-8362954c1019
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Nullmage Advocate
+    quantity: 1
+    scryfall_uuid: f9b6338c-3ddf-47e2-8e03-ad536bcf474c
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Orzhov Advokist
+    quantity: 1
+    scryfall_uuid: 99cd8a1a-6f32-47fe-94a6-85cfcd97150f
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Overgrown Tomb
+    quantity: 1
+    scryfall_uuid: eff1f52c-5c43-4260-aaa0-6920846a191c
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Plateau
+    quantity: 1
+    scryfall_uuid: 0829af6e-7dd9-4bce-bf14-1c5d509556cb
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Plea for Power
+    quantity: 1
+    scryfall_uuid: 70d10f5c-b2b0-4143-95b5-f71395f1ac1e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Polluted Delta
+    quantity: 1
+    scryfall_uuid: d052d99b-b1ca-44da-8460-c022d041d665
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandZendikarExpedition
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Queen Marchesa
+    quantity: 1
+    scryfall_uuid: a15bebe2-ae6a-48b4-b203-5ab78996b86f
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Rampant Growth
+    quantity: 1
+    scryfall_uuid: ce941f72-27b6-4fb5-a303-630686fb97a9
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Rite of the Raging Storm
+    quantity: 1
+    scryfall_uuid: 0018e4ea-8c46-4bb0-ade1-6b2a4f67c471
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Sakura-Tribe Elder
+    quantity: 1
+    scryfall_uuid: 0b064748-515a-4234-ad00-8a735d7aa385
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Savannah
+    quantity: 1
+    scryfall_uuid: 931184cf-0b9a-49d5-8234-a25b90dbaedb
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Scalding Tarn
+    quantity: 1
+    scryfall_uuid: 229ecfc9-8d6b-4fdb-9001-64dc3e4e7a3f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Scrubland
+    quantity: 1
+    scryfall_uuid: d1428846-e0da-4b62-b0e9-25efe846cc33
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Secret Rendezvous
+    quantity: 1
+    scryfall_uuid: 39528cf0-343e-499b-a69f-c5c3c2898c25
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Seedborn Muse
+    quantity: 1
+    scryfall_uuid: 3f5bee0f-ebc8-4f41-91ee-4eed104ad980
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Seize the Spotlight
+    quantity: 1
+    scryfall_uuid: 71073a08-2e66-4410-8b59-3bbabac913fe
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Shadrix Silverquill
+    quantity: 1
+    scryfall_uuid: 23468e63-2e7a-4e3b-970c-cb57b067d6c1
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Skullwinder
+    quantity: 1
+    scryfall_uuid: 94d406ed-bf60-4adc-9721-e64d1313f6b7
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Sol Ring
+    quantity: 1
+    scryfall_uuid: 7454e0cc-98c2-48a1-b2c9-49908d2aedcc
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderless
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Spara's Headquarters"
+    quantity: 1
+    scryfall_uuid: 229a0d4a-3777-451d-a2fb-f1a2fdf8019f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Spoils of Victory
+    quantity: 1
+    scryfall_uuid: 8a7ee186-b25f-4185-830d-e8e7cf23d4e5
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Steam Augury
+    quantity: 1
+    scryfall_uuid: 3bb510af-2cc7-4992-aeef-556e8a63f146
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Stomping Ground
+    quantity: 1
+    scryfall_uuid: e1dd057e-1f38-4a5f-819c-f3af9134fecf
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Taiga
+    quantity: 1
+    scryfall_uuid: 453e1bf8-e570-4b9b-8f41-5f4f31ae3b0e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Temple Garden
+    quantity: 1
+    scryfall_uuid: 43609973-6c01-4f03-9e08-a347364dfa76
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Tempt with Discovery
+    quantity: 1
+    scryfall_uuid: dab9c403-8738-4593-be07-ea9bcb8faa92
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Tempting Contract
+    quantity: 1
+    scryfall_uuid: a971b3d5-9a78-437f-a385-3390e64c53de
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Three Visits
+    quantity: 1
+    scryfall_uuid: 9037cf0e-6e5f-455f-941c-b909a03e770f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Tibalt's Trickery"
+    quantity: 1
+    scryfall_uuid: 9067f5b3-1685-42b6-b838-3e19f1f6b36e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Tropical Island
+    quantity: 1
+    scryfall_uuid: 2674e6d9-51b9-405c-ab01-75474abcf690
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Tundra
+    quantity: 1
+    scryfall_uuid: 8ef5d61d-2648-4cbc-8083-3f3c6b362825
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Underground Sea
+    quantity: 1
+    scryfall_uuid: 962719f7-ff8e-480b-985e-bd53a111793b
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Verdant Catacombs
+    quantity: 1
+    scryfall_uuid: c7057b04-e22f-4e33-9f08-b9fbd2e54bf5
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Victory Chimes
+    quantity: 1
+    scryfall_uuid: 9cb27fb1-41b1-49b8-bb3b-2c8a011ae7a9
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Void Rend
+    quantity: 1
+    scryfall_uuid: 4592e2cd-25f7-4968-8664-29288e5eaa82
+    tags: []
+    front: Default
+    back: Default
+    front_border: SNCNonEtchedShowcaseNonCreatureOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Volcanic Island
+    quantity: 1
+    scryfall_uuid: 154ce456-38d2-4195-93b7-302e11c006e2
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Wandering Archaic
+    quantity: 1
+    scryfall_uuid: 63bd0484-4089-4d33-aa8b-3730791061c3
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureMDFCOval
+    back_border: NonCreatureMDFCFullArt
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Wilderness Reclamation
+    quantity: 1
+    scryfall_uuid: 94a28102-dfbe-49e9-b64f-52b552afac1b
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Windswept Heath
+    quantity: 1
+    scryfall_uuid: 63c59228-c742-4abd-b4d7-9f7880190e95
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandZendikarExpedition
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Wooded Foothills
+    quantity: 1
+    scryfall_uuid: 1066a94a-8e4f-4d77-820b-7a77a18116f0
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandZendikarExpedition
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Xantcha, Sleeper Agent"
+    quantity: 1
+    scryfall_uuid: 89b03b9a-7e20-47cb-bc64-23513acea855
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Your Temple Is Under Attack
+    quantity: 1
+    scryfall_uuid: 7ad8aa76-b643-4bd2-aaeb-036c1d50db54
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Zagoth Triome
+    quantity: 1
+    scryfall_uuid: f809f970-25a7-4c34-b98f-1cb08012080d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Ziatora's Proving Ground"
+    quantity: 1
+    scryfall_uuid: dea8c9f0-cec9-4ba4-b8df-6e52f2d77dff
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Zirda, the Dawnwaker"
+    quantity: 1
+    scryfall_uuid: 5fe75365-7f6d-4faf-9f55-0ba83821836a
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+        - Subfilter:
+            clauses:
+              - Language: en
+              - Language: ja
+            join: Or
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - Language: en
+              - Language: ja
+            join: Or
+      join: And

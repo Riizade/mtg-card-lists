@@ -1,0 +1,1054 @@
+---
+cards:
+  - name: "Rin and Seri, Inseparable"
+    quantity: 1
+    scryfall_uuid: d605c780-a42a-4816-8fb9-63e3114a8246
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Ajani, Mentor of Heroes"
+    quantity: 1
+    scryfall_uuid: 596f6812-2cee-4f0b-b1e5-ddf1f57c3f95
+    tags: []
+    front: Default
+    back: Default
+    front_border: PlaneswalkerBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Akroma's Memorial"
+    quantity: 1
+    scryfall_uuid: 240b3b04-6ad4-42cb-bb4d-e1d486667675
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Alms Collector
+    quantity: 1
+    scryfall_uuid: 367ac07a-a30f-4ebf-8877-27cd9ebe2f71
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Aluren
+    quantity: 1
+    scryfall_uuid: 268403bc-733d-446e-a7c1-abc957c42bc2
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Arahbo, Roar of the World"
+    quantity: 1
+    scryfall_uuid: eda28572-654e-4d43-b88c-cf8c8b0f5eb5
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Arcane Signet
+    quantity: 1
+    scryfall_uuid: 1836b8a6-c616-4793-933b-b38296d70e72
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderless
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Arid Mesa
+    quantity: 1
+    scryfall_uuid: 54ced5cf-b51a-4dab-97f7-50fb18e5c463
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Aura Shards
+    quantity: 1
+    scryfall_uuid: ee38a29d-20a4-48bb-8116-b62fe9342b84
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Avian Changeling
+    quantity: 1
+    scryfall_uuid: 1fe4fba9-5ff4-4e4b-be28-2849fa3c7003
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Battlefield Forge
+    quantity: 1
+    scryfall_uuid: 7dbd1d94-9ae2-46dc-9ece-26e72a323fd1
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Beast Whisperer
+    quantity: 1
+    scryfall_uuid: c818547c-a6f6-4c69-9e4d-33741e605093
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Beast Within
+    quantity: 1
+    scryfall_uuid: 808aff4d-422d-4ead-8f15-d86efe8d4c0f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Bountiful Promenade
+    quantity: 1
+    scryfall_uuid: c5cad6ad-9548-4732-81b3-97cf15a544ab
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Branchloft Pathway
+    quantity: 1
+    scryfall_uuid: 5dfa0e82-da04-418b-9c60-038f3c2c31a5
+    tags: []
+    front: Default
+    back: Default
+    front_border: PathwayLandBorderlessOval
+    back_border: PathwayLandBorderless
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Brimaz, King of Oreskos"
+    quantity: 1
+    scryfall_uuid: f54eb705-6326-4bac-bf0e-68d42db7a270
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Brushland
+    quantity: 1
+    scryfall_uuid: 98178c9d-e113-4f0e-9a7b-3ebfaafe2503
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Cavern of Souls
+    quantity: 1
+    scryfall_uuid: bea9f6e9-69ae-4c49-9682-ad09e787c01e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Chord of Calling
+    quantity: 1
+    scryfall_uuid: 5ef345fc-e64e-4053-b643-2f8648a5473a
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Chrome Mox
+    quantity: 1
+    scryfall_uuid: 90bbc0fa-4810-490d-bda7-a8fd4aaa01c4
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: City of Brass
+    quantity: 1
+    scryfall_uuid: 869ec7dc-dbf5-4ed4-a368-328da384ecae
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Coat of Arms
+    quantity: 1
+    scryfall_uuid: 513d4c36-6ad4-4ee9-b161-3136eb59504f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Command Beacon
+    quantity: 1
+    scryfall_uuid: d5dc9b78-d1c0-4473-acfc-75825a7f9bb8
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Command Tower
+    quantity: 1
+    scryfall_uuid: 43a32bdf-c430-46a0-9d23-8b8e8468391b
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Cragcrown Pathway
+    quantity: 1
+    scryfall_uuid: 5e5288f2-b27e-4009-b537-d19f61b34c4a
+    tags: []
+    front: Default
+    back: Default
+    front_border: PathwayLandBorderlessOval
+    back_border: PathwayLandBorderless
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Craterhoof Behemoth
+    quantity: 1
+    scryfall_uuid: 44afd414-cc69-4888-ba12-7ea87e60b1f7
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Cryptolith Rite
+    quantity: 1
+    scryfall_uuid: 2910adcd-882a-46af-8236-ca1a9e2c19ab
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Cultivate
+    quantity: 1
+    scryfall_uuid: b3896717-1e46-4aa2-88b7-1c4fe76edde1
+    tags: []
+    front: Default
+    back: Default
+    front_border: MysticalArchiveEN
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Deflecting Swat
+    quantity: 1
+    scryfall_uuid: 45e70109-0352-45fc-a2fd-892ca65cac2f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Doubling Season
+    quantity: 1
+    scryfall_uuid: 20c9c856-af15-40b1-a799-1c2066df2099
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Eladamri's Call"
+    quantity: 1
+    scryfall_uuid: ea751fe2-b64a-4265-8885-a9016b29b5b3
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Elemental Bond
+    quantity: 1
+    scryfall_uuid: b2c1a36e-a17b-4168-9048-4cc02dd464c5
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Elesh Norn, Grand Cenobite"
+    quantity: 1
+    scryfall_uuid: 78c2bfef-06a5-4c7f-8283-ea3fb673b7a1
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Enlightened Tutor
+    quantity: 1
+    scryfall_uuid: e940fd9f-f1f5-455e-b141-b70dde6cb89d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Exploration
+    quantity: 1
+    scryfall_uuid: 1c3fc61c-c26e-47f3-a1eb-f6f10f8469e2
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Farseek
+    quantity: 1
+    scryfall_uuid: 14b7c0df-5af2-4a01-86b3-b2ed5d60e613
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Feline Sovereign
+    quantity: 1
+    scryfall_uuid: fbea5a3c-03b7-44da-b8f7-534a962b8e1e
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Fire-Belly Changeling
+    quantity: 1
+    scryfall_uuid: 803f388a-0f92-4984-ace5-02fbeaa0cf28
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Fleetfoot Panther
+    quantity: 1
+    scryfall_uuid: 02db0f8e-5f87-427f-a3ff-0f261da679cd
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Flooded Strand
+    quantity: 1
+    scryfall_uuid: acc4115b-4bbb-4bb7-81c6-466130982a9c
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandZendikarExpedition
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Forest
+    quantity: 5
+    scryfall_uuid: 32af9f41-89e2-4e7a-9fec-fffe79cae077
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Growing Rites of Itlimoc
+    quantity: 1
+    scryfall_uuid: 4ca05921-d3bd-4c39-8b37-243658a2f23f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: NonCreature
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Heroic Intervention
+    quantity: 1
+    scryfall_uuid: cf9fb88e-d13d-46d0-a3c5-da886f43ffb9
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Impostor of the Sixth Pride
+    quantity: 1
+    scryfall_uuid: 83298c8a-02c4-4ada-9a41-4b973bb58ac6
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Kaheera, the Orphanguard"
+    quantity: 1
+    scryfall_uuid: fe646123-c399-4ead-96a9-f7b46215f9d9
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Karplusan Forest
+    quantity: 1
+    scryfall_uuid: 2a83eca4-b6ad-4ec4-91f2-b2a62b32b056
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: King of the Pride
+    quantity: 1
+    scryfall_uuid: 56b8343f-0554-42b1-9e32-431dcc4b0346
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Kodama's Reach"
+    quantity: 1
+    scryfall_uuid: a5c73e68-17e8-444b-a294-6ea27b11cf8a
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Leonin Warleader
+    quantity: 1
+    scryfall_uuid: b24820fa-7cef-4396-920c-810dd06e3887
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Lightning Greaves
+    quantity: 1
+    scryfall_uuid: 70eab734-875b-4b76-901b-3ac7d2133ad9
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mana Confluence
+    quantity: 1
+    scryfall_uuid: 4eafa4f8-3b9b-4e20-97bf-8f547e970752
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mana Crypt
+    quantity: 1
+    scryfall_uuid: 4d960186-4559-4af0-bd22-63baa15f8939
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mana Echoes
+    quantity: 1
+    scryfall_uuid: bd079929-fa58-4484-91b7-31305b87ee43
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Marisi, Breaker of the Coil"
+    quantity: 1
+    scryfall_uuid: c366e1c0-f62d-41ce-baec-de11dbc1c5f4
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Maskwood Nexus
+    quantity: 1
+    scryfall_uuid: 45887949-7cc6-4f83-a659-fb3284685c7d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Mirari's Wake"
+    quantity: 1
+    scryfall_uuid: 157ce8f8-625c-407a-b015-3b5326da69a0
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Mirri, Weatherlight Duelist"
+    quantity: 1
+    scryfall_uuid: db44fe95-6a32-4d6f-a32f-72491381f495
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureLegendaryOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mirror Entity
+    quantity: 1
+    scryfall_uuid: 3d9149ed-0e59-48b3-b48c-d5ea77b7239e
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Misty Rainforest
+    quantity: 1
+    scryfall_uuid: 23d8e67a-5150-4782-98d1-da2ca79607ad
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mountain
+    quantity: 2
+    scryfall_uuid: 53fb7b99-9e47-46a6-9c8a-88e28b5197f1
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: "Nature's Lore"
+    quantity: 1
+    scryfall_uuid: 761adafd-0bf5-4bab-95d4-8362954c1019
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Needleverge Pathway
+    quantity: 1
+    scryfall_uuid: ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a
+    tags: []
+    front: Default
+    back: Default
+    front_border: PathwayLandBorderlessOval
+    back_border: PathwayLandBorderless
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Pack Leader
+    quantity: 1
+    scryfall_uuid: 13f7a7ef-aa18-4738-97db-97e50ec3b801
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Plains
+    quantity: 3
+    scryfall_uuid: 02cb5cfd-018e-4c5e-bef1-166262aa5f1d
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Plateau
+    quantity: 1
+    scryfall_uuid: 0829af6e-7dd9-4bce-bf14-1c5d509556cb
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Prowling Serpopard
+    quantity: 1
+    scryfall_uuid: 88d1c576-0203-4ede-8728-1efa87c33d20
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Qasali Pridemage
+    quantity: 1
+    scryfall_uuid: b035fa74-7e0d-4bcc-8bd7-4ae0c33db317
+    tags: []
+    front: Default
+    back: Default
+    front_border: CreatureBorderless
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Rampant Growth
+    quantity: 1
+    scryfall_uuid: b4bbf009-0798-4d8b-b375-6d6fde975c34
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderless
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Realmwalker
+    quantity: 1
+    scryfall_uuid: e8a0877c-5217-422d-89b8-92f951068693
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015FullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Sacred Foundry
+    quantity: 1
+    scryfall_uuid: c3142a41-8718-4955-9fec-18f3d4875493
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Savannah
+    quantity: 1
+    scryfall_uuid: 931184cf-0b9a-49d5-8234-a25b90dbaedb
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Seedborn Muse
+    quantity: 1
+    scryfall_uuid: 3f5bee0f-ebc8-4f41-91ee-4eed104ad980
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Shared Animosity
+    quantity: 1
+    scryfall_uuid: bb7a56c4-5f20-4fd0-8f95-44061dec1df8
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Sol Ring
+    quantity: 1
+    scryfall_uuid: eca9ae7b-a6d9-43ea-92d4-0110fd6643a7
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Spectator Seating
+    quantity: 1
+    scryfall_uuid: b16e9306-79bc-451a-9046-6a0f8d4b9606
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Spire Garden
+    quantity: 1
+    scryfall_uuid: 9f0df5f8-6660-4908-bc00-2fd4c270ab6e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Stomping Ground
+    quantity: 1
+    scryfall_uuid: e1dd057e-1f38-4a5f-819c-f3af9134fecf
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Sylvan Library
+    quantity: 1
+    scryfall_uuid: 49129453-1fe8-47de-b6aa-5b92d3d74c99
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Taiga
+    quantity: 1
+    scryfall_uuid: 453e1bf8-e570-4b9b-8f41-5f4f31ae3b0e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Taurean Mauler
+    quantity: 1
+    scryfall_uuid: a4ee4648-dd6e-4ba9-b643-a7e4c430d51f
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Temple Garden
+    quantity: 1
+    scryfall_uuid: f6a0d368-993a-473d-9da9-9ed50fc5670e
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureBorderlessOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Temur Sabertooth
+    quantity: 1
+    scryfall_uuid: 2bf59e8d-0746-440d-878f-d6f6f74610d8
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: The Great Henge
+    quantity: 1
+    scryfall_uuid: ff7e30c8-b3fc-430f-ac63-d376d9e47a8d
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureLegendaryFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Three Visits
+    quantity: 1
+    scryfall_uuid: 9037cf0e-6e5f-455f-941c-b909a03e770f
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureFullArtOval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Triumph of the Hordes
+    quantity: 1
+    scryfall_uuid: 64034e9c-1a1a-43e3-b101-cb2c7bbbccda
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Universal Automaton
+    quantity: 1
+    scryfall_uuid: b16ddbcb-b28d-4a67-857b-5c30ccf055f0
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Valakut Awakening
+    quantity: 1
+    scryfall_uuid: a156b510-8879-4a7b-b15b-71374cb1e6f7
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreatureMDFCFullArtOval
+    back_border: NonCreatureMDFCFullArt
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Veil of Summer
+    quantity: 1
+    scryfall_uuid: d727c345-4c96-4087-bfe3-f54b47b01da6
+    tags: []
+    front: Default
+    back: Default
+    front_border: NonCreature2015Oval
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Whitemane Lion
+    quantity: 1
+    scryfall_uuid: a358def9-65a0-4741-896c-b2a8c8947768
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Wild Nacatl
+    quantity: 1
+    scryfall_uuid: d3ecd221-c10f-42bd-ab10-a565210ac664
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Windswept Heath
+    quantity: 1
+    scryfall_uuid: 63c59228-c742-4abd-b4d7-9f7880190e95
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandZendikarExpedition
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Wooded Foothills
+    quantity: 1
+    scryfall_uuid: 1066a94a-8e4f-4d77-820b-7a77a18116f0
+    tags: []
+    front: Default
+    back: Default
+    front_border: LandZendikarExpedition
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Woodland Changeling
+    quantity: 1
+    scryfall_uuid: aa41edf8-88a1-46dd-8315-b0afe7e14b7e
+    tags: []
+    front: Default
+    back: Default
+    front_border: Creature2003
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"
+  nonbasic_art_filter:
+    Subfilter:
+      clauses:
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - HasStamp
+              - HasDateStamp
+              - ArtSeries
+            join: Not
+        - Subfilter:
+            clauses:
+              - Language: en
+              - Language: ja
+            join: Or
+      join: And
+  basic_land_art_filter:
+    Subfilter:
+      clauses:
+        - FullArt
+        - HasPaperPrinting
+        - Subfilter:
+            clauses:
+              - Language: en
+              - Language: ja
+            join: Or
+      join: And
