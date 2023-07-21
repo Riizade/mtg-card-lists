@@ -14,7 +14,7 @@
 1 Electrostatic Field
 1 Exalted Flamer of Tzeentch
 1 Exotic Orchard
-1 Expansion/Explosion
+1 Expansion // Explosion
 1 Expedite
 1 Expressive Iteration
 1 Faithless Looting

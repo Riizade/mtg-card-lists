@@ -10,7 +10,16 @@ cards:
     back_border: None
     commander: false
     sideboard: false
-    watermarks: []
+    watermarks:
+      - watermark:
+        Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\CommanderLogo.png"
+      transparency: 1.0
+      location:
+        x: 110
+        y: 980
+      size:
+        x: 51
+        y: 51
   - name: Adanto Vanguard
     quantity: 1
     scryfall_uuid: 0d0950bb-d68d-4774-910e-4a72aa59f7ad
