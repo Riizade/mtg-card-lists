@@ -12,14 +12,14 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-        Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\CommanderLogo.png"
-      transparency: 1.0
-      location:
-        x: 110
-        y: 980
-      size:
-        x: 51
-        y: 51
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\CommanderLogo.png"
+        transparency: 1.0
+        location:
+          x: 110
+          y: 980
+        size:
+          x: 51
+          y: 51
   - name: Anguished Unmaking
     quantity: 1
     scryfall_uuid: fa7a04aa-fd0b-4777-bdfb-8419fee3fbf3

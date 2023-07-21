@@ -12,14 +12,14 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-        Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\CommanderLogo.png"
-      transparency: 1.0
-      location:
-        x: 110
-        y: 980
-      size:
-        x: 51
-        y: 51
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\CommanderLogo.png"
+        transparency: 1.0
+        location:
+          x: 110
+          y: 980
+        size:
+          x: 51
+          y: 51
   - name: "Tormod, the Desecrator"
     quantity: 1
     scryfall_uuid: 89903d5e-241f-477e-a336-2abe0232c04a
@@ -32,14 +32,14 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-        Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\CommanderLogo.png"
-      transparency: 1.0
-      location:
-        x: 110
-        y: 980
-      size:
-        x: 51
-        y: 51
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\CommanderLogo.png"
+        transparency: 1.0
+        location:
+          x: 110
+          y: 980
+        size:
+          x: 51
+          y: 51
   - name: Aetherflux Reservoir
     quantity: 1
     scryfall_uuid: 8542d37d-99cd-4b64-a524-94d2b2a4d9c3

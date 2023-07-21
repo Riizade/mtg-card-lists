@@ -12,14 +12,14 @@ cards:
     sideboard: false
     watermarks:
       - watermark:
-        Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\CommanderLogo.png"
-      transparency: 1.0
-      location:
-        x: 110
-        y: 980
-      size:
-        x: 51
-        y: 51
+          Image: "D:\\Dev\\mtg-card-lists\\jumpstart\\commander\\icons\\color\\CommanderLogo.png"
+        transparency: 1.0
+        location:
+          x: 110
+          y: 980
+        size:
+          x: 51
+          y: 51
   - name: "Ajani, Mentor of Heroes"
     quantity: 1
     scryfall_uuid: 596f6812-2cee-4f0b-b1e5-ddf1f57c3f95
