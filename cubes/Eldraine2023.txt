@@ -1,0 +1,360 @@
+1x Beloved Princess
+1x Cheeky House-Mouse
+1x Dauntless Bodyguard
+1x Giant Killer
+1x Novice Knight
+1x Steadfast Unicorn
+1x Venerable Knight
+1x Charming Prince
+1x Flutterfox
+1x Hushbringer
+1x Ingenious Smith
+1x Regal Bunnicorn
+1x Tempered Veteran
+1x Worthy Knight
+1x Acclaimed Contender
+1x Ardenvale Tactician
+1x Mysterious Pathlighter
+1x Blessed Hippogriff
+1x Gallant Cavalry
+1x Valiant Knight
+1x Lady of Laughter
+1x Syr Alin, the Lion's Claw
+1x Crystal Dragon
+1x Pegasus Guardian
+1x Guardian Naga
+1x Realm-Cloaked Giant
+1x Outflank
+1x Dauntless Unity
+1x Unbounded Potential
+1x Eerie Interference
+1x Moment of Valor
+1x Rally for the Throne
+1x Stroke of Midnight
+1x True Love's Kiss
+1x Silverflame Ritual
+1x Glass Casket
+1x Mace of the Valiant
+1x Plate Armor
+1x The Circle of Loyalty
+1x Ethereal Armor
+1x All That Glitters
+1x Chivalric Alliance
+1x Cooped Up
+1x Trapped in the Tower
+1x History of Benalia
+1x Of Herbs and Stewed Rabbit
+1x Solitary Sanctuary
+1x The Princess Takes Flight
+1x Three Blind Mice
+1x Virtue of Loyalty
+1x Ingenious Prodigy
+1x Overwhelmed Apprentice
+1x Sleep-Cursed Faerie
+1x Fae of Wishes
+1x Faerie Duelist
+1x Faerie Vandal
+1x Hypnotic Sprite
+1x Picklock Prankster
+1x Vantress Gargoyle
+1x Animating Faerie
+1x Brazen Borrower
+1x Emry, Lurker of the Loch
+1x Gadwick, the Wizened
+1x Icewrought Sentry
+1x Mocking Sprite
+1x Tome Raider
+1x Vendilion Clique
+1x Chancellor of Tales
+1x Moonshae Pixie
+1x Sower of Temptation
+1x Storyteller Pixie
+1x Wall of Stolen Identity
+1x Syr Elenora, the Discerning
+1x Young Blue Dragon
+1x Horned Loch-Whale
+1x Run Away Together
+1x Spell Stutter
+1x Didn't Say Please
+1x Faerie Trickery
+1x Quick Study
+1x Farsight Ritual
+1x Preordain
+1x Sleight of Hand
+1x Rise and Shine
+1x Stolen by the Fae
+1x Advice from the Fae
+1x Into the Fae Court
+1x Faerie Slumber Party
+1x Witching Well
+1x Folio of Fancies
+1x Winged Boots
+1x Midnight Clock
+1x The Magic Mirror
+1x Bubble Snare
+1x Curiosity
+1x Bitter Chill
+1x Extraordinary Journey
+1x Frogify
+1x Mirrormade
+1x Virtue of Knowledge
+1x Cauldron Familiar
+1x Eye Collector
+1x Faerie Dreamthief
+1x Forsworn Paladin
+1x Foulmire Knight
+1x Unwilling Ingredient
+1x Ayara's Oathsworn
+1x Blacklance Paragon
+1x Grim Wanderer
+1x Knight of Dusk's Shadow
+1x Order of Midnight
+1x Piper of the Swarm
+1x Tangled Colony
+1x Belle of the Brawl
+1x Experimental Confectioner
+1x Gumdrop Poisoner
+1x Murderous Rider
+1x Oathsworn Knight
+1x Tempting Witch
+1x Voracious Vermin
+1x Dream Spoilers
+1x Fell Horseman
+1x Rankle, Master of Pranks
+1x Bog Naughty
+1x Clackbridge Troll
+1x Old Flitterfang
+1x Syr Konrad, the Grim
+1x Disfigure
+1x Faerie Fencing
+1x Tragic Slip
+1x Deadly Dispute
+1x Feed the Cauldron
+1x Rowan's Grim Search
+1x Bake into a Pie
+1x Epic Downfall
+1x Back for Seconds
+1x Inscription of Ruin
+1x Witch's Vengeance
+1x Beseech the Mirror
+1x Rankle's Prank
+1x Cauldron's Gift
+1x Lich-Knights' Conquest
+1x Ghost Lantern
+1x Witch's Cauldron
+1x Giant's Skewer
+1x Wishclaw Talisman
+1x The Cauldron of Eternity
+1x Bitterblossom
+1x Bastion of Remembrance
+1x Virtue of Persistence
+1x Fervent Champion
+1x Kessig Wolfrider
+1x Slumbering Dragon
+1x Weaselback Redcap
+1x Embereth Shieldbreaker
+1x Goblin Fireleaper
+1x Ratcatcher Trainee
+1x Rimrock Knight
+1x Robber of the Rich
+1x Bonecrusher Giant
+1x Goddric, Cloaked Reveler
+1x Irencrag Pyromancer
+1x Merchant of the Vale
+1x Minecart Daredevil
+1x Raging Redcap
+1x Embereth Paladin
+1x Mad Ratter
+1x Ogre Errant
+1x Opportunistic Dragon
+1x Torbran, Thane of Red Fell
+1x Young Red Dragon
+1x Demanding Dragon
+1x Syr Carah, the Bold
+1x Two-Headed Hunter
+1x Amethyst Dragon
+1x Hearth Elemental
+1x Kindled Heroism
+1x Torch the Tower
+1x Fling
+1x Scorching Dragonfire
+1x Kazuul's Fury
+1x Slaying Fire
+1x Spit Flame
+1x Claim the Firstborn
+1x End the Festivities
+1x Strike It Rich
+1x Thud
+1x Joust
+1x Blow Your House Down
+1x Traitorous Greed
+1x Sundering Stroke
+1x Dueling Rapier
+1x Crystal Slipper
+1x Two-Handed Axe
+1x Embercleave
+1x Dragon Mantle
+1x Ferocity of the Wilds
+1x Rising of the Day
+1x Battle Plan
+1x Virtue of Courage
+1x Edgewall Innkeeper
+1x Flaxen Intruder
+1x Gilded Goose
+1x Toadstool Admirer
+1x Bramble Familiar
+1x Intrepid Trufflesnout
+1x Mother Bear
+1x Syr Faren, the Hengehammer
+1x Tough Cookie
+1x Wildborn Preserver
+1x Lovestruck Beast
+1x Scurry Oak
+1x Sentinel of Lost Lore
+1x Wildwood Mentor
+1x Yorvo, Lord of Garenbrig
+1x Blossoming Tortoise
+1x Fierce Witchstalker
+1x Howling Galefang
+1x Provisions Merchant
+1x Wicked Wolf
+1x Agatha's Champion
+1x Keeper of Fables
+1x Colossal Badger
+1x Feasting Troll King
+1x Orchard Strider
+1x Stormkeld Vanguard
+1x Tuinvale Treefolk
+1x Beanstalk Giant
+1x Dread Linnorm
+1x Leaping Ambush
+1x Insatiable Appetite
+1x Once Upon a Time
+1x Return to Nature
+1x Titanic Growth
+1x Once and Future
+1x Awaken the Woods
+1x Feral Encounter
+1x Smell Fear
+1x Giant Opportunity
+1x Spider Food
+1x Outmuscle
+1x Saddle of the Cavalier
+1x The Great Henge
+1x Kenrith's Transformation
+1x Trail of Crumbs
+1x Up the Beanstalk
+1x Welcome to Sweettooth
+1x The Huntsman's Redemption
+1x Night of the Sweets' Revenge
+1x Virtue of Strength
+1x Curse of Chains
+1x Mistmeadow Vanisher
+1x Shinechaser
+1x Arcanist's Owl
+1x Glen Elendra Liege
+1x Spellscorn Coven
+1x Nymris, Oona's Trickster
+1x Lochmere Serpent
+1x Steelclaw Lance
+1x Stormfist Crusader
+1x Decadent Dragon
+1x Kulrath Knight
+1x Picnic Ruiner
+1x Grumgully, the Generous
+1x Boartusk Liege
+1x Rampart Smasher
+1x Pollen-Shield Hare
+1x Knight of Autumn
+1x Wandermare
+1x Oakhame Ranger
+1x Corpse Knight
+1x Unmake
+1x Aryel, Knight of Windgrace
+1x Devouring Sugarmaw
+1x Improbable Alliance
+1x Scalding Viper
+1x Sprite Dragon
+1x The Royal Scions
+1x Ravenous Squirrel
+1x Mosswood Dreadknight
+1x Savvy Hunter
+1x Gluttonous Troll
+1x Heartflame Duelist
+1x Imodane's Recruiter
+1x Fireborn Knight
+1x Truefire Captain
+1x Elusive Otter
+1x The Goose Mother
+1x Overbeing of Myth
+1x Fable of Wolf and Owl
+1x Gorion, Wise Mentor
+1x Alela, Artful Provocateur
+1x Korvold, Fae-Cursed King
+1x Syr Gwyn, Hero of Ashvale
+1x Beluna Grandsquall
+1x Whirlwind of Thought
+1x Villainous Wealth
+1x Stonecoil Serpent
+1x Gingerbrute
+1x Inquisitive Puppet
+1x Crashing Drawbridge
+1x Jousting Dummy
+1x Scarecrow Guide
+1x Syr Ginger, the Meal Ender
+1x Diamond Knight
+1x Henge Walker
+1x Shambling Suit
+1x Roving Keep
+1x Candy Trail
+1x Scalding Cauldron
+1x Witch's Oven
+1x Golden Egg
+1x Lucky Clover
+1x Prophetic Prism
+1x Three Bowls of Porridge
+1x Throne of Geth
+1x Heraldic Banner
+1x Sigiled Sword of Valeron
+1x Spinning Wheel
+1x Eriette's Tempting Apple
+1x Enchanted Carriage
+1x Celestial Colonnade
+1x Tundra
+1x Creeping Tar Pit
+1x Underground Sea
+1x Badlands
+1x Lavaclaw Reaches
+1x Raging Ravine
+1x Taiga
+1x Savannah
+1x Stirring Wildwood
+1x Restless Fortress
+1x Scrubland
+1x Restless Spire
+1x Volcanic Island
+1x Bayou
+1x Restless Cottage
+1x Plateau
+1x Restless Bivouac
+1x Restless Vinestalk
+1x Tropical Island
+1x Tournament Grounds
+1x Castle Ardenvale
+1x Castle Embereth
+1x Castle Garenbrig
+1x Castle Locthwain
+1x Castle Vantress
+1x Crystal Grotto
+1x Dwarven Mine
+1x Edgewall Inn
+1x Fabled Passage
+1x Gingerbread Cabin
+1x Idyllic Grange
+1x Mystic Sanctuary
+1x Thriving Bluff
+1x Thriving Grove
+1x Thriving Heath
+1x Thriving Isle
+1x Thriving Moor
+1x Witch's Cottage

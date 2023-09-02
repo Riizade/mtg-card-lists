@@ -1,0 +1,192 @@
+1x Mother of Runes
+1x Giver of Runes
+1x Giant Killer
+1x Thalia, Guardian of Thraben
+1x Containment Priest
+1x Aegis of the Gods
+1x Hushbringer
+1x Remorseful Cleric
+1x Leonin Relic-Warder
+1x Lion Sash
+1x Grand Abolisher
+1x Auriok Salvagers
+1x Swords to Plowshares
+1x Path to Exile
+1x Ephemerate
+1x Prismatic Ending
+1x Balance
+1x Snapcaster Mage
+1x Gilded Drake
+1x Thassa's Oracle
+1x Emry, Lurker of the Loch
+1x Sphinx of Foresight
+1x Force of Will
+1x Force of Negation
+1x Daze
+1x Foil
+1x Gush
+1x Spell Pierce
+1x Brainstorm
+1x Miscast
+1x Ancestral Recall
+1x Stubborn Denial
+1x Flusterstorm
+1x Spell Snare
+1x An Offer You Can't Refuse
+1x Mystical Dispute
+1x Stifle
+1x Flash
+1x Mana Drain
+1x Mana Leak
+1x Lose Focus
+1x Defabricate
+1x Careful Study
+1x Time Walk
+1x Tinker
+1x Show and Tell
+1x Timetwister
+1x Aether Spellbomb
+1x Seal of Removal
+1x Dress Down
+1x Grief
+1x Putrid Imp
+1x Mesmeric Fiend
+1x Kitesail Freebooter
+1x Vampire Hexmage
+1x Inverter of Truth
+1x Liliana of the Veil
+1x Force of Despair
+1x Snuff Out
+1x Dark Ritual
+1x Entomb
+1x Unmask
+1x Duress
+1x Thoughtseize
+1x Inquisition of Kozilek
+1x Reanimate
+1x Cabal Therapy
+1x Dreams of Steel and Oil
+1x Bone Shards
+1x Collective Brutality
+1x Toxic Deluge
+1x Animate Dead
+1x Blazing Rootwalla
+1x Anger
+1x Goblin Welder
+1x Goblin Engineer
+1x Pyroblast
+1x Red Elemental Blast
+1x Abrade
+1x Cathartic Pyre
+1x Faithless Looting
+1x Pyrite Spellbomb
+1x Sneak Attack
+1x Endurance
+1x Basking Rootwalla
+1x Vengevine
+1x Scavenging Ooze
+1x Nature's Claim
+1x Veil of Summer
+1x Channel
+1x Fastbond
+1x Oath of Druids
+1x Boseiju, Who Endures
+1x Gyruda, Doom of Depths
+1x Lurrus of the Dream-Den
+1x Unburial Rites
+1x Memory's Journey
+1x Dovin's Veto
+1x Chaos Defiler
+1x Ancient Grudge
+1x Vanishing Verse
+1x Izzet Charm
+1x Assassin's Trophy
+1x Abrupt Decay
+1x Walking Ballista
+1x Hope of Ghirapur
+1x Phyrexian Dreadnought
+1x Phyrexian Revoker
+1x Phyrexian Metamorph
+1x Lodestone Golem
+1x Hollow One
+1x Wurmcoil Engine
+1x Chancellor of the Annex
+1x Woodfall Primus
+1x Ashen Rider
+1x Sphinx of the Steel Wind
+1x Archon of Cruelty
+1x Inkwell Leviathan
+1x Iona, Shield of Emeria
+1x Triplicate Titan
+1x Kozilek, Butcher of Truth
+1x Ulamog, the Infinite Gyre
+1x Worldspine Wurm
+1x Blightsteel Colossus
+1x Emrakul, the Aeons Torn
+1x Karn, the Great Creator
+1x Mental Misstep
+1x Noxious Revival
+1x Once Upon a Time
+1x Simian Spirit Guide
+1x Elvish Spirit Guide
+1x Dismember
+1x Gitaxian Probe
+1x Lion's Eye Diamond
+1x Mox Diamond
+1x Chrome Mox
+1x Lotus Petal
+1x Jeweled Amulet
+1x Mox Opal
+1x Engineered Explosives
+1x Chalice of the Void
+1x Mana Crypt
+1x Elixir of Immortality
+1x Scrabbling Claws
+1x Aether Vial
+1x Pithing Needle
+1x Conjurer's Bauble
+1x Mana Vault
+1x Sensei's Divining Top
+1x Feldon's Cane
+1x Sol Ring
+1x Nihil Spellbomb
+1x Sorcerous Spyglass
+1x Sphere of Resistance
+1x Thorn of Amethyst
+1x Torpor Orb
+1x Lightning Greaves
+1x Defense Grid
+1x Trinisphere
+1x Ensnaring Bridge
+1x Tangle Wire
+1x God-Pharaoh's Statue
+1x City of Traitors
+1x Ancient Tomb
+1x City of Brass
+1x Gemstone Caverns
+1x Rishadan Port
+1x Wasteland
+1x Mana Confluence
+1x Bazaar of Baghdad
+1x Forbidden Orchard
+1x Dark Depths
+1x Thespian's Stage
+1x Gemstone Mine
+1x Tarnished Citadel
+1x Mishra's Workshop
+1x Tendo Ice Bridge
+1x Tolarian Academy
+1x Undiscovered Paradise
+1x Tropical Island
+1x Volcanic Island
+1x Underground Sea
+1x Tundra
+1x Urza's Saga
+1x Scrubland
+1x Spire of Industry
+1x Taiga
+1x Badlands
+1x Savannah
+1x Bayou
+1x Plateau
+1x The Mycosynth Gardens

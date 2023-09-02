@@ -1,0 +1,360 @@
+1x Dauntless Bodyguard
+1x Esper Sentinel
+1x Faerie Guidemother
+1x Giant Killer
+1x Giver of Runes
+1x Hopeful Initiate
+1x Kytheon, Hero of Akros
+1x Legion's Landing
+1x Mother of Runes
+1x Student of Warfare
+1x Thraben Inspector
+1x Clarion Spirit
+1x Guardian of New Benalia
+1x Lion Sash
+1x Luminarch Aspirant
+1x Seasoned Hallowblade
+1x Selfless Spirit
+1x Stoneforge Mystic
+1x Sungold Sentinel
+1x Thalia, Guardian of Thraben
+1x Adeline, Resplendent Cathar
+1x Anointed Peacekeeper
+1x Blade Splicer
+1x Elite Spellbinder
+1x Monastery Mentor
+1x Skyclave Apparition
+1x Thalia, Heretic Cathar
+1x Restoration Angel
+1x Timeless Dragon
+1x The Wandering Emperor
+1x Elspeth's Smite
+1x Path to Exile
+1x Swords to Plowshares
+1x March of Otherworldly Light
+1x Reprieve
+1x Soul Partition
+1x Unexpectedly Absent
+1x Oust
+1x Prismatic Ending
+1x Terminus
+1x Balance
+1x Sevinne's Reclamation
+1x Wrath of God
+1x Portable Hole
+1x Glimmer Lens
+1x Swift Reconfiguration
+1x Cave of the Frost Dragon
+1x Eiganjo, Seat of the Empire
+1x Delver of Secrets
+1x Faerie Mastermind
+1x Faerie Vandal
+1x Jace, Vryn's Prodigy
+1x Ledger Shredder
+1x Murktide Regent
+1x Sea Gate Stormcaller
+1x Snapcaster Mage
+1x Spellstutter Sprite
+1x Stormwing Entity
+1x Thing in the Ice
+1x Vendilion Clique
+1x Jace, the Mind Sculptor
+1x Teferi, Temporal Pilgrim
+1x Daze
+1x Force of Negation
+1x Force of Will
+1x Brainstorm
+1x Consider
+1x Force Spike
+1x Mental Note
+1x Opt
+1x Repeal
+1x Spell Pierce
+1x Spell Snare
+1x Stern Scolding
+1x Thought Scour
+1x Brazen Borrower
+1x Censor
+1x Condescend
+1x Counterspell
+1x Dig Through Time
+1x Lose Focus
+1x Mana Leak
+1x Memory Lapse
+1x Miscalculation
+1x Remand
+1x Archmage's Charm
+1x Cryptic Command
+1x Mystic Confluence
+1x Ponder
+1x Portent
+1x Preordain
+1x Serum Visions
+1x Sleight of Hand
+1x Treasure Cruise
+1x Dress Down
+1x Primordial Mist
+1x Shark Typhoon
+1x Mystic Sanctuary
+1x Otawara, Soaring City
+1x Shelldock Isle
+1x Death's Shadow
+1x Evolved Sleeper
+1x Knight of the Ebon Legion
+1x Tasigur, the Golden Fang
+1x Bloodsky Berserker
+1x Dark Confidant
+1x Kitesail Freebooter
+1x Misery's Shadow
+1x Orcish Bowmasters
+1x Scourge of the Skyclaves
+1x Sedgemoor Witch
+1x Urborg Scavengers
+1x Liliana of the Veil
+1x Liliana, the Last Hope
+1x Snuff Out
+1x Cling to Dust
+1x Cut Down
+1x Disfigure
+1x Fatal Push
+1x Ulcerate
+1x Vendetta
+1x Cast Down
+1x Eliminate
+1x Go for the Throat
+1x Heartless Act
+1x Infernal Grasp
+1x Murderous Rider
+1x Lethal Scheme
+1x Blackmail
+1x Bloodchief's Thirst
+1x Bone Shards
+1x Dread Fugue
+1x Duress
+1x Inquisition of Kozilek
+1x Reanimate
+1x Thoughtseize
+1x Unearth
+1x Collective Brutality
+1x Night's Whisper
+1x Toxic Deluge
+1x Damnation
+1x Dead Weight
+1x Bitterblossom
+1x Hive of the Eye Tyrant
+1x Takenuma, Abandoned Mire
+1x Bomat Courier
+1x Dragon's Rage Channeler
+1x Falkenrath Pit Fighter
+1x Goblin Guide
+1x Grim Lavamancer
+1x Monastery Swiftspear
+1x Rabbit Battery
+1x Ragavan, Nimble Pilferer
+1x Soul-Scar Mage
+1x Zurgo Bellstriker
+1x Bedlam Reveler
+1x Cemetery Gatekeeper
+1x Dreadhorde Arcanist
+1x Eidolon of the Great Revel
+1x Electrostatic Infantry
+1x Kari Zev, Skyship Raider
+1x Magmatic Channeler
+1x Rimrock Knight
+1x Smoldering Egg
+1x Young Pyromancer
+1x Anje's Ravager
+1x Death-Greeter's Champion
+1x Fable of the Mirror-Breaker
+1x Goblin Rabblemaster
+1x Irencrag Pyromancer
+1x Seasoned Pyromancer
+1x Pia and Kiran Nalaar
+1x Chandra, Torch of Defiance
+1x Burst Lightning
+1x Lava Dart
+1x Lightning Bolt
+1x Tarfire
+1x Unholy Heat
+1x Abrade
+1x Bonecrusher Giant
+1x Magma Jet
+1x Twinshot Sniper
+1x Faithless Looting
+1x Firebolt
+1x Flame Slash
+1x Forked Bolt
+1x Arc Trail
+1x Pyrite Spellbomb
+1x Embercleave
+1x Seal of Fire
+1x Barbarian Ring
+1x Den of the Bugbear
+1x Shatterskull Smashing
+1x Arbor Elf
+1x Avacyn's Pilgrim
+1x Birds of Paradise
+1x Elves of Deep Shadow
+1x Elvish Reclaimer
+1x Gilded Goose
+1x Ignoble Hierarch
+1x Llanowar Elves
+1x Noble Hierarch
+1x Deeproot Wayfinder
+1x Jolrael, Mwonvuli Recluse
+1x Lotus Cobra
+1x Quirion Beastcaller
+1x Scavenging Ooze
+1x Tarmogoyf
+1x Augur of Autumn
+1x Cemetery Prowler
+1x Courser of Kruphix
+1x Endurance
+1x Eternal Witness
+1x Jewel Thief
+1x Tireless Tracker
+1x Wolfbriar Elemental
+1x Titania, Protector of Argoth
+1x Primeval Titan
+1x Green Sun's Zenith
+1x Voracious Hydra
+1x Garruk Relentless
+1x Nissa, Who Shakes the World
+1x Once Upon a Time
+1x Collected Company
+1x Abundant Harvest
+1x Traverse the Ulvenwald
+1x Edge of Autumn
+1x Explore
+1x Life from the Loam
+1x Esika's Chariot
+1x Exploration
+1x Utopia Sprawl
+1x Wild Growth
+1x Sylvan Library
+1x Boseiju, Who Endures
+1x Treetop Village
+1x Flooded Strand
+1x Flooded Strand
+1x Polluted Delta
+1x Polluted Delta
+1x Bloodstained Mire
+1x Bloodstained Mire
+1x Wooded Foothills
+1x Wooded Foothills
+1x Manamorphose
+1x Horizon Canopy
+1x Windswept Heath
+1x Windswept Heath
+1x Marsh Flats
+1x Marsh Flats
+1x Silent Clearing
+1x Lingering Souls
+1x Lurrus of the Dream-Den
+1x Fiery Islet
+1x Scalding Tarn
+1x Scalding Tarn
+1x Fire // Ice
+1x Nurturing Peatland
+1x Verdant Catacombs
+1x Verdant Catacombs
+1x Deathrite Shaman
+1x Hogaak, Arisen Necropolis
+1x Arid Mesa
+1x Arid Mesa
+1x Sunbaked Canyon
+1x Figure of Destiny
+1x Misty Rainforest
+1x Misty Rainforest
+1x Waterlogged Grove
+1x Warden of the First Tree
+1x Celestial Colonnade
+1x Hallowed Fountain
+1x Hallowed Fountain
+1x Hallowed Fountain
+1x Irrigated Farmland
+1x Spell Queller
+1x Teferi, Time Raveler
+1x Supreme Verdict
+1x Fractured Identity
+1x Fetid Pools
+1x Watery Grave
+1x Watery Grave
+1x Watery Grave
+1x Baleful Strix
+1x Drown in the Loch
+1x Master of Death
+1x Blood Crypt
+1x Blood Crypt
+1x Blood Crypt
+1x Kroxa, Titan of Death's Hunger
+1x Kolaghan's Command
+1x Sheltered Thicket
+1x Stomping Ground
+1x Stomping Ground
+1x Stomping Ground
+1x Mawloc
+1x Territorial Kavu
+1x Wrenn and Six
+1x Temple Garden
+1x Temple Garden
+1x Temple Garden
+1x Qasali Pridemage
+1x Knight of Autumn
+1x Knight of the Reliquary
+1x Godless Shrine
+1x Godless Shrine
+1x Godless Shrine
+1x Vanishing Verse
+1x Vindicate
+1x Steam Vents
+1x Steam Vents
+1x Steam Vents
+1x Expressive Iteration
+1x Sprite Dragon
+1x Third Path Iconoclast
+1x Electrolyze
+1x Flame of Anor
+1x Overgrown Tomb
+1x Overgrown Tomb
+1x Overgrown Tomb
+1x Abrupt Decay
+1x Grim Flayer
+1x Witherbloom Command
+1x Grist, the Hunger Tide
+1x Sacred Foundry
+1x Sacred Foundry
+1x Sacred Foundry
+1x Lightning Helix
+1x Winota, Joiner of Forces
+1x Breeding Pool
+1x Breeding Pool
+1x Breeding Pool
+1x Uro, Titan of Nature's Wrath
+1x Leovold, Emissary of Trest
+1x Phyrexian Revoker
+1x Walking Ballista
+1x Golos, Tireless Pilgrim
+1x Mutagenic Growth
+1x Dismember
+1x Gitaxian Probe
+1x Engineered Explosives
+1x Mishra's Bauble
+1x Urza's Bauble
+1x Chromatic Sphere
+1x Retrofitter Foundry
+1x Scrabbling Claws
+1x Sensei's Divining Top
+1x Skullclamp
+1x Smuggler's Copter
+1x Umezawa's Jitte
+1x Grafted Wargear
+1x Ancient Tomb
+1x Field of the Dead
+1x Gaea's Cradle
+1x Mishra's Factory
+1x Mutavault
+1x Prismatic Vista
+1x Rishadan Port
+1x Urza's Saga
+1x Wasteland
