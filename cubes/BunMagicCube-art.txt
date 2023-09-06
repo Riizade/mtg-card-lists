@@ -3961,4 +3961,4 @@ cards:
     sideboard: false
     watermarks: []
 settings:
-  default_back_uri: "./art/backs/black.png"
+  default_back_uri: "./art/backs/Card Back.png"
