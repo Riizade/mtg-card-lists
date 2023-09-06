@@ -1,0 +1,224 @@
+---
+cards:
+  - name: Plains
+    quantity: 20
+    scryfall_uuid: a9891b7b-fc52-470c-9f74-292ae665f378
+    tags: []
+    front: default
+    back: default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Island
+    quantity: 20
+    scryfall_uuid: acf7b664-3e75-4018-81f6-2a14ab59f258
+    tags: []
+    front: default
+    back: default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Swamp
+    quantity: 20
+    scryfall_uuid: 02cb5cfd-018e-4c5e-bef1-166262aa5f1d
+    tags: []
+    front: default
+    back: default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mountain
+    quantity: 20
+    scryfall_uuid: 53fb7b99-9e47-46a6-9c8a-88e28b5197f1
+    tags: []
+    front: default
+    back: default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Forest
+    quantity: 20
+    scryfall_uuid: 32af9f41-89e2-4e7a-9fec-fffe79cae077
+    tags: []
+    front: default
+    back: default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Plains
+    quantity: 20
+    scryfall_uuid: ca8fb179-7e81-4b20-8b81-ea1aa97afe58
+    tags: []
+    front: default
+    back: default
+    front_border: CLBShowcaseNonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Island
+    quantity: 20
+    scryfall_uuid: f0578f26-1396-4e1d-9986-8fc6c55aeb66
+    tags: []
+    front: default
+    back: default
+    front_border: CLBShowcaseNonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Swamp
+    quantity: 20
+    scryfall_uuid: c50b3d79-2361-4858-98b0-64d83c4f7f70
+    tags: []
+    front: default
+    back: default
+    front_border: CLBShowcaseNonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mountain
+    quantity: 20
+    scryfall_uuid: 03cd5953-37fc-4a8a-89f8-0b5dd8412dc9
+    tags: []
+    front: default
+    back: default
+    front_border: CLBShowcaseNonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Forest
+    quantity: 20
+    scryfall_uuid: acc778ae-a2d0-493f-963d-e946bd7cacd9
+    tags: []
+    front: default
+    back: default
+    front_border: CLBShowcaseNonCreature
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Plains
+    quantity: 1
+    scryfall_uuid: 572eab93-7b1d-434b-ba92-844248e472d0
+    tags: []
+    front: default
+    back: default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Island
+    quantity: 1
+    scryfall_uuid: e67477a4-6878-4356-8037-807f41590ad1
+    tags: []
+    front: default
+    back: default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Swamp
+    quantity: 1
+    scryfall_uuid: f1b8c9a6-62eb-436e-9277-e2b8075d482d
+    tags: []
+    front: default
+    back: default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mountain
+    quantity: 1
+    scryfall_uuid: 0aaf15b9-1bf5-424a-a994-67beaae29d36
+    tags: []
+    front: default
+    back: default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Forest
+    quantity: 1
+    scryfall_uuid: e8e9959a-b422-4906-8d35-8b05c5dd6de1
+    tags: []
+    front: default
+    back: default
+    front_border: LandTHBFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Plains
+    quantity: 1
+    scryfall_uuid: 7a2c8b8e-2e28-4f10-b04f-9b313c60c0bb
+    tags: []
+    front: default
+    back: default
+    front_border: LandUSTFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Island
+    quantity: 1
+    scryfall_uuid: 15303b22-ddf0-488d-b07e-a118f35ef00f
+    tags: []
+    front: default
+    back: default
+    front_border: LandUSTFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Swamp
+    quantity: 1
+    scryfall_uuid: f108b0fb-420a-422d-ae85-9a99c0f73169
+    tags: []
+    front: default
+    back: default
+    front_border: LandUSTFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Mountain
+    quantity: 1
+    scryfall_uuid: 44c1a862-00fc-4e79-a83a-289fef81503a
+    tags: []
+    front: default
+    back: default
+    front_border: LandUSTFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+  - name: Forest
+    quantity: 1
+    scryfall_uuid: f8772631-d4a1-440d-ac89-ac6659bdc073
+    tags: []
+    front: default
+    back: default
+    front_border: LandUSTFullArt
+    back_border: None
+    commander: false
+    sideboard: false
+    watermarks: []
+settings:
+  default_back_uri: "./art/backs/black.png"

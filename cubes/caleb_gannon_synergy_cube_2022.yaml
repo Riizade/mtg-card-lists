@@ -4,8 +4,8 @@ cards:
     quantity: 1
     scryfall_uuid: febad44a-eaf0-4122-87c5-a12d17f28392
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -15,8 +15,8 @@ cards:
     quantity: 1
     scryfall_uuid: f3537373-ef54-4578-9d05-6216420ee349
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -26,8 +26,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9b8575dc-17aa-49c6-923e-6a48f3d75e93
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -37,8 +37,8 @@ cards:
     quantity: 1
     scryfall_uuid: e69db7d6-80fd-4832-b9f4-47eb4aab54e6
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -48,8 +48,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2be39749-ad6f-4160-99eb-c677eee7f1b2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -59,8 +59,8 @@ cards:
     quantity: 1
     scryfall_uuid: 55611f05-10cf-42d0-b93e-7f0c0c852a06
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -70,8 +70,8 @@ cards:
     quantity: 1
     scryfall_uuid: abc8e0f8-fdb9-4f24-a3e3-439f6cc3ebdc
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -81,8 +81,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2ad29773-7c1b-410d-9f69-7aa751f6ebca
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -92,8 +92,8 @@ cards:
     quantity: 1
     scryfall_uuid: 85e9e58a-0ac1-405c-906e-16e981763b3a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -103,8 +103,8 @@ cards:
     quantity: 1
     scryfall_uuid: 84f8ce4c-c6fc-408c-a216-33374bbfb08d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -114,8 +114,8 @@ cards:
     quantity: 1
     scryfall_uuid: ebe9427d-068f-487c-9263-b40366a164bc
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -125,8 +125,8 @@ cards:
     quantity: 1
     scryfall_uuid: bba1650f-eddf-49a9-820e-489cb8d5b6fa
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -136,8 +136,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -147,8 +147,8 @@ cards:
     quantity: 1
     scryfall_uuid: eb49805c-8546-463d-b78c-f4ea109851b4
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -158,8 +158,8 @@ cards:
     quantity: 1
     scryfall_uuid: c9f8b8fb-1cd8-450e-a1fe-892e7a323479
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -169,8 +169,8 @@ cards:
     quantity: 1
     scryfall_uuid: 36ab760e-93e0-4dbc-aaa1-02316f62ed3f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -180,8 +180,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6504e634-d8cd-41bc-978d-769431bd896d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -191,8 +191,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2d243be1-b67a-44b5-9453-a9f8583c0014
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -202,8 +202,8 @@ cards:
     quantity: 1
     scryfall_uuid: 277bc4e5-f43a-4f1e-a7e9-11796e78fcdf
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -213,8 +213,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3883a621-b226-465f-bcc6-73adf2050514
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -224,8 +224,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0050be51-8c4e-4b97-b171-ede5fadfd141
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -235,8 +235,8 @@ cards:
     quantity: 1
     scryfall_uuid: da01e447-ac5b-447a-b94c-6db3320d196f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryFullArtOval
     back_border: None
     commander: false
@@ -246,8 +246,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6733ee04-a282-43ea-830f-1ba806331c7b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -257,8 +257,8 @@ cards:
     quantity: 1
     scryfall_uuid: af3928b4-813a-4120-8799-de34235d60ac
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -268,8 +268,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3cb635bb-def8-43f9-aad1-dd298dcc730b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -279,8 +279,8 @@ cards:
     quantity: 1
     scryfall_uuid: bc4b938f-a600-4d10-8030-ed60cf6ade56
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -290,8 +290,8 @@ cards:
     quantity: 1
     scryfall_uuid: fd60ee8d-fb50-41df-89a8-aed5a53d755f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: VOWCreatureShowcaseOval
     back_border: None
     commander: false
@@ -301,8 +301,8 @@ cards:
     quantity: 1
     scryfall_uuid: befb996b-1da6-41a3-8d9a-a45c2353c401
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -312,8 +312,8 @@ cards:
     quantity: 1
     scryfall_uuid: 79045117-093b-47e2-ad5c-973810bc4925
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -323,8 +323,8 @@ cards:
     quantity: 1
     scryfall_uuid: b958bcdd-d0ea-4ae0-9dd0-e6de5cf74128
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -334,8 +334,8 @@ cards:
     quantity: 1
     scryfall_uuid: c1f5dd1b-bc42-44a7-aabf-b1b9a5db584d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -345,8 +345,8 @@ cards:
     quantity: 1
     scryfall_uuid: e940fd9f-f1f5-455e-b141-b70dde6cb89d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -356,7 +356,7 @@ cards:
     quantity: 1
     scryfall_uuid: 7be5092f-cd24-4aea-824e-67b9767019b2
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: f704397a-c180-44ae-9e4e-90180556b87b
@@ -370,7 +370,7 @@ cards:
     quantity: 1
     scryfall_uuid: e7f32354-893d-4f0b-b555-e0757fb5443b
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 89aafeb7-31e3-4389-9c4e-4903c342a021
@@ -384,8 +384,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2bbf453c-bded-4d39-bebf-fd240ec44287
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -395,8 +395,8 @@ cards:
     quantity: 1
     scryfall_uuid: 206fd18a-f263-42cd-a77a-e40ae31a468a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureSignatureGideon
     back_border: None
     commander: false
@@ -406,7 +406,7 @@ cards:
     quantity: 1
     scryfall_uuid: cc9ece2f-7eda-4fc5-a562-3e16e71560e9
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: a5d364f3-e3e7-46fb-8273-aabd56ded0c5
@@ -420,8 +420,8 @@ cards:
     quantity: 1
     scryfall_uuid: aecdc315-95e5-450c-bedc-998eea46cf8c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -431,8 +431,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6d9efacb-9d7c-41f4-9b11-59df1be50e11
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -442,8 +442,8 @@ cards:
     quantity: 1
     scryfall_uuid: ec15714b-3853-47c6-848f-3df3a735548c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -453,8 +453,8 @@ cards:
     quantity: 1
     scryfall_uuid: fa19fe94-0302-4d08-9821-fa0db722048a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -464,8 +464,8 @@ cards:
     quantity: 1
     scryfall_uuid: cbe02056-74b5-4e73-8af6-5d7bf3064146
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -475,8 +475,8 @@ cards:
     quantity: 1
     scryfall_uuid: 825969b9-3c70-4fca-8cab-696e9ca7cdb2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -486,8 +486,8 @@ cards:
     quantity: 1
     scryfall_uuid: 82ab72c3-1f76-45ff-84b4-05f403866d44
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -497,8 +497,8 @@ cards:
     quantity: 1
     scryfall_uuid: 7e68f4df-88ce-4e09-a03c-7edf40bff167
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -508,8 +508,8 @@ cards:
     quantity: 1
     scryfall_uuid: 80fca8c0-ae3e-439e-b202-228b9f360e9a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -519,8 +519,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0bd0b431-534d-4ab7-93ed-b9a25259e88e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -530,8 +530,8 @@ cards:
     quantity: 1
     scryfall_uuid: 74f12c23-5c15-4ae6-8f4d-c5e6c1878817
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: SagaM15
     back_border: Creature
     commander: false
@@ -541,8 +541,8 @@ cards:
     quantity: 1
     scryfall_uuid: d1fcfeb4-1818-4e08-be4c-27b8a9dc12e6
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -552,8 +552,8 @@ cards:
     quantity: 1
     scryfall_uuid: 7e4becff-8280-4e29-a370-bf82fb6734d5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2003
     back_border: None
     commander: false
@@ -563,8 +563,8 @@ cards:
     quantity: 1
     scryfall_uuid: 63971a64-c5f3-4d1f-ae0d-489d7d5b18f0
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -574,8 +574,8 @@ cards:
     quantity: 1
     scryfall_uuid: a671ec19-32f4-4fde-8ee0-1224471e79db
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -585,8 +585,8 @@ cards:
     quantity: 1
     scryfall_uuid: 996c1952-8d10-4296-8960-ff8993833649
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -596,8 +596,8 @@ cards:
     quantity: 1
     scryfall_uuid: 00632c03-be00-4722-85b3-2ce31bba5cc6
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -607,8 +607,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4e76d04a-0038-4b5b-a026-3056ee940da9
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -618,8 +618,8 @@ cards:
     quantity: 1
     scryfall_uuid: cc750c64-fd83-4b7b-9a40-a99213e6fa6d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: Planeswalker2015
     commander: false
@@ -629,8 +629,8 @@ cards:
     quantity: 1
     scryfall_uuid: 75c43923-7280-4ccb-810b-e8c38dd8a26f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NEOShowcaseNinjaCreatureNonLegendary
     back_border: None
     commander: false
@@ -640,8 +640,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6394b9e1-674e-4eda-ad0b-206cdbb5bf5e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -651,8 +651,8 @@ cards:
     quantity: 1
     scryfall_uuid: 17b79895-30ac-4bb4-bbe3-033a0dfcf1d6
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -662,8 +662,8 @@ cards:
     quantity: 1
     scryfall_uuid: ee203ede-b9af-4f97-84ca-597debf2efd0
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -673,8 +673,8 @@ cards:
     quantity: 1
     scryfall_uuid: 650221f7-d935-498b-a9a1-ec23c89fc5f8
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -684,8 +684,8 @@ cards:
     quantity: 1
     scryfall_uuid: 13d7e352-4d01-4947-a76f-f8a01dd876cc
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -695,8 +695,8 @@ cards:
     quantity: 1
     scryfall_uuid: f8b3eb41-2351-4dca-becb-7ecb1fcfa14b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -706,8 +706,8 @@ cards:
     quantity: 1
     scryfall_uuid: 359d1b13-6156-43b0-a9a7-6bfff36c1a91
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: Creature
     commander: false
@@ -717,8 +717,8 @@ cards:
     quantity: 1
     scryfall_uuid: 15f01a3c-0a66-48da-a7d2-46260e3b721f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -728,8 +728,8 @@ cards:
     quantity: 1
     scryfall_uuid: 157f343d-8583-4827-a77d-d916e6a5caa1
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryFullArtOval
     back_border: None
     commander: false
@@ -739,8 +739,8 @@ cards:
     quantity: 1
     scryfall_uuid: ab02f8fb-5d1d-4a65-8283-de70d2a8d048
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -750,8 +750,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2beffa94-862d-4cf1-9272-7fe0425a60e7
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -761,8 +761,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5cda8633-2661-4fa7-81b0-3ae535619a3c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -772,8 +772,8 @@ cards:
     quantity: 1
     scryfall_uuid: 74ebe58d-0f94-47f7-b17b-0d9492b931d5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -783,8 +783,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9e7fb3c0-5159-4d1f-8490-ce4c9a60f567
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -794,8 +794,8 @@ cards:
     quantity: 1
     scryfall_uuid: e9be371c-c688-44ad-ab71-bd4c9f242d58
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -805,8 +805,8 @@ cards:
     quantity: 1
     scryfall_uuid: ebc01ab4-d89a-4d25-bf54-6aed33772f4b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -816,8 +816,8 @@ cards:
     quantity: 1
     scryfall_uuid: d4a3a921-3b7f-474c-b8c3-67a1a6ba5cc1
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -827,8 +827,8 @@ cards:
     quantity: 1
     scryfall_uuid: d392392e-6c36-44e4-a037-2b788a088891
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -838,7 +838,7 @@ cards:
     quantity: 1
     scryfall_uuid: 11d27509-07c2-4445-a1d5-e56523fb8566
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: c6118d1d-28c1-4f54-97cb-c4f934b6739c
@@ -852,8 +852,8 @@ cards:
     quantity: 1
     scryfall_uuid: b0e9b20a-fcc7-4506-995e-be80199c1202
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -863,8 +863,8 @@ cards:
     quantity: 1
     scryfall_uuid: 97a6c6c9-dd26-4ce7-850f-0b3fc49245bd
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -874,8 +874,8 @@ cards:
     quantity: 1
     scryfall_uuid: e4bfe5d1-0914-4c0b-b851-598d0850dc01
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -885,8 +885,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9a3c72e5-056e-4687-a5ab-d64d425d598e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -896,8 +896,8 @@ cards:
     quantity: 1
     scryfall_uuid: f0095386-6e4d-432f-a5ac-7407ffaf7938
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -907,7 +907,7 @@ cards:
     quantity: 1
     scryfall_uuid: ab59ac4f-2a77-4566-85c0-32666447dcf2
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: cd5017e7-2da9-48be-8dc3-458a1374b97c
@@ -921,8 +921,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9c8ccab7-cc10-4fe8-a302-25d7518f4823
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -932,8 +932,8 @@ cards:
     quantity: 1
     scryfall_uuid: beb42273-935b-4bda-849e-c163606cf89e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -943,8 +943,8 @@ cards:
     quantity: 1
     scryfall_uuid: 72122836-a2f3-4001-9f08-93a7bf011ab1
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -954,8 +954,8 @@ cards:
     quantity: 1
     scryfall_uuid: 142944d5-1b11-4ec4-b6b4-b5c03e682cd3
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -965,8 +965,8 @@ cards:
     quantity: 1
     scryfall_uuid: d33ff8fc-b2b7-4cd9-8724-b926459b519d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -976,8 +976,8 @@ cards:
     quantity: 1
     scryfall_uuid: 112e1809-4323-48bc-afa1-13cc7ba6a3b5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: AdventurePromoOval
     back_border: None
     commander: false
@@ -987,8 +987,8 @@ cards:
     quantity: 1
     scryfall_uuid: f35ec9da-f38b-4b7f-9eb5-090ca7755668
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -998,8 +998,8 @@ cards:
     quantity: 1
     scryfall_uuid: f05e9a3e-8a35-4687-85cb-e31b3927a5e2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1009,8 +1009,8 @@ cards:
     quantity: 1
     scryfall_uuid: cf2a7655-9749-4ff6-b3b3-5a023b74a100
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -1020,8 +1020,8 @@ cards:
     quantity: 1
     scryfall_uuid: bda887f9-ea83-435e-b9d6-48f979a5fdb7
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1031,8 +1031,8 @@ cards:
     quantity: 1
     scryfall_uuid: e351ec05-8c4d-4631-9dbf-7f85f664770b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -1042,8 +1042,8 @@ cards:
     quantity: 1
     scryfall_uuid: 179236d9-6fe2-4db6-bdfb-f851e8d531a2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1053,7 +1053,7 @@ cards:
     quantity: 1
     scryfall_uuid: 98c1b465-b6d9-491b-bfc2-c034cc825d27
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 13636e52-aee6-4262-9b4d-a2979193bfa3
@@ -1067,8 +1067,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4b4956a2-9a39-4152-9c98-70e4b2acfa26
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1078,8 +1078,8 @@ cards:
     quantity: 1
     scryfall_uuid: dc595c63-af05-4c05-80e8-e1a90df26b0f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1089,8 +1089,8 @@ cards:
     quantity: 1
     scryfall_uuid: b8d53b6d-edce-47eb-84a9-528cd60f18e2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -1100,8 +1100,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5b87a025-ab29-4375-9338-536636051640
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1111,8 +1111,8 @@ cards:
     quantity: 1
     scryfall_uuid: 17e50157-bf49-4c5f-9b8a-bf73484e63a5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -1122,8 +1122,8 @@ cards:
     quantity: 1
     scryfall_uuid: a11b59db-b1e7-47c4-aed9-a1792fc31ce9
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1133,8 +1133,8 @@ cards:
     quantity: 1
     scryfall_uuid: d836754e-a45b-4a89-913a-949386a12fdf
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1144,8 +1144,8 @@ cards:
     quantity: 1
     scryfall_uuid: 7b0d4d01-9044-4b68-8b55-1b27ff0ffa75
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1155,8 +1155,8 @@ cards:
     quantity: 1
     scryfall_uuid: f2a1a648-a84c-45a6-99cb-eeccdb17ab2a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1166,8 +1166,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5c75ec73-0f6a-4392-b058-ab40a07dcd3a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1177,8 +1177,8 @@ cards:
     quantity: 1
     scryfall_uuid: 90bb3d28-30a4-4344-8a41-fe8b9ebf6ce3
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1188,8 +1188,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1a6f256b-943e-4cfb-9fc9-d1ded68b5f97
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1199,8 +1199,8 @@ cards:
     quantity: 1
     scryfall_uuid: 7b576264-da33-4272-98cf-70d1af1105b1
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1210,8 +1210,8 @@ cards:
     quantity: 1
     scryfall_uuid: 319bcff2-3173-40e8-954a-d48fa090e7b5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -1221,8 +1221,8 @@ cards:
     quantity: 1
     scryfall_uuid: ff590af2-2d6c-4f16-a9b8-1a6dab6e9ad5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -1232,8 +1232,8 @@ cards:
     quantity: 1
     scryfall_uuid: d6157016-a16c-46c8-9daf-6edcddd6a1c1
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -1243,8 +1243,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1e2fee55-227b-4373-a3f7-b463f220033f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1254,7 +1254,7 @@ cards:
     quantity: 1
     scryfall_uuid: 95f4e609-7fb7-4903-8d4c-45d38cf743be
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 7550cf1f-bf03-489e-8ec5-19c835f785ff
@@ -1268,8 +1268,8 @@ cards:
     quantity: 1
     scryfall_uuid: f3d62dbd-63db-4ac9-950f-9852627f23f2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1279,8 +1279,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9ab1290f-7ce7-4065-bad2-ddcedece528b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1290,8 +1290,8 @@ cards:
     quantity: 1
     scryfall_uuid: 34bc9bb0-5ec1-400f-89e7-b450980a3391
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -1301,8 +1301,8 @@ cards:
     quantity: 1
     scryfall_uuid: 22a77543-749a-49d8-96f4-3458ae5dcd38
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1312,8 +1312,8 @@ cards:
     quantity: 1
     scryfall_uuid: 32cf273e-b8f7-434b-9d5d-883dfd6f7423
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1323,8 +1323,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0dc046ef-eeb9-4ef7-8cc5-172b7346355e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1334,8 +1334,8 @@ cards:
     quantity: 1
     scryfall_uuid: 629e37d1-c0f3-44f2-926e-41eb3687c1d9
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -1345,8 +1345,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4c539843-4e3f-47a7-92e1-412eaaa2d9c5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1356,8 +1356,8 @@ cards:
     quantity: 1
     scryfall_uuid: c1a6d1c9-7779-4165-ad82-f7c4c5fe529c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -1367,8 +1367,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9851f290-f502-49f8-9b48-67f7966d4e34
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1378,8 +1378,8 @@ cards:
     quantity: 1
     scryfall_uuid: e43bf79f-faea-4a35-8b3a-e282fc2f19af
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2003
     back_border: None
     commander: false
@@ -1389,8 +1389,8 @@ cards:
     quantity: 1
     scryfall_uuid: d96198a7-dd19-4940-bf8f-23135011fc84
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1400,8 +1400,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2661cea1-b48d-40c6-9a23-22b8920eeae4
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1411,8 +1411,8 @@ cards:
     quantity: 1
     scryfall_uuid: d49203dd-89b6-4e91-b3ff-5f9f5ce981f8
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1422,8 +1422,8 @@ cards:
     quantity: 1
     scryfall_uuid: fe97a73f-33fd-4394-a393-ceb41a214820
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1433,8 +1433,8 @@ cards:
     quantity: 1
     scryfall_uuid: 87089d28-46a7-4247-a784-c34b9f822172
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -1444,8 +1444,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6c821158-f71a-48f9-b6b4-b0e605f22bec
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -1455,8 +1455,8 @@ cards:
     quantity: 1
     scryfall_uuid: ff971ba7-68b8-482a-9cb1-741f6893550c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -1466,8 +1466,8 @@ cards:
     quantity: 1
     scryfall_uuid: 88496096-fd9a-451a-85d9-31ccc3580623
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1477,8 +1477,8 @@ cards:
     quantity: 1
     scryfall_uuid: 864930ce-7c56-4ad2-9b90-57b10e5a0842
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1488,8 +1488,8 @@ cards:
     quantity: 1
     scryfall_uuid: 405c096c-a94b-4817-8c7f-f0551f6513e3
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1499,8 +1499,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8f3482ec-8466-4680-bfdc-e1029c0fbe89
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -1510,8 +1510,8 @@ cards:
     quantity: 1
     scryfall_uuid: cd79780e-ddad-4ef4-a94d-ab191d118882
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -1521,8 +1521,8 @@ cards:
     quantity: 1
     scryfall_uuid: e3378fe8-3355-48aa-90d4-9cb739200160
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -1532,8 +1532,8 @@ cards:
     quantity: 1
     scryfall_uuid: 333406d5-abcc-4629-a33b-395d0662ba1b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1543,8 +1543,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2a0d7998-2f3d-43b8-a0be-6ff7e5c83223
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -1554,8 +1554,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3895f0ce-ef97-4188-8b86-d0cc7067aacd
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2003
     back_border: None
     commander: false
@@ -1565,8 +1565,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8b39ee60-c467-4145-8ca7-123eef01791e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -1576,8 +1576,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9c3baad6-d087-436f-a9f4-c138639e3422
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1587,8 +1587,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2c9b8582-8887-4652-82e2-f9b11ee21545
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1598,8 +1598,8 @@ cards:
     quantity: 1
     scryfall_uuid: ca5297a5-bcaa-41fd-a397-e44dc4e00ba3
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: Creature
     commander: false
@@ -1609,8 +1609,8 @@ cards:
     quantity: 1
     scryfall_uuid: 27db5cf4-e023-4bd8-9f51-4dc42957007e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -1620,8 +1620,8 @@ cards:
     quantity: 1
     scryfall_uuid: 544d7162-b78f-4a70-86e7-83cec7062039
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -1631,8 +1631,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3dc48b87-62cb-48f6-8979-e6fb98717b52
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -1642,8 +1642,8 @@ cards:
     quantity: 1
     scryfall_uuid: ce14d37a-1f25-44e6-a6e5-c91851c887c5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -1653,8 +1653,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0ef8d3a2-5c6b-41e2-aa7d-81e4a5d04421
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -1664,8 +1664,8 @@ cards:
     quantity: 1
     scryfall_uuid: 64e2d58c-75a4-4448-8924-d92064786ce9
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -1675,8 +1675,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8690cbcc-f8fd-41f7-9e28-e61c12b04014
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -1686,8 +1686,8 @@ cards:
     quantity: 1
     scryfall_uuid: 75bbe89f-09af-494e-b58e-271f64bde4b5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1697,7 +1697,7 @@ cards:
     quantity: 1
     scryfall_uuid: 6fc57076-cac4-4f5e-956b-e3d77bd258b2
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: b734cb11-2024-411f-9885-dafda14bb431
@@ -1711,8 +1711,8 @@ cards:
     quantity: 1
     scryfall_uuid: 075fc4cb-49ac-4488-a24d-bc687f027182
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1722,8 +1722,8 @@ cards:
     quantity: 1
     scryfall_uuid: 18069340-a698-4f75-82cc-cc94fcf82184
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1733,8 +1733,8 @@ cards:
     quantity: 1
     scryfall_uuid: b9a50516-a20f-4e6e-b4f2-0049b673f942
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -1744,8 +1744,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9e1b4cec-68e0-4259-9be5-565d927017d9
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -1755,8 +1755,8 @@ cards:
     quantity: 1
     scryfall_uuid: 70d8fd1a-8756-4e11-9235-ca119bd11dab
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -1766,7 +1766,7 @@ cards:
     quantity: 1
     scryfall_uuid: c55b2b50-ac83-4a78-8f84-580193d1ca0f
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 65e93381-0192-4b89-af64-dcc7150b757b
@@ -1780,8 +1780,8 @@ cards:
     quantity: 1
     scryfall_uuid: 17824929-f131-4b8d-addb-66c25323155e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1791,8 +1791,8 @@ cards:
     quantity: 1
     scryfall_uuid: 059e8447-6b1c-4651-a734-a8fea2cbf7b2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1802,8 +1802,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1ee98955-4c47-4d45-9377-608dfa755337
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1813,8 +1813,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2afc9aa7-eaf2-453d-942c-23bf216a1844
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1824,8 +1824,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4494cb6d-1a99-40b6-96cc-0dc2ddec102f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1835,8 +1835,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0ad4c472-b8ce-4ae0-a6f0-726ea74722c5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1846,7 +1846,7 @@ cards:
     quantity: 1
     scryfall_uuid: 5bb89f3f-f3b0-402d-9f3c-5b4b8a9d1e91
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 11e96127-83e2-42e2-9799-998b1408d444
@@ -1860,7 +1860,7 @@ cards:
     quantity: 1
     scryfall_uuid: d47df2c2-437d-4b8e-82cc-1707e3efd5b5
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: a6af6cee-a60a-4953-8e22-c3bddc435619
@@ -1874,8 +1874,8 @@ cards:
     quantity: 1
     scryfall_uuid: 7271436b-897a-4b24-a5d2-d29dbea8c1bf
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1885,8 +1885,8 @@ cards:
     quantity: 1
     scryfall_uuid: 95702503-8f2d-46c8-abdb-6edd6c431d19
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -1896,8 +1896,8 @@ cards:
     quantity: 1
     scryfall_uuid: 59dcf43b-a65f-43e4-a683-437021565f6a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -1907,7 +1907,7 @@ cards:
     quantity: 1
     scryfall_uuid: 3009ba46-c9f8-46dc-8ffc-2aa4cef7b17c
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 99b6e466-784b-48a6-8e72-beff72f39231
@@ -1921,8 +1921,8 @@ cards:
     quantity: 1
     scryfall_uuid: b58299a8-e674-46de-ae25-c98410e0b445
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -1932,8 +1932,8 @@ cards:
     quantity: 1
     scryfall_uuid: 930186b0-ac25-4ad1-9a5c-4051fa04700b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1943,8 +1943,8 @@ cards:
     quantity: 1
     scryfall_uuid: 75d4f6fc-c5cd-416c-aafd-19c2f2c0cd51
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -1954,7 +1954,7 @@ cards:
     quantity: 1
     scryfall_uuid: 659d0ca7-90c9-473a-8b46-4fe40351b57d
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 1541b593-a7f1-4e6b-aff6-d6341cf8fec5
@@ -1968,8 +1968,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9ebcb070-953c-4b47-ad8a-ef207c65053f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -1979,8 +1979,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3faaa657-8b02-41a9-8a99-31a223d2caa5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -1990,8 +1990,8 @@ cards:
     quantity: 1
     scryfall_uuid: 25dd861f-ee63-4d79-b31b-173c9c336426
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -2001,8 +2001,8 @@ cards:
     quantity: 1
     scryfall_uuid: 52593d64-182f-45ff-82c6-fb7649d36736
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureLegendaryFullArtOval
     back_border: None
     commander: false
@@ -2012,8 +2012,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0c7ce363-3f57-49ed-b89a-f12bb5227ab4
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2023,8 +2023,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4404fc9c-ef02-479c-9638-0cc163f0b48f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2034,8 +2034,8 @@ cards:
     quantity: 1
     scryfall_uuid: 425bff89-ad15-4d22-bce9-a4a07dbafd87
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2045,8 +2045,8 @@ cards:
     quantity: 1
     scryfall_uuid: e162de32-d326-4576-9081-a7b2efd51d46
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2056,8 +2056,8 @@ cards:
     quantity: 1
     scryfall_uuid: 17cd920a-de09-454a-a9da-c84512e3aff1
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2067,8 +2067,8 @@ cards:
     quantity: 1
     scryfall_uuid: ef6d6eb2-beed-4c84-af6a-bf8ebdc62f50
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2078,8 +2078,8 @@ cards:
     quantity: 1
     scryfall_uuid: ee2a0d71-15a2-4061-b5f2-434755094aa4
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2089,8 +2089,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5d33a5b7-797b-4079-8d62-edd124c0fb5a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2100,8 +2100,8 @@ cards:
     quantity: 1
     scryfall_uuid: 52d3509c-8d67-4c5e-83bf-1a67f87589b9
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -2111,8 +2111,8 @@ cards:
     quantity: 1
     scryfall_uuid: 571bc9eb-8d13-4008-86b5-2e348a326d58
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2122,8 +2122,8 @@ cards:
     quantity: 1
     scryfall_uuid: fd97b3cf-924e-4f77-bb82-0bf19592389f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2133,8 +2133,8 @@ cards:
     quantity: 1
     scryfall_uuid: 944ca6e7-084b-424a-80c1-e88de192fd98
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2144,8 +2144,8 @@ cards:
     quantity: 1
     scryfall_uuid: 24614006-d99f-44b6-8ec1-29b48a1713d0
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendary
     back_border: None
     commander: false
@@ -2155,8 +2155,8 @@ cards:
     quantity: 1
     scryfall_uuid: 711c3023-1429-4aa1-b822-85ab1badf086
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -2166,8 +2166,8 @@ cards:
     quantity: 1
     scryfall_uuid: 38beac66-fab1-4999-b43c-524e3225d70c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -2177,8 +2177,8 @@ cards:
     quantity: 1
     scryfall_uuid: 289d6da8-9cfe-4c1b-90c9-477a743f6d62
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2188,8 +2188,8 @@ cards:
     quantity: 1
     scryfall_uuid: 218af707-cc60-407e-af20-e21879a0e902
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2199,8 +2199,8 @@ cards:
     quantity: 1
     scryfall_uuid: d47c49b9-bba2-4c1d-af2c-b0b79e0ae14d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendary
     back_border: None
     commander: false
@@ -2210,8 +2210,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4230560e-51b2-459d-86b9-8509a8b5b99d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2221,8 +2221,8 @@ cards:
     quantity: 1
     scryfall_uuid: 44657ab1-0a6a-4a5f-9688-86f239083821
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryMDFCOval
     back_border: NonCreatureLegendaryMDFC
     commander: false
@@ -2232,8 +2232,8 @@ cards:
     quantity: 1
     scryfall_uuid: defcc4a3-40e0-4f5d-b23c-6cd6a614abc1
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2243,8 +2243,8 @@ cards:
     quantity: 1
     scryfall_uuid: 333228c5-af16-4ebd-acfc-3776b21ef044
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryFullArtOval
     back_border: None
     commander: false
@@ -2254,8 +2254,8 @@ cards:
     quantity: 1
     scryfall_uuid: df2df9cb-14f5-470f-b438-20f4ae8d0d59
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2265,8 +2265,8 @@ cards:
     quantity: 1
     scryfall_uuid: ce0dbf20-bb76-4f4b-960f-68bbb99bde33
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -2276,8 +2276,8 @@ cards:
     quantity: 1
     scryfall_uuid: 14da7322-924c-4018-a38a-89f4ea85d435
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -2287,8 +2287,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2bca6f8b-6e6a-43dd-b6a4-9eedfcc24281
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -2298,8 +2298,8 @@ cards:
     quantity: 1
     scryfall_uuid: f58592f7-1df5-428d-9dde-e6acd9a5d1d5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2309,8 +2309,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2cabfcfe-012e-4cab-bba2-24052eac0946
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Planeswalker2015Oval
     back_border: None
     commander: false
@@ -2320,8 +2320,8 @@ cards:
     quantity: 1
     scryfall_uuid: 416943f1-8416-4e3b-961f-b38df3986058
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2331,8 +2331,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6a21886b-93eb-4b77-aa37-5ae6570b0770
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2342,8 +2342,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0cf8cb1e-314a-4894-82df-f9812825f52e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2353,8 +2353,8 @@ cards:
     quantity: 1
     scryfall_uuid: b16dd041-451d-4914-8c46-aa315a90d802
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2364,7 +2364,7 @@ cards:
     quantity: 1
     scryfall_uuid: 4eaac4fd-95f5-4f38-b593-0101e79a20f9
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: b14fae63-2e82-49c1-8e62-d84a65f27479
@@ -2378,8 +2378,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3c7dfc93-36fe-499c-9019-cd45797ffbbf
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2389,8 +2389,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2b73d294-6ab1-4051-9b0f-d8e335d37674
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2400,8 +2400,8 @@ cards:
     quantity: 1
     scryfall_uuid: 84319dfb-eaf7-4b98-8c4f-30f5e779591b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2411,8 +2411,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3825b85d-07df-43b9-a8d8-930863262d83
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2422,8 +2422,8 @@ cards:
     quantity: 1
     scryfall_uuid: f23dff46-e040-4cba-890a-97c2899701f2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2433,7 +2433,7 @@ cards:
     quantity: 1
     scryfall_uuid: 6ef32c03-14f5-4ee2-af3a-4cbee45cd152
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: d4867546-a609-4958-a48e-522fb9258faf
@@ -2447,8 +2447,8 @@ cards:
     quantity: 1
     scryfall_uuid: b381d3c4-b318-4dff-a214-8a16a3872107
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2458,8 +2458,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2e807edb-838d-44fe-a37e-fb864d59beaa
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2469,8 +2469,8 @@ cards:
     quantity: 1
     scryfall_uuid: f493ce26-005c-4ddc-80f0-47bea4fd013a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2480,8 +2480,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5b012532-1186-4dc8-9d42-867e418b0280
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -2491,8 +2491,8 @@ cards:
     quantity: 1
     scryfall_uuid: c9c607d3-a8bf-4ba3-9c10-7509f195b41f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2502,8 +2502,8 @@ cards:
     quantity: 1
     scryfall_uuid: bfbbcc1a-c6cc-4671-91ab-9dcf454f62e0
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2513,7 +2513,7 @@ cards:
     quantity: 1
     scryfall_uuid: b429172f-2182-49dd-b6f6-e5e09493628d
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 7052a5cd-81b3-40ef-94e0-7c89e9554e33
@@ -2527,8 +2527,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2cc1ba79-9671-4183-b9ca-50f63c6a42fb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2538,8 +2538,8 @@ cards:
     quantity: 1
     scryfall_uuid: 924db286-fb3e-40dd-b5e2-f8128701685d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2549,8 +2549,8 @@ cards:
     quantity: 1
     scryfall_uuid: f00192e0-439d-43b2-882c-90a2d52103f8
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2560,8 +2560,8 @@ cards:
     quantity: 1
     scryfall_uuid: 10548126-2bac-435d-b7ee-cbfea97a40ea
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureSignatureChandra
     back_border: None
     commander: false
@@ -2571,8 +2571,8 @@ cards:
     quantity: 1
     scryfall_uuid: b36fa6f3-29e8-4788-bfcd-59576187c399
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2582,8 +2582,8 @@ cards:
     quantity: 1
     scryfall_uuid: 811b2dda-e1b7-4a46-83cc-5cdc17554836
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -2593,8 +2593,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6943c07f-ab0d-4f5a-bbe9-c0a83dc98546
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2604,8 +2604,8 @@ cards:
     quantity: 1
     scryfall_uuid: e21aa266-4264-4e02-9403-02930e641573
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -2615,8 +2615,8 @@ cards:
     quantity: 1
     scryfall_uuid: a8a47aa2-7274-465a-865b-68fe47d4fa81
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2626,8 +2626,8 @@ cards:
     quantity: 1
     scryfall_uuid: 06462b57-1b0e-4c9c-9531-c14b9f2d5a3b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2637,8 +2637,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4c454a20-8ec8-41d9-b9c3-acaa510d050b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureSignatureChandra
     back_border: None
     commander: false
@@ -2648,8 +2648,8 @@ cards:
     quantity: 1
     scryfall_uuid: d1bf32c4-4f0d-4c50-b6e5-2e6a4456bd1d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureSignatureChandra
     back_border: None
     commander: false
@@ -2659,8 +2659,8 @@ cards:
     quantity: 1
     scryfall_uuid: c47931c9-685d-4b83-8299-bc347224b4e8
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2670,8 +2670,8 @@ cards:
     quantity: 1
     scryfall_uuid: d99fd073-c249-4cd2-9d71-be417c88c493
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -2681,8 +2681,8 @@ cards:
     quantity: 1
     scryfall_uuid: e262f55e-9239-4a97-a19e-9b08fb34502e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -2692,8 +2692,8 @@ cards:
     quantity: 1
     scryfall_uuid: 19d1ad9f-e217-49fb-8b27-025ca133b6c9
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2703,8 +2703,8 @@ cards:
     quantity: 1
     scryfall_uuid: 18e1bdc9-be60-4abd-9756-d3e70e2fcdb5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -2714,8 +2714,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6954cc66-ab80-4457-b0da-61d80e80e25e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -2725,8 +2725,8 @@ cards:
     quantity: 1
     scryfall_uuid: 26bfde99-7761-48e1-851a-522f888d0f6c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2736,8 +2736,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1fc6d14a-1328-4032-ad9e-cd85cd365bd3
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -2747,8 +2747,8 @@ cards:
     quantity: 1
     scryfall_uuid: 99556953-8425-4052-957a-dd28a42e2f44
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -2758,8 +2758,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0ee4a931-5d61-49ba-affc-f022263938ca
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2769,8 +2769,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3178e55c-7e49-4621-906a-a66e5656e276
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2780,8 +2780,8 @@ cards:
     quantity: 1
     scryfall_uuid: a390a7df-b8da-41aa-93e5-2c0db938a27e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2791,8 +2791,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8ce3a3a1-3569-4909-a604-f78d4888781e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2802,8 +2802,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0003aa31-d42e-4972-9fb9-086aefe29a2c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2813,8 +2813,8 @@ cards:
     quantity: 1
     scryfall_uuid: f656c45c-60f8-4588-9f18-67e7a5e2ae05
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2003
     back_border: None
     commander: false
@@ -2824,8 +2824,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8c41769e-5ebb-42b2-ac55-fa471cd7201e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2835,8 +2835,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9a9da45b-54ae-49c1-af50-8b88912c5bcd
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2846,8 +2846,8 @@ cards:
     quantity: 1
     scryfall_uuid: 39c431d7-d94b-46c4-bb89-f3db56214ab4
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2857,8 +2857,8 @@ cards:
     quantity: 1
     scryfall_uuid: 450744cf-7eba-491b-97b0-ca80c6368bbb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2868,8 +2868,8 @@ cards:
     quantity: 1
     scryfall_uuid: d274723a-27f3-49ec-ade0-d0b5e0e87d84
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -2879,8 +2879,8 @@ cards:
     quantity: 1
     scryfall_uuid: 57948c65-4324-42bc-97ae-7cc700eb3817
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2890,8 +2890,8 @@ cards:
     quantity: 1
     scryfall_uuid: aba51852-af8f-49d8-8fb6-22d52a1742b8
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2901,8 +2901,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1132218d-56cd-441e-9006-df3c50344491
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -2912,8 +2912,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1f8a1386-77ca-46ae-8987-aaed435556ea
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2923,8 +2923,8 @@ cards:
     quantity: 1
     scryfall_uuid: 193c3ed7-975e-4249-9c2f-74b7cd68f219
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2934,8 +2934,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8008977f-b164-4ab7-a38a-25b382c6a16f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -2945,8 +2945,8 @@ cards:
     quantity: 1
     scryfall_uuid: 320fdf89-e158-41c5-b0bf-fee9dec36a75
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2956,8 +2956,8 @@ cards:
     quantity: 1
     scryfall_uuid: 60d695b3-b02b-42c6-bf1b-9d97a8d82eae
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -2967,8 +2967,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1a6c19cc-6469-4958-a547-1d0fe97c70e8
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2978,8 +2978,8 @@ cards:
     quantity: 1
     scryfall_uuid: 854f1d22-1416-4012-979c-35152ff520bd
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -2989,8 +2989,8 @@ cards:
     quantity: 1
     scryfall_uuid: 37d1a353-df3b-4c73-9561-44cf8243f773
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3000,8 +3000,8 @@ cards:
     quantity: 1
     scryfall_uuid: a2f174e6-9532-4fc3-815b-2dc3966c6523
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3011,8 +3011,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3e59380e-2c82-46a9-9749-4dcb978d5419
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -3022,8 +3022,8 @@ cards:
     quantity: 1
     scryfall_uuid: bddcec63-a60a-4d73-af6d-9ac978703811
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3033,8 +3033,8 @@ cards:
     quantity: 1
     scryfall_uuid: 151bdf3a-4445-43b1-8cea-2737c13d9dee
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3044,8 +3044,8 @@ cards:
     quantity: 1
     scryfall_uuid: f0a9c72a-e450-41e3-80e5-06f2f1171245
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3055,8 +3055,8 @@ cards:
     quantity: 1
     scryfall_uuid: e83851a1-e4e8-49ec-af5c-4efe86fa51ad
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2003
     back_border: None
     commander: false
@@ -3066,8 +3066,8 @@ cards:
     quantity: 1
     scryfall_uuid: 99a3376b-80be-4a53-9030-21d6256dc996
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3077,8 +3077,8 @@ cards:
     quantity: 1
     scryfall_uuid: 096d3c0c-98e2-4cfc-a6e1-fddb0359c63f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3088,8 +3088,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6aa5cc65-f8f1-4f6f-8b4e-2fedccbda684
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3099,8 +3099,8 @@ cards:
     quantity: 1
     scryfall_uuid: 84cb8203-88e4-4a3b-9334-91b70c747091
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3110,8 +3110,8 @@ cards:
     quantity: 1
     scryfall_uuid: 86dfb33e-761d-420f-8202-c1a714ff0832
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -3121,8 +3121,8 @@ cards:
     quantity: 1
     scryfall_uuid: 57b819b7-c193-446d-b7cf-75a09e1d58a4
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -3132,8 +3132,8 @@ cards:
     quantity: 1
     scryfall_uuid: d206f867-c41b-4dad-be1e-c00851f56983
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -3143,8 +3143,8 @@ cards:
     quantity: 1
     scryfall_uuid: 59592a53-c5a5-4e0c-8b91-b2431fa84b07
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3154,8 +3154,8 @@ cards:
     quantity: 1
     scryfall_uuid: 22e22287-21c5-4733-a527-b176fbf3725d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -3165,8 +3165,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4d3fffa5-50ec-4502-9f03-bd9618f1771e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3176,8 +3176,8 @@ cards:
     quantity: 1
     scryfall_uuid: 47961be7-f8c8-4aa0-afa1-51a20a129406
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -3187,8 +3187,8 @@ cards:
     quantity: 1
     scryfall_uuid: 880c9523-717e-4903-a09e-d6c47614383d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3198,8 +3198,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8870ef0b-cb1f-463b-8509-fece4743d3d4
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3209,8 +3209,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1c4a25f0-2929-4404-9ce5-bcd4715f90a5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3220,8 +3220,8 @@ cards:
     quantity: 1
     scryfall_uuid: 7e656b81-43b6-4d92-b68b-fbf8848620c2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3231,8 +3231,8 @@ cards:
     quantity: 1
     scryfall_uuid: 58fb9fd5-359e-4da2-8d91-80ef50a8e390
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -3242,8 +3242,8 @@ cards:
     quantity: 1
     scryfall_uuid: 44afd414-cc69-4888-ba12-7ea87e60b1f7
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3253,8 +3253,8 @@ cards:
     quantity: 1
     scryfall_uuid: 187abedf-c2eb-453b-bea0-a10afa399e03
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -3264,8 +3264,8 @@ cards:
     quantity: 1
     scryfall_uuid: 286db2ad-ee23-4aeb-99f8-6786611264bb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -3275,8 +3275,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1ddcd76b-a7a1-4ae6-bf4a-f929c6574bdc
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3286,8 +3286,8 @@ cards:
     quantity: 1
     scryfall_uuid: 01794178-cf41-454c-ac37-1d8b18e42db2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -3297,8 +3297,8 @@ cards:
     quantity: 1
     scryfall_uuid: bbc69a17-db08-4b4a-bc37-98a12ea108dc
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -3308,8 +3308,8 @@ cards:
     quantity: 1
     scryfall_uuid: b34f0ac1-6894-4761-b62c-b85d927acf09
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3319,8 +3319,8 @@ cards:
     quantity: 1
     scryfall_uuid: 985453e7-997e-4d77-a338-cc0290791ebe
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -3330,8 +3330,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2b6f329e-4ed8-4a19-a0c9-3690b8bb6894
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -3341,8 +3341,8 @@ cards:
     quantity: 1
     scryfall_uuid: 99b7ac6b-b320-44b3-90b9-337a8be5a8e9
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -3352,8 +3352,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1c3fc61c-c26e-47f3-a1eb-f6f10f8469e2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -3363,8 +3363,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6151b583-3aa7-4be8-9d05-d5e53f19c6c9
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3374,8 +3374,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9dda7531-82a1-4f49-8858-601ddbc6e2bc
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3385,8 +3385,8 @@ cards:
     quantity: 1
     scryfall_uuid: 7b5862b3-e62e-4539-ab57-6c8f1138ac5d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3396,8 +3396,8 @@ cards:
     quantity: 1
     scryfall_uuid: b979578b-a82f-4d5e-8871-9e45401038a8
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3407,8 +3407,8 @@ cards:
     quantity: 1
     scryfall_uuid: 460c1bc0-e420-4c38-9460-cd4ee13d5396
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3418,8 +3418,8 @@ cards:
     quantity: 1
     scryfall_uuid: 268403bc-733d-446e-a7c1-abc957c42bc2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3429,8 +3429,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0b08ce85-f030-485f-81d8-bdf47ed04a8e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3440,8 +3440,8 @@ cards:
     quantity: 1
     scryfall_uuid: cf8229a3-a65e-4e9c-beb6-5752de53eb56
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3451,8 +3451,8 @@ cards:
     quantity: 1
     scryfall_uuid: 50bc0f5b-7421-45b9-af85-86dd9821b7d8
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3462,8 +3462,8 @@ cards:
     quantity: 1
     scryfall_uuid: cf1320b1-3eac-4c5a-9f75-6fdff3cc2639
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -3473,8 +3473,8 @@ cards:
     quantity: 1
     scryfall_uuid: 77b05368-1661-42de-9319-bbe987d27327
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryFullArtOval
     back_border: None
     commander: false
@@ -3484,8 +3484,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3e417331-84ec-4513-8022-e93ffc260a38
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3495,8 +3495,8 @@ cards:
     quantity: 1
     scryfall_uuid: e106e4cc-f3fc-41bf-ab1c-4ae7c1a0521c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: PlaneswalkerBorderlessOval
     back_border: None
     commander: false
@@ -3506,8 +3506,8 @@ cards:
     quantity: 1
     scryfall_uuid: b2c398de-b96d-4fa6-89c4-3ce8183dc27e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -3517,8 +3517,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3bd81ae6-e628-447a-a36b-597e63ede295
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -3528,8 +3528,8 @@ cards:
     quantity: 1
     scryfall_uuid: 919cd266-b796-4a1c-937f-76b565c82495
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3539,8 +3539,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2879f780-e17f-4e68-931e-6e45f9df28e1
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryFullArtOval
     back_border: None
     commander: false
@@ -3550,8 +3550,8 @@ cards:
     quantity: 1
     scryfall_uuid: aec6b2b7-625a-451d-bc0b-4456f5bf2719
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendary
     back_border: None
     commander: false
@@ -3561,8 +3561,8 @@ cards:
     quantity: 1
     scryfall_uuid: c84db1e2-855c-4169-a9cc-a54c73c14e0c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3572,8 +3572,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6d09be4f-785a-4faf-b03b-ca462cd375ca
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -3583,8 +3583,8 @@ cards:
     quantity: 1
     scryfall_uuid: 17416926-168b-49b3-9231-acbb8f8a1d13
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3594,8 +3594,8 @@ cards:
     quantity: 1
     scryfall_uuid: acadf575-2076-4f0c-b66e-994898adf375
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3605,8 +3605,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5f28d4a2-6c75-44c2-93ac-e7159c1c623f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3616,8 +3616,8 @@ cards:
     quantity: 1
     scryfall_uuid: faf9070e-14be-4ce5-a19a-6addc79359c1
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3627,8 +3627,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2474c3e8-7b52-477b-ada8-22e221037925
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -3638,8 +3638,8 @@ cards:
     quantity: 1
     scryfall_uuid: d2f5e2c4-7a58-4666-b28f-d8e459547724
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3649,8 +3649,8 @@ cards:
     quantity: 1
     scryfall_uuid: c73ae388-c917-4917-9401-6852a384d274
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -3660,8 +3660,8 @@ cards:
     quantity: 1
     scryfall_uuid: d049f233-7fcb-49cb-897b-a12d57692fe0
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3671,8 +3671,8 @@ cards:
     quantity: 1
     scryfall_uuid: 763083c4-a1ec-4e90-af70-26b203b369ce
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -3682,8 +3682,8 @@ cards:
     quantity: 1
     scryfall_uuid: c9cd7448-6f8b-4ce4-bde5-2c17271dcef7
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3693,8 +3693,8 @@ cards:
     quantity: 1
     scryfall_uuid: 205df311-a72d-40f1-b2ea-9b30274bc9bd
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3704,8 +3704,8 @@ cards:
     quantity: 1
     scryfall_uuid: bd111dc9-b8de-4e92-a63d-75a961b2db3b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -3715,8 +3715,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8b45117b-8369-48fc-8e5d-8986e662d123
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3726,8 +3726,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9a5c8f08-19f2-4511-9f79-dcc4633eba07
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3737,8 +3737,8 @@ cards:
     quantity: 1
     scryfall_uuid: 402060d4-10d6-4cee-aa8b-cd083bf5df43
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -3748,8 +3748,8 @@ cards:
     quantity: 1
     scryfall_uuid: a9119c90-716b-4884-9b1e-471f262c2639
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3759,8 +3759,8 @@ cards:
     quantity: 1
     scryfall_uuid: b1eecfbd-00c6-435c-9d16-70db2d6872a7
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3770,8 +3770,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8fcdbeda-f6cf-49c1-86cf-fa4ca2cbc201
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3781,8 +3781,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2c89beb2-3467-4be0-a066-919f54331942
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryFullArtOval
     back_border: None
     commander: false
@@ -3792,8 +3792,8 @@ cards:
     quantity: 1
     scryfall_uuid: 31b770cc-09e7-4c0b-b2a4-462ab4f7200d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3803,8 +3803,8 @@ cards:
     quantity: 1
     scryfall_uuid: 58f4b8a7-4153-4694-9aae-f61d3124c785
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3814,8 +3814,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8ffb6717-93f5-4774-9cc3-29b883b144b5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -3825,8 +3825,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6cbe5ae7-5c50-476f-9022-cfb61ced107b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryFullArtOval
     back_border: None
     commander: false
@@ -3836,8 +3836,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5a10b543-d5d4-42a8-9ee8-dada59a2ad7e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Planeswalker2015
     back_border: None
     commander: false
@@ -3847,8 +3847,8 @@ cards:
     quantity: 1
     scryfall_uuid: e0644c92-4d67-475e-8c8e-0e2c493682fb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Split5Oval
     back_border: None
     commander: false
@@ -3858,8 +3858,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0049e68d-0caf-474f-9523-dad343f1250a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -3869,8 +3869,8 @@ cards:
     quantity: 1
     scryfall_uuid: a65e485b-03a2-4634-9218-f5bb7c104d41
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3880,8 +3880,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9f44a15c-1bb4-4fb8-88a0-e4d3f2dee1b4
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3891,8 +3891,8 @@ cards:
     quantity: 1
     scryfall_uuid: 719b3e45-efbb-4506-8054-17cefaaa5b8e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -3902,8 +3902,8 @@ cards:
     quantity: 1
     scryfall_uuid: 653e706a-5506-4efd-a86b-2a25bb66a2ae
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -3913,8 +3913,8 @@ cards:
     quantity: 1
     scryfall_uuid: fcddbea7-3025-47b1-a597-2d2b2711fb81
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -3924,8 +3924,8 @@ cards:
     quantity: 1
     scryfall_uuid: debd0dfa-c20d-4886-a80e-26f800cfc17b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -3935,8 +3935,8 @@ cards:
     quantity: 1
     scryfall_uuid: b55743ca-f25f-4e03-bad5-ca0d77b133b8
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -3946,8 +3946,8 @@ cards:
     quantity: 1
     scryfall_uuid: 89775abe-f068-4fb2-a098-1f5929f36215
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -3957,8 +3957,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5dfd08da-6717-49ee-94ba-2562224f5baa
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -3968,8 +3968,8 @@ cards:
     quantity: 1
     scryfall_uuid: 7db7fa4d-5190-4f2b-a8ae-933bdab3bfc5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureBorderlessOval
     back_border: None
     commander: false
@@ -3979,8 +3979,8 @@ cards:
     quantity: 1
     scryfall_uuid: f94e888b-6eeb-4ef3-ab21-5ed2bf0036a3
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -3990,8 +3990,8 @@ cards:
     quantity: 1
     scryfall_uuid: a01d6540-9eaf-4e08-a62d-682551ee78e9
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Split6
     back_border: None
     commander: false
@@ -4001,8 +4001,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3d8dcd5e-d4d0-49ae-a591-78d80322105d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4012,8 +4012,8 @@ cards:
     quantity: 1
     scryfall_uuid: 67629212-a080-4245-8d7d-20d38cc4ad87
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryOval
     back_border: None
     commander: false
@@ -4023,8 +4023,8 @@ cards:
     quantity: 1
     scryfall_uuid: ca9c2522-5606-4bbd-863d-f0ab0a612b4e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4034,8 +4034,8 @@ cards:
     quantity: 1
     scryfall_uuid: c246b845-dfca-47a3-aa56-074d30590320
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4045,8 +4045,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4669327f-268f-43c2-ad57-555a02baa6a1
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2003
     back_border: None
     commander: false
@@ -4056,8 +4056,8 @@ cards:
     quantity: 1
     scryfall_uuid: 01d0d061-e57a-4fe4-9e46-e4f369e564b3
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4067,8 +4067,8 @@ cards:
     quantity: 1
     scryfall_uuid: a47357be-9e4b-4581-94f5-0574754e2977
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -4078,8 +4078,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5272436e-74f0-44c4-a291-ea8ebc3f1525
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4089,8 +4089,8 @@ cards:
     quantity: 1
     scryfall_uuid: c1195ec5-979b-4c4a-9c04-62bb53c2b011
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -4100,8 +4100,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6f4bcadd-7eff-4294-94d5-52482a734d5b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4111,8 +4111,8 @@ cards:
     quantity: 1
     scryfall_uuid: be065962-f2ed-4ab9-be6b-bfc66d63ff4e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2003
     back_border: None
     commander: false
@@ -4122,8 +4122,8 @@ cards:
     quantity: 1
     scryfall_uuid: f254239c-c07a-4c41-98f7-8f4de539c73e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2003
     back_border: None
     commander: false
@@ -4133,8 +4133,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5d58a96f-939c-4b9b-a4c2-fb83d896eefb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: CreatureLegendaryFullArtOval
     back_border: None
     commander: false
@@ -4144,8 +4144,8 @@ cards:
     quantity: 1
     scryfall_uuid: eda7bda4-51cf-4648-8489-352d28d591fb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4155,8 +4155,8 @@ cards:
     quantity: 1
     scryfall_uuid: 520e5505-429b-4da0-b25e-14b8d4e81ce3
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -4166,8 +4166,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1aa4eba9-9e91-4beb-9296-a18baa73a318
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4177,8 +4177,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4736aae2-5136-4f8f-9283-baf6b542a6a8
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -4188,8 +4188,8 @@ cards:
     quantity: 1
     scryfall_uuid: 7f0149d4-0731-474a-a1c3-28c25e486c14
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -4199,8 +4199,8 @@ cards:
     quantity: 1
     scryfall_uuid: 025b0f0f-daf6-4071-82e7-39c015447ce4
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -4210,8 +4210,8 @@ cards:
     quantity: 1
     scryfall_uuid: 7a4e1580-dd26-4f4b-ac98-3e6fa7b879d5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -4221,8 +4221,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5a15c8ef-04ad-4aab-a7f1-c7a90c10eb50
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -4232,8 +4232,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6982a82c-dd32-40d2-8dd2-ec92d0fc6c2d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4243,8 +4243,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2616aa0e-8413-4e63-877c-bffd5263f552
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2003
     back_border: None
     commander: false
@@ -4254,8 +4254,8 @@ cards:
     quantity: 1
     scryfall_uuid: 216a8e4e-ea7b-41c7-a982-b5751025ff25
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4265,8 +4265,8 @@ cards:
     quantity: 1
     scryfall_uuid: ed085430-d12e-43e0-a374-53215fcdf151
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4276,8 +4276,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3f1b0b1f-a152-4bc8-923c-1b3a7f151295
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4287,8 +4287,8 @@ cards:
     quantity: 1
     scryfall_uuid: bdb31a63-a4c9-4432-9029-eb5a50c769b4
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015FullArtOval
     back_border: None
     commander: false
@@ -4298,8 +4298,8 @@ cards:
     quantity: 1
     scryfall_uuid: 30fe653b-956a-4e0e-981b-37e1a6b08c2c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4309,8 +4309,8 @@ cards:
     quantity: 1
     scryfall_uuid: 119a814f-0325-4b69-a0b6-4c623b981f4a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4320,8 +4320,8 @@ cards:
     quantity: 1
     scryfall_uuid: bf1e1b54-2f97-4d33-807a-99ca38f21777
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4331,8 +4331,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8945f5e0-c143-47ca-910e-32ad9ac34487
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4342,8 +4342,8 @@ cards:
     quantity: 1
     scryfall_uuid: e9387e8f-0e72-4212-81c8-e64050700c52
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: None
     commander: false
@@ -4353,8 +4353,8 @@ cards:
     quantity: 1
     scryfall_uuid: 683a5707-cddb-494d-9b41-51b4584ded69
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature2015Oval
     back_border: None
     commander: false
@@ -4364,8 +4364,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4ccd8394-cbc9-4346-9b48-f6be447b3e08
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4375,8 +4375,8 @@ cards:
     quantity: 1
     scryfall_uuid: 995486ce-58bb-4753-a812-0ca73ef1a235
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4386,8 +4386,8 @@ cards:
     quantity: 1
     scryfall_uuid: 11e5a2c6-dcc4-4ad3-a4b5-b9095d77c4f8
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4397,8 +4397,8 @@ cards:
     quantity: 1
     scryfall_uuid: 90bbc0fa-4810-490d-bda7-a8fd4aaa01c4
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4408,8 +4408,8 @@ cards:
     quantity: 1
     scryfall_uuid: 67bf3b19-1037-4157-8f28-11edbb7b4545
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -4419,8 +4419,8 @@ cards:
     quantity: 1
     scryfall_uuid: 63bacc32-d6ba-420c-9b49-299c08e5fb39
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4430,8 +4430,8 @@ cards:
     quantity: 1
     scryfall_uuid: db89ae4d-1cc2-41d8-a4de-a54b958c4429
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4441,8 +4441,8 @@ cards:
     quantity: 1
     scryfall_uuid: b2279cb1-089f-4c41-ae96-41837ed57822
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4452,8 +4452,8 @@ cards:
     quantity: 1
     scryfall_uuid: 480c2b30-c2c2-4b8b-ae0f-9f03732f92a1
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4463,8 +4463,8 @@ cards:
     quantity: 1
     scryfall_uuid: 45bbbf9b-8fee-4c32-a513-02dac6ac8a39
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4474,8 +4474,8 @@ cards:
     quantity: 1
     scryfall_uuid: fadb218d-29e2-42d1-a7a1-1066741d63ad
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4485,8 +4485,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4240625f-19f5-4ada-bda2-093789ddd129
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4496,8 +4496,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2b8285b7-bd88-4a6c-bd2e-9798a1c661f8
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4507,8 +4507,8 @@ cards:
     quantity: 1
     scryfall_uuid: 522b853d-cfd9-466b-a6ff-08b466be2b6f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4518,8 +4518,8 @@ cards:
     quantity: 1
     scryfall_uuid: a1e87bfd-8bfb-41d6-9159-511d42cc9307
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4529,8 +4529,8 @@ cards:
     quantity: 1
     scryfall_uuid: d96a23ed-27a1-44c5-8d8b-654947f9cce4
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4540,8 +4540,8 @@ cards:
     quantity: 1
     scryfall_uuid: c88832e3-218d-4b4b-9a5f-4389cf0a900c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4551,8 +4551,8 @@ cards:
     quantity: 1
     scryfall_uuid: 19cd6bcc-ca47-47cc-9fe4-c29e9c176485
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4562,8 +4562,8 @@ cards:
     quantity: 1
     scryfall_uuid: 618c8ecc-686d-41de-b9b1-1a7ee9cc7c14
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4573,8 +4573,8 @@ cards:
     quantity: 1
     scryfall_uuid: a54e8ce9-edd7-4ae7-9521-6fb6727cf63b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4584,8 +4584,8 @@ cards:
     quantity: 1
     scryfall_uuid: c14cdc38-dd46-495e-93bd-d2694b64d5ad
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4595,8 +4595,8 @@ cards:
     quantity: 1
     scryfall_uuid: edabc8b2-4413-48e4-8d6f-521b19d839a6
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4606,8 +4606,8 @@ cards:
     quantity: 1
     scryfall_uuid: c2e8d492-2c67-410b-b556-c157a14c4cec
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4617,8 +4617,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2d32960e-d182-455f-8e74-eb11b10050da
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4628,8 +4628,8 @@ cards:
     quantity: 1
     scryfall_uuid: 16951cdd-7367-46c7-b915-93d4ed656918
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -4639,8 +4639,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0950bfe7-2600-4e01-8f54-f03a5c023520
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4650,8 +4650,8 @@ cards:
     quantity: 1
     scryfall_uuid: 088c801d-381f-403b-aeb7-fbbfafee99bf
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4661,8 +4661,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5da578b8-19e6-4068-9336-e7cd33c585f1
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4672,8 +4672,8 @@ cards:
     quantity: 1
     scryfall_uuid: 72450f69-9f56-44da-8aed-0edccc6ab142
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4683,8 +4683,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8854e9a7-a799-47d0-8662-95aa527d3210
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4694,8 +4694,8 @@ cards:
     quantity: 1
     scryfall_uuid: 286bea73-8ad8-4423-8a7c-8497420fdb54
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4705,8 +4705,8 @@ cards:
     quantity: 1
     scryfall_uuid: f3b3869b-6da1-4b01-a2e7-2018d478b6e5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4716,8 +4716,8 @@ cards:
     quantity: 1
     scryfall_uuid: 48eda056-e00f-4e28-ad26-9150a4704d21
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4727,8 +4727,8 @@ cards:
     quantity: 1
     scryfall_uuid: 039d62b0-3309-4424-a2ea-5a0d88d4bd72
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4738,8 +4738,8 @@ cards:
     quantity: 1
     scryfall_uuid: bdc054fd-bfeb-4fee-8f8a-81b864ea0be1
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4749,8 +4749,8 @@ cards:
     quantity: 1
     scryfall_uuid: 169356e0-46dc-4096-8e66-36726454f104
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4760,8 +4760,8 @@ cards:
     quantity: 1
     scryfall_uuid: e1375f17-bc25-4a65-98b7-4785bbdbe974
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4771,8 +4771,8 @@ cards:
     quantity: 1
     scryfall_uuid: 93bd7e73-63dc-45b2-aaa8-984be8b900ab
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4782,8 +4782,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0349c577-22f1-4953-9b01-5cf342c8b356
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4793,8 +4793,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1ccdb407-ac8f-4736-89d3-ab0d086096ea
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4804,8 +4804,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2aa24fe0-e275-4307-b26c-2a656068a451
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4815,8 +4815,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1b837b21-9165-4965-a7b5-c59811647951
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4826,8 +4826,8 @@ cards:
     quantity: 1
     scryfall_uuid: d5bd85da-9aba-46ea-9c10-617bec99a2f5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4837,8 +4837,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2680ed41-da35-475a-9d80-ae2f4686feed
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4848,8 +4848,8 @@ cards:
     quantity: 1
     scryfall_uuid: 36a3345d-1190-45f4-8191-897b4dcec376
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4859,8 +4859,8 @@ cards:
     quantity: 1
     scryfall_uuid: 5a0c2773-3205-4ac4-b31c-c54fb06fdd7c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4870,8 +4870,8 @@ cards:
     quantity: 1
     scryfall_uuid: 492814c7-dd17-43de-b2e8-cf9de5475604
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4881,8 +4881,8 @@ cards:
     quantity: 1
     scryfall_uuid: 91ca97db-2c83-4c87-9491-e5878293afe5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4892,8 +4892,8 @@ cards:
     quantity: 1
     scryfall_uuid: f28263e6-ee21-415e-b633-377af6f40d5b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4903,8 +4903,8 @@ cards:
     quantity: 1
     scryfall_uuid: 79da06af-8f75-4094-ba8a-ab082b339f8a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4914,8 +4914,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1d023d44-482e-4f60-b9b1-eede9bfb732f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4925,8 +4925,8 @@ cards:
     quantity: 1
     scryfall_uuid: c3f3852d-e99a-418e-a235-da47ed38aabe
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
@@ -4936,8 +4936,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3c66c54b-b2d1-494d-ae10-a950c184a52f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4947,8 +4947,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8542d37d-99cd-4b64-a524-94d2b2a4d9c3
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4958,8 +4958,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8b85524c-76dd-46cb-b716-2d954f329bbb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -4969,8 +4969,8 @@ cards:
     quantity: 1
     scryfall_uuid: b7f16fdf-a3f5-462d-a64a-789d893b6ef5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -4980,8 +4980,8 @@ cards:
     quantity: 1
     scryfall_uuid: acc4115b-4bbb-4bb7-81c6-466130982a9c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -4991,8 +4991,8 @@ cards:
     quantity: 1
     scryfall_uuid: acc4115b-4bbb-4bb7-81c6-466130982a9c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5002,8 +5002,8 @@ cards:
     quantity: 1
     scryfall_uuid: acc4115b-4bbb-4bb7-81c6-466130982a9c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5013,8 +5013,8 @@ cards:
     quantity: 1
     scryfall_uuid: f321aa38-7aaf-48fd-b516-18e702fbddef
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5024,8 +5024,8 @@ cards:
     quantity: 1
     scryfall_uuid: f321aa38-7aaf-48fd-b516-18e702fbddef
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5035,8 +5035,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8ef5d61d-2648-4cbc-8083-3f3c6b362825
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5046,8 +5046,8 @@ cards:
     quantity: 1
     scryfall_uuid: 8ef5d61d-2648-4cbc-8083-3f3c6b362825
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5057,8 +5057,8 @@ cards:
     quantity: 1
     scryfall_uuid: d052d99b-b1ca-44da-8460-c022d041d665
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5068,8 +5068,8 @@ cards:
     quantity: 1
     scryfall_uuid: d052d99b-b1ca-44da-8460-c022d041d665
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5079,8 +5079,8 @@ cards:
     quantity: 1
     scryfall_uuid: d052d99b-b1ca-44da-8460-c022d041d665
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5090,8 +5090,8 @@ cards:
     quantity: 1
     scryfall_uuid: 962719f7-ff8e-480b-985e-bd53a111793b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5101,8 +5101,8 @@ cards:
     quantity: 1
     scryfall_uuid: 962719f7-ff8e-480b-985e-bd53a111793b
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5112,8 +5112,8 @@ cards:
     quantity: 1
     scryfall_uuid: 67ef01b3-93f7-41e8-834d-9f6768e3b16c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5123,8 +5123,8 @@ cards:
     quantity: 1
     scryfall_uuid: 67ef01b3-93f7-41e8-834d-9f6768e3b16c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5134,8 +5134,8 @@ cards:
     quantity: 1
     scryfall_uuid: 644aba21-1fa7-4483-b9bf-56c5fe4d8975
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5145,8 +5145,8 @@ cards:
     quantity: 1
     scryfall_uuid: 644aba21-1fa7-4483-b9bf-56c5fe4d8975
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5156,8 +5156,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1716b4dd-9045-462b-b053-72de450a8cde
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5167,8 +5167,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1716b4dd-9045-462b-b053-72de450a8cde
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5178,8 +5178,8 @@ cards:
     quantity: 1
     scryfall_uuid: ed7bcbf1-9045-4810-93fa-9918c45856ca
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5189,8 +5189,8 @@ cards:
     quantity: 1
     scryfall_uuid: ed7bcbf1-9045-4810-93fa-9918c45856ca
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5200,8 +5200,8 @@ cards:
     quantity: 1
     scryfall_uuid: ed7bcbf1-9045-4810-93fa-9918c45856ca
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5211,8 +5211,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4acf970d-d2d7-413d-aba7-587ee53d8d5c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5222,8 +5222,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4acf970d-d2d7-413d-aba7-587ee53d8d5c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5233,8 +5233,8 @@ cards:
     quantity: 1
     scryfall_uuid: 453e1bf8-e570-4b9b-8f41-5f4f31ae3b0e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5244,8 +5244,8 @@ cards:
     quantity: 1
     scryfall_uuid: 453e1bf8-e570-4b9b-8f41-5f4f31ae3b0e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5255,8 +5255,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1066a94a-8e4f-4d77-820b-7a77a18116f0
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5266,8 +5266,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1066a94a-8e4f-4d77-820b-7a77a18116f0
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5277,8 +5277,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1066a94a-8e4f-4d77-820b-7a77a18116f0
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5288,8 +5288,8 @@ cards:
     quantity: 1
     scryfall_uuid: 931184cf-0b9a-49d5-8234-a25b90dbaedb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5299,8 +5299,8 @@ cards:
     quantity: 1
     scryfall_uuid: 931184cf-0b9a-49d5-8234-a25b90dbaedb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5310,8 +5310,8 @@ cards:
     quantity: 1
     scryfall_uuid: 34a3039d-46cd-4a51-b726-6eb0b485c9c5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5321,8 +5321,8 @@ cards:
     quantity: 1
     scryfall_uuid: 34a3039d-46cd-4a51-b726-6eb0b485c9c5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5332,8 +5332,8 @@ cards:
     quantity: 1
     scryfall_uuid: 63c59228-c742-4abd-b4d7-9f7880190e95
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5343,8 +5343,8 @@ cards:
     quantity: 1
     scryfall_uuid: 63c59228-c742-4abd-b4d7-9f7880190e95
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5354,8 +5354,8 @@ cards:
     quantity: 1
     scryfall_uuid: 63c59228-c742-4abd-b4d7-9f7880190e95
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5365,8 +5365,8 @@ cards:
     quantity: 1
     scryfall_uuid: e2c39866-98c2-4c60-98e1-eaf8e40b2d29
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5376,8 +5376,8 @@ cards:
     quantity: 1
     scryfall_uuid: e2c39866-98c2-4c60-98e1-eaf8e40b2d29
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5387,8 +5387,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9e1e76a2-ec37-4fd8-8185-f98f675ff0cb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5398,8 +5398,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9e1e76a2-ec37-4fd8-8185-f98f675ff0cb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5409,8 +5409,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9e1e76a2-ec37-4fd8-8185-f98f675ff0cb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5420,8 +5420,8 @@ cards:
     quantity: 1
     scryfall_uuid: d1428846-e0da-4b62-b0e9-25efe846cc33
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5431,8 +5431,8 @@ cards:
     quantity: 1
     scryfall_uuid: d1428846-e0da-4b62-b0e9-25efe846cc33
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5442,8 +5442,8 @@ cards:
     quantity: 1
     scryfall_uuid: 48f0a970-452a-405f-bd4d-ac4d2e89ab40
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5453,8 +5453,8 @@ cards:
     quantity: 1
     scryfall_uuid: 48f0a970-452a-405f-bd4d-ac4d2e89ab40
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5464,8 +5464,8 @@ cards:
     quantity: 1
     scryfall_uuid: 48f0a970-452a-405f-bd4d-ac4d2e89ab40
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5475,8 +5475,8 @@ cards:
     quantity: 1
     scryfall_uuid: d516b248-c0be-4c49-83ab-393354c33563
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5486,8 +5486,8 @@ cards:
     quantity: 1
     scryfall_uuid: d516b248-c0be-4c49-83ab-393354c33563
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5497,8 +5497,8 @@ cards:
     quantity: 1
     scryfall_uuid: 154ce456-38d2-4195-93b7-302e11c006e2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5508,8 +5508,8 @@ cards:
     quantity: 1
     scryfall_uuid: 154ce456-38d2-4195-93b7-302e11c006e2
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5519,8 +5519,8 @@ cards:
     quantity: 1
     scryfall_uuid: c2988d9d-7c56-4daa-8609-ea249c18134f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5530,8 +5530,8 @@ cards:
     quantity: 1
     scryfall_uuid: c2988d9d-7c56-4daa-8609-ea249c18134f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5541,8 +5541,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4fc75949-0bd1-4cd9-9e66-6624dcd41872
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5552,8 +5552,8 @@ cards:
     quantity: 1
     scryfall_uuid: 4fc75949-0bd1-4cd9-9e66-6624dcd41872
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5563,8 +5563,8 @@ cards:
     quantity: 1
     scryfall_uuid: efd97080-c5c7-47db-b605-8bdd06c2dd5a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5574,8 +5574,8 @@ cards:
     quantity: 1
     scryfall_uuid: efd97080-c5c7-47db-b605-8bdd06c2dd5a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5585,8 +5585,8 @@ cards:
     quantity: 1
     scryfall_uuid: efd97080-c5c7-47db-b605-8bdd06c2dd5a
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5596,8 +5596,8 @@ cards:
     quantity: 1
     scryfall_uuid: 245e16ae-4514-42fa-b409-2c3ae084436c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5607,8 +5607,8 @@ cards:
     quantity: 1
     scryfall_uuid: 245e16ae-4514-42fa-b409-2c3ae084436c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5618,8 +5618,8 @@ cards:
     quantity: 1
     scryfall_uuid: 245e16ae-4514-42fa-b409-2c3ae084436c
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5629,8 +5629,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0829af6e-7dd9-4bce-bf14-1c5d509556cb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5640,8 +5640,8 @@ cards:
     quantity: 1
     scryfall_uuid: 0829af6e-7dd9-4bce-bf14-1c5d509556cb
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5651,8 +5651,8 @@ cards:
     quantity: 1
     scryfall_uuid: 52e55b85-92c1-4b83-9a9d-4afb8e938e4f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5662,8 +5662,8 @@ cards:
     quantity: 1
     scryfall_uuid: 52e55b85-92c1-4b83-9a9d-4afb8e938e4f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5673,8 +5673,8 @@ cards:
     quantity: 1
     scryfall_uuid: 19477aca-b8db-4061-9a78-ebb189a9df22
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5684,8 +5684,8 @@ cards:
     quantity: 1
     scryfall_uuid: 19477aca-b8db-4061-9a78-ebb189a9df22
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5695,8 +5695,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6d14bd1a-068e-4338-8014-d5271cb2fe4d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5706,8 +5706,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6d14bd1a-068e-4338-8014-d5271cb2fe4d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5717,8 +5717,8 @@ cards:
     quantity: 1
     scryfall_uuid: 6d14bd1a-068e-4338-8014-d5271cb2fe4d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5728,8 +5728,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2674e6d9-51b9-405c-ab01-75474abcf690
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5739,8 +5739,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2674e6d9-51b9-405c-ab01-75474abcf690
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5750,8 +5750,8 @@ cards:
     quantity: 1
     scryfall_uuid: 229a0d4a-3777-451d-a2fb-f1a2fdf8019f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -5761,8 +5761,8 @@ cards:
     quantity: 1
     scryfall_uuid: eaa23075-d826-4654-9d5e-993c9824593d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -5772,8 +5772,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9412a7ce-ffaa-4224-8434-c326280283a8
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -5783,8 +5783,8 @@ cards:
     quantity: 1
     scryfall_uuid: dea8c9f0-cec9-4ba4-b8df-6e52f2d77dff
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -5794,8 +5794,8 @@ cards:
     quantity: 1
     scryfall_uuid: e4bb5f59-2a63-421b-94a1-4cbef00f0c7e
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -5805,8 +5805,8 @@ cards:
     quantity: 1
     scryfall_uuid: d21ef9e6-e2dd-4e0a-a36c-e07034ac4ba3
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -5816,8 +5816,8 @@ cards:
     quantity: 1
     scryfall_uuid: f5b5b9bb-ee9f-4a52-bd74-fd2759c8e3d3
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -5827,8 +5827,8 @@ cards:
     quantity: 1
     scryfall_uuid: 9bf2b208-79c6-4c4c-bf66-871352ed600f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -5838,8 +5838,8 @@ cards:
     quantity: 1
     scryfall_uuid: c303a627-cce3-4045-81f8-fe7427e0a941
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -5849,8 +5849,8 @@ cards:
     quantity: 1
     scryfall_uuid: f809f970-25a7-4c34-b98f-1cb08012080d
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureBorderlessOval
     back_border: None
     commander: false
@@ -5860,8 +5860,8 @@ cards:
     quantity: 1
     scryfall_uuid: ff37b863-f8c4-4584-8cc2-ac0e096e583f
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature
     back_border: None
     commander: false
@@ -5871,8 +5871,8 @@ cards:
     quantity: 1
     scryfall_uuid: 2488a80b-6882-4b59-8232-f02f800204a9
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureLegendaryFullArtOval
     back_border: None
     commander: false
@@ -5882,8 +5882,8 @@ cards:
     quantity: 1
     scryfall_uuid: 470ca3f4-29aa-4c4c-8ff2-8cdd70c69943
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5893,8 +5893,8 @@ cards:
     quantity: 1
     scryfall_uuid: 3faf2c71-8591-4005-a93f-08441e3bba49
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5904,8 +5904,8 @@ cards:
     quantity: 1
     scryfall_uuid: 82fb5274-c11a-465b-b14f-8f35495482e4
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5915,8 +5915,8 @@ cards:
     quantity: 1
     scryfall_uuid: e9d6c1c3-1745-4da0-9a8c-7a2e4147d039
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5926,8 +5926,8 @@ cards:
     quantity: 1
     scryfall_uuid: c25dc997-219f-44e9-9003-384f75a606a3
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureLegendaryOval
     back_border: None
     commander: false
@@ -5937,8 +5937,8 @@ cards:
     quantity: 1
     scryfall_uuid: 1ac01fff-4de6-4783-9489-4127e25bc641
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5948,8 +5948,8 @@ cards:
     quantity: 1
     scryfall_uuid: e8f7a850-e049-48a0-95ac-afdac6e204e5
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5959,8 +5959,8 @@ cards:
     quantity: 1
     scryfall_uuid: b0247ee3-7799-43c2-9617-35b3edc91f22
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreatureLegendaryOval
     back_border: None
     commander: false
@@ -5970,8 +5970,8 @@ cards:
     quantity: 1
     scryfall_uuid: c2d07eea-b165-4976-9088-d283ab7cfe72
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: LandZendikarExpedition
     back_border: None
     commander: false
@@ -5981,8 +5981,8 @@ cards:
     quantity: 1
     scryfall_uuid: 34c7a81b-476c-4a5e-b26c-75a3f4eb46f3
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: NonCreature2015Oval
     back_border: None
     commander: false
@@ -5992,7 +5992,7 @@ cards:
     quantity: 1
     scryfall_uuid: 4fdfb0ba-d086-4e7c-97e0-70d1e8328ded
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 630c0d1c-9ddb-4e76-a82a-9cdd8a5b487b
@@ -6006,7 +6006,7 @@ cards:
     quantity: 1
     scryfall_uuid: 630c0d1c-9ddb-4e76-a82a-9cdd8a5b487b
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: ae8e32b9-431c-43d9-a0df-d73f4ff4fbc2
@@ -6020,7 +6020,7 @@ cards:
     quantity: 1
     scryfall_uuid: ae8e32b9-431c-43d9-a0df-d73f4ff4fbc2
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 13e4832d-8530-4b85-b738-51d0c18f28ec
@@ -6034,8 +6034,8 @@ cards:
     quantity: 1
     scryfall_uuid: 13e4832d-8530-4b85-b738-51d0c18f28ec
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: Creature
     commander: false
@@ -6045,7 +6045,7 @@ cards:
     quantity: 1
     scryfall_uuid: 4306be80-d7c9-4bcf-a3de-4bf159475546
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 14eb629e-f09f-4deb-b434-7615a3010a4d
@@ -6059,7 +6059,7 @@ cards:
     quantity: 1
     scryfall_uuid: 14eb629e-f09f-4deb-b434-7615a3010a4d
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 85f212cd-4fc6-42fe-b268-22d8e3b2b7eb
@@ -6073,7 +6073,7 @@ cards:
     quantity: 1
     scryfall_uuid: 85f212cd-4fc6-42fe-b268-22d8e3b2b7eb
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 2770f887-7e96-44d1-864a-8c0504a39785
@@ -6087,7 +6087,7 @@ cards:
     quantity: 1
     scryfall_uuid: 2770f887-7e96-44d1-864a-8c0504a39785
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: eef8b4fc-238f-4c1f-ad98-a1769fd44eab
@@ -6101,7 +6101,7 @@ cards:
     quantity: 1
     scryfall_uuid: eef8b4fc-238f-4c1f-ad98-a1769fd44eab
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 4f5a36e3-0529-44d3-94d0-f1bd0399dc38
@@ -6115,7 +6115,7 @@ cards:
     quantity: 1
     scryfall_uuid: 4f5a36e3-0529-44d3-94d0-f1bd0399dc38
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 6adb8607-1066-451d-a719-74ad32358278
@@ -6129,7 +6129,7 @@ cards:
     quantity: 1
     scryfall_uuid: 6adb8607-1066-451d-a719-74ad32358278
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 15f1f43a-cbdb-4d1b-a254-dadcb2469784
@@ -6143,7 +6143,7 @@ cards:
     quantity: 1
     scryfall_uuid: 15f1f43a-cbdb-4d1b-a254-dadcb2469784
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 65dd4252-09d0-4666-8d80-10432265ae4a
@@ -6157,7 +6157,7 @@ cards:
     quantity: 1
     scryfall_uuid: 65dd4252-09d0-4666-8d80-10432265ae4a
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 1e6ce56c-ca2e-48e8-a4d9-671cb4de8a9d
@@ -6171,7 +6171,7 @@ cards:
     quantity: 1
     scryfall_uuid: 1e6ce56c-ca2e-48e8-a4d9-671cb4de8a9d
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: f32ad93f-3fd5-465c-ac6a-6f8fb57c19bd
@@ -6185,7 +6185,7 @@ cards:
     quantity: 1
     scryfall_uuid: f32ad93f-3fd5-465c-ac6a-6f8fb57c19bd
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: b53e0681-603e-4180-bc86-3dadf214e61a
@@ -6199,7 +6199,7 @@ cards:
     quantity: 1
     scryfall_uuid: b53e0681-603e-4180-bc86-3dadf214e61a
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 2300635e-7771-4676-a5a5-29a9d8f49f1a
@@ -6213,7 +6213,7 @@ cards:
     quantity: 1
     scryfall_uuid: 2300635e-7771-4676-a5a5-29a9d8f49f1a
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: a6f374bc-cd29-469f-808a-6a6c004ee8aa
@@ -6227,7 +6227,7 @@ cards:
     quantity: 1
     scryfall_uuid: a6f374bc-cd29-469f-808a-6a6c004ee8aa
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: d1dfd9b9-8214-4e20-b1c9-48c9f7276883
@@ -6241,7 +6241,7 @@ cards:
     quantity: 1
     scryfall_uuid: d1dfd9b9-8214-4e20-b1c9-48c9f7276883
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 67457137-64f2-413d-b62e-658b3f1b1043
@@ -6255,7 +6255,7 @@ cards:
     quantity: 1
     scryfall_uuid: 67457137-64f2-413d-b62e-658b3f1b1043
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: cf9a289f-cd3f-42a0-9296-8c7cc7d01a91
@@ -6269,7 +6269,7 @@ cards:
     quantity: 1
     scryfall_uuid: cf9a289f-cd3f-42a0-9296-8c7cc7d01a91
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: bf36408d-ed85-497f-8e68-d3a922c388a0
@@ -6283,7 +6283,7 @@ cards:
     quantity: 1
     scryfall_uuid: bf36408d-ed85-497f-8e68-d3a922c388a0
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: cfcf6efe-9f94-4a55-9994-701e596691ad
@@ -6297,7 +6297,7 @@ cards:
     quantity: 1
     scryfall_uuid: cfcf6efe-9f94-4a55-9994-701e596691ad
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 60842b1a-6ae7-4b3b-a23f-0d94a3d89884
@@ -6311,7 +6311,7 @@ cards:
     quantity: 1
     scryfall_uuid: 60842b1a-6ae7-4b3b-a23f-0d94a3d89884
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: e69b3894-a78f-446b-9777-3c33731aa2ac
@@ -6325,7 +6325,7 @@ cards:
     quantity: 1
     scryfall_uuid: e69b3894-a78f-446b-9777-3c33731aa2ac
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 008d3b2e-a5e6-4ac2-85a0-82628333b80c
@@ -6339,7 +6339,7 @@ cards:
     quantity: 1
     scryfall_uuid: 008d3b2e-a5e6-4ac2-85a0-82628333b80c
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 6ec42fab-86b8-4479-90f2-a1690318d6d4
@@ -6353,7 +6353,7 @@ cards:
     quantity: 1
     scryfall_uuid: 6ec42fab-86b8-4479-90f2-a1690318d6d4
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 18f0436e-9328-4266-9cf8-80b557a0c17c
@@ -6367,7 +6367,7 @@ cards:
     quantity: 1
     scryfall_uuid: 18f0436e-9328-4266-9cf8-80b557a0c17c
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 62cafc0a-cd02-4265-aa1f-b8a6cb7cc8db
@@ -6381,7 +6381,7 @@ cards:
     quantity: 1
     scryfall_uuid: 62cafc0a-cd02-4265-aa1f-b8a6cb7cc8db
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 118d0655-5719-4512-8bc1-fe759669811b
@@ -6395,7 +6395,7 @@ cards:
     quantity: 1
     scryfall_uuid: 118d0655-5719-4512-8bc1-fe759669811b
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 7ef7f37a-b7f5-45a1-8f2b-7097089ca2e5
@@ -6409,7 +6409,7 @@ cards:
     quantity: 1
     scryfall_uuid: 7ef7f37a-b7f5-45a1-8f2b-7097089ca2e5
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 5f3c4810-7359-42b7-905f-4845f6d1daf6
@@ -6423,7 +6423,7 @@ cards:
     quantity: 1
     scryfall_uuid: 5f3c4810-7359-42b7-905f-4845f6d1daf6
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 83842dfb-e5ea-41dc-91b1-b1dd53e5ecca
@@ -6437,7 +6437,7 @@ cards:
     quantity: 1
     scryfall_uuid: 83842dfb-e5ea-41dc-91b1-b1dd53e5ecca
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: a3a684b7-27e0-4d9e-a064-9e03c6e50c89
@@ -6451,7 +6451,7 @@ cards:
     quantity: 1
     scryfall_uuid: a3a684b7-27e0-4d9e-a064-9e03c6e50c89
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: f68e5337-6e44-4f8f-a102-2f97b433beea
@@ -6465,7 +6465,7 @@ cards:
     quantity: 1
     scryfall_uuid: f68e5337-6e44-4f8f-a102-2f97b433beea
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 7fee6034-f0bb-49b9-ad75-67d3d6be1159
@@ -6479,7 +6479,7 @@ cards:
     quantity: 1
     scryfall_uuid: 7fee6034-f0bb-49b9-ad75-67d3d6be1159
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 096e8ff7-3cb7-4ef9-a480-76d664924cff
@@ -6493,7 +6493,7 @@ cards:
     quantity: 1
     scryfall_uuid: 096e8ff7-3cb7-4ef9-a480-76d664924cff
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 977ddd05-1aae-46fc-95ce-866710d1c5c6
@@ -6507,7 +6507,7 @@ cards:
     quantity: 1
     scryfall_uuid: 977ddd05-1aae-46fc-95ce-866710d1c5c6
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: c84e21cd-079d-493f-ab8d-e62f16ec1581
@@ -6521,7 +6521,7 @@ cards:
     quantity: 1
     scryfall_uuid: c84e21cd-079d-493f-ab8d-e62f16ec1581
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 2888d3ed-0719-4e1d-9de7-3da6fbde0c48
@@ -6535,7 +6535,7 @@ cards:
     quantity: 1
     scryfall_uuid: 2888d3ed-0719-4e1d-9de7-3da6fbde0c48
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 903e30f3-580e-4a14-989b-ae0632363407
@@ -6549,7 +6549,7 @@ cards:
     quantity: 1
     scryfall_uuid: 903e30f3-580e-4a14-989b-ae0632363407
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 0574973b-a0d1-4e17-9ed7-42a98d25bb8d
@@ -6563,7 +6563,7 @@ cards:
     quantity: 1
     scryfall_uuid: 0574973b-a0d1-4e17-9ed7-42a98d25bb8d
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 1a2d027f-8996-4761-a776-47cd428f6779
@@ -6577,7 +6577,7 @@ cards:
     quantity: 1
     scryfall_uuid: 1a2d027f-8996-4761-a776-47cd428f6779
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 234007e2-624f-42d0-af7f-9788f9f35fab
@@ -6591,7 +6591,7 @@ cards:
     quantity: 1
     scryfall_uuid: 234007e2-624f-42d0-af7f-9788f9f35fab
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 462bb611-5a02-441c-ae8a-911b75436864
@@ -6605,7 +6605,7 @@ cards:
     quantity: 1
     scryfall_uuid: 462bb611-5a02-441c-ae8a-911b75436864
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 5cddb130-a354-4373-9dc4-60c7d57eec8b
@@ -6619,7 +6619,7 @@ cards:
     quantity: 1
     scryfall_uuid: 5cddb130-a354-4373-9dc4-60c7d57eec8b
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: d0ddbe3e-4a66-494d-9304-7471232549bf
@@ -6633,7 +6633,7 @@ cards:
     quantity: 1
     scryfall_uuid: d0ddbe3e-4a66-494d-9304-7471232549bf
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 1e76f0e3-9411-401d-ab38-9c3c64769483
@@ -6647,7 +6647,7 @@ cards:
     quantity: 1
     scryfall_uuid: 1e76f0e3-9411-401d-ab38-9c3c64769483
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 58be6a05-8021-4fca-8e9f-0ebb4769c635
@@ -6661,7 +6661,7 @@ cards:
     quantity: 1
     scryfall_uuid: 58be6a05-8021-4fca-8e9f-0ebb4769c635
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: cf64f834-a645-4db4-a34f-9cab725fc1b1
@@ -6675,7 +6675,7 @@ cards:
     quantity: 1
     scryfall_uuid: cf64f834-a645-4db4-a34f-9cab725fc1b1
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 4fdfb0ba-d086-4e7c-97e0-70d1e8328ded
@@ -6689,7 +6689,7 @@ cards:
     quantity: 1
     scryfall_uuid: 4fdfb0ba-d086-4e7c-97e0-70d1e8328ded
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: b53e0681-603e-4180-bc86-3dadf214e61a
@@ -6703,7 +6703,7 @@ cards:
     quantity: 1
     scryfall_uuid: b53e0681-603e-4180-bc86-3dadf214e61a
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: bf36408d-ed85-497f-8e68-d3a922c388a0
@@ -6717,7 +6717,7 @@ cards:
     quantity: 1
     scryfall_uuid: bf36408d-ed85-497f-8e68-d3a922c388a0
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: e69b3894-a78f-446b-9777-3c33731aa2ac
@@ -6731,7 +6731,7 @@ cards:
     quantity: 1
     scryfall_uuid: e69b3894-a78f-446b-9777-3c33731aa2ac
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: a3a684b7-27e0-4d9e-a064-9e03c6e50c89
@@ -6745,7 +6745,7 @@ cards:
     quantity: 1
     scryfall_uuid: a3a684b7-27e0-4d9e-a064-9e03c6e50c89
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 977ddd05-1aae-46fc-95ce-866710d1c5c6
@@ -6759,7 +6759,7 @@ cards:
     quantity: 1
     scryfall_uuid: 977ddd05-1aae-46fc-95ce-866710d1c5c6
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 1a2d027f-8996-4761-a776-47cd428f6779
@@ -6773,7 +6773,7 @@ cards:
     quantity: 1
     scryfall_uuid: 1a2d027f-8996-4761-a776-47cd428f6779
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: e69b3894-a78f-446b-9777-3c33731aa2ac
@@ -6787,7 +6787,7 @@ cards:
     quantity: 1
     scryfall_uuid: e69b3894-a78f-446b-9777-3c33731aa2ac
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 977ddd05-1aae-46fc-95ce-866710d1c5c6
@@ -6801,7 +6801,7 @@ cards:
     quantity: 1
     scryfall_uuid: 977ddd05-1aae-46fc-95ce-866710d1c5c6
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: e69b3894-a78f-446b-9777-3c33731aa2ac
@@ -6815,7 +6815,7 @@ cards:
     quantity: 1
     scryfall_uuid: e69b3894-a78f-446b-9777-3c33731aa2ac
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 4fdfb0ba-d086-4e7c-97e0-70d1e8328ded
@@ -6829,7 +6829,7 @@ cards:
     quantity: 1
     scryfall_uuid: 4fdfb0ba-d086-4e7c-97e0-70d1e8328ded
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 630c0d1c-9ddb-4e76-a82a-9cdd8a5b487b
@@ -6843,7 +6843,7 @@ cards:
     quantity: 1
     scryfall_uuid: 630c0d1c-9ddb-4e76-a82a-9cdd8a5b487b
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: ae8e32b9-431c-43d9-a0df-d73f4ff4fbc2
@@ -6857,7 +6857,7 @@ cards:
     quantity: 1
     scryfall_uuid: ae8e32b9-431c-43d9-a0df-d73f4ff4fbc2
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 13e4832d-8530-4b85-b738-51d0c18f28ec
@@ -6871,8 +6871,8 @@ cards:
     quantity: 1
     scryfall_uuid: 13e4832d-8530-4b85-b738-51d0c18f28ec
     tags: []
-    front: Default
-    back: Default
+    front: default
+    back: default
     front_border: Creature
     back_border: Creature
     commander: false
@@ -6882,7 +6882,7 @@ cards:
     quantity: 1
     scryfall_uuid: 4306be80-d7c9-4bcf-a3de-4bf159475546
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 14eb629e-f09f-4deb-b434-7615a3010a4d
@@ -6896,7 +6896,7 @@ cards:
     quantity: 1
     scryfall_uuid: 14eb629e-f09f-4deb-b434-7615a3010a4d
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 85f212cd-4fc6-42fe-b268-22d8e3b2b7eb
@@ -6910,7 +6910,7 @@ cards:
     quantity: 1
     scryfall_uuid: 85f212cd-4fc6-42fe-b268-22d8e3b2b7eb
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 2770f887-7e96-44d1-864a-8c0504a39785
@@ -6924,7 +6924,7 @@ cards:
     quantity: 1
     scryfall_uuid: 2770f887-7e96-44d1-864a-8c0504a39785
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: eef8b4fc-238f-4c1f-ad98-a1769fd44eab
@@ -6938,7 +6938,7 @@ cards:
     quantity: 1
     scryfall_uuid: eef8b4fc-238f-4c1f-ad98-a1769fd44eab
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 4f5a36e3-0529-44d3-94d0-f1bd0399dc38
@@ -6952,7 +6952,7 @@ cards:
     quantity: 1
     scryfall_uuid: 4f5a36e3-0529-44d3-94d0-f1bd0399dc38
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 6adb8607-1066-451d-a719-74ad32358278
@@ -6966,7 +6966,7 @@ cards:
     quantity: 1
     scryfall_uuid: 6adb8607-1066-451d-a719-74ad32358278
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 15f1f43a-cbdb-4d1b-a254-dadcb2469784
@@ -6980,7 +6980,7 @@ cards:
     quantity: 1
     scryfall_uuid: 15f1f43a-cbdb-4d1b-a254-dadcb2469784
     tags: []
-    front: Default
+    front: default
     back:
       Art:
         scryfall_uuid: 65dd4252-09d0-4666-8d80-10432265ae4a
