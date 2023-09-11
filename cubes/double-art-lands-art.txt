@@ -91,7 +91,7 @@ cards:
     front: default
     back:
       art:
-        scryfall_uuid: 15303b22-ddf0-488d-b07e-a118f35ef00f
+        scryfall_uuid: 105b2118-b22c-4ef5-bac7-836db4b8b9ee
         side: front
     front_border: CLBShowcaseNonCreature
     back_border: LandUSTFullArt

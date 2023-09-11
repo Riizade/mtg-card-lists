@@ -2664,11 +2664,11 @@ cards:
     watermarks: []
   - name: The Great Henge
     quantity: 1
-    scryfall_uuid: d8961142-cb5d-49a1-9032-d9b6e5a24f97
+    scryfall_uuid: ff7e30c8-b3fc-430f-ac63-d376d9e47a8d
     tags: []
     front: default
     back: default
-    front_border: NonCreatureLegendary
+    front_border: NonCreatureLegendaryFullArtOval
     back_border: None
     commander: false
     sideboard: false
@@ -3038,11 +3038,11 @@ cards:
     watermarks: []
   - name: Sprite Dragon
     quantity: 1
-    scryfall_uuid: 94d3b231-d15d-4186-826c-452009cd5c5e
+    scryfall_uuid: 361385d8-d9c7-4de8-a5c8-683e682779f4
     tags: []
     front: default
     back: default
-    front_border: CreatureBorderlessOval
+    front_border: Creature
     back_border: None
     commander: false
     sideboard: false
@@ -3060,7 +3060,7 @@ cards:
     watermarks: []
   - name: Ravenous Squirrel
     quantity: 1
-    scryfall_uuid: 505b77d0-8651-4b40-a2e9-6dd00ac3c575
+    scryfall_uuid: 9f44a15c-1bb4-4fb8-88a0-e4d3f2dee1b4
     tags: []
     front: default
     back: default
@@ -3192,22 +3192,22 @@ cards:
     watermarks: []
   - name: "Gorion, Wise Mentor"
     quantity: 1
-    scryfall_uuid: ef31a975-a4a1-4288-b781-6614eb9acf68
+    scryfall_uuid: 001c648a-db66-47f3-8fee-3658b9e76ac2
     tags: []
     front: default
     back: default
-    front_border: CLBShowcaseCreatureOval
+    front_border: CreatureLegendaryOval
     back_border: None
     commander: false
     sideboard: false
     watermarks: []
   - name: "Alela, Artful Provocateur"
     quantity: 1
-    scryfall_uuid: 3ad257a3-aacc-4981-b6f3-53fdbf56e834
+    scryfall_uuid: abc9e41e-fd03-4b6f-8f44-17ba94fa44f5
     tags: []
     front: default
     back: default
-    front_border: CreatureBorderlessOval
+    front_border: CreatureLegendaryOval
     back_border: None
     commander: false
     sideboard: false
@@ -3269,11 +3269,11 @@ cards:
     watermarks: []
   - name: Stonecoil Serpent
     quantity: 1
-    scryfall_uuid: 44f7b125-46ab-4034-b96a-8cc0e6cc5103
+    scryfall_uuid: a47357be-9e4b-4581-94f5-0574754e2977
     tags: []
     front: default
     back: default
-    front_border: CreatureBorderlessOval
+    front_border: Creature2015FullArtOval
     back_border: None
     commander: false
     sideboard: false
@@ -3764,11 +3764,11 @@ cards:
     watermarks: []
   - name: Castle Ardenvale
     quantity: 1
-    scryfall_uuid: d64a3ece-0da3-4228-af98-d8b06bdbe187
+    scryfall_uuid: 6f1383eb-aa7d-4d3b-bee4-8cffba9ae846
     tags: []
     front: default
     back: default
-    front_border: NonCreatureBorderlessTriangle
+    front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
     sideboard: false
@@ -3852,11 +3852,11 @@ cards:
     watermarks: []
   - name: Fabled Passage
     quantity: 1
-    scryfall_uuid: 5227dec4-5015-462b-94e9-a1dda8b9de49
+    scryfall_uuid: 3eb5cd32-3e9e-407e-a501-a56793017324
     tags: []
     front: default
     back: default
-    front_border: NonCreatureBorderlessOval
+    front_border: NonCreatureFullArtOval
     back_border: None
     commander: false
     sideboard: false
