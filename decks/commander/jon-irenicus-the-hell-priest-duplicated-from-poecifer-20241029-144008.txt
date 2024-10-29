@@ -1,0 +1,84 @@
+1 Abhorrent Overlord
+1 Abyssal Persecutor
+1 Arcane Signet
+1 Asmodeus the Archfiend
+1 Baleful Strix
+1 Black Market Connections
+1 Bloodthirsty Blade
+1 Bojuka Bog
+1 Cabal Coffers
+1 Cabal Stronghold
+1 Cavern of Souls
+1 Choked Estuary
+1 Clever Impersonator
+1 Clone
+1 Command Tower
+1 Commander's Sphere
+1 Crypt of Agadeem
+1 Curse of the Swine
+1 Cyclonic Rift
+1 Dauthi Voidwalker
+1 Demonic Tutor
+1 Desecration Elemental
+1 Despotic Scepter
+1 Dimir Signet
+1 Drinker of Sorrow
+1 Drowned Catacomb
+1 Equilibrium
+1 Evil Eye of Urborg
+1 Feed the Swarm
+1 Fierce Guardianship
+1 Flesh Reaver
+1 Fleshbag Marauder
+1 Gisa, Glorious Resurrector
+1 Gloom Surgeon
+1 Greater Harvester
+1 Heartless Summoning
+1 Hellcarver Demon
+1 Helm of the Host
+1 Homeward Path
+9 Island
+1 Liege of the Pit
+1 Lightning Greaves
+1 Lord of the Pit
+1 Master of the Feast
+1 No Mercy
+1 Notion Thief
+1 Opposition Agent
+1 Path of Ancestry
+1 Perplexing Chimera
+1 Phyrexian Metamorph
+1 Phyrexian Negator
+1 Phyrexian Obliterator
+1 Phyrexian Soulgorger
+1 Plague Reaver
+1 Ponder
+1 Propaganda
+1 Reliquary Tower
+1 Rhystic Study
+1 Rotting Regisaur
+1 Rust Elemental
+1 Serendib Efreet
+1 Shadowborn Demon
+1 Skullclamp
+1 Sol Ring
+1 Steel Golem
+1 Strip Mine
+10 Swamp
+1 Sword of Hearth and Home
+1 Talisman of Dominance
+1 Taniwha
+1 Teferi's Puzzle Box
+1 Tergrid, God of Fright
+1 The Trickster-God's Heist
+1 Tolaria West
+1 Torment of Hailfire
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Watery Grave
+1 Wretched Anurid
+1 Wrong Turn
+1 Xathrid Demon
+1 Yukora, the Prisoner
+
+1 Jon Irenicus, Shattered One

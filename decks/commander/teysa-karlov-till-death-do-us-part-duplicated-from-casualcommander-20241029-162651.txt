@@ -1,0 +1,84 @@
+1 Afterlife Insurance
+1 Agadeem's Awakening
+1 Altar of Dementia
+1 Ashnod's Altar
+1 Bartolomé del Presidio
+1 Black Market
+1 Blight Mound
+1 Blood Artist
+1 Bloodghast
+1 Boss's Chauffeur
+1 Brought Back
+1 Carrion Feeder
+1 Cathar Commando
+1 Caves of Koilos
+1 Command Tower
+1 Crowded Crypt
+1 Cruel Celebrant
+1 Dark Prophecy
+1 Deep Gnome Terramancer
+1 Dictate of Erebos
+1 Elas il-Kor, Sadistic Pilgrim
+1 Elenda, the Dusk Rose
+1 Emeria's Call
+1 Erebos, Bleak-Hearted
+1 Esper Sentinel
+1 Fell the Profane
+1 Funeral Room/Awakening Hall
+1 Godless Shrine
+1 Grave Pact
+1 Greedy Freebooter
+1 Grim Haruspex
+1 High Market
+1 Illicit Masquerade
+1 Into the Pit
+1 Isolated Chapel
+1 Junji, the Midnight Sky
+1 Knight of the White Orchid
+1 Life Insurance
+1 Malakir Rebirth
+1 Market Gnome
+1 Martyr's Cause
+1 Midnight Reaper
+1 Ministrant of Obligation
+1 Morbid Opportunist
+1 Necropotence
+1 Nested Shambler
+1 Nether Traitor
+1 Nykthos, Shrine to Nyx
+1 Ophiomancer
+1 Pawn of Ulamog
+1 Phyrexian Altar
+1 Phyrexian Reclamation
+1 Phyrexian Tower
+1 Pitiless Plunderer
+9 Plains
+1 Plumb the Forbidden
+1 Reassembling Skeleton
+1 Reliquary Monk
+1 Rite of Oblivion
+1 Ruthless Lawbringer
+1 Sanguinary Priest
+1 Scholar of New Horizons
+1 Season of Loss
+1 Shambling Ghast
+1 Shattered Sanctum
+1 Sifter of Skulls
+1 Silent Clearing
+1 Skullclamp
+1 Smothering Abomination
+1 Spymaster's Vault
+10 Swamp
+1 Teysa, Orzhov Scion
+1 The Meathook Massacre
+1 Vault of Champions
+1 Vindictive Lich
+1 Viscera Seer
+1 Volrath's Stronghold
+1 Warren Soultrader
+1 Witch Enchanter
+1 Yawgmoth, Thran Physician
+1 Yosei, the Morning Star
+1 Zulaport Cutthroat
+
+1 Teysa Karlov

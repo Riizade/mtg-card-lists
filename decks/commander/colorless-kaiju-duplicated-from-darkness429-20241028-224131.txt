@@ -1,0 +1,95 @@
+1 Abstruse Archaic
+1 Aetherflux Reservoir
+1 Akroma's Memorial
+1 All Is Dust
+1 Arcane Lighthouse
+1 Arch of Orazca
+1 Artisan of Kozilek
+1 Bane of Bala Ged
+1 Basalt Monolith
+1 Blast Zone
+1 Blightsteel Colossus
+1 Bonders' Enclave
+1 Breaker of Armies
+1 Calamity of the Titans
+1 Cavern of Souls
+1 Chimil, the Inner Sun
+1 Cityscape Leveler
+1 Command Beacon
+1 Commander's Plate
+1 Conduit of Ruin
+1 Darksteel Forge
+1 Darksteel Monolith
+1 Deathrender
+1 Deceiver of Form
+1 Desecrate Reality
+1 Dreamstone Hedron
+1 Eldrazi Conscription
+1 Eldrazi Temple
+1 Emrakul, the Promised End
+1 Endbringer
+1 Eye of Ugin
+1 Flayer of Loyalties
+1 Forge of Heroes
+1 Forsaken Monument
+1 Geier Reach Sanitarium
+1 Gilded Lotus
+1 Guildless Commons
+1 Haven of the Spirit Dragon
+1 Hedron Archive
+1 Helm of the Host
+1 It That Betrays
+1 Kaldra Compleat
+1 Karn, the Great Creator
+1 Kozilek, Butcher of Truth
+1 Kozilek, the Broken Reality
+1 Kozilek, the Great Distortion
+1 Lightning Greaves
+1 Mirage Mirror
+1 Mirrorpool
+1 Mycosynth Lattice
+1 Mystic Forge
+1 Not of This World
+1 Oblivion Sower
+1 Pathrazer of Ulamog
+1 Planar Bridge
+1 Platinum Angel
+1 Platinum Emperion
+1 Portal to Phyrexia
+1 Reality Smasher
+1 Reliquary Tower
+1 Rise of the Eldrazi
+1 Rogue's Passage
+1 Scroll Rack
+1 Sculpting Steel
+1 Sea Gate Wreckage
+1 Shrine of the Forsaken Gods
+1 Skittering Cicada
+1 Skittering Invasion
+1 Sol Ring
+1 Soul of New Phyrexia
+1 Temple of the False God
+1 The Immortal Sun
+1 Thought Vessel
+1 Thran Dynamo
+1 Three Tree City
+1 Tomb of the Spirit Dragon
+1 Tyrite Sanctum
+1 Ugin, the Ineffable
+1 Ugin, the Spirit Dragon
+1 Ulamog, the Ceaseless Hunger
+1 Ulamog, the Infinite Gyre
+1 Ulamog's Crusher
+1 Unwinding Clock
+1 Urza's Incubator
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Vedalken Orrery
+1 Void Winnower
+1 War Room
+7 Wastes
+1 Witch's Clinic
+1 Worn Powerstone
+
+1 Zhulodok, Void Gorger
