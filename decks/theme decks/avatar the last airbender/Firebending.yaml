@@ -1,0 +1,179 @@
+cards:
+- name: Avatar Roku, Firebender
+  quantity: 2
+  scryfall_uuid: 3644d39d-16ea-419b-8602-83853478e623
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Combustion Man
+  quantity: 2
+  scryfall_uuid: 86f7399d-6876-4e85-ba34-ff1f97dc144a
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendary
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Fated Firepower
+  quantity: 4
+  scryfall_uuid: 51352127-1f86-42e9-b4ca-2fd58b14e86b
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Fire Nation Palace
+  quantity: 4
+  scryfall_uuid: 372e7d4e-c011-423b-9e2c-af57fb0d5403
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreatureFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Fire Nation Turret
+  quantity: 2
+  scryfall_uuid: f25cc190-05e2-4aba-b214-46f687c07a10
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreatureBorderlessOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Fire Sages
+  quantity: 4
+  scryfall_uuid: 71a9fa44-306f-417a-a9d9-991aff95025c
+  tags: []
+  front: default
+  back: default
+  front_border: Creature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Firebender Ascension
+  quantity: 4
+  scryfall_uuid: 2929b702-03c6-4cf0-a3f7-61b27f4803be
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Iroh, Dragon of the West
+  quantity: 2
+  scryfall_uuid: a7b81898-e7d6-4a5d-aab7-9d79641d361a
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Lightning Bolt
+  quantity: 3
+  scryfall_uuid: 3c738171-d0dc-4cc2-8af8-1d306143db37
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreatureBorderlessOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Lightning Strike
+  quantity: 3
+  scryfall_uuid: 5787b0e0-9469-4a6d-8b81-c992628e28c0
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Mountain
+  quantity: 20
+  scryfall_uuid: 488ca216-de75-4acc-9c67-fd37070d7e92
+  tags: []
+  front: default
+  back: default
+  front_border: LandFullArtWithManaSymbol
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Searing Blood
+  quantity: 2
+  scryfall_uuid: 6466873b-c1a5-4614-9409-a448221e06f1
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreatureBorderlessOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Sozin's Comet
+  quantity: 2
+  scryfall_uuid: 649e50e5-299b-4191-87a8-36e9378795be
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Zhao, the Moon Slayer
+  quantity: 2
+  scryfall_uuid: 6a438677-5355-4918-897e-fd2d5b693bb1
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Zuko, Avatar Hunter
+  quantity: 2
+  scryfall_uuid: 90b5d4f1-273b-4293-8bc4-fcb29331e9da
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+- name: Zuko, Exiled Prince
+  quantity: 2
+  scryfall_uuid: 6a73b372-9c0e-4a85-89d2-440163330687
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendary
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks: []
+settings:
+  default_back_uri: ./art/backs/black.png
