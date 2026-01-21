@@ -432,7 +432,7 @@ cards:
       x: 48
       y: 991
 - name: United Front
-  quantity: 4
+  quantity: 3
   scryfall_uuid: d347caf8-0c12-401f-9e33-9978cb347f89
   tags: []
   front: default
