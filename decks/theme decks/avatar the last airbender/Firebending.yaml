@@ -9,7 +9,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Toni Infante
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Combustion Man
   quantity: 2
   scryfall_uuid: 86f7399d-6876-4e85-ba34-ff1f97dc144a
@@ -20,7 +36,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Pisukev
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Fated Firepower
   quantity: 4
   scryfall_uuid: 51352127-1f86-42e9-b4ca-2fd58b14e86b
@@ -31,7 +63,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Toshiaki Takayama
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Fire Nation Palace
   quantity: 4
   scryfall_uuid: 372e7d4e-c011-423b-9e2c-af57fb0d5403
@@ -42,7 +90,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Awanqi (Angela Wang)
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Fire Nation Turret
   quantity: 2
   scryfall_uuid: f25cc190-05e2-4aba-b214-46f687c07a10
@@ -53,7 +117,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Fahmi Fauzi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Fire Sages
   quantity: 4
   scryfall_uuid: 71a9fa44-306f-417a-a9d9-991aff95025c
@@ -64,7 +144,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yuu Fujiki
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Firebender Ascension
   quantity: 4
   scryfall_uuid: 2929b702-03c6-4cf0-a3f7-61b27f4803be
@@ -75,7 +171,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tetsuko
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Iroh, Dragon of the West
   quantity: 2
   scryfall_uuid: a7b81898-e7d6-4a5d-aab7-9d79641d361a
@@ -86,7 +198,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Hokyoung Kim
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Lightning Bolt
   quantity: 3
   scryfall_uuid: 3c738171-d0dc-4cc2-8af8-1d306143db37
@@ -97,7 +225,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nathaniel Himawan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Lightning Strike
   quantity: 3
   scryfall_uuid: 5787b0e0-9469-4a6d-8b81-c992628e28c0
@@ -108,7 +252,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jo Cordisco
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Mountain
   quantity: 20
   scryfall_uuid: 488ca216-de75-4acc-9c67-fd37070d7e92
@@ -119,7 +279,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Maojin Lee
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Searing Blood
   quantity: 2
   scryfall_uuid: 6466873b-c1a5-4614-9409-a448221e06f1
@@ -130,7 +306,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Viacom
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Sozin's Comet
   quantity: 2
   scryfall_uuid: 649e50e5-299b-4191-87a8-36e9378795be
@@ -141,7 +333,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Salvatorre Zee Yazzie
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Zhao, the Moon Slayer
   quantity: 2
   scryfall_uuid: 6a438677-5355-4918-897e-fd2d5b693bb1
@@ -152,7 +360,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Toraji
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Zuko, Avatar Hunter
   quantity: 2
   scryfall_uuid: 90b5d4f1-273b-4293-8bc4-fcb29331e9da
@@ -163,7 +387,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rafater
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Zuko, Exiled Prince
   quantity: 2
   scryfall_uuid: 6a73b372-9c0e-4a85-89d2-440163330687
@@ -174,6 +414,22 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - FBN
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nijihayashi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 settings:
   default_back_uri: ./art/backs/black.png
