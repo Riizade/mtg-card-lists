@@ -621,4 +621,4 @@ cards:
       x: 48
       y: 991
 settings:
-  default_back_uri: ./art/backs/black.png
+  default_back_uri: ./art/backs/avatar-symbols-blue.png
