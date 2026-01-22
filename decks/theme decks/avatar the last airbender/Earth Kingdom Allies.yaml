@@ -13,7 +13,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -21,27 +21,11 @@ cards:
   - watermark: !Text
       text: Evan Shipard
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Evan Shipard
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Avatar Enthusiasts
   quantity: 3
   scryfall_uuid: 7292e5f2-d5a1-4e39-8f75-eba471819f04
@@ -56,7 +40,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -64,27 +48,11 @@ cards:
   - watermark: !Text
       text: Leanna Crossan
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Leanna Crossan
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Ba Sing Se
   quantity: 4
   scryfall_uuid: a8fd4587-7c30-4322-8f19-eb395d66c623
@@ -99,7 +67,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -107,27 +75,11 @@ cards:
   - watermark: !Text
       text: Andreas Rocha
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Andreas Rocha
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Descendants' Path
   quantity: 2
   scryfall_uuid: 6edb20a3-31f5-4bf9-a5e3-943d8d5a1def
@@ -142,7 +94,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -150,27 +102,11 @@ cards:
   - watermark: !Text
       text: Pauline Voss
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Pauline Voss
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Earth King's Lieutenant
   quantity: 4
   scryfall_uuid: 6a431eaf-13a0-4052-b887-ca477bb55847
@@ -185,7 +121,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -193,27 +129,11 @@ cards:
   - watermark: !Text
       text: Nathaniel Himawan
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Nathaniel Himawan
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Earth Kingdom General
   quantity: 2
   scryfall_uuid: 8688fce5-74b1-41e1-a59a-05a3878a75cb
@@ -228,7 +148,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -236,27 +156,11 @@ cards:
   - watermark: !Text
       text: Alexandr Leskinen
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Alexandr Leskinen
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Earth Kingdom Jailer
   quantity: 2
   scryfall_uuid: 9207362c-3605-4794-803f-ad1d0175fcca
@@ -271,7 +175,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -279,27 +183,11 @@ cards:
   - watermark: !Text
       text: Danciao
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Danciao
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Earth Kingdom Protectors
   quantity: 4
   scryfall_uuid: d263472e-1d75-4cb9-8f7b-986fa22bc841
@@ -314,7 +202,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -322,27 +210,11 @@ cards:
   - watermark: !Text
       text: Leonardo Borazio
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Leonardo Borazio
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Forest
   quantity: 8
   scryfall_uuid: 05683891-cdd4-4401-b7d5-0ef17e79c699
@@ -357,7 +229,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -365,27 +237,11 @@ cards:
   - watermark: !Text
       text: Luc Courtois
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Luc Courtois
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Haru, Hidden Talent
   quantity: 2
   scryfall_uuid: 9657a0c0-2c26-4331-8e62-f032265a01af
@@ -400,7 +256,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -408,27 +264,11 @@ cards:
   - watermark: !Text
       text: Mitori
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Mitori
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Invasion Tactics
   quantity: 1
   scryfall_uuid: 27c6330d-49f6-4707-b4d4-d1411fa422eb
@@ -443,7 +283,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -451,27 +291,11 @@ cards:
   - watermark: !Text
       text: Eduardo Francisco
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Eduardo Francisco
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Jasmine Dragon Tea Shop
   quantity: 4
   scryfall_uuid: 4487d299-1571-4d44-81bb-9bf54fb33fbc
@@ -486,7 +310,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -494,27 +318,11 @@ cards:
   - watermark: !Text
       text: Leanna Crossan
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Leanna Crossan
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Plains
   quantity: 8
   scryfall_uuid: d812b6f3-83f0-44c9-8583-eb97fd8fade8
@@ -529,7 +337,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -537,27 +345,11 @@ cards:
   - watermark: !Text
       text: Maojin Lee
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Maojin Lee
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Solid Ground
   quantity: 2
   scryfall_uuid: bea7b199-0b4f-4ae3-8432-7511de794b76
@@ -572,7 +364,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -580,27 +372,11 @@ cards:
   - watermark: !Text
       text: Jason Kiantoro
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Jason Kiantoro
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: The Earth King
   quantity: 1
   scryfall_uuid: 3687f487-eec1-4979-8008-5c907adafe9d
@@ -615,7 +391,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -623,27 +399,11 @@ cards:
   - watermark: !Text
       text: Brigitte Roka & Clifton Stommel
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Brigitte Roka & Clifton Stommel
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: The Walls of Ba Sing Se
   quantity: 2
   scryfall_uuid: 086b6003-6d90-426b-809e-ea837d868290
@@ -658,7 +418,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -666,27 +426,11 @@ cards:
   - watermark: !Text
       text: Ben Hill
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Ben Hill
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: United Front
   quantity: 3
   scryfall_uuid: d347caf8-0c12-401f-9e33-9978cb347f89
@@ -701,7 +445,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -709,27 +453,11 @@ cards:
   - watermark: !Text
       text: Mengxuan Li
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Mengxuan Li
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: White Lotus Reinforcements
   quantity: 4
   scryfall_uuid: 4c7e3e2f-d7ac-4d40-ab84-cb7efe06a316
@@ -744,7 +472,7 @@ cards:
   - watermark: !Text
       text: ATLA - EKA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -752,26 +480,10 @@ cards:
   - watermark: !Text
       text: Kotakan
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EKA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Kotakan
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 settings:
   default_back_uri: ./art/backs/avatar-symbols-blue.png
