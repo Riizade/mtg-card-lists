@@ -26,17 +26,49 @@ cards:
     location:
       x: 48
       y: 991
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tomoyo Asatani
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Aang, at the Crossroads
   quantity: 2
   scryfall_uuid: d7f35cd9-71ac-4191-8604-1a653b56c42d
   tags: []
   front: default
   back: default
-  front_border: CreatureBorderlessOval
-  back_border: CreatureBorderless
+  front_border: AvatarShowcaseCreature
+  back_border: AvatarShowcaseCreature
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Brigitte Roka & Clifton Stommel
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -59,11 +91,27 @@ cards:
   tags: []
   front: default
   back: default
-  front_border: CreatureBorderlessOval
-  back_border: CreatureBorderless
+  front_border: AvatarShowcaseCreature
+  back_border: AvatarShowcaseCreature
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Shane Beresford
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -107,6 +155,22 @@ cards:
     location:
       x: 48
       y: 991
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Shiren
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Avatar Aang
   quantity: 2
   scryfall_uuid: fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8
@@ -118,6 +182,22 @@ cards:
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Fahmi Fauzi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -161,6 +241,22 @@ cards:
     location:
       x: 48
       y: 991
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tetsuko
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Avatar Roku, Firebender
   quantity: 1
   scryfall_uuid: 3644d39d-16ea-419b-8602-83853478e623
@@ -172,6 +268,22 @@ cards:
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Toni Infante
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -215,6 +327,22 @@ cards:
     location:
       x: 48
       y: 991
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ainezu
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Badgermole Cub
   quantity: 2
   scryfall_uuid: 340c5799-4964-44dd-8c48-8f3f3aba5211
@@ -226,6 +354,22 @@ cards:
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nathaniel Himawan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -269,6 +413,22 @@ cards:
     location:
       x: 48
       y: 991
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dee Nguyen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Descendants' Path
   quantity: 2
   scryfall_uuid: 6edb20a3-31f5-4bf9-a5e3-943d8d5a1def
@@ -280,6 +440,22 @@ cards:
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Pauline Voss
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -323,6 +499,22 @@ cards:
     location:
       x: 48
       y: 991
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dominik Mayer
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Enter the Avatar State
   quantity: 2
   scryfall_uuid: a8f3d2cb-d073-4df8-8769-49612628a377
@@ -334,6 +526,22 @@ cards:
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Shiren
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -377,6 +585,22 @@ cards:
     location:
       x: 48
       y: 991
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Douzen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Firebender Ascension
   quantity: 1
   scryfall_uuid: 05309d0b-302d-4a9e-b147-1b504ecf365e
@@ -404,17 +628,49 @@ cards:
     location:
       x: 48
       y: 991
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dominik Mayer
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Great Divide Guide
   quantity: 2
   scryfall_uuid: 7a89533f-1236-49bf-9a25-1b7f7789eb2a
   tags: []
   front: default
   back: default
-  front_border: CreatureBorderlessOval
+  front_border: AvatarShowcaseCreature
   back_border: None
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Shane Beresford
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -458,6 +714,22 @@ cards:
     location:
       x: 48
       y: 991
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Eduardo Francisco
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Path to Redemption
   quantity: 4
   scryfall_uuid: dca6553f-4ba0-416b-8c04-f1c455a7cfc2
@@ -469,6 +741,22 @@ cards:
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Hokyoung Kim
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -512,17 +800,49 @@ cards:
     location:
       x: 48
       y: 991
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Viacom
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: The Legend of Kuruk
   quantity: 1
   scryfall_uuid: f487686d-2b8a-440f-b2f3-8a07dd95ad93
   tags: []
   front: default
   back: default
-  front_border: SagaM15
+  front_border: SagaBorderlessOval
   back_border: CreatureBorderless
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Barbara Rosiak
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -545,11 +865,27 @@ cards:
   tags: []
   front: default
   back: default
-  front_border: SagaM15
+  front_border: SagaBorderlessOval
   back_border: CreatureBorderless
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Sija Hong
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -572,11 +908,27 @@ cards:
   tags: []
   front: default
   back: default
-  front_border: SagaM15
+  front_border: SagaBorderlessOval
   back_border: CreatureBorderless
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Barbara Rosiak
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -599,11 +951,27 @@ cards:
   tags: []
   front: default
   back: default
-  front_border: SagaM15
+  front_border: SagaBorderlessOval
   back_border: CreatureBorderless
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Sija Hong
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -647,6 +1015,22 @@ cards:
     location:
       x: 48
       y: 991
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Henry Wong
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Thriving Grove
   quantity: 4
   scryfall_uuid: 4ba5e3b0-98df-40cc-96a3-0a87c3d39b99
@@ -658,6 +1042,22 @@ cards:
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Robin Har
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -701,6 +1101,22 @@ cards:
     location:
       x: 48
       y: 991
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dom Lay
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Thriving Isle
   quantity: 4
   scryfall_uuid: 94f93e5f-dba0-4079-8e6a-dd5d6fe6afa4
@@ -712,6 +1128,22 @@ cards:
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Slawek Fedorczuk
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
@@ -755,6 +1187,22 @@ cards:
     location:
       x: 48
       y: 991
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dom Lay
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
 - name: Waterbender Ascension
   quantity: 1
   scryfall_uuid: e5f2648f-990d-44d7-a7bf-0db99bdc3015
@@ -766,6 +1214,22 @@ cards:
   commander: false
   sideboard: false
   watermarks:
+  - watermark: !Text
+      text: ATLA - LOA
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dominik Mayer
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 18
+    transparency: 0.0
+    location:
+      x: 48
+      y: 991
   - watermark: !Text
       text: ATLA - LOA
       font: ./fonts/Inter-VariableFont.ttf
