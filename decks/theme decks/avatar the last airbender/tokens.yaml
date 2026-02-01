@@ -9,7 +9,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Lius Lasahido
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ally
   quantity: 10
   scryfall_uuid: 3f9ab0ca-fe08-4d90-9c54-3137620647cb
@@ -20,7 +36,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alexandr Leskinen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ally
   quantity: 5
   scryfall_uuid: b52bae4c-3831-442a-a944-b1f3548dbd39
@@ -31,7 +63,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Le Vuong
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ally
   quantity: 5
   scryfall_uuid: cae9c13e-fda2-4591-bd52-888d12194e4d
@@ -42,7 +90,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alexandr Leskinen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Soldier
   quantity: 5
   scryfall_uuid: 2de43b03-9ac5-4292-ab29-2dc6210ef3d9
@@ -53,7 +117,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jo Cordisco
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Soldier
   quantity: 5
   scryfall_uuid: 83313791-7d33-42bf-8ee7-05f17f88940a
@@ -64,7 +144,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Lius Lasahido
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Human Soldier
   quantity: 5
   scryfall_uuid: de29dd78-a059-4aad-8627-9c783f245a91
@@ -75,7 +171,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kimonas Theodossiou
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Experience
   quantity: 3
   scryfall_uuid: 1374bfa2-9714-486d-90aa-7a9b8d8ef3a8
@@ -86,7 +198,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: ''
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Spirit
   quantity: 10
   scryfall_uuid: f59eba51-458a-40e0-b754-999f91d5d839
@@ -97,7 +225,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Valera Lutfullina
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bear
   quantity: 2
   scryfall_uuid: 1dbbdb0f-57a4-4b85-ba5c-1383f0efb3af
@@ -108,7 +252,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Brandon L. Hunt
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Food
   quantity: 5
   scryfall_uuid: db202f04-61e7-4e12-848e-6c1761956a58
@@ -119,7 +279,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andreas Rocha
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Food
   quantity: 5
   scryfall_uuid: 6fb7cf0b-48d1-4a35-be63-a331987400de
@@ -130,7 +306,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Joseph Weston
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Food
   quantity: 5
   scryfall_uuid: d0e54f01-1301-481f-ace0-87966b5135f0
@@ -141,7 +333,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Henry Wong
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Clue
   quantity: 5
   scryfall_uuid: 4c9669e6-e093-4f88-9699-a1a32793bfa9
@@ -152,7 +360,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Valera Lutfullina
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Clue
   quantity: 5
   scryfall_uuid: 98bdb578-e81e-40f9-9c06-b2867158baef
@@ -163,7 +387,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andreas Rocha
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Clue
   quantity: 5
   scryfall_uuid: 8db9a248-d380-48e9-850c-38b2907332c1
@@ -174,7 +414,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andreas Rocha
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Copy
   quantity: 3
   scryfall_uuid: 2b3d7795-3fc3-4b78-bdf4-0a79981f1eee
@@ -185,7 +441,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jo Cordisco
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ballistic Boulder
   quantity: 2
   scryfall_uuid: 0b1b8ff0-0b1e-4a55-a937-fde7ec15c41a
@@ -196,6 +468,22 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: ATLA - Token
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dom Lay
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 settings:
   default_back_uri: ./art/backs/black.png
