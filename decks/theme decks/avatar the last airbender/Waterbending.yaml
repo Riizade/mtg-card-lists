@@ -13,7 +13,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -21,27 +21,11 @@ cards:
   - watermark: !Text
       text: Dom Lay
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Dom Lay
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Bender's Waterskin
   quantity: 4
   scryfall_uuid: 6d4a1712-d19e-4475-9614-a0b1af4da610
@@ -56,7 +40,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -64,27 +48,11 @@ cards:
   - watermark: !Text
       text: Dee Nguyen
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Dee Nguyen
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Benevolent River Spirit
   quantity: 1
   scryfall_uuid: 7ffb79cd-d170-4047-89c8-6e85188f30da
@@ -99,7 +67,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -107,27 +75,11 @@ cards:
   - watermark: !Text
       text: Mizutametori
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Mizutametori
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Deny Entry
   quantity: 3
   scryfall_uuid: 9c6a20a8-7869-4b5d-aa22-acf232cc2d41
@@ -142,7 +94,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -150,27 +102,11 @@ cards:
   - watermark: !Text
       text: Robin Olausson
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Robin Olausson
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Foggy Swamp Spirit Keeper
   quantity: 2
   scryfall_uuid: cd624be9-e960-4485-a8a9-2d5f2dd51777
@@ -185,7 +121,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -193,27 +129,11 @@ cards:
   - watermark: !Text
       text: Airi Yoshihisa
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Airi Yoshihisa
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Foggy Swamp Visions
   quantity: 2
   scryfall_uuid: 3a46deaa-88f7-4eec-aa99-b85073847918
@@ -228,7 +148,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -236,27 +156,11 @@ cards:
   - watermark: !Text
       text: Hori Airi
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Hori Airi
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Geyser Leaper
   quantity: 2
   scryfall_uuid: 4d25428d-e5a5-43c4-8544-43120ed1c4d5
@@ -271,7 +175,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -279,27 +183,11 @@ cards:
   - watermark: !Text
       text: Norikatsu Miyoshi
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Norikatsu Miyoshi
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Gran-Gran
   quantity: 2
   scryfall_uuid: fa434b41-e5f7-4989-865a-95db67b05cb1
@@ -314,7 +202,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -322,27 +210,11 @@ cards:
   - watermark: !Text
       text: Arou
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Arou
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Hama, the Bloodbender
   quantity: 2
   scryfall_uuid: 6fa1197d-7b19-4d86-81e2-5c87de87757b
@@ -357,7 +229,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -365,27 +237,11 @@ cards:
   - watermark: !Text
       text: Le Vuong
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Le Vuong
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Island
   quantity: 4
   scryfall_uuid: d894c61a-4062-442e-8ead-5197c3bffd00
@@ -400,7 +256,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -408,27 +264,11 @@ cards:
   - watermark: !Text
       text: Grady Frederick
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Grady Frederick
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: It'll Quench Ya!
   quantity: 4
   scryfall_uuid: 47c25e41-f43c-4447-81b5-b9631448bd29
@@ -443,7 +283,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -451,27 +291,11 @@ cards:
   - watermark: !Text
       text: Nathaniel Himawan
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Nathaniel Himawan
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Katara, Bending Prodigy
   quantity: 2
   scryfall_uuid: e8372167-383f-4302-a8ea-b6bf495c870c
@@ -486,7 +310,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -494,27 +318,11 @@ cards:
   - watermark: !Text
       text: Mephisto
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Mephisto
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Ruinous Waterbending
   quantity: 2
   scryfall_uuid: 53161747-c82b-41e8-90ea-7791ea262a85
@@ -529,7 +337,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -537,27 +345,11 @@ cards:
   - watermark: !Text
       text: Yuu Fujiki
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Yuu Fujiki
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Secret of Bloodbending
   quantity: 2
   scryfall_uuid: 682fabaf-bfb0-4ee8-b297-f7436c7a68f2
@@ -572,7 +364,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -580,27 +372,11 @@ cards:
   - watermark: !Text
       text: Barbara Rosiak
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Barbara Rosiak
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Serpent's Pass
   quantity: 4
   scryfall_uuid: ad87bff5-9b8c-44e4-a6d3-8cc71be9640a
@@ -615,7 +391,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -623,27 +399,11 @@ cards:
   - watermark: !Text
       text: Matteo Bassini
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Matteo Bassini
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Spirit Water Revival
   quantity: 2
   scryfall_uuid: eadded94-3c18-43a9-bde9-f7ec86a98cce
@@ -658,7 +418,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -666,27 +426,11 @@ cards:
   - watermark: !Text
       text: Enishi
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Enishi
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Swamp
   quantity: 4
   scryfall_uuid: 874f0f27-81a4-4853-aaa0-2c15e07c177e
@@ -701,7 +445,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -709,27 +453,11 @@ cards:
   - watermark: !Text
       text: John Di Giovanni
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: John Di Giovanni
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: The Terror of Serpent's Pass
   quantity: 1
   scryfall_uuid: f7569861-5b68-4265-bb45-3d54992bfe66
@@ -744,7 +472,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -752,27 +480,11 @@ cards:
   - watermark: !Text
       text: Douzen
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Douzen
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Thriving Isle
   quantity: 4
   scryfall_uuid: 94f93e5f-dba0-4079-8e6a-dd5d6fe6afa4
@@ -787,7 +499,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -795,27 +507,11 @@ cards:
   - watermark: !Text
       text: Slawek Fedorczuk
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Slawek Fedorczuk
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Thriving Moor
   quantity: 4
   scryfall_uuid: 528531e8-4574-4dd5-aa4e-d31ce0f4eb5c
@@ -830,7 +526,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -838,27 +534,11 @@ cards:
   - watermark: !Text
       text: Dom Lay
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Dom Lay
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Tui and La, Moon and Ocean
   quantity: 1
   scryfall_uuid: bad24eac-4dd7-4f2a-b2b9-fed9ba523bcf
@@ -873,7 +553,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -881,27 +561,11 @@ cards:
   - watermark: !Text
       text: Douzen
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Douzen
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Waterbender Ascension
   quantity: 2
   scryfall_uuid: 3f57e0f9-e232-489c-b991-d0d23f75d8dd
@@ -916,7 +580,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -924,27 +588,11 @@ cards:
   - watermark: !Text
       text: Takeuchi Moto
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Takeuchi Moto
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Waterbending Lesson
   quantity: 2
   scryfall_uuid: 4f81e3b5-a0a9-4764-8c2d-b499ce1740b4
@@ -959,7 +607,7 @@ cards:
   - watermark: !Text
       text: ATLA - WBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -967,26 +615,10 @@ cards:
   - watermark: !Text
       text: Sylvain Sarrailh
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Sylvain Sarrailh
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 settings:
   default_back_uri: ./art/backs/avatar-symbols-blue.png

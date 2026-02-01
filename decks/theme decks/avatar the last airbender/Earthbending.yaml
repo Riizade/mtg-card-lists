@@ -13,7 +13,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -21,27 +21,11 @@ cards:
   - watermark: !Text
       text: Tetsuko
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Tetsuko
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Ba Sing Se
   quantity: 4
   scryfall_uuid: a8fd4587-7c30-4322-8f19-eb395d66c623
@@ -56,7 +40,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -64,27 +48,11 @@ cards:
   - watermark: !Text
       text: Andreas Rocha
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Andreas Rocha
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Badgermole
   quantity: 2
   scryfall_uuid: aabbd420-b7fc-496f-9168-bad823d51d9e
@@ -99,7 +67,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -107,27 +75,11 @@ cards:
   - watermark: !Text
       text: Matteo Bassini
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Matteo Bassini
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Badgermole Cub
   quantity: 4
   scryfall_uuid: 340c5799-4964-44dd-8c48-8f3f3aba5211
@@ -142,7 +94,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -150,27 +102,11 @@ cards:
   - watermark: !Text
       text: Nathaniel Himawan
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Nathaniel Himawan
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Bitter Work
   quantity: 2
   scryfall_uuid: 3e8de6a9-9859-4ed2-8ece-ef80a7209be9
@@ -185,7 +121,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -193,27 +129,11 @@ cards:
   - watermark: !Text
       text: Bun Toujo
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Bun Toujo
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Bumi, Eclectic Earthbender
   quantity: 2
   scryfall_uuid: f324a384-7380-4f6e-bbba-fac1f2a01b5d
@@ -228,7 +148,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -236,27 +156,11 @@ cards:
   - watermark: !Text
       text: Olena Richards
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Olena Richards
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Bumi, Unleashed
   quantity: 2
   scryfall_uuid: 7143a5ba-c597-4f8b-9f39-15849e298a6f
@@ -271,7 +175,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -279,27 +183,11 @@ cards:
   - watermark: !Text
       text: Brigitte Roka
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Brigitte Roka
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Earth Kingdom General
   quantity: 2
   scryfall_uuid: 8688fce5-74b1-41e1-a59a-05a3878a75cb
@@ -314,7 +202,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -322,27 +210,11 @@ cards:
   - watermark: !Text
       text: Alexandr Leskinen
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Alexandr Leskinen
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Earth Rumble
   quantity: 4
   scryfall_uuid: 62730505-56f1-4043-a8b9-4fb7bc508b47
@@ -357,7 +229,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -365,27 +237,11 @@ cards:
   - watermark: !Text
       text: Olena Richards
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Olena Richards
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Earthbender Ascension
   quantity: 2
   scryfall_uuid: 590a58ab-5e98-4031-8aa6-ce396dc1429f
@@ -400,7 +256,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -408,27 +264,11 @@ cards:
   - watermark: !Text
       text: Logan Feliciano
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Logan Feliciano
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Earthbending Student
   quantity: 2
   scryfall_uuid: 1f068ce9-f4c2-4d40-bfa3-7f21f6d3b0b7
@@ -443,7 +283,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -451,27 +291,11 @@ cards:
   - watermark: !Text
       text: Le Vuong
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Le Vuong
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Forest
   quantity: 9
   scryfall_uuid: 7ca91ba8-c08d-4239-b9f2-d6c960466456
@@ -486,7 +310,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -494,27 +318,11 @@ cards:
   - watermark: !Text
       text: Slawek Fedorczuk
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Slawek Fedorczuk
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Great Divide Guide
   quantity: 2
   scryfall_uuid: 7a89533f-1236-49bf-9a25-1b7f7789eb2a
@@ -529,7 +337,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -537,27 +345,11 @@ cards:
   - watermark: !Text
       text: Shane Beresford
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Shane Beresford
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Mountain
   quantity: 3
   scryfall_uuid: 488ca216-de75-4acc-9c67-fd37070d7e92
@@ -572,7 +364,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -580,27 +372,11 @@ cards:
   - watermark: !Text
       text: Maojin Lee
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Maojin Lee
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Omashu City
   quantity: 4
   scryfall_uuid: c21e413b-96ed-4ded-b567-f1647074ce5f
@@ -615,7 +391,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -623,27 +399,11 @@ cards:
   - watermark: !Text
       text: Andreas Rocha
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Andreas Rocha
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Rumble Arena
   quantity: 4
   scryfall_uuid: 3f5d2c38-663c-4f64-8cfc-c102462e82ef
@@ -658,7 +418,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -666,27 +426,11 @@ cards:
   - watermark: !Text
       text: Le Vuong
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Le Vuong
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Seismic Sense
   quantity: 4
   scryfall_uuid: a7b93c2a-c478-4734-8aca-03f3e9c11b20
@@ -701,7 +445,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -709,27 +453,11 @@ cards:
   - watermark: !Text
       text: Jo Cordisco
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Jo Cordisco
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Seismic Tutelage
   quantity: 2
   scryfall_uuid: 7e6939a5-0890-4c2f-b517-7d16f6490e76
@@ -744,7 +472,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -752,27 +480,11 @@ cards:
   - watermark: !Text
       text: Florent Lebrun
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Florent Lebrun
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: The Boulder, Ready to Rumble
   quantity: 2
   scryfall_uuid: ec27a466-5457-44c6-a842-1de7d3788d66
@@ -787,7 +499,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -795,27 +507,11 @@ cards:
   - watermark: !Text
       text: Thanh Tuấn
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Thanh Tuấn
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Toph, Earthbending Master
   quantity: 2
   scryfall_uuid: 91070e35-2e17-4045-a8ac-0056cb0a2b11
@@ -830,7 +526,7 @@ cards:
   - watermark: !Text
       text: ATLA - EBN
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -838,26 +534,10 @@ cards:
   - watermark: !Text
       text: Phima
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Phima
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 settings:
   default_back_uri: ./art/backs/avatar-symbols-blue.png

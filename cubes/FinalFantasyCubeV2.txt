@@ -1,0 +1,457 @@
+1 Authority of the Consuls
+1 Crystal Fragments
+1 Dispatch
+1 Path to Exile
+1 Restoration Magic
+1 Zack Fair
+1 Adelbert Steiner
+1 Battle Menu
+1 Champions from Beyond
+1 Cid, Freeflier Pilot
+1 Cloud, Midgar Mercenary
+2 Destroy Evil
+1 Dragoon's Lance
+2 Dwarven Castle Guard
+1 Firion, Swordmaster
+1 Helitrooper
+1 Lord Jyscal Guado
+1 Puresteel Paladin
+1 Scholar of New Horizons
+2 Slash of Light
+1 Summoner's Sending
+1 The Imperial City of Archades
+1 Together Forever
+1 Aerith Gainsborough
+1 Ashe, Princess of Dalmasca
+1 Auron's Inspiration
+1 Collective Effort
+1 Elena, Turk Recruit
+1 Gatta and Luzzu
+1 Hero of Light
+1 Memories of Nibelheim
+2 Paladin's Arms
+1 Resourceful Defense
+1 Snow Villiers
+1 Squall Leonhart
+1 Summon: Ixion
+1 Ultimate Magic: Holy
+1 Venat, Heart of Hydaelyn
+2 Aerith Rescue Mission
+1 Auron, Venerated Guardian
+1 Delivery Moogle
+1 Dion, Bahamut's Dominant
+1 Magitek Armor
+1 Minwu, Rebellion Strategist
+1 Rosa, Resolute White Mage
+1 Summon: Primal Garuda
+1 Summon: Yojimbo
+1 The Wind Crystal
+2 White Auracite
+1 Bronze Guardian
+2 Fate of the Sun-Cryst
+1 General Leo Cristophe
+1 Machinist's Arsenal
+1 Moogles' Valor
+1 Summon: Good King Mog XII
+1 Sunscorch Regent
+1 Thancred Waters
+1 Ultima
+1 Beatrix, Loyal General
+1 Sun Titan
+1 The Crystal's Chosen
+1 Summon: Knights of Round
+1 An Offer You Can't Refuse
+1 Blitzball Stadium
+1 Louisoix's Sacrifice
+2 Magic Damper
+1 Sleep Magic
+2 Syncopate
+1 Astrologian's Planisphere
+2 Dreams of Laguna
+1 Hypnotic Sprite
+2 Ice Magic
+1 Il Mheg Pixie
+1 O'aka, Traveling Merchant
+1 Pull from Tomorrow
+2 Sahagin
+1 Ultros, Obnoxious Octopus
+1 Wild Rose Rebellion
+1 Blue Mage's Cane
+1 Chasm Skulker
+2 Combat Tutorial
+1 Gogo, Master of Mimicry
+1 Jill, Shiva's Dominant
+1 Lulu, Stern Guardian
+1 Matoya, Archon Elder
+1 Propaganda
+1 Quistis Trepe
+1 Rikku, Resourceful Guardian
+1 Stay with Me
+2 Stuck in Summoner's Sanctum
+1 Swallowed by Leviathan
+1 Thief's Knife
+1 Vana'diel Adventurers
+1 Alphinaud Leveilleur
+1 Archmage Emeritus
+1 Eject
+1 Ether
+1 Hermes, Overseer of Elpis
+1 Master Xande
+1 Memories Returning
+1 Observed Stasis
+1 Relm's Sketching
+1 Rite of Replication
+2 Rook Turret
+1 Terra Branford
+1 The Lunar Whale
+1 The Water Crystal
+1 To the Crystal Tower
+1 Edea Kramer
+1 Hraesvelgr of the First Brood
+1 Inexorable Tide
+1 Summon: Shiva
+1 Summon: Valefor
+1 The Prima Vista
+1 Edgar, King of Figaro
+1 Sublime Epiphany
+1 Summon: Leviathan
+1 Torrential Gearhulk
+1 Ultimecia, Temporal Threat
+1 Y'shtola Rhul
+1 Into the Story
+1 Travel the Overworld
+1 Valkyrie Aerial Unit
+1 Dig Through Time
+1 Battle at the Big Bridge
+1 Darkness of Eternity
+1 Reanimate
+1 Stitcher's Supplier
+1 Tonberry
+1 Baron Rivalry
+2 Black Mage's Rod
+1 Dark Confidant
+1 Demon Wall
+1 Exsanguinate
+2 Night's Whisper
+1 Reno and Rude
+1 Shantotto's Coercion
+1 Stitch Together
+2 Undercity Dire Rat
+2 Vayne's Treachery
+1 Al Bhed Salvagers
+1 Ardyn Izunia
+1 Bastion of Remembrance
+2 Cornered by Black Mages
+1 Dark Knight's Greatsword
+1 Morbid Opportunist
+1 Murderous Rider
+1 Ninja's Blades
+1 Overkill
+1 Reaper's Scythe
+1 Sephiroth, Fabled SOLDIER
+1 Shadow, Mysterious Assassin
+1 Shambling Cie'th
+1 The Falcon, Airship Restored
+1 The Shadow Lord
+1 Transpose
+1 Circle of Power
+1 Espers to Magicite
+1 Gaius van Baelsar
+1 Interceptor, Shadow's Hound
+1 Jecht, Reluctant Guardian
+1 Lethal Scheme
+1 Phantom Train
+1 Pitiless Plunderer
+2 Sephiroth's Intervention
+1 Siegfried, Famed Swordsman
+2 Snuff Out
+1 The Darkness Crystal
+1 The Emperor, Hell Tyrant
+1 The Final Days
+1 Vincent Valentine
+1 Archfiend of Depravity
+1 Crux of Fate
+1 Deadly Embrace
+1 Fandaniel, Telophoroi Ascian
+1 Golbez, Clad In Darkness
+1 Seymour Flux
+1 Sidequest: Hunt the Mark
+1 Zenos yae Galvus
+1 Kefka's Tower
+1 Summon: Anima
+1 Summon: Primal Odin
+1 Emet-Selch, Ascian
+1 Sepulchral Primordial
+1 Ardyn, the Usurper
+1 Rise of the Dark Realms
+1 Fire Magic
+1 Freya Crescent
+1 Thrum of the Vestige
+2 Thunder Magic
+1 Vandalblast
+1 Zidane Tribal
+1 Choco-Comet
+1 Gau, Feral Youth
+2 Haste Magic
+2 Item Shopkeep
+1 Opera Love Song
+1 Prompto Argentum
+1 Raubahn, Bull of Ala Mhigo
+2 Red Mage's Rapier
+2 Sabotender
+1 Self-Destruct
+1 Summon: Brynhildr
+2 Suplex
+1 A Promise Fulfilled
+1 Avalanche of Sector 7
+1 Chaos Warp
+1 Firion, Wild Rose Warrior
+1 Furious Rise
+2 Laughing Mad
+1 Lightning, Security Sergeant
+1 Professional Face-Breaker
+1 Queen Brahne
+1 Samurai's Katana
+1 Sidequest: Play Blitzball
+1 Strago and Relm
+2 Summon: G.F. Ifrit
+1 Unexpected Request
+1 Vaan, Aspiring Sky Pirate
+1 Vaan, Street Thief
+1 Vincent, Vengeful Atoner
+1 Yuffie, Materia Hunter
+1 Zell Dincht
+1 Anger
+1 Barret Wallace
+2 Big Score
+1 Cait Sith, Fortune Teller
+1 Gogo, Mysterious Mime
+1 Judgment Bolt
+1 Kefka Palazzo
+1 Nibelheim Aflame
+1 Seifer Almasy
+1 Snort
+1 Sorceress's Schemes
+1 Summon: Esper Ramuh
+1 Summon: Esper Valigarmanda
+1 Summon: G.F. Cerberus
+1 The Fire Crystal
+2 Warrior's Sword
+1 Sabin, Master Monk
+1 Clive, Ifrit's Dominant
+1 Combustible Gearhulk
+1 Dragon of Mount Gulg
+1 Gilgamesh, Master-at-Arms
+1 Gilgamesh, Weapon Collector
+1 Hellkite Tyrant
+1 Random Encounter
+1 Summon: Kujata
+1 Triple Triad
+1 Ultimate Magic: Meteor
+1 Umaro, Raging Yeti
+1 Cactuar
+1 Clash of the Eikons
+2 Commune with Beavers
+2 Gran Pulse Ochu
+1 Hardened Scales
+1 Sazh's Chocobo
+1 Search for the Frozen Esper
+1 Tifa's Limit Break
+2 Blitzball Shot
+1 Bugenhagen, Wise Elder
+2 Chocobo Kick
+2 Duskshell Crawler
+1 Esper Origins
+2 Farseek
+1 Galuf's Final Act
+2 Goobbue Gardener
+1 Gyre Sage
+1 Incubation Druid
+2 Nature's Lore
+1 Professor Hojo
+2 Rampant Growth
+1 Ride the Shoopuf
+1 Sidequest: Raise a Chocobo
+1 Sphere Grid
+1 Three Visits
+1 Tifa Lockhart
+1 Torgal, A Fine Hound
+1 Vayne Carudas Solidor
+2 Cultivate
+1 Fight Rigging
+1 Inspiring Call
+1 Maester Seymour
+1 Princess Sarah
+1 Quina, Qu Gourmet
+1 Summon: Fenrir
+1 Summoning Materia
+1 Tireless Tracker
+1 Traveling Chocobo
+1 Tromell, Seymour's Butler
+1 Yuna's Whistle
+1 Forgotten Ancient
+1 Harmonize
+1 Path of Discovery
+1 Rampant Rejuvenator
+1 Reach the Horizon
+1 Sazh Katzroy
+1 Summoner's Grimoire
+1 The Earth Crystal
+1 Yuna's Decision
+1 Bartz and Boko
+1 Chocobo Racetrack
+1 Rydia's Return
+2 Summon: Fat Chocobo
+1 Summon: Magus Sisters
+1 Summon: Titan
+1 Astral Titan
+2 Balamb T-Rexaur
+1 Bane of Progress
+1 Lifestream's Blessing
+1 Jumbo Cactuar
+1 The Cloudsea Djinn
+1 Ancient Adamantoise
+1 Diamond Weapon
+1 Walking Ballista
+1 Colossus Hammer
+2 Explorer's Scope
+2 Lunatic Pandora
+1 Skullclamp
+2 Wayfarer's Bauble
+2 World Map
+1 Conformer Shuriken
+1 Conqueror's Flail
+1 Hero's Blade
+1 Hero's Heirloom
+1 Lightning Greaves
+1 Mask of Memory
+1 Swiftfoot Boots
+1 The Strahl
+1 Wrecking Ball Arm
+1 Armory Automaton
+2 Blitzball
+1 Buster Sword
+1 Champion's Helm
+1 Crystal of Altar Cave
+1 Darksteel Plate
+1 Inspiring Statuary
+1 Luca Stadium
+1 Relic of Legends
+1 The Masamune
+1 The Warring Triad
+1 Lion Heart
+1 Magitek Scythe
+1 Solemn Simulacrum
+1 The Regalia
+1 Genji Glove
+1 Relentless X-ATM092
+1 Ultima Weapon
+1 Summon: Bahamut
+1 Cecil, Dark Knight
+1 Baleful Strix
+1 Garland, Knight of Cornelia
+1 Garnet, Princess of Alexandria
+1 Giott, King of the Dwarves
+1 Golbez, Crystal Collector
+1 Hildibrand Manderville
+1 Judge Magister Gabranth
+1 Krile Baldesion
+1 Rydia, Summoner of Mist
+1 Seymour Guado
+1 Shadowbringers
+1 Shelinda, Yevon Acolyte
+1 Talisman of Conviction
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Talisman of Progress
+1 The Emperor of Palamecia
+1 Tidus, Zanarkand Fayth
+1 Urianger Augurelt
+1 Ardbert, Warrior of Darkness
+1 Behemoth Sledge
+1 Bred for the Hunt
+1 Clive Rosfield
+1 Cloud Strife
+1 Emet-Selch, Unsundered
+1 Exdeath, Void Warlock
+1 Ignis Scientia
+1 Joshua, Phoenix's Dominant
+1 Legions to Ashes
+1 Lightning, Army of One
+1 Lightning, Lone Commando
+1 Lingering Souls
+1 Locke Cole
+1 Locke, Treasure Hunter
+1 Mortify
+1 Red XIII, Proud Warrior
+1 Rufus Shinra
+1 Serah Farron
+1 Setzer, Wandering Gambler
+1 Shantotto, Tactician Magician
+1 Terra, Herald of Hope
+1 Terra, Magical Adept
+1 Tidus, Blitzball Star
+1 Tidus, Yuna's Guardian
+1 Vivi Ornitier
+1 Void Rend
+1 Aerith, Last Ancient
+1 Altered Ego
+1 Barret, Avalanche Leader
+1 Bartz Klauser
+1 Black Waltz No. 3
+1 Celes, Rune Knight
+1 Edgar, Master Machinist
+1 Emet-Selch of the Third Seat
+1 Jenova, Ancient Calamity
+1 Kimahri, Valiant Guardian
+1 Kuja, Genome Sorcerer
+1 Noctis, Prince of Lucis
+1 Squall, SeeD Mercenary
+1 Tifa, Martial Artist
+1 Wakka, Devoted Guardian
+1 Xande, Dark Mage
+1 Yuna, Grand Summoner
+1 Barnabas Tharmr
+1 Cloud of Darkness
+1 Cloud, Ex-SOLDIER
+1 Cloud, Planet's Champion
+1 Kefka, Court Mage
+1 Kuja, Mage Manufacturer
+1 Rinoa Heartilly
+1 Sephiroth, Fallen Hero
+1 Tellah, Great Sage
+1 Ultimecia, Time Sorceress
+1 Yuna, Hope of Spira
+1 Zidane, Tantalus Thief
+1 Gladiolus Amicitia
+1 Orphan, Cocoon fal'Cie
+1 Sephiroth, Planet's Heir
+1 Kefka, Dancing Mad
+1 Sephiroth, the Savior
+1 Sin, Spira's Punishment
+1 Sin, Unending Cataclysm
+1 Absolute Virtue
+2 Adventurer's Inn
+1 Balamb Garden, SeeD Academy
+4 Baron, Airship Kingdom
+1 Bonders' Enclave
+1 Clive's Hideaway
+4 Crossroads Village
+1 Eden, Seat of the Sanctum
+4 Gohn, Town of Ruin
+4 Gongaga, Reactor Town
+4 Guadosalam, Farplane Gateway
+4 Insomnia, Crown City
+1 Ishgard, the Holy See
+1 Lindblum, Industrial Regency
+1 Midgar, City of Mako
+4 Rabanastre, Royal City
+1 Rogue's Passage
+4 Sharlayan, Nation of Scholars
+1 Spire of Industry
+1 Starting Town
+1 The Gold Saucer
+4 Treno, Dark City
+4 Vector, Imperial Capital
+4 Windurst, Federation Center
+1 Zanarkand, Ancient Metropolis

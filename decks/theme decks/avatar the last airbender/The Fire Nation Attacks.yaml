@@ -11,9 +11,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -21,27 +21,11 @@ cards:
   - watermark: !Text
       text: Toraji
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Toraji
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Bastion of Remembrance
   quantity: 2
   scryfall_uuid: 6fe6ccad-e303-48f9-9dfa-0db7c1878031
@@ -54,9 +38,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -64,27 +48,11 @@ cards:
   - watermark: !Text
       text: Yuu Fujiki
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Yuu Fujiki
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Boiling Rock Prison
   quantity: 4
   scryfall_uuid: 1c2e2220-54d1-4180-93a0-964e3b0ba8b8
@@ -97,9 +65,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -107,27 +75,11 @@ cards:
   - watermark: !Text
       text: Matteo Bassini
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Matteo Bassini
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Day of Black Sun
   quantity: 2
   scryfall_uuid: f42f6bd4-dc1d-4b5f-9489-2cb109a68904
@@ -140,9 +92,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -150,27 +102,11 @@ cards:
   - watermark: !Text
       text: Matteo Bassini
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Matteo Bassini
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Deadly Precision
   quantity: 4
   scryfall_uuid: 4661daf6-d960-4278-8946-70948efaf99d
@@ -183,9 +119,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -193,27 +129,11 @@ cards:
   - watermark: !Text
       text: Yuhong Ding
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Yuhong Ding
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Epic Downfall
   quantity: 2
   scryfall_uuid: 3b4a6804-04f5-4467-bb1c-9466a47bc55f
@@ -226,9 +146,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -236,27 +156,11 @@ cards:
   - watermark: !Text
       text: Hristo D. Chukov
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Hristo D. Chukov
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Fire Lord Ozai
   quantity: 2
   scryfall_uuid: 83ab9db4-b2e1-406a-bc0b-26a700fddb81
@@ -269,9 +173,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -279,27 +183,11 @@ cards:
   - watermark: !Text
       text: Ryuichi Sakuma
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Ryuichi Sakuma
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Fire Navy Trebuchet
   quantity: 2
   scryfall_uuid: e58372cc-9a89-47a4-a0db-df5435e26cd3
@@ -312,9 +200,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -322,27 +210,11 @@ cards:
   - watermark: !Text
       text: Mikio Masuda
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Mikio Masuda
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Joo Dee, One of Many
   quantity: 4
   scryfall_uuid: 7ae1439f-a0c4-42c2-a4f3-8851defa981e
@@ -355,9 +227,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -365,27 +237,11 @@ cards:
   - watermark: !Text
       text: Olena Richards
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Olena Richards
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: June, Bounty Hunter
   quantity: 3
   scryfall_uuid: 148bbaab-bc7b-46ab-8e18-ade69d71d847
@@ -398,9 +254,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -408,27 +264,11 @@ cards:
   - watermark: !Text
       text: Shiren
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Shiren
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Mountain
   quantity: 8
   scryfall_uuid: 488ca216-de75-4acc-9c67-fd37070d7e92
@@ -441,9 +281,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -451,27 +291,11 @@ cards:
   - watermark: !Text
       text: Maojin Lee
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Maojin Lee
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Obsessive Pursuit
   quantity: 4
   scryfall_uuid: 2ff0a75c-b679-436f-8150-faaec3ea1df6
@@ -484,9 +308,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -494,27 +318,11 @@ cards:
   - watermark: !Text
       text: Sija Hong
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Sija Hong
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Ozai, the Phoenix King
   quantity: 1
   scryfall_uuid: d11a45f5-9552-46a5-9f75-008b352c8121
@@ -527,9 +335,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -537,27 +345,11 @@ cards:
   - watermark: !Text
       text: Sidharth Chaturvedi
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Sidharth Chaturvedi
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Phoenix Fleet Airship
   quantity: 2
   scryfall_uuid: bf9085bd-0ee0-4d8a-8deb-686a87b28c7a
@@ -570,9 +362,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -580,27 +372,11 @@ cards:
   - watermark: !Text
       text: Ben Hill
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Ben Hill
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Pirate Peddlers
   quantity: 2
   scryfall_uuid: 5c998994-6c3b-4f34-9b31-babba2b17266
@@ -613,9 +389,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -623,27 +399,11 @@ cards:
   - watermark: !Text
       text: Eduardo Francisco
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Eduardo Francisco
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Swamp
   quantity: 8
   scryfall_uuid: 5c818f03-0e20-4ef4-bac7-11b2b7f41b5c
@@ -656,9 +416,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -666,27 +426,11 @@ cards:
   - watermark: !Text
       text: Robin Olausson
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Robin Olausson
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: The Fire Nation Drill
   quantity: 2
   scryfall_uuid: 54d762f6-e131-480f-b294-10f5a63d9c98
@@ -699,9 +443,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -709,27 +453,11 @@ cards:
   - watermark: !Text
       text: Brandon L. Hunt
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Brandon L. Hunt
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: The Rise of Sozin
   quantity: 2
   scryfall_uuid: 75fcadb9-2573-4c10-8e61-ecdf72120c53
@@ -742,9 +470,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -752,27 +480,11 @@ cards:
   - watermark: !Text
       text: Barbara Rosiak
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Barbara Rosiak
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 - name: Thriving Bluff
   quantity: 4
   scryfall_uuid: 6c382c6a-ec47-4b8d-8ad4-cfc935765742
@@ -785,9 +497,9 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - FNA
+      text: ATLA - TFA
       font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
+      font_size: 30
     transparency: 0.0
     location:
       x: 48
@@ -795,26 +507,10 @@ cards:
   - watermark: !Text
       text: Henry Wong
       font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
+      font_size: 24
     transparency: 0.0
     location:
       x: 48
-      y: 991
-  - watermark: !Text
-      text: ATLA - FNA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Henry Wong
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 18
-    transparency: 0.0
-    location:
-      x: 48
-      y: 991
+      y: 1000
 settings:
   default_back_uri: ./art/backs/avatar-symbols-blue.png
