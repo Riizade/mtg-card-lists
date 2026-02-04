@@ -1,7 +1,34 @@
 cards:
-- name: Allies at Last
-  quantity: 4
-  scryfall_uuid: 11a77897-2aba-4a9b-bbe6-1768ca9f12cb
+- name: Burglar Rat
+  quantity: 2
+  scryfall_uuid: de1c8758-ce3d-49cf-8173-c0eb46f5e7bc
+  tags: []
+  front: default
+  back: default
+  front_border: Creature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Bloodbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tyler Walpole
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Control Magic
+  quantity: 3
+  scryfall_uuid: 84992800-9bad-4598-afd4-f1e59d2e0956
   tags: []
   front: default
   back: default
@@ -11,7 +38,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: TLA - Earth Kingdom Allies
+      text: TLA - Bloodbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -19,53 +46,26 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Evan Shipard
+      text: Clint Cearley
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
     location:
       x: 48
       y: 1000
-- name: Descendants' Path
-  quantity: 2
-  scryfall_uuid: 6edb20a3-31f5-4bf9-a5e3-943d8d5a1def
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreature2015Oval
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Pauline Voss
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Earth King's Lieutenant
+- name: Drowned Catacomb
   quantity: 4
-  scryfall_uuid: 6a431eaf-13a0-4052-b887-ca477bb55847
+  scryfall_uuid: 70afd57f-d4cb-4219-a2c7-28ed9b1abe0f
   tags: []
   front: default
   back: default
-  front_border: Creature2015FullArtOval
+  front_border: NonCreatureBorderlessOval
   back_border: None
   commander: false
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: TLA - Earth Kingdom Allies
+      text: TLA - Bloodbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -73,53 +73,26 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Nathaniel Himawan
+      text: Matt Jukes
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
     location:
       x: 48
       y: 1000
-- name: Earth Kingdom Jailer
-  quantity: 2
-  scryfall_uuid: 9207362c-3605-4794-803f-ad1d0175fcca
-  tags: []
-  front: default
-  back: default
-  front_border: Creature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Danciao
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Earth Kingdom Protectors
+- name: Feed the Swarm
   quantity: 4
-  scryfall_uuid: d263472e-1d75-4cb9-8f7b-986fa22bc841
+  scryfall_uuid: 2246c098-1071-4cc3-a60a-802406e2827b
   tags: []
   front: default
   back: default
-  front_border: Creature
+  front_border: NonCreature
   back_border: None
   commander: false
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: TLA - Earth Kingdom Allies
+      text: TLA - Bloodbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -127,43 +100,16 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Leonardo Borazio
+      text: Kotakan
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
     location:
       x: 48
       y: 1000
-- name: Forest
-  quantity: 8
-  scryfall_uuid: 05683891-cdd4-4401-b7d5-0ef17e79c699
-  tags: []
-  front: default
-  back: default
-  front_border: LandFullArtWithManaSymbol
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Luc Courtois
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Haru, Hidden Talent
+- name: Hama, the Bloodbender
   quantity: 2
-  scryfall_uuid: 9657a0c0-2c26-4331-8e62-f032265a01af
+  scryfall_uuid: 6fa1197d-7b19-4d86-81e2-5c87de87757b
   tags: []
   front: default
   back: default
@@ -173,7 +119,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: TLA - Earth Kingdom Allies
+      text: TLA - Bloodbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -181,70 +127,16 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Mitori
+      text: Le Vuong
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
     location:
       x: 48
       y: 1000
-- name: Invasion Tactics
-  quantity: 1
-  scryfall_uuid: 27c6330d-49f6-4707-b4d4-d1411fa422eb
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Eduardo Francisco
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Jasmine Dragon Tea Shop
+- name: Island
   quantity: 4
-  scryfall_uuid: 4487d299-1571-4d44-81bb-9bf54fb33fbc
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreatureFullArtOval
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Leanna Crossan
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Plains
-  quantity: 8
-  scryfall_uuid: d812b6f3-83f0-44c9-8583-eb97fd8fade8
+  scryfall_uuid: d894c61a-4062-442e-8ead-5197c3bffd00
   tags: []
   front: default
   back: default
@@ -254,7 +146,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: TLA - Earth Kingdom Allies
+      text: TLA - Bloodbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -262,124 +154,43 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Maojin Lee
+      text: Grady Frederick
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
     location:
       x: 48
       y: 1000
-- name: Solid Ground
-  quantity: 2
-  scryfall_uuid: bea7b199-0b4f-4ae3-8432-7511de794b76
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Jason Kiantoro
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: The Earth King
-  quantity: 1
-  scryfall_uuid: 3687f487-eec1-4979-8008-5c907adafe9d
-  tags: []
-  front: default
-  back: default
-  front_border: AvatarShowcaseCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Brigitte Roka & Clifton Stommel
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: The Walls of Ba Sing Se
-  quantity: 1
-  scryfall_uuid: 24a14ac5-0b7e-4441-9963-782a7cda3f4a
-  tags: []
-  front: default
-  back: default
-  front_border: CreatureLegendaryOval
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Arthur Yuan
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: United Front
-  quantity: 3
-  scryfall_uuid: d347caf8-0c12-401f-9e33-9978cb347f89
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreature2015Oval
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Mengxuan Li
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: White Lotus Reinforcements
+- name: Piper of the Swarm
   quantity: 4
-  scryfall_uuid: 4c7e3e2f-d7ac-4d40-ab84-cb7efe06a316
+  scryfall_uuid: ee235810-078e-4208-91e2-b559c277eb86
+  tags: []
+  front: default
+  back: default
+  front_border: Creature2015FullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Bloodbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Irina Nordsol
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Ruthless Waterbender
+  quantity: 4
+  scryfall_uuid: 864f3e70-d56b-4419-8e1c-80a672f28a72
   tags: []
   front: default
   back: default
@@ -389,7 +200,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: TLA - Earth Kingdom Allies
+      text: TLA - Bloodbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -397,7 +208,169 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Kotakan
+      text: Tubaki Halsame
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Secret of Bloodbending
+  quantity: 2
+  scryfall_uuid: 682fabaf-bfb0-4ee8-b297-f7436c7a68f2
+  tags: []
+  front: default
+  back: default
+  front_border: AvatarShowcaseNonCreature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Bloodbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Barbara Rosiak
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Swamp
+  quantity: 8
+  scryfall_uuid: 874f0f27-81a4-4853-aaa0-2c15e07c177e
+  tags: []
+  front: default
+  back: default
+  front_border: LandFullArtWithManaSymbol
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Bloodbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: John Di Giovanni
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Typhoid Rats
+  quantity: 4
+  scryfall_uuid: d13cb90b-50c3-46ef-83f8-812dfb7ff881
+  tags: []
+  front: default
+  back: default
+  front_border: Creature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Bloodbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dave Kendall
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Waterbender Ascension
+  quantity: 2
+  scryfall_uuid: 3f57e0f9-e232-489c-b991-d0d23f75d8dd
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Bloodbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Takeuchi Moto
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Watery Grasp
+  quantity: 3
+  scryfall_uuid: 26bcff57-428e-4f30-a153-a778fbfc437d
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Bloodbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rose Benjamin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Watery Grave
+  quantity: 4
+  scryfall_uuid: 8dcc3080-966d-497e-82c9-a7311630abd2
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreatureBorderlessOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Bloodbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Svetlin Velinov
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0

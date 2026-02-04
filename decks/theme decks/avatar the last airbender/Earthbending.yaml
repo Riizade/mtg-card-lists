@@ -11,7 +11,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -38,7 +38,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -65,7 +65,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -81,7 +81,7 @@ cards:
       x: 48
       y: 1000
 - name: Badgermole Cub
-  quantity: 4
+  quantity: 3
   scryfall_uuid: 340c5799-4964-44dd-8c48-8f3f3aba5211
   tags: []
   front: default
@@ -92,7 +92,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -119,7 +119,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -146,7 +146,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -173,7 +173,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -182,33 +182,6 @@ cards:
       y: 968
   - watermark: !Text
       text: Brigitte Roka
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Earth Kingdom General
-  quantity: 2
-  scryfall_uuid: 8688fce5-74b1-41e1-a59a-05a3878a75cb
-  tags: []
-  front: default
-  back: default
-  front_border: Creature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Alexandr Leskinen
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -227,7 +200,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -254,7 +227,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -281,7 +254,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -297,8 +270,8 @@ cards:
       x: 48
       y: 1000
 - name: Forest
-  quantity: 9
-  scryfall_uuid: 7ca91ba8-c08d-4239-b9f2-d6c960466456
+  quantity: 7
+  scryfall_uuid: 05683891-cdd4-4401-b7d5-0ef17e79c699
   tags: []
   front: default
   back: default
@@ -308,7 +281,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -316,34 +289,7 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Slawek Fedorczuk
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Great Divide Guide
-  quantity: 2
-  scryfall_uuid: 7a89533f-1236-49bf-9a25-1b7f7789eb2a
-  tags: []
-  front: default
-  back: default
-  front_border: AvatarShowcaseCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - EBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Shane Beresford
+      text: Luc Courtois
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -351,7 +297,7 @@ cards:
       x: 48
       y: 1000
 - name: Mountain
-  quantity: 3
+  quantity: 1
   scryfall_uuid: 488ca216-de75-4acc-9c67-fd37070d7e92
   tags: []
   front: default
@@ -362,7 +308,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -389,7 +335,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -416,7 +362,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -432,7 +378,7 @@ cards:
       x: 48
       y: 1000
 - name: Seismic Sense
-  quantity: 4
+  quantity: 3
   scryfall_uuid: a7b93c2a-c478-4734-8aca-03f3e9c11b20
   tags: []
   front: default
@@ -443,7 +389,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -470,7 +416,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -497,7 +443,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -524,7 +470,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - EBN
+      text: TLA - Earthbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -540,4 +486,4 @@ cards:
       x: 48
       y: 1000
 settings:
-  default_back_uri: ./art/backs/avatar-symbols-blue.png
+  default_back_uri: ./art/backs/black.png

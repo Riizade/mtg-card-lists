@@ -11,7 +11,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -38,7 +38,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -54,7 +54,7 @@ cards:
       x: 48
       y: 1000
 - name: Aang, Swift Savior
-  quantity: 2
+  quantity: 1
   scryfall_uuid: 077a1ad2-6317-4271-b86c-cc999776251d
   tags: []
   front: default
@@ -65,7 +65,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -92,7 +92,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -119,7 +119,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -146,7 +146,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -173,7 +173,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -182,6 +182,33 @@ cards:
       y: 968
   - watermark: !Text
       text: Toni Infante
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Avatar Sanctuary
+  quantity: 2
+  scryfall_uuid: b3b0b7a0-e6dc-49a6-a3e7-5aeb228f2c83
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreatureBorderlessOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - The Legend of the Avatar
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Grady Frederick
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -200,7 +227,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -209,60 +236,6 @@ cards:
       y: 968
   - watermark: !Text
       text: Ainezu
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Badgermole Cub
-  quantity: 2
-  scryfall_uuid: 340c5799-4964-44dd-8c48-8f3f3aba5211
-  tags: []
-  front: default
-  back: default
-  front_border: Creature2015Oval
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - LOA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Nathaniel Himawan
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Bender's Waterskin
-  quantity: 1
-  scryfall_uuid: 6d4a1712-d19e-4475-9614-a0b1af4da610
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - LOA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Dee Nguyen
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -281,7 +254,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -308,7 +281,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -317,33 +290,6 @@ cards:
       y: 968
   - watermark: !Text
       text: Dominik Mayer
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Enter the Avatar State
-  quantity: 2
-  scryfall_uuid: a8f3d2cb-d073-4df8-8769-49612628a377
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - LOA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Shiren
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -362,7 +308,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -389,7 +335,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -398,33 +344,6 @@ cards:
       y: 968
   - watermark: !Text
       text: Dominik Mayer
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Great Divide Guide
-  quantity: 2
-  scryfall_uuid: 7a89533f-1236-49bf-9a25-1b7f7789eb2a
-  tags: []
-  front: default
-  back: default
-  front_border: AvatarShowcaseCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - LOA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Shane Beresford
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -443,7 +362,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -460,7 +379,7 @@ cards:
       y: 1000
 - name: Path to Redemption
   quantity: 4
-  scryfall_uuid: dca6553f-4ba0-416b-8c04-f1c455a7cfc2
+  scryfall_uuid: f936d64a-0db4-49c1-8a57-6d99e012a555
   tags: []
   front: default
   back: default
@@ -470,7 +389,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -479,33 +398,6 @@ cards:
       y: 968
   - watermark: !Text
       text: Hokyoung Kim
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Tarnished Citadel
-  quantity: 4
-  scryfall_uuid: dd632fa3-3a44-43ca-8810-d4e31c3a3774
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreatureBorderlessOval
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - LOA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Viacom
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -524,7 +416,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -551,7 +443,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -578,7 +470,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -605,7 +497,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -632,7 +524,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -659,7 +551,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -686,7 +578,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -713,7 +605,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -740,7 +632,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -767,7 +659,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - LOA
+      text: TLA - The Legend of the Avatar
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -783,4 +675,4 @@ cards:
       x: 48
       y: 1000
 settings:
-  default_back_uri: ./art/backs/avatar-symbols-blue.png
+  default_back_uri: ./art/backs/black.png

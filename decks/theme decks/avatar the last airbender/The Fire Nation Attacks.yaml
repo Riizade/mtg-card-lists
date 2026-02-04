@@ -1,31 +1,4 @@
 cards:
-- name: Azula, On the Hunt
-  quantity: 2
-  scryfall_uuid: 1335a145-248a-4f1e-8760-9a5d531e14e3
-  tags: []
-  front: default
-  back: default
-  front_border: CreatureLegendary
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - TFA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Toraji
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
 - name: Bastion of Remembrance
   quantity: 2
   scryfall_uuid: 6fe6ccad-e303-48f9-9dfa-0db7c1878031
@@ -38,7 +11,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -65,7 +38,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -92,7 +65,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -119,7 +92,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -146,7 +119,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -173,7 +146,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -200,7 +173,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -227,7 +200,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -242,35 +215,8 @@ cards:
     location:
       x: 48
       y: 1000
-- name: June, Bounty Hunter
-  quantity: 3
-  scryfall_uuid: 148bbaab-bc7b-46ab-8e18-ade69d71d847
-  tags: []
-  front: default
-  back: default
-  front_border: CreatureLegendary
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - TFA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Shiren
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
 - name: Mountain
-  quantity: 8
+  quantity: 4
   scryfall_uuid: 488ca216-de75-4acc-9c67-fd37070d7e92
   tags: []
   front: default
@@ -281,7 +227,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -308,7 +254,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -325,17 +271,17 @@ cards:
       y: 1000
 - name: Ozai, the Phoenix King
   quantity: 1
-  scryfall_uuid: d11a45f5-9552-46a5-9f75-008b352c8121
+  scryfall_uuid: a98b1550-4609-4a2f-9371-4afe1cdc613e
   tags: []
   front: default
   back: default
-  front_border: CreatureBorderlessOval
+  front_border: CreatureLegendaryOval
   back_border: None
   commander: false
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -343,7 +289,7 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Sidharth Chaturvedi
+      text: Kekai Kotaki
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -352,17 +298,17 @@ cards:
       y: 1000
 - name: Phoenix Fleet Airship
   quantity: 2
-  scryfall_uuid: bf9085bd-0ee0-4d8a-8deb-686a87b28c7a
+  scryfall_uuid: b51d3259-c41c-4f64-9666-0a9e676c812f
   tags: []
   front: default
   back: default
-  front_border: CreatureBorderlessOval
+  front_border: Creature2015Oval
   back_border: None
   commander: false
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -370,7 +316,7 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Ben Hill
+      text: Thanh Tuấn
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -389,7 +335,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -405,7 +351,7 @@ cards:
       x: 48
       y: 1000
 - name: Swamp
-  quantity: 8
+  quantity: 12
   scryfall_uuid: 5c818f03-0e20-4ef4-bac7-11b2b7f41b5c
   tags: []
   front: default
@@ -416,7 +362,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -432,7 +378,7 @@ cards:
       x: 48
       y: 1000
 - name: The Fire Nation Drill
-  quantity: 2
+  quantity: 1
   scryfall_uuid: 54d762f6-e131-480f-b294-10f5a63d9c98
   tags: []
   front: default
@@ -443,7 +389,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -464,13 +410,13 @@ cards:
   tags: []
   front: default
   back: default
-  front_border: SagaM15
+  front_border: SagaBorderlessOval
   back_border: CreatureBorderless
   commander: false
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - TFA
+      text: TLA - The Fire Nation Attacks
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -485,32 +431,5 @@ cards:
     location:
       x: 48
       y: 1000
-- name: Thriving Bluff
-  quantity: 4
-  scryfall_uuid: 6c382c6a-ec47-4b8d-8ad4-cfc935765742
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - TFA
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Henry Wong
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
 settings:
-  default_back_uri: ./art/backs/avatar-symbols-blue.png
+  default_back_uri: ./art/backs/black.png

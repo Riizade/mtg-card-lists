@@ -11,7 +11,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -26,62 +26,8 @@ cards:
     location:
       x: 48
       y: 1000
-- name: Bender's Waterskin
-  quantity: 4
-  scryfall_uuid: 6d4a1712-d19e-4475-9614-a0b1af4da610
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Dee Nguyen
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Benevolent River Spirit
-  quantity: 1
-  scryfall_uuid: 7ffb79cd-d170-4047-89c8-6e85188f30da
-  tags: []
-  front: default
-  back: default
-  front_border: Creature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Mizutametori
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
 - name: Deny Entry
-  quantity: 3
+  quantity: 2
   scryfall_uuid: 9c6a20a8-7869-4b5d-aa22-acf232cc2d41
   tags: []
   front: default
@@ -92,7 +38,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -108,7 +54,7 @@ cards:
       x: 48
       y: 1000
 - name: Foggy Swamp Spirit Keeper
-  quantity: 2
+  quantity: 4
   scryfall_uuid: cd624be9-e960-4485-a8a9-2d5f2dd51777
   tags: []
   front: default
@@ -119,7 +65,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -134,36 +80,9 @@ cards:
     location:
       x: 48
       y: 1000
-- name: Foggy Swamp Visions
+- name: Giant Koi
   quantity: 2
-  scryfall_uuid: 3a46deaa-88f7-4eec-aa99-b85073847918
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreature2015Oval
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Hori Airi
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Geyser Leaper
-  quantity: 2
-  scryfall_uuid: 4d25428d-e5a5-43c4-8544-43120ed1c4d5
+  scryfall_uuid: 3938ec1f-979c-48e5-bb13-bebace006a8f
   tags: []
   front: default
   back: default
@@ -173,7 +92,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -181,7 +100,7 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Norikatsu Miyoshi
+      text: Nathaniel Himawan
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -200,7 +119,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -215,35 +134,8 @@ cards:
     location:
       x: 48
       y: 1000
-- name: Hama, the Bloodbender
-  quantity: 2
-  scryfall_uuid: 6fa1197d-7b19-4d86-81e2-5c87de87757b
-  tags: []
-  front: default
-  back: default
-  front_border: CreatureLegendary
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Le Vuong
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
 - name: Island
-  quantity: 4
+  quantity: 10
   scryfall_uuid: d894c61a-4062-442e-8ead-5197c3bffd00
   tags: []
   front: default
@@ -254,7 +146,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -281,7 +173,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -308,7 +200,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -323,19 +215,19 @@ cards:
     location:
       x: 48
       y: 1000
-- name: Ruinous Waterbending
-  quantity: 2
-  scryfall_uuid: 53161747-c82b-41e8-90ea-7791ea262a85
+- name: Knowledge Seeker
+  quantity: 4
+  scryfall_uuid: 8554e862-f78a-42f5-b876-076aac6c9504
   tags: []
   front: default
   back: default
-  front_border: NonCreature
+  front_border: Creature
   back_border: None
   commander: false
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -343,34 +235,7 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Yuu Fujiki
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Secret of Bloodbending
-  quantity: 2
-  scryfall_uuid: 682fabaf-bfb0-4ee8-b297-f7436c7a68f2
-  tags: []
-  front: default
-  back: default
-  front_border: AvatarShowcaseNonCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Barbara Rosiak
+      text: Shiren
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -389,7 +254,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -404,35 +269,8 @@ cards:
     location:
       x: 48
       y: 1000
-- name: Spirit Water Revival
-  quantity: 2
-  scryfall_uuid: eadded94-3c18-43a9-bde9-f7ec86a98cce
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreatureFullArtOval
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Enishi
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
 - name: Swamp
-  quantity: 4
+  quantity: 2
   scryfall_uuid: 874f0f27-81a4-4853-aaa0-2c15e07c177e
   tags: []
   front: default
@@ -443,7 +281,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -458,89 +296,8 @@ cards:
     location:
       x: 48
       y: 1000
-- name: The Terror of Serpent's Pass
-  quantity: 1
-  scryfall_uuid: f7569861-5b68-4265-bb45-3d54992bfe66
-  tags: []
-  front: default
-  back: default
-  front_border: CreatureLegendaryOval
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Douzen
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Thriving Isle
-  quantity: 4
-  scryfall_uuid: 94f93e5f-dba0-4079-8e6a-dd5d6fe6afa4
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Slawek Fedorczuk
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Thriving Moor
-  quantity: 4
-  scryfall_uuid: 528531e8-4574-4dd5-aa4e-d31ce0f4eb5c
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: ATLA - WBN
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Dom Lay
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
 - name: Tui and La, Moon and Ocean
-  quantity: 1
+  quantity: 2
   scryfall_uuid: bad24eac-4dd7-4f2a-b2b9-fed9ba523bcf
   tags: []
   front: default
@@ -551,7 +308,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -578,7 +335,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -593,9 +350,9 @@ cards:
     location:
       x: 48
       y: 1000
-- name: Waterbending Lesson
+- name: Waterbending Scroll
   quantity: 2
-  scryfall_uuid: 4f81e3b5-a0a9-4764-8c2d-b499ce1740b4
+  scryfall_uuid: 50d0be73-a2c8-44a0-9178-9949f342f6f9
   tags: []
   front: default
   back: default
@@ -605,7 +362,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: ATLA - WBN
+      text: TLA - Waterbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -613,7 +370,34 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Sylvain Sarrailh
+      text: Dee Nguyen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Watery Grasp
+  quantity: 4
+  scryfall_uuid: 26bcff57-428e-4f30-a153-a778fbfc437d
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Waterbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rose Benjamin
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -621,4 +405,4 @@ cards:
       x: 48
       y: 1000
 settings:
-  default_back_uri: ./art/backs/avatar-symbols-blue.png
+  default_back_uri: ./art/backs/black.png

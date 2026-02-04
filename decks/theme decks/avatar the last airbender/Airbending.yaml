@@ -1,44 +1,17 @@
 cards:
-- name: Allies at Last
-  quantity: 4
-  scryfall_uuid: 11a77897-2aba-4a9b-bbe6-1768ca9f12cb
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Evan Shipard
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Descendants' Path
+- name: Aang, Airbending Master
   quantity: 2
-  scryfall_uuid: 6edb20a3-31f5-4bf9-a5e3-943d8d5a1def
+  scryfall_uuid: aff2d73b-cba9-4f76-97d7-8b6dd085e656
   tags: []
   front: default
   back: default
-  front_border: NonCreature2015Oval
+  front_border: CreatureLegendaryFullArtOval
   back_border: None
   commander: false
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: TLA - Earth Kingdom Allies
+      text: TLA - Airbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -46,178 +19,16 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Pauline Voss
+      text: Tomoyo Asatani
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
     location:
       x: 48
       y: 1000
-- name: Earth King's Lieutenant
-  quantity: 4
-  scryfall_uuid: 6a431eaf-13a0-4052-b887-ca477bb55847
-  tags: []
-  front: default
-  back: default
-  front_border: Creature2015FullArtOval
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Nathaniel Himawan
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Earth Kingdom Jailer
+- name: Airbender Ascension
   quantity: 2
-  scryfall_uuid: 9207362c-3605-4794-803f-ad1d0175fcca
-  tags: []
-  front: default
-  back: default
-  front_border: Creature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Danciao
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Earth Kingdom Protectors
-  quantity: 4
-  scryfall_uuid: d263472e-1d75-4cb9-8f7b-986fa22bc841
-  tags: []
-  front: default
-  back: default
-  front_border: Creature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Leonardo Borazio
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Forest
-  quantity: 8
-  scryfall_uuid: 05683891-cdd4-4401-b7d5-0ef17e79c699
-  tags: []
-  front: default
-  back: default
-  front_border: LandFullArtWithManaSymbol
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Luc Courtois
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Haru, Hidden Talent
-  quantity: 2
-  scryfall_uuid: 9657a0c0-2c26-4331-8e62-f032265a01af
-  tags: []
-  front: default
-  back: default
-  front_border: CreatureLegendary
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Mitori
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Invasion Tactics
-  quantity: 1
-  scryfall_uuid: 27c6330d-49f6-4707-b4d4-d1411fa422eb
-  tags: []
-  front: default
-  back: default
-  front_border: NonCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Eduardo Francisco
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Jasmine Dragon Tea Shop
-  quantity: 4
-  scryfall_uuid: 4487d299-1571-4d44-81bb-9bf54fb33fbc
+  scryfall_uuid: eb941485-d85a-4693-b797-890e38c8d056
   tags: []
   front: default
   back: default
@@ -227,7 +38,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: TLA - Earth Kingdom Allies
+      text: TLA - Airbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -235,43 +46,16 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Leanna Crossan
+      text: Shiren
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
     location:
       x: 48
       y: 1000
-- name: Plains
-  quantity: 8
-  scryfall_uuid: d812b6f3-83f0-44c9-8583-eb97fd8fade8
-  tags: []
-  front: default
-  back: default
-  front_border: LandFullArtWithManaSymbol
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Maojin Lee
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: Solid Ground
-  quantity: 2
-  scryfall_uuid: bea7b199-0b4f-4ae3-8432-7511de794b76
+- name: Airbender's Reversal
+  quantity: 4
+  scryfall_uuid: 6b7078e4-2892-4b5f-83ab-90369e0d6dba
   tags: []
   front: default
   back: default
@@ -281,7 +65,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: TLA - Earth Kingdom Allies
+      text: TLA - Airbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -289,80 +73,26 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Jason Kiantoro
+      text: Kotakan
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
     location:
       x: 48
       y: 1000
-- name: The Earth King
-  quantity: 1
-  scryfall_uuid: 3687f487-eec1-4979-8008-5c907adafe9d
-  tags: []
-  front: default
-  back: default
-  front_border: AvatarShowcaseCreature
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Brigitte Roka & Clifton Stommel
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: The Walls of Ba Sing Se
-  quantity: 1
-  scryfall_uuid: 24a14ac5-0b7e-4441-9963-782a7cda3f4a
-  tags: []
-  front: default
-  back: default
-  front_border: CreatureLegendaryOval
-  back_border: None
-  commander: false
-  sideboard: false
-  watermarks:
-  - watermark: !Text
-      text: TLA - Earth Kingdom Allies
-      font: ./fonts/Inter-VariableFont.ttf
-      font_size: 30
-    transparency: 0.0
-    location:
-      x: 48
-      y: 968
-  - watermark: !Text
-      text: Arthur Yuan
-      font: ./fonts/Beleren2016-Bold.ttf
-      font_size: 24
-    transparency: 0.0
-    location:
-      x: 48
-      y: 1000
-- name: United Front
+- name: Avatar's Wrath
   quantity: 3
-  scryfall_uuid: d347caf8-0c12-401f-9e33-9978cb347f89
+  scryfall_uuid: a24b3b8a-7742-4aa1-8da9-162dd1d49441
   tags: []
   front: default
   back: default
-  front_border: NonCreature2015Oval
+  front_border: NonCreatureFullArtOval
   back_border: None
   commander: false
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: TLA - Earth Kingdom Allies
+      text: TLA - Airbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -370,16 +100,70 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Mengxuan Li
+      text: Ainezu
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
     location:
       x: 48
       y: 1000
-- name: White Lotus Reinforcements
+- name: Cloudshift
   quantity: 4
-  scryfall_uuid: 4c7e3e2f-d7ac-4d40-ab84-cb7efe06a316
+  scryfall_uuid: 6dc0c976-26d2-40c9-a571-c370e9139d1d
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Airbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Devin Elle Kurtz
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Island
+  quantity: 6
+  scryfall_uuid: dd5b22ec-847a-46bd-828e-be6059b4faec
+  tags: []
+  front: default
+  back: default
+  front_border: LandFullArtWithManaSymbol
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Airbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Slawek Fedorczuk
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Kindly Customer
+  quantity: 4
+  scryfall_uuid: 84332812-367a-4ac4-9be5-2adc57562c9d
   tags: []
   front: default
   back: default
@@ -389,7 +173,7 @@ cards:
   sideboard: false
   watermarks:
   - watermark: !Text
-      text: TLA - Earth Kingdom Allies
+      text: TLA - Airbending
       font: ./fonts/Inter-VariableFont.ttf
       font_size: 30
     transparency: 0.0
@@ -397,7 +181,142 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Kotakan
+      text: Enishi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Momo, Playful Pet
+  quantity: 3
+  scryfall_uuid: 9350bf4a-fa12-4867-b31f-1f1394d99571
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendary
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Airbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Awanqi (Angela Wang)
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Monk Gyatso
+  quantity: 2
+  scryfall_uuid: 2c19acaa-29c2-4c73-a323-88051dba1bae
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Airbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Masateru Ikeda
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Plains
+  quantity: 14
+  scryfall_uuid: 8a880169-41ca-4507-83fd-306a489d31ce
+  tags: []
+  front: default
+  back: default
+  front_border: LandFullArtWithManaSymbol
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Airbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Salvatorre Zee Yazzie
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Solitude
+  quantity: 3
+  scryfall_uuid: 09ddb4a6-8144-4acc-9caa-4026a7a0537f
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureBorderlessOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Airbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Campbell White
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Soulherder
+  quantity: 3
+  scryfall_uuid: ea23111b-ccc1-4d5c-a9d2-9db14c728820
+  tags: []
+  front: default
+  back: default
+  front_border: Creature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: TLA - Airbending
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Seb McKinnon
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
