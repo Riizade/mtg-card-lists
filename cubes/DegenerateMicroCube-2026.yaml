@@ -9,7 +9,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Scott M. Fischer
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Giver of Runes
   quantity: 1
   scryfall_uuid: 4e117771-5a8b-4812-b487-32ba34b7f724
@@ -20,7 +36,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Seb McKinnon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Thalia, Guardian of Thraben
   quantity: 1
   scryfall_uuid: c9f8b8fb-1cd8-450e-a1fe-892e7a323479
@@ -31,7 +63,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Magali Villeneuve
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Containment Priest
   quantity: 1
   scryfall_uuid: c2c794b9-09da-49be-b258-b0e21f1663e3
@@ -42,7 +90,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: John Stanko
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Hushbringer
   quantity: 1
   scryfall_uuid: dda18da1-1ba4-421c-8980-a94984a5e12a
@@ -53,7 +117,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Bastien L. Deharme
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Remorseful Cleric
   quantity: 1
   scryfall_uuid: 9058aa42-96bb-4a8e-a2b9-a1a0905de99e
@@ -64,7 +144,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Grzegorz Rutkowski
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Leonin Relic-Warder
   quantity: 1
   scryfall_uuid: 42cc01f0-159c-4f34-8e6a-3c5c4a21ec07
@@ -75,7 +171,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Greg Staples
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lion Sash
   quantity: 1
   scryfall_uuid: 84f8ce4c-c6fc-408c-a216-33374bbfb08d
@@ -86,7 +198,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yongjae Choi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Auriok Salvagers
   quantity: 1
   scryfall_uuid: befb996b-1da6-41a3-8d9a-a45c2353c401
@@ -97,7 +225,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Randy Gallegos
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Swords to Plowshares
   quantity: 1
   scryfall_uuid: 6ff9af62-1895-465a-b1f3-61f0d8318958
@@ -108,7 +252,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Terese Nielsen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Path to Exile
   quantity: 1
   scryfall_uuid: 4970389b-08f4-4a15-a128-954b072a8137
@@ -119,7 +279,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Todd Lockwood
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ephemerate
   quantity: 1
   scryfall_uuid: d562bd6e-6e13-4309-bf80-3c10570741bf
@@ -130,7 +306,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Bastien L. Deharme
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Prismatic Ending
   quantity: 1
   scryfall_uuid: 825969b9-3c70-4fca-8cab-696e9ca7cdb2
@@ -141,7 +333,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: John Stanko
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Balance
   quantity: 1
   scryfall_uuid: 39a28a50-3130-485d-975c-26a0f40681a3
@@ -152,7 +360,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kev Walker
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Snapcaster Mage
   quantity: 1
   scryfall_uuid: befab3d3-87ce-4b55-a6c9-51db8dd41f71
@@ -163,7 +387,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Joseph Meehan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Gilded Drake
   quantity: 1
   scryfall_uuid: 8de3fdae-cc2c-4a14-b15b-4fe1a983dfbf
@@ -174,7 +414,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Bob Eggleton
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Emry, Lurker of the Loch
   quantity: 1
   scryfall_uuid: 157f343d-8583-4827-a77d-d916e6a5caa1
@@ -185,7 +441,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Livia Prima
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sphinx of Foresight
   quantity: 1
   scryfall_uuid: cf2386fd-edc0-4731-8f4e-7a7c45548bf3
@@ -196,7 +468,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Titus Lunter
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Force of Will
   quantity: 1
   scryfall_uuid: dd60b291-0a88-4e8e-bef8-76cdfd6c8183
@@ -207,7 +495,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Terese Nielsen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Force of Negation
   quantity: 1
   scryfall_uuid: 1825a719-1b2a-4af9-9cd2-7cb497cd0317
@@ -218,7 +522,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Paul Scott Canavan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Daze
   quantity: 1
   scryfall_uuid: 90261920-05c2-4297-8531-7b813e51545b
@@ -229,7 +549,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Matthew D. Wilson
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Foil
   quantity: 1
   scryfall_uuid: c0d3218a-7fd5-406c-a3ee-cd34fd3dda55
@@ -240,7 +576,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Donato Giancola
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Gush
   quantity: 1
   scryfall_uuid: d4a3a921-3b7f-474c-b8c3-67a1a6ba5cc1
@@ -251,7 +603,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kev Walker
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Spell Pierce
   quantity: 1
   scryfall_uuid: 35b8a9db-d126-4038-abb1-74dcc5b36136
@@ -262,7 +630,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Vance Kovacs
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Brainstorm
   quantity: 1
   scryfall_uuid: 91b564f2-e27d-48f3-a7a8-5b0afd801634
@@ -273,7 +657,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Willian Murai
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Miscast
   quantity: 1
   scryfall_uuid: 033afbd5-9937-4957-98ba-48e469a490bb
@@ -284,7 +684,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Steve Argyle
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ancestral Recall
   quantity: 1
   scryfall_uuid: d392392e-6c36-44e4-a037-2b788a088891
@@ -295,7 +711,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Raoul Vitale
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Stubborn Denial
   quantity: 1
   scryfall_uuid: 6f8626c4-306f-4e9d-8840-2bb73fe87e87
@@ -306,7 +738,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: James Ryman
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Flusterstorm
   quantity: 1
   scryfall_uuid: 46a00405-13ad-4531-9bfb-fea0ca57f196
@@ -317,7 +765,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Rallis
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Spell Snare
   quantity: 1
   scryfall_uuid: b7551b61-656e-4f37-b9da-73174db983b7
@@ -328,7 +792,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Iris Compiet
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: An Offer You Can't Refuse
   quantity: 1
   scryfall_uuid: b9d349f3-5be2-4b1f-a4c3-ba94822cf0cf
@@ -339,7 +819,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dallas Williams
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Stifle
   quantity: 1
   scryfall_uuid: 616d1b20-61c1-4d39-a9b5-ad9fd61699e4
@@ -350,7 +846,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Eric Fortune
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Consign to Memory
   quantity: 1
   scryfall_uuid: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
@@ -361,7 +873,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ben Hill
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Flash
   quantity: 1
   scryfall_uuid: d31459c2-9656-4e9a-bb72-71a910e8570b
@@ -372,7 +900,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Naomi Baker
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mana Drain
   quantity: 1
   scryfall_uuid: 416d2d51-8f29-4e95-b037-e8c32b081e6c
@@ -383,7 +927,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Raymond Swanland
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mana Leak
   quantity: 1
   scryfall_uuid: 179236d9-6fe2-4db6-bdfb-f851e8d531a2
@@ -394,7 +954,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Howard Lyon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lose Focus
   quantity: 1
   scryfall_uuid: 985bdb0c-ce6c-4506-8163-76f3b2fdf5fb
@@ -405,7 +981,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Martina Fačková
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sink into Stupor
   quantity: 1
   scryfall_uuid: 5358b87a-1a29-426d-b165-40c97da2c14d
@@ -416,7 +1008,23 @@ cards:
   back_border: NonCreatureMDFC
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Peter Polach
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Careful Study
   quantity: 1
   scryfall_uuid: 469818a9-4779-4187-bea6-56d3d9da6469
@@ -427,7 +1035,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Scott M. Fischer
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Time Walk
   quantity: 1
   scryfall_uuid: 319bcff2-3173-40e8-954a-d48fa090e7b5
@@ -438,7 +1062,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Seaman
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Tinker
   quantity: 1
   scryfall_uuid: 8cb56953-8450-475b-9be5-5ff628f56818
@@ -449,7 +1089,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jason Rainville
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Show and Tell
   quantity: 1
   scryfall_uuid: fa7b7897-36e0-415a-8bb7-602886164852
@@ -460,7 +1116,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Zack Stella
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Timetwister
   quantity: 1
   scryfall_uuid: d6157016-a16c-46c8-9daf-6edcddd6a1c1
@@ -471,7 +1143,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Seaman
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Aether Spellbomb
   quantity: 1
   scryfall_uuid: ee539bda-62b4-40fb-95d3-c7d1fc0a7e09
@@ -482,7 +1170,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jim Nelson
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dress Down
   quantity: 1
   scryfall_uuid: 04f9f061-67b8-4427-9fcb-b3ccfee8fc5d
@@ -493,7 +1197,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Iain McCaig
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Grief
   quantity: 1
   scryfall_uuid: e6befbc4-1320-4f26-bd9f-b1814fedda10
@@ -504,7 +1224,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nicholas Gregory
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Kitesail Freebooter
   quantity: 1
   scryfall_uuid: 88496096-fd9a-451a-85d9-31ccc3580623
@@ -515,7 +1251,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dan Murayama Scott
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Vampire Hexmage
   quantity: 1
   scryfall_uuid: 97ec2e55-fa60-4ee1-b9c0-e6b84939697b
@@ -526,7 +1278,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Eric Deschamps
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Deep-Cavern Bat
   quantity: 1
   scryfall_uuid: 69c68c95-b788-43b1-9f22-1b22c5a00b25
@@ -537,7 +1305,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Campbell White
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Inverter of Truth
   quantity: 1
   scryfall_uuid: 88c9d8c5-333b-4281-b923-b4a060927bbc
@@ -548,7 +1332,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chase Stone
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Liliana of the Veil
   quantity: 1
   scryfall_uuid: 7125336c-4c2d-47a0-8caf-b755f4954176
@@ -559,7 +1359,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Steve Argyle
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Force of Despair
   quantity: 1
   scryfall_uuid: 8f497b0d-4448-4201-bd55-c147da1a216d
@@ -570,7 +1386,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Seb McKinnon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Snuff Out
   quantity: 1
   scryfall_uuid: 75bbe89f-09af-494e-b58e-271f64bde4b5
@@ -581,7 +1413,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Steve Argyle
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dark Ritual
   quantity: 1
   scryfall_uuid: 43c636bd-9071-4212-8e2e-5d6c6f39f3d1
@@ -592,7 +1440,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Clint Langley
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Entomb
   quantity: 1
   scryfall_uuid: 3caa9c55-5e3b-436b-84a9-b7ccebf63799
@@ -603,7 +1467,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Seb McKinnon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Unmask
   quantity: 1
   scryfall_uuid: 555c6135-5723-44c6-8c29-d5b57a2b3220
@@ -614,7 +1494,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: rk post
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Duress
   quantity: 1
   scryfall_uuid: 68cd43ba-646b-44b3-a1a5-0e6b6ceca866
@@ -625,7 +1521,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Steven Belledin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Thoughtseize
   quantity: 1
   scryfall_uuid: b281a308-ab6b-47b6-bec7-632c9aaecede
@@ -636,7 +1548,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aleksi Briclot
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Inquisition of Kozilek
   quantity: 1
   scryfall_uuid: 56995b84-2307-4955-9c7c-dc4f04acdc07
@@ -647,7 +1575,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Volkan Baǵa
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Reanimate
   quantity: 1
   scryfall_uuid: 652271a0-80e8-4b9b-8823-26c1528378fc
@@ -658,7 +1602,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Johann Bodin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Cabal Therapy
   quantity: 1
   scryfall_uuid: 2afc9aa7-eaf2-453d-942c-23bf216a1844
@@ -669,7 +1629,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Raymond Swanland
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dreams of Steel and Oil
   quantity: 1
   scryfall_uuid: 261ac92e-c61a-4c11-aa6a-9ae1cb703e5c
@@ -680,7 +1656,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jeremy Wilson
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bone Shards
   quantity: 1
   scryfall_uuid: aaf8da46-ed95-4812-8085-5e14b3c2df0e
@@ -691,7 +1683,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tommy Arnold
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Collective Brutality
   quantity: 1
   scryfall_uuid: cb94a02f-4660-45b6-8a39-941b710cf8f3
@@ -702,7 +1710,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Johann Bodin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Toxic Deluge
   quantity: 1
   scryfall_uuid: d00fa18f-d50a-4d3f-929e-91f29141b1df
@@ -713,7 +1737,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Svetlin Velinov
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Animate Dead
   quantity: 1
   scryfall_uuid: 1489943b-c010-488e-9c9d-87f4af67a4e4
@@ -724,7 +1764,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Anthony Jones
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Goblin Welder
   quantity: 1
   scryfall_uuid: 17cd920a-de09-454a-a9da-c84512e3aff1
@@ -735,7 +1791,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Scott M. Fischer
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Goblin Engineer
   quantity: 1
   scryfall_uuid: a55c4d47-5252-40af-961d-c08bc688028a
@@ -746,7 +1818,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jehan Choo
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Pyroblast
   quantity: 1
   scryfall_uuid: b029eb9a-dd7a-40c2-96c4-0063d9cc002c
@@ -757,7 +1845,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Lake Hurwitz
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Red Elemental Blast
   quantity: 1
   scryfall_uuid: 70a45e9b-699e-425a-9f3d-267274830d3e
@@ -768,7 +1872,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Izzy
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Faithless Looting
   quantity: 1
   scryfall_uuid: dea670cd-68aa-426b-a617-387398a687a5
@@ -779,7 +1899,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Gabor Szikszai
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Pyrite Spellbomb
   quantity: 1
   scryfall_uuid: b76903b2-f8d2-4157-ad93-361eccc1a617
@@ -790,7 +1926,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jim Nelson
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sneak Attack
   quantity: 1
   scryfall_uuid: a45b4ca9-4355-4690-84c3-a7d44c367dbf
@@ -801,7 +1953,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jerry Tiritilli
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Endurance
   quantity: 1
   scryfall_uuid: eb0e0404-4846-4891-acfa-bd0951ecf9c6
@@ -812,7 +1980,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Anastasia Ovchinnikova
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Scavenging Ooze
   quantity: 1
   scryfall_uuid: 4ad5310b-8756-4644-adc1-9503c6950142
@@ -823,7 +2007,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Austin Hsu
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Thief of Existence
   quantity: 1
   scryfall_uuid: 328b02ca-d8eb-401d-9c41-93f8eb909312
@@ -834,7 +2034,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Raph Lomotan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sowing Mycospawn
   quantity: 1
   scryfall_uuid: cdfadb17-76ad-4d4d-9fa7-33c4b88b4c0a
@@ -845,7 +2061,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Slawomir Maniak
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Nature's Claim
   quantity: 1
   scryfall_uuid: 666a8ac9-d21d-4f3e-84a4-117fbeabbe8b
@@ -856,7 +2088,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Raoul Vitale
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Veil of Summer
   quantity: 1
   scryfall_uuid: 10970074-67a2-4643-af4e-521603aae5f7
@@ -867,7 +2115,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Lake Hurwitz
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Force of Vigor
   quantity: 1
   scryfall_uuid: 017c415b-d635-43c6-92b8-8c95d1c4ff8d
@@ -878,7 +2142,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Randy Vargas
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Channel
   quantity: 1
   scryfall_uuid: ce54c7c1-3401-4414-8da0-5846cb0ae1b4
@@ -889,7 +2169,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rebecca Guay
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fastbond
   quantity: 1
   scryfall_uuid: e45d289c-3328-44cd-853c-b9dfe21b13a5
@@ -900,7 +2196,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mark Poole
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Oath of Druids
   quantity: 1
   scryfall_uuid: 9dad6b50-c415-4c55-8eac-bbc9d656c2fc
@@ -911,7 +2223,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Daren Bader
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Boseiju, Who Endures
   quantity: 1
   scryfall_uuid: 2488a80b-6882-4b59-8232-f02f800204a9
@@ -922,7 +2250,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Ostrowski
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Walking Ballista
   quantity: 1
   scryfall_uuid: 5272436e-74f0-44c4-a291-ea8ebc3f1525
@@ -933,7 +2277,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Daniel Ljunggren
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Endless One
   quantity: 1
   scryfall_uuid: 00b3c10a-799f-4922-bb0a-44981b13203b
@@ -944,7 +2304,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jason Felix
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Phyrexian Dreadnought
   quantity: 1
   scryfall_uuid: 7b8197b9-0cd1-4fa1-9668-d1b5f1759151
@@ -955,7 +2331,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Pete Venters
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Phyrexian Revoker
   quantity: 1
   scryfall_uuid: d5ef9f3b-d6f8-4795-ba96-2f92b8792360
@@ -966,7 +2358,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kev Walker
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Myr Retriever
   quantity: 1
   scryfall_uuid: 7f0149d4-0731-474a-a1c3-28c25e486c14
@@ -977,7 +2385,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Trevor Hairsine
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Phyrexian Metamorph
   quantity: 1
   scryfall_uuid: d6afeb07-ed44-4e15-99b6-436f8365326f
@@ -988,7 +2412,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jana Schirmer & Johannes Voss
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Scrap Trawler
   quantity: 1
   scryfall_uuid: 614be454-3829-4c3b-9485-930755dfa16d
@@ -999,7 +2439,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Daarken
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lodestone Golem
   quantity: 1
   scryfall_uuid: 683a5707-cddb-494d-9b41-51b4584ded69
@@ -1010,7 +2466,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Rahn
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Thought-Knot Seer
   quantity: 1
   scryfall_uuid: bffc360e-db41-48f3-9365-680d55046e04
@@ -1021,7 +2493,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Svetlin Velinov
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Hoverstone Pilgrim
   quantity: 1
   scryfall_uuid: af7e12ee-3db6-4df7-9859-7a8dee9171c7
@@ -1032,7 +2520,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Izzy
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Reality Smasher
   quantity: 1
   scryfall_uuid: 52d4b652-a830-4fd4-94bb-c17c227f2928
@@ -1043,7 +2547,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jason Rainville
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Wurmcoil Engine
   quantity: 1
   scryfall_uuid: 5d275f04-cc60-4e3f-95cc-3d02bc916b82
@@ -1054,7 +2574,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Raymond Swanland
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Chancellor of the Annex
   quantity: 1
   scryfall_uuid: 7253b970-b394-4b39-abe1-ba243887f7d0
@@ -1065,7 +2601,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Min Yum
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Atraxa, Grand Unifier
   quantity: 1
   scryfall_uuid: 4a1f905f-1d55-4d02-9d24-e58070793d3f
@@ -1076,7 +2628,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Marta Nael
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Woodfall Primus
   quantity: 1
   scryfall_uuid: 97914abe-71d5-4bd6-87d7-8e7379abf1aa
@@ -1087,7 +2655,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Adam Rex
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ashen Rider
   quantity: 1
   scryfall_uuid: 1f2054d9-d10f-4127-aece-71c3f0ef547c
@@ -1098,7 +2682,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Rahn
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sphinx of the Steel Wind
   quantity: 1
   scryfall_uuid: fd4546dc-e3f7-4cd1-9b1b-51326f39a81f
@@ -1109,7 +2709,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kev Walker
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Archon of Cruelty
   quantity: 1
   scryfall_uuid: 78f5933b-4901-45fd-ae3f-aeae3bdf200b
@@ -1120,7 +2736,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrew Mar
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Inkwell Leviathan
   quantity: 1
   scryfall_uuid: 9f7a6dfb-a8f8-4899-b2db-c48d542dfd55
@@ -1131,7 +2763,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Anthony Francisco
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Iona, Shield of Emeria
   quantity: 1
   scryfall_uuid: e70bac07-b011-4c30-a29e-1852b23a3ed6
@@ -1142,7 +2790,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jason Chan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Triplicate Titan
   quantity: 1
   scryfall_uuid: 8c610087-d56a-4b38-b4af-bd7ef350f741
@@ -1153,7 +2817,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrew Mar
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Kozilek, Butcher of Truth
   quantity: 1
   scryfall_uuid: d27cf7b7-7982-46bd-a559-7789c0e74bae
@@ -1164,7 +2844,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Michael Komarck
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ulamog, the Infinite Gyre
   quantity: 1
   scryfall_uuid: 9464a820-65de-44f2-9895-46a35e8621a0
@@ -1175,7 +2871,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aleksi Briclot
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Worldspine Wurm
   quantity: 1
   scryfall_uuid: edb684f3-7787-4e54-96a2-61f95b6494a8
@@ -1186,7 +2898,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Richard Wright
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Blightsteel Colossus
   quantity: 1
   scryfall_uuid: 56931f20-d99d-443c-8b01-ee3c3ffa643d
@@ -1197,7 +2925,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Rahn
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Emrakul, the Aeons Torn
   quantity: 1
   scryfall_uuid: 249db4d4-2542-47ee-a216-e13ffbc2319c
@@ -1208,7 +2952,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mark Tedin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Karn, the Great Creator
   quantity: 1
   scryfall_uuid: 3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5
@@ -1219,7 +2979,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Wisnu Tan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mental Misstep
   quantity: 1
   scryfall_uuid: 09113591-df5c-403d-982e-c4e8ba14c5cd
@@ -1230,7 +3006,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Erica Yang
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Noxious Revival
   quantity: 1
   scryfall_uuid: 4db5b4cd-3809-4dfe-8b9a-2a25b02e814c
@@ -1241,7 +3033,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Matt Stewart
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Once Upon a Time
   quantity: 1
   scryfall_uuid: f2ca07ab-32e9-477c-a263-721a03f778ff
@@ -1252,7 +3060,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Matt Stewart
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Simian Spirit Guide
   quantity: 1
   scryfall_uuid: 19f1ac65-aed8-4ac6-ba90-e088db6c1389
@@ -1263,7 +3087,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dave DeVries
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Elvish Spirit Guide
   quantity: 1
   scryfall_uuid: 50aded92-f934-441f-8e48-d68d471e70d8
@@ -1274,7 +3114,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Anna Steinbauer
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dismember
   quantity: 1
   scryfall_uuid: 3d286cf6-3e16-4941-9326-1818b1e06d69
@@ -1285,7 +3141,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Terese Nielsen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Kozilek's Command
   quantity: 1
   scryfall_uuid: 92585587-cfdc-406a-9114-4f6dd8802c37
@@ -1296,7 +3168,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yeong-Hao Han
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Gitaxian Probe
   quantity: 1
   scryfall_uuid: b1234467-0f96-4021-ab3c-b4111815168f
@@ -1307,7 +3195,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chippy
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: All Is Dust
   quantity: 1
   scryfall_uuid: 4210c54e-89fd-4971-ab6a-ca8f4e7fe97a
@@ -1318,7 +3222,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jason Felix
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lion's Eye Diamond
   quantity: 1
   scryfall_uuid: 63bacc32-d6ba-420c-9b49-299c08e5fb39
@@ -1329,7 +3249,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Margaret Organ-Kean
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mox Diamond
   quantity: 1
   scryfall_uuid: fadb218d-29e2-42d1-a7a1-1066741d63ad
@@ -1340,7 +3276,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Volkan Baǵa
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Chrome Mox
   quantity: 1
   scryfall_uuid: f340cbf7-5bbe-45b9-a4bf-d1caa500ff93
@@ -1351,7 +3303,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Volkan Baǵa
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lotus Petal
   quantity: 1
   scryfall_uuid: b2279cb1-089f-4c41-ae96-41837ed57822
@@ -1362,7 +3330,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Slawomir Maniak
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mox Opal
   quantity: 1
   scryfall_uuid: 547e3aa5-d88a-4418-ab9d-dd65385f031b
@@ -1373,7 +3357,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Martina Pilcerova
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Engineered Explosives
   quantity: 1
   scryfall_uuid: 67bf3b19-1037-4157-8f28-11edbb7b4545
@@ -1384,7 +3384,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Lars Grant-West
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Chalice of the Void
   quantity: 1
   scryfall_uuid: b5ddfe44-a645-49ec-be86-21be21fe2bdb
@@ -1395,7 +3411,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Seb McKinnon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mana Crypt
   quantity: 1
   scryfall_uuid: 0cb33b46-4d1b-4f97-bfdc-d815aee111da
@@ -1406,7 +3438,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Matt Stewart
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Elixir of Immortality
   quantity: 1
   scryfall_uuid: 6741ab27-9e1f-4aa5-96b9-b450eda7c5c2
@@ -1417,7 +3465,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Zoltan Boros & Gabor Szikszai
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Scrabbling Claws
   quantity: 1
   scryfall_uuid: 67b06cb5-5e74-456f-81b1-fced1346cc47
@@ -1428,7 +3492,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: James Paick
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Aether Vial
   quantity: 1
   scryfall_uuid: 11e8d2fd-b132-4807-9410-8edeffa519ed
@@ -1439,7 +3519,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Karl Kopinski
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Pithing Needle
   quantity: 1
   scryfall_uuid: 776899f8-e977-42b7-8b54-6f726a349e3c
@@ -1450,7 +3546,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Anthony Palumbo
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Conjurer's Bauble
   quantity: 1
   scryfall_uuid: 2d32960e-d182-455f-8e74-eb11b10050da
@@ -1461,7 +3573,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Darrell Riche
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mana Vault
   quantity: 1
   scryfall_uuid: 16951cdd-7367-46c7-b915-93d4ed656918
@@ -1472,7 +3600,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Christine Choi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sensei's Divining Top
   quantity: 1
   scryfall_uuid: e5142b7a-e580-4737-a4aa-2590f6610ceb
@@ -1483,7 +3627,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Michael Sutfin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Feldon's Cane
   quantity: 1
   scryfall_uuid: 026f55c3-8e65-4520-b26d-6208344f73b2
@@ -1494,7 +3654,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Warren Mahy
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sol Ring
   quantity: 1
   scryfall_uuid: fff440c0-7e6a-46c2-9989-f1b5af20fd44
@@ -1505,7 +3681,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Volkan Baǵa
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Nihil Spellbomb
   quantity: 1
   scryfall_uuid: b1705dce-d655-4934-847f-edb2ffeeca00
@@ -1516,7 +3708,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Franz Vohwinkel
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Chromatic Star
   quantity: 1
   scryfall_uuid: c2e8d492-2c67-410b-b556-c157a14c4cec
@@ -1527,7 +3735,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Daniel Ljunggren
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Vexing Bauble
   quantity: 1
   scryfall_uuid: 29f11089-658f-42e6-aeb0-09b512ad2479
@@ -1538,7 +3762,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tony Foti
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sorcerous Spyglass
   quantity: 1
   scryfall_uuid: e47e85d1-8c4a-43a9-92b3-7cb2a5b89219
@@ -1549,7 +3789,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aaron Miller
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sphere of Resistance
   quantity: 1
   scryfall_uuid: c8e5546c-7f46-4eb5-a330-384d68ee75b0
@@ -1560,7 +3816,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Richard Wright
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Thorn of Amethyst
   quantity: 1
   scryfall_uuid: e472d4f5-add4-4de3-8718-31a47a35277c
@@ -1571,7 +3843,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chuck Lukacs
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Torpor Orb
   quantity: 1
   scryfall_uuid: d034bf77-38dc-4b43-9a00-831d89af437a
@@ -1582,7 +3870,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Robin Olausson
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lightning Greaves
   quantity: 1
   scryfall_uuid: 8d9f47af-5929-44f4-bc6b-3ac7e521177d
@@ -1593,7 +3897,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jeremy Jarvis
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Defense Grid
   quantity: 1
   scryfall_uuid: 9c57c6ee-1e97-4005-bae0-7df86b2cdc27
@@ -1604,7 +3924,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jonas De Ro
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Trinisphere
   quantity: 1
   scryfall_uuid: 316caa4e-a53a-460b-978c-5f0fba7bc549
@@ -1615,7 +3951,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tim Hildebrandt
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ensnaring Bridge
   quantity: 1
   scryfall_uuid: cf825a56-4870-463a-a2ef-eec86be891db
@@ -1626,7 +3978,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Titus Lunter
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Tangle Wire
   quantity: 1
   scryfall_uuid: 74d29b3d-f588-431d-bf4e-f7215683ab39
@@ -1637,7 +4005,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Marco Nelor
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: God-Pharaoh's Statue
   quantity: 1
   scryfall_uuid: fc58c3a9-c049-4993-9b3a-689288d349b3
@@ -1648,7 +4032,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Igor Kieryluk
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dovin's Veto
   quantity: 1
   scryfall_uuid: 5d6b5054-2224-4f68-9d82-3ed17c5dacc4
@@ -1659,7 +4059,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Izzy
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Chaos Defiler
   quantity: 1
   scryfall_uuid: 1c0f2873-5849-4cab-855a-2fbbc41dbb6c
@@ -1670,7 +4086,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Games Workshop
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ancient Grudge
   quantity: 1
   scryfall_uuid: db1258d6-c5af-4c3a-aa9c-ce318483a847
@@ -1681,7 +4113,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ryan Yee
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Assassin's Trophy
   quantity: 1
   scryfall_uuid: aeb63464-d06b-4626-a57a-1e393ef04a58
@@ -1692,7 +4140,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Seb McKinnon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lurrus of the Dream-Den
   quantity: 1
   scryfall_uuid: 2c89beb2-3467-4be0-a066-919f54331942
@@ -1703,7 +4167,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Slawomir Maniak
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Unburial Rites
   quantity: 1
   scryfall_uuid: 7023aa24-ef49-4973-8978-7d0d3af719d3
@@ -1714,7 +4194,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ryan Pancoast
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Memory's Journey
   quantity: 1
   scryfall_uuid: 265aaa73-1a1e-4282-a860-f7c422f21db3
@@ -1725,7 +4221,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Slawomir Maniak
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: City of Traitors
   quantity: 1
   scryfall_uuid: 4c19926a-7792-4e0f-8418-a44f0cf5eeea
@@ -1736,7 +4248,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ralph Horsley
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ancient Tomb
   quantity: 1
   scryfall_uuid: 2ca06f4f-1212-49c8-b45a-6f1597e0a3ed
@@ -1747,7 +4275,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yeong-Hao Han
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: City of Brass
   quantity: 1
   scryfall_uuid: bed4a63d-632a-4a3a-b35f-f8e155237d27
@@ -1758,7 +4302,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kirsten Zirngibl
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Gemstone Caverns
   quantity: 1
   scryfall_uuid: 7f273641-c5f3-48bc-b89e-3cff52d26a0b
@@ -1769,7 +4329,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Martina Pilcerova
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Rishadan Port
   quantity: 1
   scryfall_uuid: 75876b45-4fc8-41b4-bc87-19c5a1d7e315
@@ -1780,7 +4356,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Seaman
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Wasteland
   quantity: 1
   scryfall_uuid: aaafb9bc-7cea-4624-a227-595544fa42b0
@@ -1791,7 +4383,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Eytan Zana
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mana Confluence
   quantity: 1
   scryfall_uuid: 4cb8d03e-e1d2-451e-97a8-141082f92501
@@ -1802,7 +4410,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Titus Lunter
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bazaar of Baghdad
   quantity: 1
   scryfall_uuid: ff37b863-f8c4-4584-8cc2-ac0e096e583f
@@ -1813,7 +4437,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jeff A. Menges
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Forbidden Orchard
   quantity: 1
   scryfall_uuid: 17db644c-1acf-477d-9c20-f72221f1108a
@@ -1824,7 +4464,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Daniel Ljunggren
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dark Depths
   quantity: 1
   scryfall_uuid: 00cb17a0-5a13-4d02-b7fb-f99531bc8ca5
@@ -1835,7 +4491,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mathias Kollros
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Thespian's Stage
   quantity: 1
   scryfall_uuid: 954c7792-c147-401d-bbe5-f1773ae3b301
@@ -1846,7 +4518,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: John Avon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Gemstone Mine
   quantity: 1
   scryfall_uuid: ee152618-761f-43b4-942a-f63b16c182cc
@@ -1857,7 +4545,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Brom
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Tarnished Citadel
   quantity: 1
   scryfall_uuid: ab2f8d97-a77e-4a99-ac54-f4fd5b5d6571
@@ -1868,7 +4572,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: David Martin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mishra's Workshop
   quantity: 1
   scryfall_uuid: e9d6c1c3-1745-4da0-9a8c-7a2e4147d039
@@ -1879,7 +4599,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Drew Baker
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Tendo Ice Bridge
   quantity: 1
   scryfall_uuid: 929961bf-c866-4ed8-a552-b261ecd5f2fb
@@ -1890,7 +4626,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rob Alexander
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Tolarian Academy
   quantity: 1
   scryfall_uuid: b0247ee3-7799-43c2-9617-35b3edc91f22
@@ -1901,7 +4653,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Raoul Vitale
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Undiscovered Paradise
   quantity: 1
   scryfall_uuid: 16e654b1-93d8-4727-885e-06b2ff6bb461
@@ -1912,7 +4680,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: David O'Connor
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Tropical Island
   quantity: 1
   scryfall_uuid: 2674e6d9-51b9-405c-ab01-75474abcf690
@@ -1923,7 +4707,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mark Poole
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Volcanic Island
   quantity: 1
   scryfall_uuid: 154ce456-38d2-4195-93b7-302e11c006e2
@@ -1934,7 +4734,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mark Poole
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Underground Sea
   quantity: 1
   scryfall_uuid: 962719f7-ff8e-480b-985e-bd53a111793b
@@ -1945,7 +4761,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Filip Burburan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Tundra
   quantity: 1
   scryfall_uuid: 8ef5d61d-2648-4cbc-8083-3f3c6b362825
@@ -1956,7 +4788,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Raoul Vitale
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Urza's Saga
   quantity: 1
   scryfall_uuid: 9df37469-6e2d-4783-aad3-c897ecbc967d
@@ -1967,7 +4815,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Titus Lunter
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Scrubland
   quantity: 1
   scryfall_uuid: d1428846-e0da-4b62-b0e9-25efe846cc33
@@ -1978,7 +4842,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mark Poole
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Spire of Industry
   quantity: 1
   scryfall_uuid: 8331724d-6fab-454a-b06c-b06e499fa552
@@ -1989,7 +4869,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: John Avon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Taiga
   quantity: 1
   scryfall_uuid: 453e1bf8-e570-4b9b-8f41-5f4f31ae3b0e
@@ -2000,7 +4896,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mark Poole
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Badlands
   quantity: 1
   scryfall_uuid: 644aba21-1fa7-4483-b9bf-56c5fe4d8975
@@ -2011,7 +4923,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Filip Burburan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Savannah
   quantity: 1
   scryfall_uuid: 931184cf-0b9a-49d5-8234-a25b90dbaedb
@@ -2022,7 +4950,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mark Poole
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bayou
   quantity: 1
   scryfall_uuid: c2988d9d-7c56-4daa-8609-ea249c18134f
@@ -2033,7 +4977,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Sidharth Chaturvedi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Plateau
   quantity: 1
   scryfall_uuid: 0829af6e-7dd9-4bce-bf14-1c5d509556cb
@@ -2044,7 +5004,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mark Poole
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Mycosynth Gardens
   quantity: 1
   scryfall_uuid: 4afcac49-ac80-4561-ba2c-ce9487e9d8fe
@@ -2055,7 +5031,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrew Mar
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ghost Quarter
   quantity: 1
   scryfall_uuid: b3699c15-d834-4dde-ae3b-b3eb8241b442
@@ -2066,7 +5058,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Heather Hudson
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Urborg, Tomb of Yawgmoth
   quantity: 1
   scryfall_uuid: ff92804a-0c62-4eb8-bbba-f1ca6f426b6e
@@ -2077,7 +5085,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jung Park
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Eldrazi Temple
   quantity: 1
   scryfall_uuid: c42049e2-fe4e-4fe9-9599-faf1af50b97d
@@ -2088,7 +5112,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: James Paick
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Eye of Ugin
   quantity: 1
   scryfall_uuid: 927596bc-4c9f-404a-97f2-89db53826f6b
@@ -2099,7 +5139,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Daniel Ljunggren
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Yavimaya, Cradle of Growth
   quantity: 1
   scryfall_uuid: ee7c2820-e36e-4024-a542-02ca42bb7e2f
@@ -2110,6 +5166,22 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Degenerate Micro Cube - 2026-02-17
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Sarah Finnigan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 settings:
   default_back_uri: ./art/backs/black.png
