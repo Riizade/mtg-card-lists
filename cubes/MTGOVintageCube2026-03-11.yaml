@@ -1,0 +1,543 @@
+cards:
+- name: Koya, Death from Above
+  quantity: 1
+  scryfall_uuid: 7a4f1ccc-2225-4cd0-abef-0eb7a8eae9cf
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendary
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Irina Nordsol
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Winternight Stories
+  quantity: 1
+  scryfall_uuid: 64d9367c-f50c-4568-aa63-6760c44ecaeb
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Zara Alfonso
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Bloodchief's Thirst
+  quantity: 1
+  scryfall_uuid: 7aeaa32a-5a01-4d2d-a4a2-7d95e976fa77
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jason Rainville
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Chain of Smog
+  quantity: 1
+  scryfall_uuid: 6bfe64f9-8b03-41f6-a47b-fade397ad9d1
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Greg Staples
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Damnation
+  quantity: 1
+  scryfall_uuid: d3c0aac5-b9f1-4446-bfea-3e1dd1cf1f2f
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kev Walker
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Sedgemoor Witch
+  quantity: 1
+  scryfall_uuid: 075bfaa8-3d54-4934-aaf6-72be43a87324
+  tags: []
+  front: default
+  back: default
+  front_border: Creature2015FullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Igor Kieryluk
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Super Shredder
+  quantity: 1
+  scryfall_uuid: 819798cf-f685-49b6-b1fd-6bb75fc1f050
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureBorderlessOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrew Griffith
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Ravenous Robots
+  quantity: 1
+  scryfall_uuid: c3e68d0d-c259-423e-a319-8b2397c4892c
+  tags: []
+  front: default
+  back: default
+  front_border: Creature2015FullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kevin Sidharta
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: The Legend of Roku
+  quantity: 1
+  scryfall_uuid: 4a8bdef0-c50c-4a30-81bc-507a8289a81b
+  tags: []
+  front: default
+  back: default
+  front_border: SagaBorderlessOval
+  back_border: CreatureBorderless
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Barbara Rosiak
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Birthing Ritual
+  quantity: 1
+  scryfall_uuid: 004bbc84-b57b-4393-889e-dff95e8f334c
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreatureBorderlessOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alix Branwyn
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Michelangelo, Weirdness to 11
+  quantity: 1
+  scryfall_uuid: 4b1f1162-9470-4dd7-94ef-83c09b50d8ae
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureBorderlessOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jim Cheung & Jay David Ramos
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Mutagen Man, Living Ooze
+  quantity: 1
+  scryfall_uuid: 3630d2ad-9bfe-4e86-addb-c4b620b52b14
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ignatius Budi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Roadkill Rodney
+  quantity: 1
+  scryfall_uuid: 3fc23e7a-5059-4c8d-85bd-224f4c1bfc1c
+  tags: []
+  front: default
+  back: default
+  front_border: Creature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Xavier Ribeiro
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Arwen, Mortal Queen
+  quantity: 1
+  scryfall_uuid: 718ae3af-a365-4593-a44c-6684ef308d4c
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryFullArtTriangle
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Miranda Meeks
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Deceit
+  quantity: 1
+  scryfall_uuid: 0a1c101b-3fad-421c-a081-69e75db95c46
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureBorderlessOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kev Walker
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Dyadrine, Synthesis Amalgam
+  quantity: 1
+  scryfall_uuid: 3cba1ffa-9b43-41f9-a5ea-57cd48013c1c
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureBorderlessOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Matthew G. Lewis
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Kavaero, Mind-Bitten
+  quantity: 1
+  scryfall_uuid: 895a6b80-a5c6-400d-931c-589bfa684b39
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Carlos Dattoli
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Kirol, Attentive First-Year
+  quantity: 1
+  scryfall_uuid: a77c3a75-4880-4b86-ab1e-92f045abc484
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Evyn Fong
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Turncoat Kunoichi
+  quantity: 1
+  scryfall_uuid: 415d29b5-778b-4a22-bc9b-d3491e60d99d
+  tags: []
+  front: default
+  back: default
+  front_border: Creature2015FullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Manuel Castañón
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Witherbloom Apprentice
+  quantity: 1
+  scryfall_uuid: 2b8238f3-05af-46a1-a1d4-ddea0219c3bd
+  tags: []
+  front: default
+  back: default
+  front_border: Creature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Josh Hass
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+settings:
+  default_back_uri: ./art/backs/black.png
