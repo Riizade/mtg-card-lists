@@ -9,7 +9,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Leonardo Borazio
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Momo, Friendly Flier
   quantity: 1
   scryfall_uuid: c472ef84-a632-4ad7-853c-60588a7a4b12
@@ -20,7 +36,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Brandon L. Hunt
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Momo, Playful Pet
   quantity: 1
   scryfall_uuid: 9350bf4a-fa12-4867-b31f-1f1394d99571
@@ -31,7 +63,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Awanqi (Angela Wang)
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Invasion Reinforcements
   quantity: 1
   scryfall_uuid: b8845bba-d116-43cd-8ae0-e553f3324d66
@@ -42,7 +90,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yuhong Ding
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Jeong Jeong's Deserters
   quantity: 1
   scryfall_uuid: 060966f9-5e56-4512-9ef3-2b216daf093c
@@ -53,7 +117,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Leonardo Borazio
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: South Pole Voyager
   quantity: 1
   scryfall_uuid: 04b58759-e9a2-46c6-b0ce-82f550c5c38d
@@ -64,7 +144,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tition
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Water Tribe Rallier
   quantity: 1
   scryfall_uuid: 4e744b6c-1c2f-451a-818a-5ee7785b5213
@@ -75,7 +171,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Boell Oyino
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Earth Kingdom Jailer
   quantity: 1
   scryfall_uuid: 9207362c-3605-4794-803f-ad1d0175fcca
@@ -86,7 +198,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Danciao
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Momo, Rambunctious Rascal
   quantity: 1
   scryfall_uuid: 1ce491a2-bb43-48fc-acc7-273bc7f418d5
@@ -97,7 +225,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tomoyo Asatani
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Suki, Courageous Rescuer
   quantity: 1
   scryfall_uuid: f4e73660-ca67-4587-9aac-02154e984861
@@ -108,7 +252,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tky
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Aang, the Last Airbender
   quantity: 1
   scryfall_uuid: 245e008c-e073-443f-9592-6f628c0026ec
@@ -119,7 +279,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yueko
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Appa, Steadfast Guardian
   quantity: 1
   scryfall_uuid: 829d91e9-4878-4e55-a262-ac0d55b65d4e
@@ -130,7 +306,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Maël Ollivier-Henry
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Hakoda, Selfless Commander
   quantity: 1
   scryfall_uuid: 3fdb2f5f-c881-4c10-8787-d37a4ee57aa4
@@ -141,7 +333,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rafater
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Master Piandao
   quantity: 1
   scryfall_uuid: 3e4a042c-f2a6-45e7-9444-acd1ca838b87
@@ -152,7 +360,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Brian Yuen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Appa, Loyal Sky Bison
   quantity: 1
   scryfall_uuid: a9b2a843-c6fe-4d19-801e-1538e4381ab0
@@ -163,7 +387,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tomoyo Asatani
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Enter the Avatar State
   quantity: 1
   scryfall_uuid: a8f3d2cb-d073-4df8-8769-49612628a377
@@ -174,7 +414,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Shiren
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Airbender's Reversal
   quantity: 1
   scryfall_uuid: 6b7078e4-2892-4b5f-83ab-90369e0d6dba
@@ -185,7 +441,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kotakan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Razor Rings
   quantity: 1
   scryfall_uuid: b05cfee5-ee59-4df6-a5f6-d9ef0fa7f98a
@@ -196,7 +468,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Norikatsu Miyoshi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sandbenders' Storm
   quantity: 1
   scryfall_uuid: b3bf4a25-4329-4318-870a-2b06aa620dc4
@@ -207,7 +495,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Robin Har
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: United Front
   quantity: 1
   scryfall_uuid: d347caf8-0c12-401f-9e33-9978cb347f89
@@ -218,7 +522,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mengxuan Li
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Avatar's Wrath
   quantity: 1
   scryfall_uuid: a24b3b8a-7742-4aa1-8da9-162dd1d49441
@@ -229,7 +549,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ainezu
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Path to Redemption
   quantity: 1
   scryfall_uuid: f936d64a-0db4-49c1-8a57-6d99e012a555
@@ -240,7 +576,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Hokyoung Kim
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Aang's Iceberg
   quantity: 1
   scryfall_uuid: 720fbd87-b1c1-4b3b-97a1-46b943b115e3
@@ -251,7 +603,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Matteo Bassini
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Team Avatar
   quantity: 1
   scryfall_uuid: a9a5f6f7-f04d-477f-b67f-fd01a5dcc0f5
@@ -262,7 +630,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Bun Toujo
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Legend of Yangchen
   quantity: 1
   scryfall_uuid: a60e8f23-90b2-4bc6-bd54-a95055556389
@@ -273,7 +657,23 @@ cards:
   back_border: CreatureLegendary
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kuno
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Benevolent River Spirit
   quantity: 1
   scryfall_uuid: 7ffb79cd-d170-4047-89c8-6e85188f30da
@@ -284,7 +684,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mizutametori
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Forecasting Fortune Teller
   quantity: 1
   scryfall_uuid: 023e7ad4-6af0-4f29-a716-27a313974227
@@ -295,7 +711,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Hisashi Momose
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Knowledge Seeker
   quantity: 1
   scryfall_uuid: 8554e862-f78a-42f5-b876-076aac6c9504
@@ -306,7 +738,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Shiren
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Wan Shi Tong, Librarian
   quantity: 1
   scryfall_uuid: e20da6b5-1057-4a28-9e85-07de714e262f
@@ -317,7 +765,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ryota Murayama
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Katara, Bending Prodigy
   quantity: 1
   scryfall_uuid: e8372167-383f-4302-a8ea-b6bf495c870c
@@ -328,7 +792,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mephisto
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: North Pole Patrol
   quantity: 1
   scryfall_uuid: c2c0c138-5b61-4949-8431-4a6d458ead6a
@@ -339,7 +819,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rose Benjamin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Mechanist, Aerial Artisan
   quantity: 1
   scryfall_uuid: d638ce04-cff8-4253-95f6-4ebdcfe01309
@@ -350,7 +846,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Le Vuong
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ty Lee, Chi Blocker
   quantity: 1
   scryfall_uuid: 4d2e5f2b-993a-48b1-834e-a4fe18e119ae
@@ -361,7 +873,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Gemi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Teo, Spirited Glider
   quantity: 1
   scryfall_uuid: 66906ed4-baac-4be0-9359-34f453d1a04a
@@ -372,7 +900,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Robin Har
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Yue, the Moon Spirit
   quantity: 1
   scryfall_uuid: ecdac50f-c639-43fc-a03e-d488fac96ae2
@@ -383,7 +927,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yuumei
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Unagi of Kyoshi Island
   quantity: 1
   scryfall_uuid: 0ecd8b38-9ee5-41a5-9b93-21c33fc1a6ff
@@ -394,7 +954,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Miho Midorikawa
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Giant Koi
   quantity: 1
   scryfall_uuid: 3938ec1f-979c-48e5-bb13-bebace006a8f
@@ -405,7 +981,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nathaniel Himawan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Accumulate Wisdom
   quantity: 1
   scryfall_uuid: a6335319-6c92-40d4-ab2d-c06c79049c30
@@ -416,7 +1008,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Gemi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: It'll Quench Ya!
   quantity: 1
   scryfall_uuid: 47c25e41-f43c-4447-81b5-b9631448bd29
@@ -427,7 +1035,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nathaniel Himawan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lost Days
   quantity: 1
   scryfall_uuid: db8e88e3-0931-403f-90e7-3c22c0b61dac
@@ -438,7 +1062,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Matteo Bassini
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sokka's Haiku
   quantity: 1
   scryfall_uuid: 004be4bc-ac3c-4026-8d36-f4687ab18c70
@@ -449,7 +1089,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Bun Toujo
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Boomerang Basics
   quantity: 1
   scryfall_uuid: 17ab958a-abc6-472e-ad6a-97c731d89c74
@@ -460,7 +1116,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tubaki Halsame
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Spirit Water Revival
   quantity: 1
   scryfall_uuid: eadded94-3c18-43a9-bde9-f7ec86a98cce
@@ -471,7 +1143,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Enishi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Waterbending Lesson
   quantity: 1
   scryfall_uuid: 4f81e3b5-a0a9-4764-8c2d-b499ce1740b4
@@ -482,7 +1170,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Sylvain Sarrailh
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Invasion Submersible
   quantity: 1
   scryfall_uuid: af5299f5-1633-4c07-ade5-fd47e29ea4aa
@@ -493,7 +1197,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Sylvain Sarrailh
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Honest Work
   quantity: 1
   scryfall_uuid: 57e0ccb0-22f0-4e4d-9a47-c4fec2c7f251
@@ -504,7 +1224,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: ikeda_cpt
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Watery Grasp
   quantity: 1
   scryfall_uuid: 26bcff57-428e-4f30-a153-a778fbfc437d
@@ -515,7 +1251,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rose Benjamin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Legend of Kuruk
   quantity: 1
   scryfall_uuid: 5e9a53d3-7f2f-4a9c-9516-0713da740478
@@ -526,7 +1278,23 @@ cards:
   back_border: CreatureLegendary
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Takayama Toshiaki
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Callous Inspector
   quantity: 1
   scryfall_uuid: f22610e9-6b14-4914-bb67-bd6723bec9aa
@@ -537,7 +1305,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Enishi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Corrupt Court Official
   quantity: 1
   scryfall_uuid: 505c6215-4006-4c4f-897a-be051cb73fa7
@@ -548,7 +1332,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Drew Baker
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Joo Dee, One of Many
   quantity: 1
   scryfall_uuid: 7ae1439f-a0c4-42c2-a4f3-8851defa981e
@@ -559,7 +1359,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Olena Richards
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: June, Bounty Hunter
   quantity: 1
   scryfall_uuid: 148bbaab-bc7b-46ab-8e18-ade69d71d847
@@ -570,7 +1386,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Shiren
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mai, Scornful Striker
   quantity: 1
   scryfall_uuid: aaf2c3e2-7941-49a6-9299-7135690f01e1
@@ -581,7 +1413,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Hori Airi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Azula, Ruthless Firebender
   quantity: 1
   scryfall_uuid: 5ebfcdf7-44a9-4b8c-afba-ad2d2d8edc24
@@ -592,7 +1440,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rose Benjamin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Boiling Rock Rioter
   quantity: 1
   scryfall_uuid: 7fa397df-99c4-4ea8-9ec1-836626ddcca4
@@ -603,7 +1467,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Airi Yoshihisa
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fire Nation Engineer
   quantity: 1
   scryfall_uuid: 5daba108-277d-46c8-ac35-7610f4786813
@@ -614,7 +1494,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Norikatsu Miyoshi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Raven Eagle
   quantity: 1
   scryfall_uuid: 2262f24b-db6b-4f86-96d0-47a20fc015ab
@@ -625,7 +1521,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Robin Olausson
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Azula, On the Hunt
   quantity: 1
   scryfall_uuid: 1335a145-248a-4f1e-8760-9a5d531e14e3
@@ -636,7 +1548,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Toraji
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Koh, the Face Stealer
   quantity: 1
   scryfall_uuid: 28f6fa32-5058-4c29-9ba8-9d8f2057eb6d
@@ -647,7 +1575,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Eduardo Francisco
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Azula Always Lies
   quantity: 1
   scryfall_uuid: 416b9207-a2af-44d1-9b87-4943f6e46d42
@@ -658,7 +1602,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Robin Har
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Heartless Act
   quantity: 1
   scryfall_uuid: ec166c2f-b70f-4598-afee-c2df1177e452
@@ -669,7 +1629,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ryan Pancoast
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sold Out
   quantity: 1
   scryfall_uuid: 1affba6d-2cca-4cdf-8690-1e23ffbe8462
@@ -680,7 +1656,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nijihayashi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Deadly Precision
   quantity: 1
   scryfall_uuid: 4661daf6-d960-4278-8946-70948efaf99d
@@ -691,7 +1683,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yuhong Ding
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dai Li Indoctrination
   quantity: 1
   scryfall_uuid: eca652b8-44f1-4bd9-b4bf-036eeead13aa
@@ -702,7 +1710,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Lius Lasahido
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Day of Black Sun
   quantity: 1
   scryfall_uuid: f42f6bd4-dc1d-4b5f-9489-2cb109a68904
@@ -713,7 +1737,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Matteo Bassini
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Epic Downfall
   quantity: 1
   scryfall_uuid: 0774186c-0551-4c1b-a273-e8374da1b72a
@@ -724,7 +1764,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Eric Deschamps
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Feed the Swarm
   quantity: 1
   scryfall_uuid: a3bad7f1-0b02-4499-a2e2-4625d01e3710
@@ -735,7 +1791,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nino Is
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ozai's Cruelty
   quantity: 1
   scryfall_uuid: 22cad680-d46a-4589-a633-b6ee9a78d61e
@@ -746,7 +1818,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: ikeda_cpt
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Phoenix Fleet Airship
   quantity: 1
   scryfall_uuid: b51d3259-c41c-4f64-9666-0a9e676c812f
@@ -757,7 +1845,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Thanh Tuấn
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Fire Nation Drill
   quantity: 1
   scryfall_uuid: 54d762f6-e131-480f-b294-10f5a63d9c98
@@ -768,7 +1872,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Brandon L. Hunt
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Obsessive Pursuit
   quantity: 1
   scryfall_uuid: e837e29c-d241-43c8-8f45-05056e082b60
@@ -779,7 +1899,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ichiko Milk Tei
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Swampsnare Trap
   quantity: 1
   scryfall_uuid: 6348b6bf-08a7-45f0-8b2d-2827ab89f21c
@@ -790,7 +1926,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yoshioka
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Rise of Sozin
   quantity: 1
   scryfall_uuid: 14eadf46-90c2-4376-8183-6a922a60174d
@@ -801,7 +1953,23 @@ cards:
   back_border: CreatureLegendary
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mitori
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fire Nation Cadets
   quantity: 1
   scryfall_uuid: 1a3a862c-9c9a-41cd-94d1-2d0cff22a6cd
@@ -812,7 +1980,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rafater
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fire Sages
   quantity: 1
   scryfall_uuid: 71a9fa44-306f-417a-a9d9-991aff95025c
@@ -823,7 +2007,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yuu Fujiki
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Firebending Student
   quantity: 1
   scryfall_uuid: 79d1889c-4b3d-47d4-847e-4343cdaf9750
@@ -834,7 +2034,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Airi Yoshihisa
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mai, Jaded Edge
   quantity: 1
   scryfall_uuid: 732e6bc9-0798-4c00-aea0-5ef4298b45f5
@@ -845,7 +2061,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Toraji
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Iroh, Firebending Instructor
   quantity: 1
   scryfall_uuid: fd440b2c-e843-4760-a467-5f61f1d74314
@@ -856,7 +2088,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Eilene Cherie
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ty Lee, Artful Acrobat
   quantity: 1
   scryfall_uuid: dcd9df24-272b-4aa1-b05f-6ee6b3d3dfe7
@@ -867,7 +2115,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rose Benjamin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fire Nation Archers
   quantity: 1
   scryfall_uuid: e83ee667-7726-42e9-9483-6cfc6f9ce638
@@ -878,7 +2142,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Shiyu
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Smellerbee, Rebel Fighter
   quantity: 1
   scryfall_uuid: 2f1cae39-6120-4630-83c6-9ededc96308c
@@ -889,7 +2169,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Enishi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Wartime Protestors
   quantity: 1
   scryfall_uuid: 17310896-20e9-4844-9c3e-9e114c619bfe
@@ -900,7 +2196,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yosuke Adachi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Zuko, Exiled Prince
   quantity: 1
   scryfall_uuid: 6a73b372-9c0e-4a85-89d2-440163330687
@@ -911,7 +2223,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nijihayashi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Combustion Man
   quantity: 1
   scryfall_uuid: 86f7399d-6876-4e85-ba34-ff1f97dc144a
@@ -922,7 +2250,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Pisukev
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ran and Shaw
   quantity: 1
   scryfall_uuid: 6436e2d0-989f-47e3-90bc-9cde82a2ddb4
@@ -933,7 +2277,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Miho Midorikawa
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Firebending Lesson
   quantity: 1
   scryfall_uuid: fa940e68-010e-4b68-be8a-555d7068f7b4
@@ -944,7 +2304,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Toni Infante
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Combustion Technique
   quantity: 1
   scryfall_uuid: fdcca576-2ef2-44cc-9944-a92bd146444a
@@ -955,7 +2331,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Devin Elle Kurtz
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lightning Strike
   quantity: 1
   scryfall_uuid: 5787b0e0-9469-4a6d-8b81-c992628e28c0
@@ -966,7 +2358,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jo Cordisco
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fire Nation Attacks
   quantity: 1
   scryfall_uuid: 9cc10845-8989-46ca-a57a-fd728fca0729
@@ -977,7 +2385,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Claudiu-Antoniu Magherusan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Jet's Brainwashing
   quantity: 1
   scryfall_uuid: b17e8bdb-4b91-4a9d-bfe1-8a55f0bd040b
@@ -988,7 +2412,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Enishi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Zuko's Offense
   quantity: 1
   scryfall_uuid: efc6eea1-9872-47e5-a3bc-3c8c1b9705be
@@ -999,7 +2439,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jo Cordisco
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Explosive Shot
   quantity: 1
   scryfall_uuid: 37599371-29e6-4fae-a236-6a566bfeeff7
@@ -1010,7 +2466,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Slawek Fedorczuk
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Iroh's Demonstration
   quantity: 1
   scryfall_uuid: 18d15fed-1f8f-4407-a221-a47ce75001a8
@@ -1021,7 +2493,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Song Qijin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bumi Bash
   quantity: 1
   scryfall_uuid: e8895479-26cb-4ee8-98ca-6d46c43f0dbd
@@ -1032,7 +2520,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Maël Ollivier-Henry
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Twin Blades
   quantity: 1
   scryfall_uuid: dc399ae0-36b5-4c92-9fe2-138caf8d7a86
@@ -1043,7 +2547,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jo Cordisco
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Firebender Ascension
   quantity: 1
   scryfall_uuid: 2929b702-03c6-4cf0-a3f7-61b27f4803be
@@ -1054,7 +2574,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tetsuko
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fated Firepower
   quantity: 1
   scryfall_uuid: 51352127-1f86-42e9-b4ca-2fd58b14e86b
@@ -1065,7 +2601,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Takayama Toshiaki
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Cave of Two Lovers
   quantity: 1
   scryfall_uuid: 50bf5c8b-f218-46b7-843c-8d8083f02fd2
@@ -1076,7 +2628,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ittoku
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Legend of Roku
   quantity: 1
   scryfall_uuid: 95f2f5af-d405-4534-8683-5a9001f997b4
@@ -1087,7 +2655,23 @@ cards:
   back_border: CreatureLegendary
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Song Qijin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Animal Attendant
   quantity: 1
   scryfall_uuid: a3e6ff4d-bf7d-488f-a02f-f40e7f8761ca
@@ -1098,7 +2682,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Phima
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Badgermole Cub
   quantity: 1
   scryfall_uuid: 340c5799-4964-44dd-8c48-8f3f3aba5211
@@ -1109,7 +2709,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nathaniel Himawan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Great Divide Guide
   quantity: 1
   scryfall_uuid: cc3063ec-5ea6-46c1-8331-c740cbaf6c76
@@ -1120,7 +2736,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Song Qijin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Haru, Hidden Talent
   quantity: 1
   scryfall_uuid: 9657a0c0-2c26-4331-8e62-f032265a01af
@@ -1131,7 +2763,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mitori
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Raucous Audience
   quantity: 1
   scryfall_uuid: ccd03ec3-0fae-48b2-9f04-9c57d2f94267
@@ -1142,7 +2790,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: ikeda_cpt
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Rebellious Captives
   quantity: 1
   scryfall_uuid: e64a4a8b-323c-4c8b-92af-1a3295799e65
@@ -1153,7 +2817,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ittoku
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Unlucky Cabbage Merchant
   quantity: 1
   scryfall_uuid: 0a838009-b115-4497-b35d-682e41ead7db
@@ -1164,7 +2844,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Thomas Chamberlain-Keen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Earthbending Student
   quantity: 1
   scryfall_uuid: 1f068ce9-f4c2-4d40-bfa3-7f21f6d3b0b7
@@ -1175,7 +2871,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Le Vuong
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ostrich-Horse
   quantity: 1
   scryfall_uuid: 5ca3fd45-9301-44ef-afc0-4d7999d66d36
@@ -1186,7 +2898,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Pablo Rivera
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Cabbage Merchant
   quantity: 1
   scryfall_uuid: 65ffb473-0a11-44c2-9311-f39d69eef713
@@ -1197,7 +2925,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Patrick Gañas
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Toph, the Blind Bandit
   quantity: 1
   scryfall_uuid: ff68fa7b-8065-407b-a8b4-bfbb14f1c99c
@@ -1208,7 +2952,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yueko
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Earth Kingdom General
   quantity: 1
   scryfall_uuid: 8688fce5-74b1-41e1-a59a-05a3878a75cb
@@ -1219,7 +2979,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alexandr Leskinen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Boulder, Ready to Rumble
   quantity: 1
   scryfall_uuid: ec27a466-5457-44c6-a842-1de7d3788d66
@@ -1230,7 +3006,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Thanh Tuấn
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Earth King
   quantity: 1
   scryfall_uuid: a8d5dca6-381a-4361-b265-27de8d04335c
@@ -1241,7 +3033,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ryota Murayama
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bumi, King of Three Trials
   quantity: 1
   scryfall_uuid: a268697b-22b0-4e1b-a5b6-d9be95025e57
@@ -1252,7 +3060,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Thomas Chamberlain-Keen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Flopsie, Bumi's Buddy
   quantity: 1
   scryfall_uuid: 082f4abc-c09f-42cf-977f-060875dfd411
@@ -1263,7 +3087,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alexandr Leskinen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Origin of Metalbending
   quantity: 1
   scryfall_uuid: 25749f9a-260d-4bdc-bd28-429c12faa4a5
@@ -1274,7 +3114,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Pauline Voss
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Rocky Rebuke
   quantity: 1
   scryfall_uuid: 52fd910f-6d42-41f5-a4be-f375aa254ea2
@@ -1285,7 +3141,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Hokyoung Kim
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Allies at Last
   quantity: 1
   scryfall_uuid: 11a77897-2aba-4a9b-bbe6-1768ca9f12cb
@@ -1296,7 +3168,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Evan Shipard
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Seismic Sense
   quantity: 1
   scryfall_uuid: a7b93c2a-c478-4734-8aca-03f3e9c11b20
@@ -1307,7 +3195,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jo Cordisco
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Shared Roots
   quantity: 1
   scryfall_uuid: e7847ba5-e85e-417f-96c0-aef2e6f83994
@@ -1318,7 +3222,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alfven Ato
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: True Ancestry
   quantity: 1
   scryfall_uuid: 8c55b333-dc8b-4332-895b-eec5eb45543f
@@ -1329,7 +3249,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chibi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Earth Rumble
   quantity: 1
   scryfall_uuid: 62730505-56f1-4043-a8b9-4fb7bc508b47
@@ -1340,7 +3276,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Olena Richards
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Earthbending Lesson
   quantity: 1
   scryfall_uuid: eccd63b3-3a3a-4661-9d6e-fb8152429bdb
@@ -1351,7 +3303,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Toni Infante
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Leaves from the Vine
   quantity: 1
   scryfall_uuid: b18995c2-efe3-46ca-8204-e2dc0e42f6e3
@@ -1362,7 +3330,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ittoku
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Earthbender Ascension
   quantity: 1
   scryfall_uuid: 590a58ab-5e98-4031-8aa6-ce396dc1429f
@@ -1373,7 +3357,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Logan Feliciano
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Legend of Kyoshi
   quantity: 1
   scryfall_uuid: 4887ce64-7c98-4bd7-95db-0c43ab71cc6e
@@ -1384,7 +3384,23 @@ cards:
   back_border: CreatureLegendary
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Thanh Tuấn
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Zuko's Exile
   quantity: 1
   scryfall_uuid: 9090b055-3406-4fed-a8c6-3f6353a9600e
@@ -1395,7 +3411,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Eiji Kaneda
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Barrels of Blasting Jelly
   quantity: 1
   scryfall_uuid: 4fd83083-3779-41f0-90a0-a00e3270e4e6
@@ -1406,7 +3438,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Salvatorre Zee Yazzie
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Kyoshi Battle Fan
   quantity: 1
   scryfall_uuid: 257e6862-96fe-4312-aff2-509d0696843a
@@ -1417,7 +3465,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: VEN
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Air Nomad Legacy
   quantity: 1
   scryfall_uuid: 10874416-fa4c-4aa3-b885-4351d011d208
@@ -1428,7 +3492,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: AKAGI
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Aang, Swift Savior
   quantity: 1
   scryfall_uuid: 82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4
@@ -1439,7 +3519,23 @@ cards:
   back_border: CreatureLegendary
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tetsuko
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sokka, Lateral Strategist
   quantity: 1
   scryfall_uuid: 1326c5db-4615-495f-8e30-376243d91352
@@ -1450,7 +3546,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Axel Sauerwald
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Katara, Water Tribe's Hope
   quantity: 1
   scryfall_uuid: 9ec03308-59a2-417a-938f-bdda75080e43
@@ -1461,7 +3573,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Toraji
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Foggy Swamp Spirit Keeper
   quantity: 1
   scryfall_uuid: cd624be9-e960-4485-a8a9-2d5f2dd51777
@@ -1472,7 +3600,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Airi Yoshihisa
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Messenger Hawk
   quantity: 1
   scryfall_uuid: 6a2946c0-0a40-4cdb-92c8-af2bafecca09
@@ -1483,7 +3627,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Daniel Romanovsky
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Azula, Cunning Usurper
   quantity: 1
   scryfall_uuid: daf30e1c-436d-4f23-b1d2-570619a4b7f5
@@ -1494,7 +3654,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Evyn Fong
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Hama, the Bloodbender
   quantity: 1
   scryfall_uuid: 6fa1197d-7b19-4d86-81e2-5c87de87757b
@@ -1505,7 +3681,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Le Vuong
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Vindictive Warden
   quantity: 1
   scryfall_uuid: 0f34de05-39a9-425f-a3b4-3a9d46c917ac
@@ -1516,7 +3708,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jo Cordisco
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Cruel Administrator
   quantity: 1
   scryfall_uuid: 9d70707b-2e25-40b1-80a8-9a5492bca7e2
@@ -1527,7 +3735,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Norikatsu Miyoshi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ozai, the Phoenix King
   quantity: 1
   scryfall_uuid: a98b1550-4609-4a2f-9371-4afe1cdc613e
@@ -1538,7 +3762,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kekai Kotaki
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bitter Work
   quantity: 1
   scryfall_uuid: 3e8de6a9-9859-4ed2-8ece-ef80a7209be9
@@ -1549,7 +3789,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Bun Toujo
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Uncle Iroh
   quantity: 1
   scryfall_uuid: 5c88672c-0eba-4e93-a0ec-30bbb1bb7661
@@ -1560,7 +3816,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kieran Yanner
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Toph, Hardheaded Teacher
   quantity: 1
   scryfall_uuid: 3b36026b-15fb-4eeb-9cb3-266f295e4375
@@ -1571,7 +3843,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ruwen Liu
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bumi, Unleashed
   quantity: 1
   scryfall_uuid: b20a5185-7e31-4fc9-be11-9423bfc389bf
@@ -1582,7 +3870,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Toni Infante
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Earth King's Lieutenant
   quantity: 1
   scryfall_uuid: 6a431eaf-13a0-4052-b887-ca477bb55847
@@ -1593,7 +3897,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nathaniel Himawan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: White Lotus Reinforcements
   quantity: 1
   scryfall_uuid: 4c7e3e2f-d7ac-4d40-ab84-cb7efe06a316
@@ -1604,7 +3924,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kotakan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Suki, Kyoshi Warrior
   quantity: 1
   scryfall_uuid: 3e311480-04f8-4b8f-938e-1cc6d06b9902
@@ -1615,7 +3951,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yuhong Ding
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Earth Kingdom Soldier
   quantity: 1
   scryfall_uuid: 2d543d35-945a-4ffa-beb7-7c5d4f894f79
@@ -1626,7 +3978,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rafater
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Pretending Poxbearers
   quantity: 1
   scryfall_uuid: d1af91a5-8681-4a05-910d-96f7a819bfaa
@@ -1637,7 +4005,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Salvatorre Zee Yazzie
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sandbender Scavengers
   quantity: 1
   scryfall_uuid: c2584dda-a1e6-41d4-ae50-a073db428cee
@@ -1648,7 +4032,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alexander Forssberg
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Tolls of War
   quantity: 1
   scryfall_uuid: d822b9ad-a787-4355-88c2-07ae2bd3a78e
@@ -1659,7 +4059,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jocelin Carmes
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Hei Bai, Spirit of Balance
   quantity: 1
   scryfall_uuid: 060d24e0-1567-41f1-ae8c-2d3b1834df3c
@@ -1670,7 +4086,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Tyler Smith
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Abandon Attachments
   quantity: 1
   scryfall_uuid: 74ca45a4-97ab-4255-9129-884e8b42b984
@@ -1681,7 +4113,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Shahab Alizadeh
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Professor Zei, Anthropologist
   quantity: 1
   scryfall_uuid: 27baccc0-7e25-4f39-be0d-31cd98ca0dc5
@@ -1692,7 +4140,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Pauline Voss
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sokka, Bold Boomeranger
   quantity: 1
   scryfall_uuid: 0d4788f3-ae08-4698-ac4f-c78a337981c2
@@ -1703,7 +4167,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Toni Infante
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dragonfly Swarm
   quantity: 1
   scryfall_uuid: 16be5cc4-b15a-4c5e-8a6e-05c87b519127
@@ -1714,7 +4194,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: John Di Giovanni
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Long Feng, Grand Secretariat
   quantity: 1
   scryfall_uuid: a3eb92fe-bc59-4472-9028-f368bd015609
@@ -1725,7 +4221,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Robin Har
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Beifong's Bounty Hunters
   quantity: 1
   scryfall_uuid: 993d8c56-068d-4708-a22c-486fc6f8fcf1
@@ -1736,7 +4248,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alexandr Leskinen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dai Li Agents
   quantity: 1
   scryfall_uuid: 9ddb8715-341b-400a-b6eb-f3f90518157c
@@ -1747,7 +4275,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Eduardo Francisco
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sun Warriors
   quantity: 1
   scryfall_uuid: e477d750-42d2-48c8-bc1f-8148d15d5f53
@@ -1758,7 +4302,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Boell Oyino
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Jet, Freedom Fighter
   quantity: 1
   scryfall_uuid: 9202c044-15e4-4218-a94d-16287ba19d69
@@ -1769,7 +4329,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Fahmi Fauzi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Hermitic Herbalist
   quantity: 1
   scryfall_uuid: 5d0ee441-a057-41b5-abb8-dc86864ac248
@@ -1780,7 +4356,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kozato
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Lion-Turtle
   quantity: 1
   scryfall_uuid: 8491585c-81d0-48be-8ed0-832e42fad9c6
@@ -1791,7 +4383,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yuumei
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: North Pole Gates
   quantity: 1
   scryfall_uuid: bcf7b9da-d35d-4338-b4d9-83e47dc058ee
@@ -1802,7 +4410,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andreas Rocha
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Serpent's Pass
   quantity: 1
   scryfall_uuid: ad87bff5-9b8c-44e4-a6d3-8cc71be9640a
@@ -1813,7 +4437,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Matteo Bassini
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Boiling Rock Prison
   quantity: 1
   scryfall_uuid: 1c2e2220-54d1-4180-93a0-964e3b0ba8b8
@@ -1824,7 +4464,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Matteo Bassini
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Omashu City
   quantity: 1
   scryfall_uuid: c21e413b-96ed-4ded-b567-f1647074ce5f
@@ -1835,7 +4491,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andreas Rocha
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Kyoshi Village
   quantity: 1
   scryfall_uuid: 8d5f3008-2af8-4e81-8847-1c91f524e747
@@ -1846,7 +4518,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Luc Courtois
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Misty Palms Oasis
   quantity: 1
   scryfall_uuid: 7cc29ddb-8f44-4493-985d-2fac35f9f34d
@@ -1857,7 +4545,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andreas Rocha
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Airship Engine Room
   quantity: 1
   scryfall_uuid: 0b98ba34-f251-4bd0-9d75-1d4445be5cfd
@@ -1868,7 +4572,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andreas Rocha
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Foggy Bottom Swamp
   quantity: 1
   scryfall_uuid: 226af626-873d-4bd2-b889-000f8316786f
@@ -1879,7 +4599,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dom Lay
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sun-Blessed Peak
   quantity: 1
   scryfall_uuid: ae04c862-095f-41d2-8aef-21036d5a0cdc
@@ -1890,7 +4626,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dom Lay
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Meditation Pools
   quantity: 1
   scryfall_uuid: cc078fc6-4470-473f-9e24-d2c470e09141
@@ -1901,7 +4653,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Luc Courtois
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Abandoned Air Temple
   quantity: 1
   scryfall_uuid: 761988b0-fb0e-45e7-97d3-cef259fe47b7
@@ -1912,7 +4680,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dom Lay
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Agna Qel'a
   quantity: 1
   scryfall_uuid: 501c24b4-26e4-47ac-8a5c-3289d937620e
@@ -1923,7 +4707,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dom Lay
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ba Sing Se
   quantity: 1
   scryfall_uuid: a8fd4587-7c30-4322-8f19-eb395d66c623
@@ -1934,7 +4734,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andreas Rocha
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fire Nation Palace
   quantity: 1
   scryfall_uuid: 372e7d4e-c011-423b-9e2c-af57fb0d5403
@@ -1945,7 +4761,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Awanqi (Angela Wang)
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Jasmine Dragon Tea Shop
   quantity: 1
   scryfall_uuid: 4487d299-1571-4d44-81bb-9bf54fb33fbc
@@ -1956,7 +4788,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Leanna Crossan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Realm of Koh
   quantity: 1
   scryfall_uuid: 191cbf96-5e92-4b83-aef7-d7ae65b8e555
@@ -1967,7 +4815,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andreas Rocha
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Rumble Arena
   quantity: 1
   scryfall_uuid: 3f5d2c38-663c-4f64-8cfc-c102462e82ef
@@ -1978,7 +4842,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Le Vuong
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ally
   quantity: 8
   scryfall_uuid: 3f9ab0ca-fe08-4d90-9c54-3137620647cb
@@ -1989,7 +4869,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alexandr Leskinen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bear
   quantity: 1
   scryfall_uuid: 1dbbdb0f-57a4-4b85-ba5c-1383f0efb3af
@@ -2000,7 +4896,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Brandon L. Hunt
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Clue
   quantity: 11
   scryfall_uuid: 98bdb578-e81e-40f9-9c06-b2867158baef
@@ -2011,7 +4923,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andreas Rocha
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Joo Dee, One of Many
   quantity: 3
   scryfall_uuid: 7ae1439f-a0c4-42c2-a4f3-8851defa981e
@@ -2022,7 +4950,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Olena Richards
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Phoenix Fleet Airship
   quantity: 3
   scryfall_uuid: bf9085bd-0ee0-4d8a-8deb-686a87b28c7a
@@ -2033,7 +4977,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ben Hill
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Experience
   quantity: 1
   scryfall_uuid: 1374bfa2-9714-486d-90aa-7a9b8d8ef3a8
@@ -2044,7 +5004,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: ''
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Food
   quantity: 5
   scryfall_uuid: db202f04-61e7-4e12-848e-6c1761956a58
@@ -2055,7 +5031,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andreas Rocha
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Soldier
   quantity: 5
   scryfall_uuid: 2de43b03-9ac5-4292-ab29-2dc6210ef3d9
@@ -2066,7 +5058,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jo Cordisco
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Soldier
   quantity: 3
   scryfall_uuid: 83313791-7d33-42bf-8ee7-05f17f88940a
@@ -2077,7 +5085,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Lius Lasahido
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Spirit
   quantity: 4
   scryfall_uuid: f59eba51-458a-40e0-b754-999f91d5d839
@@ -2088,6 +5112,22 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Avatar 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Valera Lutfullina
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 settings:
   default_back_uri: ./art/backs/black.png

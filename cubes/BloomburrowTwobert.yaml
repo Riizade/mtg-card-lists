@@ -9,7 +9,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aaron Miller
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Brightblade Stoat
   quantity: 1
   scryfall_uuid: df7fea2e-7414-4bc8-adb0-9342e174c009
@@ -20,7 +36,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Lius Lasahido
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Essence Channeler
   quantity: 1
   scryfall_uuid: 5aaf7e4c-4d5d-4acc-a834-e6c4a7629408
@@ -31,7 +63,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Wylie Beckert
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Jolly Gerbils
   quantity: 1
   scryfall_uuid: 0eab51d6-ba17-4a8c-8834-25db363f2b6b
@@ -42,7 +90,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Manuel Castañón
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lifecreed Duo
   quantity: 1
   scryfall_uuid: ca543405-5e12-48a0-9a77-082ac9bcb2f2
@@ -53,7 +117,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Lorenzo Mastroianni
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Valley Questcaller
   quantity: 1
   scryfall_uuid: ba629ca8-a368-4282-8a61-9bf6a5c217f0
@@ -64,7 +144,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Steve Prescott
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Warren Elder
   quantity: 1
   scryfall_uuid: 4bf20069-5a20-4f95-976b-6af2b69f3ad0
@@ -75,7 +171,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kaitlyn McCulley
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Harvestrite Host
   quantity: 1
   scryfall_uuid: 41762689-0c13-4d45-9d81-ba2afad980f8
@@ -86,7 +198,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Julie Dillon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Intrepid Rabbit
   quantity: 1
   scryfall_uuid: 4d70b99d-c8bf-4a56-8957-cf587fe60b81
@@ -97,7 +225,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Artur Treffner
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Jackdaw Savior
   quantity: 1
   scryfall_uuid: 121af600-6143-450a-9f87-12ce4833f1ec
@@ -108,7 +252,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alessandra Pisano
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Shrike Force
   quantity: 1
   scryfall_uuid: 306fec2c-d8b7-4f4b-8f58-10e3b9f3158f
@@ -119,7 +279,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Néstor Ossandón Leal
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Beza, the Bounding Spring
   quantity: 1
   scryfall_uuid: fc310a26-b6a0-4e42-98ab-bdfd7b06cb63
@@ -130,7 +306,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Martin Wittfooth
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Salvation Swan
   quantity: 1
   scryfall_uuid: b2656160-d319-4530-a6e5-c418596c3f12
@@ -141,7 +333,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Christina Kraus
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Star Charter
   quantity: 1
   scryfall_uuid: 0e209237-00f7-4bf0-8287-ccde02ce8e8d
@@ -152,7 +360,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Valera Lutfullina
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Warren Warleader
   quantity: 1
   scryfall_uuid: eb5237a0-5ac3-4ded-9f92-5f782a7bbbd7
@@ -163,7 +387,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Zack Stella
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Whiskervale Forerunner
   quantity: 1
   scryfall_uuid: 60a78d59-af31-4af9-95aa-2573fe553925
@@ -174,7 +414,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ryan Pancoast
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Driftgloom Coyote
   quantity: 1
   scryfall_uuid: d7ab2de3-3aea-461a-a74f-fb742cf8a198
@@ -185,7 +441,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Betty Jiang
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Parting Gust
   quantity: 1
   scryfall_uuid: 1086e826-94b8-4398-8a38-d8eacca56a43
@@ -196,7 +468,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nils Hamm
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Repel Calamity
   quantity: 1
   scryfall_uuid: d068192a-6270-4981-819d-4945fa4a2b83
@@ -207,7 +495,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ryan Pancoast
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sonar Strike
   quantity: 1
   scryfall_uuid: a50da179-751f-47a8-a547-8c4a291ed381
@@ -218,7 +522,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Julie Dillon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Hop to It
   quantity: 1
   scryfall_uuid: ee7207f8-5daa-42af-aeea-7a489047110b
@@ -229,7 +549,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Eelis Kyttanen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Season of the Burrow
   quantity: 1
   scryfall_uuid: 33bf9c60-4e58-48a4-8e53-abef7ab3b671
@@ -240,7 +576,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Serena Malyon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Starfall Invocation
   quantity: 1
   scryfall_uuid: 2aea38e6-ec58-4091-b27c-2761bdd12b13
@@ -251,7 +603,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rob Rey
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Carrot Cake
   quantity: 1
   scryfall_uuid: eb03bb4f-8b4b-417e-bfc6-294cd2186b2e
@@ -262,7 +630,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Forrest Imel
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Builder's Talent
   quantity: 1
   scryfall_uuid: 15fa581a-724e-4196-a9a3-ff84c54bdb7d
@@ -273,7 +657,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ovidio Cartagena
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Banishing Light
   quantity: 1
   scryfall_uuid: 25a06f82-ebdb-4dd6-bfe8-958018ce557c
@@ -284,7 +684,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Zoltan Boros
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Caretaker's Talent
   quantity: 1
   scryfall_uuid: ad5ea98a-e36e-4ab9-b4da-cc572f3777db
@@ -295,7 +711,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Lindsey Look
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mockingbird
   quantity: 1
   scryfall_uuid: ade32396-8841-4ba4-8852-d11146607f21
@@ -306,7 +738,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aurore Folny
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Azure Beastbinder
   quantity: 1
   scryfall_uuid: 211af1bf-910b-41a5-b928-f378188d1871
@@ -317,7 +765,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Adam Paquette
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dour Port-Mage
   quantity: 1
   scryfall_uuid: 6402133e-eed1-4a46-9667-8b7a310362c1
@@ -328,7 +792,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ryan Pancoast
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Kitsa, Otterball Elite
   quantity: 1
   scryfall_uuid: c8ff751a-ec64-41d5-b22c-2a483ad9a9b2
@@ -339,7 +819,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Zoltan Boros
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Plumecreed Escort
   quantity: 1
   scryfall_uuid: f71320ed-2f30-49ce-bcb0-19aebba3f0e8
@@ -350,7 +846,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Manuel Castañón
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Pollywog Prodigy
   quantity: 1
   scryfall_uuid: 292158eb-cef0-4807-a38f-c5686064b95a
@@ -361,7 +873,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Caroline Gariba
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Shoreline Looter
   quantity: 1
   scryfall_uuid: d5bf8cf0-419a-4dc9-9342-aad55c1af05a
@@ -372,7 +900,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: PINDURSKI
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Thundertrap Trainer
   quantity: 1
   scryfall_uuid: 9cf3af94-b7c8-415c-a5a1-d89967fd0bba
@@ -383,7 +927,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Matt Stewart
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Long River Lurker
   quantity: 1
   scryfall_uuid: 7c267719-cd03-4003-b281-e732d5e42a1e
@@ -394,7 +954,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Valera Lutfullina
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mindwhisker
   quantity: 1
   scryfall_uuid: aaa10f34-5bfd-4d87-8f07-58de3b0f5663
@@ -405,7 +981,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alexander Mokhov
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Valley Floodcaller
   quantity: 1
   scryfall_uuid: 90b12da0-f666-471d-95f5-15d8c9b31c92
@@ -416,7 +1008,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Victor Adame Minguez
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Splash Lasher
   quantity: 1
   scryfall_uuid: 362ee125-35a0-46cd-a201-e6797d12d33a
@@ -427,7 +1035,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Brian Valeza
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Knightfisher
   quantity: 1
   scryfall_uuid: c7fb7f4f-2153-4527-8f11-adbf508d3533
@@ -438,7 +1062,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jakob Eirich
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Daring Waverider
   quantity: 1
   scryfall_uuid: 19422406-0c1a-497e-bed1-708bc556491a
@@ -449,7 +1089,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Wisnu Tan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Eddymurk Crab
   quantity: 1
   scryfall_uuid: e6d45abe-4962-47d9-a54e-7e623ea8647c
@@ -460,7 +1116,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: PINDURSKI
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Into the Flood Maw
   quantity: 1
   scryfall_uuid: 50b9575a-53d9-4df7-b86c-cda021107d3f
@@ -471,7 +1143,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Danny Schwartz
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dazzling Denial
   quantity: 1
   scryfall_uuid: 8739f1ac-2e57-4b52-a7ff-cc8df5936aad
@@ -482,7 +1170,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kisung Koh
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dire Downdraft
   quantity: 1
   scryfall_uuid: f1931f22-974c-43ad-911e-684bf3f9995d
@@ -493,7 +1197,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Martin Wittfooth
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Spellgyre
   quantity: 1
   scryfall_uuid: f6f6620a-1d40-429d-9a0c-aaeb62adaa71
@@ -504,7 +1224,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alix Branwyn
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Splash Portal
   quantity: 1
   scryfall_uuid: adbaa356-28ba-487f-930a-a957d9960ab0
@@ -515,7 +1251,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Caio Monteiro
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Chart a Course
   quantity: 1
   scryfall_uuid: b005b866-b83c-4413-9db7-465f614a4029
@@ -526,7 +1278,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Olena Richards
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Pearl of Wisdom
   quantity: 1
   scryfall_uuid: 13cb9575-1138-4f99-8e90-0eaf00bdf4a1
@@ -537,7 +1305,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Julie Dillon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Season of Weaving
   quantity: 1
   scryfall_uuid: f5713bb4-bdd9-4253-b6b9-e590532ed773
@@ -548,7 +1332,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Wylie Beckert
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fortune Teller's Talent
   quantity: 1
   scryfall_uuid: a1d43877-20ab-4e84-a597-4b5e03a6bf90
@@ -559,7 +1359,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jarel Threat
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Stormchaser's Talent
   quantity: 1
   scryfall_uuid: a36e682d-b43d-4e08-bf5b-70d7e924dbe5
@@ -570,7 +1386,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Christina Kraus
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Blossombind
   quantity: 1
   scryfall_uuid: 382b83c0-bbbc-4db8-bc04-cfea79aed1b3
@@ -581,7 +1413,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Drew Tucker
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sugar Coat
   quantity: 1
   scryfall_uuid: fcacbe71-efb0-49e1-b2d0-3ee65ec6cf8b
@@ -592,7 +1440,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Gaboleps
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Kitnap
   quantity: 1
   scryfall_uuid: 085be5d1-fd85-46d1-ad39-a8aa75a06a96
@@ -603,7 +1467,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Irina Nordsol
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bonecache Overseer
   quantity: 1
   scryfall_uuid: 82defb87-237f-4b77-9673-5bf00607148f
@@ -614,7 +1494,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mila Pesic
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Iridescent Vinelasher
   quantity: 1
   scryfall_uuid: b2bc854c-4e72-48e0-a098-e3451d6e511d
@@ -625,7 +1521,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aaron Miller
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Osteomancer Adept
   quantity: 1
   scryfall_uuid: 7d8238dd-858f-466c-96de-986bd66861d7
@@ -636,7 +1548,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Daniel Zrom
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Persistent Marshstalker
   quantity: 1
   scryfall_uuid: 8b900c71-713b-4b7e-b4be-ad9f4aa0c139
@@ -647,7 +1575,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Greg Staples
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Starscape Cleric
   quantity: 1
   scryfall_uuid: 53a938a7-0154-4350-87cb-00da24ec3824
@@ -658,7 +1602,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Omar Rayyan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Valley Rotcaller
   quantity: 1
   scryfall_uuid: 4da80a9a-b1d5-4fc5-92f7-36946195d0c7
@@ -669,7 +1629,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Valera Lutfullina
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Darkstar Augur
   quantity: 1
   scryfall_uuid: 1c603751-1e2b-4c8e-a8d2-5c0876e7254f
@@ -680,7 +1656,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aurore Folny
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Moonstone Harbinger
   quantity: 1
   scryfall_uuid: 59e4aa8d-1d06-48db-b205-aa2f1392bbcb
@@ -691,7 +1683,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kevin Sidharta
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Thought-Stalker Warlock
   quantity: 1
   scryfall_uuid: 42e80284-d489-493b-ae92-95b742d07cb3
@@ -702,7 +1710,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Daniel Ljunggren
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Downwind Ambusher
   quantity: 1
   scryfall_uuid: 55cfd628-933a-4d3d-b2e5-70bc86960d1c
@@ -713,7 +1737,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aaron Miller
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Maha, Its Feathers Night
   quantity: 1
   scryfall_uuid: cf3320ec-c4e8-405a-982d-e009c58c9e21
@@ -724,7 +1764,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alessandra Pisano
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Rottenmouth Viper
   quantity: 1
   scryfall_uuid: 735e79b1-a3a9-4ddf-8bbc-f756c8a0452b
@@ -735,7 +1791,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrea Piparo
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Wick's Patrol
   quantity: 1
   scryfall_uuid: 5fa0c53d-fe7b-4b8b-ad81-7967ca318ff7
@@ -746,7 +1818,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dmitry Burmak
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Huskburster Swarm
   quantity: 1
   scryfall_uuid: ed2f61d7-4eb0-41c5-8a34-a0793c2abc51
@@ -757,7 +1845,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: John Tedrick
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Feed the Cycle
   quantity: 1
   scryfall_uuid: 7e017ff8-2936-4a1b-bece-00004cfbad06
@@ -768,7 +1872,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Donato Giancola
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Savor
   quantity: 1
   scryfall_uuid: 1397f689-dca1-4d35-864b-92c5606afb9a
@@ -779,7 +1899,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kev Walker
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Consumed by Greed
   quantity: 1
   scryfall_uuid: e50acc41-3517-42db-b1d3-1bdfd7294d84
@@ -790,7 +1926,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mathias Kollros
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Nocturnal Hunger
   quantity: 1
   scryfall_uuid: 742c0409-9abd-4559-b52e-932cc90c531a
@@ -801,7 +1953,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Sam Guay
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Hazel's Nocturne
   quantity: 1
   scryfall_uuid: 239363df-4de8-4b64-80fc-a1f4b5c36027
@@ -812,7 +1980,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dominik Mayer
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Early Winter
   quantity: 1
   scryfall_uuid: 5030e6ac-211d-4145-8c87-998a8351a467
@@ -823,7 +2007,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrew Mar
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ruthless Negotiation
   quantity: 1
   scryfall_uuid: c7f4360c-8d68-4058-b9ec-da9948cb060d
@@ -834,7 +2034,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rhonda Libbey
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Cruelclaw's Heist
   quantity: 1
   scryfall_uuid: cab4539a-0157-4cbe-b50f-6e2575df74e9
@@ -845,7 +2061,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Brian Valeza
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fell
   quantity: 1
   scryfall_uuid: c96ac326-de44-470b-a592-a4c2a052c091
@@ -856,7 +2088,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: A. M. Sartor
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Coiling Rebirth
   quantity: 1
   scryfall_uuid: 96d5de3e-0440-4dd1-899c-ab40c0752343
@@ -867,7 +2115,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rovina Cai
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Season of Loss
   quantity: 1
   scryfall_uuid: cc540652-916b-45c5-ae5a-0a0bc557cee1
@@ -878,7 +2142,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dominik Mayer
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Scavenger's Talent
   quantity: 1
   scryfall_uuid: 9a52b7fe-87ae-425b-85fd-b24e6e0395f1
@@ -889,7 +2169,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Seaman
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bandit's Talent
   quantity: 1
   scryfall_uuid: 485dc8d8-9e44-4a0f-9ff6-fa448e232290
@@ -900,7 +2196,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Volkan Baǵa
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Heartfire Hero
   quantity: 1
   scryfall_uuid: 48ace959-66b2-40c8-9bff-fd7ed9c99a82
@@ -911,7 +2223,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jakub Kasper
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Hired Claw
   quantity: 1
   scryfall_uuid: 1ae41080-0d67-4719-adb2-49bf2a268b6c
@@ -922,7 +2250,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Quintin Gleim
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Agate Instigator
   quantity: 1
   scryfall_uuid: 9f838603-f7cd-497d-8d2b-d4cca03c1af7
@@ -933,7 +2277,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Quintin Gleim
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Brazen Collector
   quantity: 1
   scryfall_uuid: 78b55a58-c669-4dc6-aa63-5d9dff52e613
@@ -944,7 +2304,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aldo Domínguez
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Coruscation Mage
   quantity: 1
   scryfall_uuid: dc2c1de0-6233-469a-be72-a050b97d2c8f
@@ -955,7 +2331,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Gaboleps
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Emberheart Challenger
   quantity: 1
   scryfall_uuid: 0035082e-bb86-4f95-be48-ffc87fe5286d
@@ -966,7 +2358,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Rahn
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Manifold Mouse
   quantity: 1
   scryfall_uuid: db3832b5-e83f-4569-bd49-fb7b86fa2d47
@@ -977,7 +2385,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Randy Vargas
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Raccoon Rallier
   quantity: 1
   scryfall_uuid: b5b5180f-5a1c-4df8-9019-195e65a50ce3
@@ -988,7 +2412,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Borja Pindado
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Byway Barterer
   quantity: 1
   scryfall_uuid: f41fc718-641b-4f32-a8c1-3e5591a05bf8
@@ -999,7 +2439,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ryan Pancoast
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Hearthborn Battler
   quantity: 1
   scryfall_uuid: bef1cf5c-9738-4062-8cb1-87a372d36687
@@ -1010,7 +2466,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Zoltan Boros
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Valley Flamecaller
   quantity: 1
   scryfall_uuid: a0812db4-b7d1-4cf7-aaa5-9c0e784079a1
@@ -1021,7 +2493,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Justin Gerard
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Brambleguard Captain
   quantity: 1
   scryfall_uuid: e200b8bf-f2f3-4157-8e04-02baf07a963e
@@ -1032,7 +2520,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Quintin Gleim
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Teapot Slinger
   quantity: 1
   scryfall_uuid: 30506844-349f-4b68-8cc1-d028c1611cc7
@@ -1043,7 +2547,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Wisnu Tan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dragonhawk, Fate's Tempest
   quantity: 1
   scryfall_uuid: 8659789c-6a2c-439f-a348-b9b1b06c55b8
@@ -1054,7 +2574,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Victor Adame Minguez
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Quaketusk Boar
   quantity: 1
   scryfall_uuid: 2f2b7fd3-a139-49ea-8a89-b64261e868ef
@@ -1065,7 +2601,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrew Mar
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Reptilian Recruiter
   quantity: 1
   scryfall_uuid: 81dec453-c9d7-42cb-980a-c82f82bede76
@@ -1076,7 +2628,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Joshua Cairos
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Blooming Blast
   quantity: 1
   scryfall_uuid: 0cd92a83-cec3-4085-a929-3f204e3e0140
@@ -1087,7 +2655,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jakob Eirich
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Rabid Gnaw
   quantity: 1
   scryfall_uuid: 2f815bae-820a-49f6-8eed-46f658e7b6ff
@@ -1098,7 +2682,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mark Behm
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Take Out the Trash
   quantity: 1
   scryfall_uuid: 7a1c6f00-af4c-4d35-b682-6c0e759df9a5
@@ -1109,7 +2709,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Fiona Hsieh
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Valley Rally
   quantity: 1
   scryfall_uuid: b6178258-1ad6-4122-a56f-6eb7d0611e84
@@ -1120,7 +2736,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Sidharth Chaturvedi
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Magma Spray
   quantity: 1
   scryfall_uuid: 67b9fcc4-51d8-410b-9f36-fe6cc45e2b25
@@ -1131,7 +2763,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Svetlin Velinov
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Playful Shove
   quantity: 1
   scryfall_uuid: 07956edf-34c1-4218-9784-ddbca13e380c
@@ -1142,7 +2790,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Zoltan Boros
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Agate Assault
   quantity: 1
   scryfall_uuid: 7dd9946b-515e-4e0d-9da2-711e126e9fa6
@@ -1153,7 +2817,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Slawomir Maniak
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Wildfire Howl
   quantity: 1
   scryfall_uuid: 7392d397-9836-4df2-944d-c930c9566811
@@ -1164,7 +2844,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Manuel Castañón
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Season of the Bold
   quantity: 1
   scryfall_uuid: 84352565-558b-4f9b-a411-532147806a78
@@ -1175,7 +2871,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Eli Minaya
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Blacksmith's Talent
   quantity: 1
   scryfall_uuid: 4bb318fa-481d-40a7-978e-f01b49101ae0
@@ -1186,7 +2898,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Vincent Christiaens
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mistbreath Elder
   quantity: 1
   scryfall_uuid: e5246540-5a84-41d8-9e30-8e7a6c0e84e1
@@ -1197,7 +2925,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jason Kang
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Pawpatch Recruit
   quantity: 1
   scryfall_uuid: 7d4d88ba-0ee4-4f66-995b-2e50614f50ee
@@ -1208,7 +2952,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Johan Grenier
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Valley Mightcaller
   quantity: 1
   scryfall_uuid: 7256451f-0122-452a-88e8-0fb0f6bea3f3
@@ -1219,7 +2979,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Matt Stewart
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bushy Bodyguard
   quantity: 1
   scryfall_uuid: 0de60cf7-fa82-4b6f-9f88-6590fba5c863
@@ -1230,7 +3006,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrea Piparo
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Keen-Eyed Curator
   quantity: 1
   scryfall_uuid: 8cf33d80-0704-4dc4-8e8d-1dcbcbc35add
@@ -1241,7 +3033,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: PINDURSKI
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Tender Wildguide
   quantity: 1
   scryfall_uuid: 6b8bfa91-adb0-4596-8c16-d8bb64fdb26d
@@ -1252,7 +3060,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jakob Eirich
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Thornvault Forager
   quantity: 1
   scryfall_uuid: 8c2d6b02-a453-40f9-992a-5c5542987cfb
@@ -1263,7 +3087,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mark Behm
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Three Tree Rootweaver
   quantity: 1
   scryfall_uuid: d1ab6e14-26e0-4174-b5c6-bc0f5c26b177
@@ -1274,7 +3114,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Seaman
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Three Tree Scribe
   quantity: 1
   scryfall_uuid: ea2ca1b3-4c1a-4be5-b321-f57db5ff0528
@@ -1285,7 +3141,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Caio Monteiro
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Clifftop Lookout
   quantity: 1
   scryfall_uuid: 662d3bcc-65f3-4c69-8ea1-446870a1193d
@@ -1296,7 +3168,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: John Thacker
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Honored Dreyleader
   quantity: 1
   scryfall_uuid: bc5ee537-52e1-474a-9326-dfacc2a758ab
@@ -1307,7 +3195,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aurore Folny
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Scrapshooter
   quantity: 1
   scryfall_uuid: c42ab407-e72d-4c48-9a9e-2055b5e71c69
@@ -1318,7 +3222,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Rahn
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Rust-Shield Rampager
   quantity: 1
   scryfall_uuid: c96b01f5-83de-4237-a68d-f946c53e31a6
@@ -1329,7 +3249,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ralph Horsley
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Treetop Sentries
   quantity: 1
   scryfall_uuid: e16d4d6e-1fe5-4ff6-9877-8c849a24f5e0
@@ -1340,7 +3276,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Iris Compiet
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fecund Greenshell
   quantity: 1
   scryfall_uuid: 80b3e815-0e2e-4325-b1d5-5531b7b92da6
@@ -1351,7 +3303,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kisung Koh
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Hivespine Wolverine
   quantity: 1
   scryfall_uuid: 821970a3-a291-4fe9-bb13-dfc54f9c3caf
@@ -1362,7 +3330,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Lars Grant-West
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Galewind Moose
   quantity: 1
   scryfall_uuid: 58706bd8-558a-43b9-9f1e-c1ff0044203b
@@ -1373,7 +3357,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Valera Lutfullina
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lumra, Bellow of the Woods
   quantity: 1
   scryfall_uuid: ae4f3aaf-3960-48cd-b34b-32e4ae5ae088
@@ -1384,7 +3384,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Matt Stewart
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Gift of Growth
   quantity: 1
   scryfall_uuid: 3f1f81db-30e7-4be1-a3b7-68c072d42ed2
@@ -1395,7 +3411,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: YW Tang
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Overprotect
   quantity: 1
   scryfall_uuid: 079e979f-b618-4625-989c-e0ea5b61ed8a
@@ -1406,7 +3438,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Pavel Kolomeyets
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Polliwallop
   quantity: 1
   scryfall_uuid: 6bc4963c-d90b-4588-bdb7-85956e42a623
@@ -1417,7 +3465,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Martin Wittfooth
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Longstalk Brawl
   quantity: 1
   scryfall_uuid: c7ef748c-b5e5-4e7d-bf2e-d3e6c08edb42
@@ -1428,7 +3492,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Serena Malyon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Rabid Bite
   quantity: 1
   scryfall_uuid: 53a73200-b798-4bfd-a431-8b94e17b70be
@@ -1439,7 +3519,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: John Thacker
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Season of Gathering
   quantity: 1
   scryfall_uuid: 71dd3c27-e0d5-434e-a0f3-4a95245e21c2
@@ -1450,7 +3546,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: A. M. Sartor
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Hunter's Talent
   quantity: 1
   scryfall_uuid: e9a31863-9649-4a4f-99e4-c93729938bd7
@@ -1461,7 +3573,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kisung Koh
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Innkeeper's Talent
   quantity: 1
   scryfall_uuid: 941b0afc-0e8f-45f2-ae7f-07595e164611
@@ -1472,7 +3600,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alix Branwyn
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Colossification
   quantity: 1
   scryfall_uuid: c2cad902-ffd2-4bab-b114-b4b6df2ac6b3
@@ -1483,7 +3627,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Johan Grenier
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sword of the Squeak
   quantity: 1
   scryfall_uuid: a3f4d41d-69a5-412f-aa25-f1acc5cacab2
@@ -1494,7 +3654,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dave Kendall
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Patchwork Banner
   quantity: 1
   scryfall_uuid: a8a982c8-bc08-44ba-b3ed-9e4b124615d6
@@ -1505,7 +3681,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Sarah Finnigan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sword of Vengeance
   quantity: 1
   scryfall_uuid: f21b5fc1-7611-44ac-ad8d-1f0c6d4fc9a3
@@ -1516,7 +3708,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dan Murayama Scott
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Plumecreed Mentor
   quantity: 1
   scryfall_uuid: b1aa988f-547e-449a-9f1a-296c01d68d96
@@ -1527,7 +3735,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Henry Peters
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Kastral, the Windcrested
   quantity: 1
   scryfall_uuid: ebf68793-22a2-4a59-9d37-6791584edca1
@@ -1538,7 +3762,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jesper Ejsing
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Tidecaller Mentor
   quantity: 1
   scryfall_uuid: fa10ffac-7cc2-41ef-b8a0-9431923c0542
@@ -1549,7 +3789,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Irina Nordsol
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Vren, the Relentless
   quantity: 1
   scryfall_uuid: 6506277d-f031-4db5-9d16-bf2389094785
@@ -1560,7 +3816,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Kevin Sidharta
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fireglass Mentor
   quantity: 1
   scryfall_uuid: b78fbaa3-c580-4290-9c28-b74169aab2fc
@@ -1571,7 +3843,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Henry Peters
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Flamecache Gecko
   quantity: 1
   scryfall_uuid: fb8e7c97-8393-41b8-bb0b-3983dcc5e7f4
@@ -1582,7 +3870,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Brian Valeza
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Gev, Scaled Scorch
   quantity: 1
   scryfall_uuid: 131ea976-289e-4f32-896d-27bbfd423ba9
@@ -1593,7 +3897,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Mark Zug
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: The Infamous Cruelclaw
   quantity: 1
   scryfall_uuid: dc6c9196-6d28-4cc2-9748-60e9632a502b
@@ -1604,7 +3924,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Christina Kraus
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Wandertale Mentor
   quantity: 1
   scryfall_uuid: 8c399a55-d02e-41ed-b827-8784b738c118
@@ -1615,7 +3951,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jakub Kasper
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Muerra, Trash Tactician
   quantity: 1
   scryfall_uuid: b40e4658-fd68-46d0-9a89-25570a023d19
@@ -1626,7 +3978,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Volkan Baǵa
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Hugs, Grisly Guardian
   quantity: 1
   scryfall_uuid: f09d7f4a-c947-4389-befa-1d547d0d1237
@@ -1637,7 +4005,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Steve Prescott
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Burrowguard Mentor
   quantity: 1
   scryfall_uuid: 87138ace-3594-499e-bad5-ec76148613ea
@@ -1648,7 +4032,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dmitry Burmak
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Finneas, Ace Archer
   quantity: 1
   scryfall_uuid: 0dee197d-c313-4364-b52c-f83d5f579bc3
@@ -1659,7 +4059,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Victor Adame Minguez
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Byrke, Long Ear of the Law
   quantity: 1
   scryfall_uuid: 6441abd3-320b-424a-9753-61e3581fe1a9
@@ -1670,7 +4086,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Manuel Castañón
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lunar Convocation
   quantity: 1
   scryfall_uuid: a9ee50d4-c878-457b-964d-29c039ce9852
@@ -1681,7 +4113,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Pavel Kolomeyets
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Zoraline, Cosmos Caller
   quantity: 1
   scryfall_uuid: b7f99fd5-5298-4b27-923d-9d31203c931a
@@ -1692,7 +4140,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Justin Gerard
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Starseer Mentor
   quantity: 1
   scryfall_uuid: 6b2f6dc5-9fe8-49c1-b24c-1d99ce1da619
@@ -1703,7 +4167,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Taras Susak
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Stormcatch Mentor
   quantity: 1
   scryfall_uuid: 99754055-6d67-4fde-aff3-41f6af6ea764
@@ -1714,7 +4194,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Manuel Castañón
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Tempest Angler
   quantity: 1
   scryfall_uuid: 850daae4-f0b7-4604-95e7-ad044ec165c3
@@ -1725,7 +4221,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Raluca Marinescu
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bria, Riptide Rogue
   quantity: 1
   scryfall_uuid: 390c96b3-68da-4a42-89ab-d9ccc79ce0dd
@@ -1736,7 +4248,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Borja Pindado
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Vinereap Mentor
   quantity: 1
   scryfall_uuid: 29b615ba-45c4-42a1-8525-1535f0b55300
@@ -1747,7 +4275,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Valera Lutfullina
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Camellia, the Seedmiser
   quantity: 1
   scryfall_uuid: 2c16eaec-924c-42f6-9fea-07edd7ed93b9
@@ -1758,7 +4302,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Steve Prescott
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Corpseberry Cultivator
   quantity: 1
   scryfall_uuid: c911a759-ed7b-452b-88a3-663478357610
@@ -1769,7 +4329,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Izzy
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Ygra, Eater of All
   quantity: 1
   scryfall_uuid: b9ac7673-eae8-4c4b-889e-5025213a6151
@@ -1780,7 +4356,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Rahn
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mabel, Heir to Cragflame
   quantity: 1
   scryfall_uuid: be6627fd-729d-44f2-b6bf-5299f49d1e3d
@@ -1791,7 +4383,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aurore Folny
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Seedglaive Mentor
   quantity: 1
   scryfall_uuid: d21c3e41-0636-49a3-8c9c-384c5e5c9c3e
@@ -1802,7 +4410,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Vincent Christiaens
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Pond Prophet
   quantity: 1
   scryfall_uuid: fb959e74-61ea-453d-bb9f-ad0183c0e1b1
@@ -1813,7 +4437,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Simon Dominic
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Clement, the Worrywort
   quantity: 1
   scryfall_uuid: 7028130c-c91d-4bf7-b0b0-450f71107d7a
@@ -1824,7 +4464,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ekaterina Burmak
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Dreamdew Entrancer
   quantity: 1
   scryfall_uuid: 26bd6b0d-8606-4a37-8be3-a852f1a8e99c
@@ -1835,7 +4491,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Zoltan Boros
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lilysplash Mentor
   quantity: 1
   scryfall_uuid: 64de7b1f-a03e-4407-91f1-e108a2f26735
@@ -1846,7 +4518,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aldo Domínguez
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Helga, Skittish Seer
   quantity: 1
   scryfall_uuid: 40339715-22d0-4f99-822b-a00d9824f27a
@@ -1857,7 +4545,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrea Piparo
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Wick, the Whorled Mind
   quantity: 1
   scryfall_uuid: 29089810-d7fb-4abe-b729-bfabed6aed2b
@@ -1868,7 +4572,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrea Piparo
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Glarb, Calamity's Augur
   quantity: 1
   scryfall_uuid: ffc70b2d-5a3a-49ea-97db-175a62248302
@@ -1879,7 +4599,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Bram Sels
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fabled Passage
   quantity: 4
   scryfall_uuid: 8809830f-d8e1-4603-9652-0ad8b00234e9
@@ -1890,7 +4626,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Adam Paquette
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lilypad Village
   quantity: 1
   scryfall_uuid: 7e95a7cc-ed77-4ca4-80db-61c0fc68bf50
@@ -1901,7 +4653,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alexander Forssberg
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Lupinflower Village
   quantity: 1
   scryfall_uuid: 8ab9d56f-9178-4ec9-a5f6-b934f50d8d9d
@@ -1912,7 +4680,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alayna Danner
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Mudflat Village
   quantity: 1
   scryfall_uuid: 53ec4ad3-9cf0-4f1b-a9db-d63feee594ab
@@ -1923,7 +4707,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Samuele Bandini
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Oakhollow Village
   quantity: 1
   scryfall_uuid: 0d49b016-b02b-459f-85e9-c04f6bdcb94e
@@ -1934,7 +4734,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Julian Kok Joon Wen
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Rockface Village
   quantity: 1
   scryfall_uuid: 62799d24-39a6-4e66-8ac3-7cafa99e6e6d
@@ -1945,7 +4761,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Thomas Stoop
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Agate Instigator
   quantity: 1
   scryfall_uuid: 917f0578-eb06-4317-9279-70f5e1eff5b2
@@ -1956,7 +4788,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Quintin Gleim
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bat
   quantity: 3
   scryfall_uuid: 100c0127-49dd-4a78-9c88-1881e7923674
@@ -1967,7 +4815,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Josh Hass
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Bushy Bodyguard
   quantity: 1
   scryfall_uuid: c247d48f-d1e9-4b28-b372-bf4eea67cb8c
@@ -1978,7 +4842,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jakub Kasper
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Copy
   quantity: 2
   scryfall_uuid: 01c3b739-89b3-4ad8-aab9-76e8f87cf123
@@ -1989,7 +4869,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Henry Peters
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Coruscation Mage
   quantity: 1
   scryfall_uuid: 6674c208-4d8d-4833-bee2-bfc87c93049d
@@ -2000,7 +4896,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Gaboleps
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Cragflame
   quantity: 1
   scryfall_uuid: c76fa1c6-6000-47b2-9188-9c15b2c73f8f
@@ -2011,7 +4923,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ioannis Fiore
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Darkstar Augur
   quantity: 1
   scryfall_uuid: 01b55966-0910-484d-9b2b-0a59233c44c4
@@ -2022,7 +4950,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Irina Nordsol
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Fish
   quantity: 4
   scryfall_uuid: de0d6700-49f0-4233-97ba-cef7821c30ed
@@ -2033,7 +4977,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rhonda Libbey
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Flowerfoot Swordmaster
   quantity: 1
   scryfall_uuid: 31c977b7-12cb-4e6f-8260-a7399b60940f
@@ -2044,7 +5004,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Vincent Christiaens
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Food
   quantity: 5
   scryfall_uuid: 0dce2241-e58b-41d4-b57c-9794fc8ee004
@@ -2055,7 +5031,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: David Frasheski
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Intrepid Rabbit
   quantity: 1
   scryfall_uuid: 3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab
@@ -2066,7 +5058,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Artur Treffner
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Iridescent Vinelasher
   quantity: 1
   scryfall_uuid: 2f55c677-dc14-4ae3-9518-0d80b528c3fb
@@ -2077,7 +5085,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ron Spears
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Manifold Mouse
   quantity: 1
   scryfall_uuid: f5067c54-0f31-40e6-9ead-5d0183c9f00a
@@ -2088,7 +5112,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Serena Malyon
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Otter
   quantity: 1
   scryfall_uuid: e6b2c465-c446-4dee-9101-763105dcf813
@@ -2099,7 +5139,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Julia Griffin
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Pawpatch Recruit
   quantity: 1
   scryfall_uuid: 7cdd8679-93a7-4e58-a6f3-b48897697e89
@@ -2110,7 +5166,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Johan Grenier
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Rabbit
   quantity: 6
   scryfall_uuid: 81de52ef-7515-4958-abea-fb8ebdcef93c
@@ -2121,7 +5193,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Gina Matarazzo
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Rat
   quantity: 5
   scryfall_uuid: 1c0977b2-3342-4b7e-b1c7-f06bd8ab7fbf
@@ -2132,7 +5220,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Raph Lomotan
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Rust-Shield Rampager
   quantity: 1
   scryfall_uuid: e2dd6325-e3d8-4816-ac52-8838c12b4922
@@ -2143,7 +5247,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Steve Ellis
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Snail
   quantity: 1
   scryfall_uuid: d9bb0a91-b73e-465b-8c0e-50fc28e66fda
@@ -2154,7 +5274,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Steven Russell Black
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Splash Lasher
   quantity: 1
   scryfall_uuid: 53065735-c427-458e-ade4-ec2d81c8d277
@@ -2165,7 +5301,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Izzy
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Squirrel
   quantity: 3
   scryfall_uuid: 5a6ec62e-0e9b-4312-bfe8-cc85d76fd9e0
@@ -2176,7 +5328,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Daria Aksenova
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Starscape Cleric
   quantity: 1
   scryfall_uuid: 5379a77e-4b98-4abc-b967-fbc76bb85fc6
@@ -2187,7 +5355,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Danny Schwartz
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Sword
   quantity: 1
   scryfall_uuid: bb1e78e6-a9e7-48a4-9231-61fb331c5837
@@ -2198,7 +5382,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Vincent Christiaens
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Tender Wildguide
   quantity: 1
   scryfall_uuid: 88fb4e41-7ce4-45ca-b365-fcde289ffe8c
@@ -2209,7 +5409,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jakob Eirich
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Thundertrap Trainer
   quantity: 1
   scryfall_uuid: 80bcbe35-7764-4c75-b954-cbba11372dec
@@ -2220,7 +5436,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Borja Pindado
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Treasure
   quantity: 4
   scryfall_uuid: ff0357fb-d90c-49c7-b16a-8b52ac686c3b
@@ -2231,7 +5463,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aaron Miller
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Wall
   quantity: 1
   scryfall_uuid: 229a41de-91dd-4696-bfc1-10d702787c3e
@@ -2242,7 +5490,23 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alexander Forssberg
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 - name: Warren Warleader
   quantity: 1
   scryfall_uuid: 5cc9b628-0a3a-4d09-ae4a-57c7f6f9ac36
@@ -2253,6 +5517,22 @@ cards:
   back_border: None
   commander: false
   sideboard: false
-  watermarks: []
+  watermarks:
+  - watermark: !Text
+      text: Bloomburrow 180
+      font: ./fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Justin Gerard
+      font: ./fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 settings:
   default_back_uri: ./art/backs/black.png
