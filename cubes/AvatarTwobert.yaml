@@ -1621,7 +1621,7 @@ cards:
       y: 1000
 - name: Heartless Act
   quantity: 1
-  scryfall_uuid: ec166c2f-b70f-4598-afee-c2df1177e452
+  scryfall_uuid: b57c57a8-d72b-4c6c-a2db-a7ef61190f42
   tags: []
   front: default
   back: default
@@ -1639,7 +1639,7 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Ryan Pancoast
+      text: Sylvain Sarrailh
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -1756,7 +1756,7 @@ cards:
       y: 1000
 - name: Epic Downfall
   quantity: 1
-  scryfall_uuid: 0774186c-0551-4c1b-a273-e8374da1b72a
+  scryfall_uuid: 3b4a6804-04f5-4467-bb1c-9466a47bc55f
   tags: []
   front: default
   back: default
@@ -1774,7 +1774,7 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Eric Deschamps
+      text: Hristo D. Chukov
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
@@ -1783,7 +1783,7 @@ cards:
       y: 1000
 - name: Feed the Swarm
   quantity: 1
-  scryfall_uuid: a3bad7f1-0b02-4499-a2e2-4625d01e3710
+  scryfall_uuid: 2246c098-1071-4cc3-a60a-802406e2827b
   tags: []
   front: default
   back: default
@@ -1801,7 +1801,7 @@ cards:
       x: 48
       y: 968
   - watermark: !Text
-      text: Nino Is
+      text: Kotakan
       font: ./fonts/Beleren2016-Bold.ttf
       font_size: 24
     transparency: 0.0
