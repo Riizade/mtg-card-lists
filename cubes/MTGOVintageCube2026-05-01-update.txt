@@ -1,0 +1,37 @@
+1x Emeritus of Truce
+1x Erode
+1x Sage of the Skies
+1x Azure Beastbinder
+1x Emeritus of Ideation
+1x Jadzi, Steward of Fate
+1x Skycoach Conductor
+1x Caustic Bronco
+1x Concealing Curtains
+1x Exhume
+1x Wishclaw Talisman
+1x Impractical Joke
+1x Ancient Cornucopia
+1x Emeritus of Abundance
+1x Vastlands Scavenger
+1x Aang, at the Crossroads
+1x General Ferrous Rokiric
+1x Leovold, Emissary of Trest
+1x Lorehold Charm
+1x Niv-Mizzet Reborn
+1x Pillage the Bog
+1x Prismari Charm
+1x Quandrix Charm
+1x Satya, Aetherflux Genius
+1x Silverquill Charm
+1x Traumatic Critique
+1x Vicious Rivalry
+1x Witherbloom Charm
+
+# Tokens
+
+2x Copy
+1x Energy Reserve
+3x Fractal
+3x Golem
+1x Inkling
+1x Plot
