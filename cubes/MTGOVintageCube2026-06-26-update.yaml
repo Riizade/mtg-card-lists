@@ -593,5 +593,167 @@ cards:
     location:
       x: 48
       y: 1000
+- name: Moloid
+  quantity: 5
+  scryfall_uuid: 57bcf5f4-da1e-4b6a-85ef-aad91d2276cf
+  tags: []
+  front: default
+  back: default
+  front_border: Creature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Genel Jumalon
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Robot
+  quantity: 2
+  scryfall_uuid: c46f9a07-005c-44b7-8057-b2f00b274dd6
+  tags: []
+  front: default
+  back: default
+  front_border: Creature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Leonardo Santanna
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Golem
+  quantity: 1
+  scryfall_uuid: b9e068ea-234a-4fba-8de8-9b7e1b94b361
+  tags: []
+  front: default
+  back: default
+  front_border: Creature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrew Mar
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Golem
+  quantity: 1
+  scryfall_uuid: 83d3d765-81ef-42a2-90e1-ba157f0aba76
+  tags: []
+  front: default
+  back: default
+  front_border: Creature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrew Mar
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Golem
+  quantity: 1
+  scryfall_uuid: 609cb9a8-9598-4b3d-a56e-f477871d3ff7
+  tags: []
+  front: default
+  back: default
+  front_border: Creature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrew Mar
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Drone
+  quantity: 5
+  scryfall_uuid: 3fcf8950-117a-4587-8522-79001dffa500
+  tags: []
+  front: default
+  back: default
+  front_border: Creature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Artur Nakhodkin
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
 settings:
   default_back_uri: ./assets/art/backs/black.png

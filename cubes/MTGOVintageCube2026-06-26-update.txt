@@ -20,3 +20,9 @@
 1x Pinnacle Emissary
 2x Cat Warrior
 3x Elk
+5x Moloid
+2x Robot
+1x Golem
+1x Golem
+1x Golem
+5x Drone
