@@ -1,0 +1,597 @@
+cards:
+- name: Night Nurse, Healer of Heroes
+  quantity: 1
+  scryfall_uuid: 3199907b-9f24-4554-942a-8ab5a7701717
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendary
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Gal Or
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Flow State
+  quantity: 1
+  scryfall_uuid: 47d6093b-b1b6-4956-8bfd-02cce899f832
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Genel Jumalon
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Paradoxical Outcome
+  quantity: 1
+  scryfall_uuid: eaa2fc8b-6a5e-4092-a1b5-66b02e689edf
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nils Hamm
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Sewer-veillance Cam
+  quantity: 1
+  scryfall_uuid: ab47a37b-b66d-4f70-9bf0-4d5ed6b518f3
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Nicholas Gregory
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: The Wondrous Wasp
+  quantity: 1
+  scryfall_uuid: 484e80a4-1d5f-4c27-98a8-ee2ef9d6cbdc
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Gal Or
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Black Widow, Super Spy
+  quantity: 1
+  scryfall_uuid: 63ce0909-7d7d-410d-ab6c-c87fa3e23877
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Dan Brereton
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Batroc the Leaper
+  quantity: 1
+  scryfall_uuid: c2c43855-e2f9-4369-b404-ebede94fd264
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Lucio Parrillo
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Goblin Engineer
+  quantity: 1
+  scryfall_uuid: 944ca6e7-084b-424a-80c1-e88de192fd98
+  tags: []
+  front: default
+  back: default
+  front_border: Creature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Jehan Choo
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Goblin Welder
+  quantity: 1
+  scryfall_uuid: 17cd920a-de09-454a-a9da-c84512e3aff1
+  tags: []
+  front: default
+  back: default
+  front_border: Creature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Scott M. Fischer
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Melded Moxite
+  quantity: 1
+  scryfall_uuid: 474c067f-eb24-4ae8-b4c0-f6f8e24cdb2a
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alexandr Leskinen
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Phyrexian Dragon Engine
+  quantity: 1
+  scryfall_uuid: e2b826be-4256-4fd6-ad4d-6c80933ee940
+  tags: []
+  front: default
+  back: default
+  front_border: Creature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Rahn
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Mole Man, Moloid Master
+  quantity: 1
+  scryfall_uuid: f1fbac4b-574e-4f30-9ee7-6054081b278c
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Michele Giorgi
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Krang, Utrom Warlord
+  quantity: 1
+  scryfall_uuid: 9b8a9315-893d-4eee-a0a8-44f2372202a8
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureBorderlessOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Joshua Alvarado
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Shadowspear
+  quantity: 1
+  scryfall_uuid: 769326d4-60af-4b19-85d9-d96d3acdb56e
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreatureLegendaryOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Yeong-Hao Han
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Together as One
+  quantity: 1
+  scryfall_uuid: 82e4948e-5f2b-498f-8864-d46870910d83
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreatureFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Néstor Ossandón Leal
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Triplicate Titan
+  quantity: 1
+  scryfall_uuid: 36726ee1-b960-4f85-b648-dd3fe0c38e6f
+  tags: []
+  front: default
+  back: default
+  front_border: Creature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Andrew Mar
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Cloak and Dagger, Entwined
+  quantity: 1
+  scryfall_uuid: 50aa361c-72fd-4ecb-b877-a27646c66ad0
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Rimas Valeikis
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Jennifer Walters
+  quantity: 1
+  scryfall_uuid: eec216e1-971b-490f-aba7-2d5bd5085023
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryMDFCOval
+  back_border: CreatureLegendaryMDFCFullArt
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Chris Bachalo & Adi Granov
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Okoye, Mighty and Adored
+  quantity: 1
+  scryfall_uuid: 57606be3-6603-4265-9b2a-be1d21e08aae
+  tags: []
+  front: default
+  back: default
+  front_border: CreatureLegendaryFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Aniekan Udofia
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Pinnacle Emissary
+  quantity: 1
+  scryfall_uuid: 3c922347-f05f-40a4-bbee-6bc02a1e0de5
+  tags: []
+  front: default
+  back: default
+  front_border: Creature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Alejandro Pacheco
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Cat Warrior
+  quantity: 2
+  scryfall_uuid: ce5c5bcf-1fdd-4d73-a92b-223292da00ca
+  tags: []
+  front: default
+  back: default
+  front_border: Creature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Ben Wootten
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Elk
+  quantity: 3
+  scryfall_uuid: cf36b5f2-e699-41c0-ae89-23cd9c414b54
+  tags: []
+  front: default
+  back: default
+  front_border: Creature
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Sam Guay
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+settings:
+  default_back_uri: ./assets/art/backs/black.png
