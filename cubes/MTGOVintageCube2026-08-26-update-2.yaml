@@ -1,0 +1,57 @@
+cards:
+- name: Talon Gates of Madara
+  quantity: 1
+  scryfall_uuid: de92facf-762b-4a23-8d5e-bb673b0500c0
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreatureFullArtOval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: Steven Belledin
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+- name: Thespian's Stage
+  quantity: 1
+  scryfall_uuid: 269a926d-7788-4668-8bd8-7572dbf5f5eb
+  tags: []
+  front: default
+  back: default
+  front_border: NonCreature2015Oval
+  back_border: None
+  commander: false
+  sideboard: false
+  watermarks:
+  - watermark: !Text
+      text: MTGO Vintage Cube
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Inter-VariableFont.ttf
+      font_size: 30
+    transparency: 0.0
+    location:
+      x: 48
+      y: 968
+  - watermark: !Text
+      text: John Avon
+      font: /home/riizade/.mtg-cube-helper/assets/fonts/Beleren2016-Bold.ttf
+      font_size: 24
+    transparency: 0.0
+    location:
+      x: 48
+      y: 1000
+settings:
+  default_back_uri: ./assets/art/backs/black.png
